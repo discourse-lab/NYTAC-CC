@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mayor Tries to Beat Heat, Political and Otherwise</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="778652"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">HEAT</classifier>
+        <location class="indexing_service">CHICAGO (ILL)</location>
+        <location class="indexing_service">MIDWESTERN STATES (US)</location>
+        <person class="indexing_service">JOHNSON, DIRK</person>
+        <person class="indexing_service">DALEY, RICHARD M (MAYOR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEEDD1F3EF93AA15754C0A963958260" item-length="696" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mayor Tries to Beat Heat, Political and Otherwise</hl1>
+      </hedline>
+      <byline class="print_byline">By DIRK JOHNSON</byline>
+      <byline class="normalized_byline">JOHNSON, DIRK</byline>
+      <dateline>CHICAGO, July 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a city where bad weather can turn into a political storm, Mayor Richard M. Daley, who was accused of being caught flat-footed during the deadly heat wave here earlier this month, is poised to declare a "heat emergency" if the temperatures soar, as expected, into the upper 90's this weekend.</p>
+        <p>The city is already opening air-conditioned centers, delivering ice to shut-ins, setting up telephone banks to check on the elderly and broadcasting warnings on television and radio. Today, the department of Streets and Sanitation delivered more than 1,000 electric fans to elderly people who live alone. And the city produced a "Keeping Cool," brochure, which was being circulated in Spanish, Korean, Chinese, Polish, Vietnamese and English.</p>
+      </block>
+      <block class="full_text">
+        <p>In a city where bad weather can turn into a political storm, Mayor Richard M. Daley, who was accused of being caught flat-footed during the deadly heat wave here earlier this month, is poised to declare a "heat emergency" if the temperatures soar, as expected, into the upper 90's this weekend.</p>
+        <p>The city is already opening air-conditioned centers, delivering ice to shut-ins, setting up telephone banks to check on the elderly and broadcasting warnings on television and radio. Today, the department of Streets and Sanitation delivered more than 1,000 electric fans to elderly people who live alone. And the city produced a "Keeping Cool," brochure, which was being circulated in Spanish, Korean, Chinese, Polish, Vietnamese and English.</p>
+        <p>"It's very, very, very hot," said Mr. Daley, in a warning that was repeated over and over on a Chicago radio station.</p>
+        <p>The heat wave two weeks ago has been blamed for more than 500 deaths, according to Edmund Donoghue, the Cook County Medical Examiner. Since then, the city has announced a three-level alert, from a "heat watch" to a "heat warning" to a "heat emergency."</p>
+        <p>Rural areas of the Midwest are also expecting a new siege of extreme heat in coming days, with temperatures of 100-plus posing a threat of stress to corn and soybean crops and the potential for reduced harvests in the fall.</p>
+        <p>Peter Leavitt, an agricultural forecaster with the Weather Services Corporation in Lexington, Mass., said the main difference between this weekend's heat and the devastating heat earlier in July will be humidity. A few percentage points' difference "may not sound like a lot of a difference but it is, for livestock and humans," he said.</p>
+        <p>But for plants, heat is heat. The threat to corn is that roughly a quarter of the nation's crop is in its pollination phase, a process that needs moderate weather conditions for optimum harvests later. For soybeans, the other main crop in the Midwest, extreme heat can put the plants into semi-dormancy, and because wet weather forced late planting of much of the crop, soybeans "can ill-afford to take a vacation for a week," said Mr. Leavitt.</p>
+        <p>In Chicago, Mr. Daley expressed some skepticism after the first bout of heat about the Medical Examiner's attribution of hundreds of deaths to the heat, which peaked at 106 degrees on July 13.</p>
+        <p>But earlier this week, Federal health officials backed Dr. Donoghue. "The Medical Examiner has given very, very good information," said Cynthia Whitney, medical epidemiologist for the Centers for Disease Control and Prevention.</p>
+        <p>Mishandling a weather disaster has spelled trouble for politicians in Chicago history. In 1979, voter unhappiness with Mayor Michael Bilandic's handling of a huge snowstorm was seen as a chief reason for the election of Jane Byrne.</p>
+        <p>Since Mr. Daley just won re-election in the spring, the current round of weather problems will be only a distant memory by the time the next election rolls around in 1999. But the Mayor appears to be taking no chances, said Paul Green, a political science professor at Governor's State University near Chicago.</p>
+        <p>"In Chicago, meteorology ranks up there with Machiavelli," said Mr. Green. "This city has more salt stored than Morton's."</p>
+        <p>Ms. Whitney said the health agency would conduct a study to determine whether City Hall properly warned residents of the heat dangers. The study will also examine whether fear of crime kept many elderly locked inside sweltering homes.</p>
+        <p>Despite the heat warnings, today's temperature of about 90 degrees did not seem particularly uncomfortable. The city's "cooling centers," which the city has established for people to escape the heart, were largely deserted.</p>
+        <p>At one of them, the Garfield Community Center, only two people showed up this afternoon, passing the time playing cards.</p>
+        <p>During the cold months, the center serves as a warming station, and attracts 75 to 80 people on a bitter night, said Carmelo Vargas, a spokesman for the Human Services Department.</p>
+        <p>But Chicagoans seem to take the hot weather much less seriously. Mr. Vargas said one man had called the cooling center today to inquire whether "we had cold beer here." They did not.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

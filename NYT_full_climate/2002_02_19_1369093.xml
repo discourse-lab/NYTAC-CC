@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fuzzy Math on Greenhouse Gas</title>
+    <meta content="LTR231608" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1369093"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">Kyoto (Japan)</location>
+        <person class="indexing_service">Cramer, Ben</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan/Kyoto</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E7D61F3FF93AA25751C0A9649C8B63" item-length="67" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fuzzy Math on Greenhouse Gas</hl1>
+      </hedline>
+      <abstract>
+        <p>Ben Cramer letter holds Pres Bush's climate policy is like 5-cent tip on $100 restaurant bill: more insulting than leaving nothing at all; contends it should spur rest of world into action--to quickly ratify Kyoto treaty without delay</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Plan Expected to Slow, Not Halt, Gas Emission Rise'' (front page, Feb. 14):</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re ''Bush Plan Expected to Slow, Not Halt, Gas Emission Rise'' (front page, Feb. 14):</p>
+        <p>President Bush's climate policy is like a 5-cent tip on a $100 restaurant bill: more insulting than leaving nothing at all. It should spur the rest of the world into action -- to quickly ratify the Kyoto treaty without delay.</p>
+        <p>BEN CRAMER  Piscataway, N.J., Feb. 15, 2002</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

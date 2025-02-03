@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Powering Forward</title>
+    <meta content="LI--Power" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Long Island Weekly Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="14LI" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/08/06/opinion/nyregionopinions/LI_Power.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1780954"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Long Island"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <location class="indexing_service">Long Island (NY)</location>
+        <location class="indexing_service">Yaphank (NY)</location>
+        <org class="indexing_service">Caithness Energy Llc</org>
+        <org class="indexing_service">Long Island Power Authority</org>
+        <org class="indexing_service">Keyspan</org>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/Long Island</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <org class="online_producer">Long Island Power Authority</org>
+        <org class="online_producer">KeySpan Corporation</org>
+        <person class="online_producer">Foley, Brian X</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E5D9103FF935A3575BC0A9609C8B63" item-length="550" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Powering Forward</hl1>
+        <hl2 class="online_headline">Powering Forward</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial calls remarkable approval of plans by Caithness Energy to build power plant, fueled by natural gas, in South Yaphank, NY, that would supply about 10 percent of Long Island's current annual demand; calls on Keyspan and Long Island Power Authority to make new commitment to upgrading existing plants</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The Long Island landscape is haunted by the ghosts of power plants that died on the drawing board -- or, in the case of the Shoreham nuclear plant, by actual skeletal remains. This is why the approval of a new plant late last month by the Brookhaven Town Board was something remarkable.</p>
+        <p>The plant, a project of the Manhattan-based company Caithness Energy, would generate 350 megawatts of electricity, enough to supply about 10 percent of Long Island's current annual demand. Its proposed 15-acre site, in South Yaphank, south of Exit 66 on the Long Island Expressway, does not threaten protected pine barrens or drinking water or too many people's backyards, and thus has not generated the critical mass of community opposition that so often sends new industrial projects on Long Island -- anything that includes a smokestack, basically -- into limbo or oblivion.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The approval of a new power plant late last month by the Brookhaven Town Board was something remarkable.</p>
+      </block>
+      <block class="full_text">
+        <p>The Long Island landscape is haunted by the ghosts of power plants that died on the drawing board -- or, in the case of the Shoreham nuclear plant, by actual skeletal remains. This is why the approval of a new plant late last month by the Brookhaven Town Board was something remarkable.</p>
+        <p>The plant, a project of the Manhattan-based company Caithness Energy, would generate 350 megawatts of electricity, enough to supply about 10 percent of Long Island's current annual demand. Its proposed 15-acre site, in South Yaphank, south of Exit 66 on the Long Island Expressway, does not threaten protected pine barrens or drinking water or too many people's backyards, and thus has not generated the critical mass of community opposition that so often sends new industrial projects on Long Island -- anything that includes a smokestack, basically -- into limbo or oblivion.</p>
+        <p>The Caithness plant is not a perfect solution. It is to be built on a previously undeveloped greenfield, which is never ideal on an island where open space is precious and dwindling. And while its primary fuel, natural gas, burns much more cleanly than coal or oil, it is still a greenhouse-gassy fossil fuel, which makes the plant only an interim step on the path to a sustainable energy future.</p>
+        <p>But the plant makes sense for the town and the region. Brookhaven's supervisor, Brian Foley, and a majority of its Town Board -- including two members, Kathleen Walsh and Timothy Mazzei, who switched their opposing votes to enable the plan to clear a final town hurdle -- deserve credit for recognizing this. No doubt their support was bolstered by a $150 million incentive package from the Long Island Power Authority that included last-minute deal-sweeteners in the form of money for a community center and for local public schools.</p>
+        <p>But while opponents of the Caithness project may have a lingering distaste at how the deal was finally struck, the fact remains that Long Island needs the power. The heat waves that have baked the region and caused infuriating and deadly blackouts this summer have only underscored the need for abundant energy and a sturdy power grid.</p>
+        <p>The other argument for Caithness is environmental. Compared with existing plants, particularly Keyspan's belching dinosaurs in Port Jefferson and Northport, the Caithness plant is expected to be a model of efficiency and cleanliness. And while that is all well and good, the Caithness plant will also help the environment in an indirect but no less significant way -- by allowing utilities to clean up Caithness's older, dirtier counterparts.</p>
+        <p>The Long Island Power Authority and Keyspan, which owns many of the old, dirty gas-and-oil plants on Long Island, have dragged their feet for years on ''repowering'' existing plants -- that is, shutting them down to install newer technology that will supply far more energy with far less pollution. An argument against repowering has been that the overstressed power grid could not handle demand during the 12 to 18 months that a plant like Northport's would have to be shut down.</p>
+        <p>Environmental advocates and energy experts who have pressed for repowering have doubted that claim. The promise of a new 350 megawatts from the Caithness plant now undercuts that argument even more, and makes the need for a commitment to repowering by LIPA and Keyspan more of a no-brainer than ever.</p>
+        <p>Long Island</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

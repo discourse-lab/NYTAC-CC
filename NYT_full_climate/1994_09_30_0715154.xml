@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>6 Astronauts Set for Shuttle Launching Today</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="715154"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SPACE</classifier>
+        <classifier class="indexing_service" type="descriptor">SPACE SHUTTLE</classifier>
+        <classifier class="indexing_service" type="descriptor">ENDEAVOUR (SPACE SHUTTLE)</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">RADAR</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">ASTRONAUTICS</classifier>
+        <person class="indexing_service">LEARY, WARREN E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space Shuttle</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Radar</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940930T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980CE0DE1F3AF933A0575AC0A962958260" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>6 Astronauts Set for Shuttle Launching Today</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY,</byline>
+      <byline class="normalized_byline">LEARY, WARREN E</byline>
+      <dateline>CAPE CANAVERAL, Fla., Sept. 29</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The space shuttle Endeavour is to be launched on Friday on a 10-day flight with an experimental imaging radar system that will scan Earth for seasonal environmental changes.</p>
+        <p>The mission of the Space Radar Laboratory-2, delayed after an aborted launching attempt six weeks ago, is to be almost identical to one flown in April so scientists can monitor seasonal changes in vegetation and water distribution.</p>
+      </block>
+      <block class="full_text">
+        <p>The space shuttle Endeavour is to be launched on Friday on a 10-day flight with an experimental imaging radar system that will scan Earth for seasonal environmental changes.</p>
+        <p>The mission of the Space Radar Laboratory-2, delayed after an aborted launching attempt six weeks ago, is to be almost identical to one flown in April so scientists can monitor seasonal changes in vegetation and water distribution.</p>
+        <p>"We're ready to fly," Robert Sieck, the Kennedy Space Center launching director, said today.</p>
+        <p>Air Force weather forecasters said there was a 70 percent chance that the weather would permit a launching during the two-and-a-half-hour period, starting at 7:16 A.M. The shuttle will carry six crew members.</p>
+        <p>On Aug. 18 the Endeavour came within 1.9 seconds of beginning its seventh mission when an overheated engine turbopump set off sensors that aborted the flight. All three main engines on the shuttle were replaced and the National Aeronautics and Space Administration flew the shuttle Discovery earlier than planned to maintain its launching schedule for the year.</p>
+        <p>Two powerful radars in the Endeavour's cargo bay will scan the planet in wide swaths, producing images much like photographs. These should help scientists track ground movement that could precede earthquakes or eruptions, to map the spread and retreat of vegetation from spring to fall, and to track oil spills.</p>
+        <p>The $366 million radars, one built by space agency's Jet Propulsion Laboratory in Pasadena, Calif., and the other cooperatively by the German Space Agency and the Italian Space Agency, are the most advanced civilian radars ever to be flown in space, researchers said.</p>
+        <p>Unlike conventional photography, space-based radar can peer through darkness and heavy cloud cover, as well as penetrate vegetation, ice and desert sand.</p>
+        <p>In addition to the radar, the Endeavour is to carry a pollution-monitoring instrument called MAPS.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

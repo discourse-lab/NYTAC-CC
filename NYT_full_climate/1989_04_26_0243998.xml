@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cutting Gasoline-Vapor Pollution</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="243998"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="BUSINESS TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <location class="indexing_service">MASSACHUSETTS</location>
+        <person class="indexing_service">HOLUSHA, JOHN</person>
+        <object.title class="indexing_service">BUSINESS TECHNOLOGY PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Massachusetts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890426T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE1DE1238F935A15757C0A96F948260" item-length="1022" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cutting Gasoline-Vapor Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN HOLUSHA</byline>
+      <byline class="normalized_byline">HOLUSHA, JOHN</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Federal Environmental Protection Agency last week approved a Massachusetts plan to require that the volatility of gasoline sold in the state be reduced as a means of combating air pollution. The agency has indicated that it would also approve the applications of other Northeastern states, clearing the way for a regionwide attack on gasoline vapors that is tougher than the</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Federal Environmental Protection Agency last week approved a Massachusetts plan to require that the volatility of gasoline sold in the state be reduced as a means of combating air pollution. The agency has indicated that it would also approve the applications of other Northeastern states, clearing the way for a regionwide attack on gasoline vapors that is tougher than the</p>
+        <p>The Federal Environmental Protection Agency last week approved a Massachusetts plan to require that the volatility of gasoline sold in the state be reduced as a means of combating air pollution. The agency has indicated that it would also approve the applications of other Northeastern states, clearing the way for a regionwide attack on gasoline vapors that is tougher than the Federal effort.</p>
+        <p>The standards are expected to take effect on June 30.</p>
+        <p>The action illustrates the increased attention that regulators are paying to volatility. Such moves are also becoming apparent to motorists as they encounter a new type of anti-vapor gasoline pump nozzle at service stations.</p>
+        <p>One of the larger sources of hydrocarbons in the atmosphere is gasoline that evaporates unburned while vehicles are refueled or in operation. The more volatile the fuel, the more the vapors escape.</p>
+        <p>Regulations controlling volatility, which is the ease with which a liquid evaporates, were adopted at the Federal level in March. Massachusetts and several other Northeastern states, including New York, Connecticut and New Jersey, applied for more stringent standards. The E.P.A. approval for Massachusetts last week apparently clears the way for the other states.</p>
+        <p>Ozone, a major component of smog, is formed when the vapors interact with nitrogen oxides in the sunlight. In the upper atmosphere ozone filters ultraviolet radiation from the sun. But at ground level it is an irritant that causes eye and chest discomfort and has been implicated in lung disease.</p>
+        <p>Volatility became an issue when Federal regulations reduced the lead in gasoline to a tiny fraction of what it had been. The lead helped to raise the octane level, which reduces engine knock.</p>
+        <p>Seeking another way to raise the octane rating of gasolines, the oil companies began adding larger amounts of butane, a very light but volatile fluid, to gasoline mixtures. However, this fuel began to overwhelm auto vapor absorption systems intended to capture unburned vapors.</p>
+        <p>The volatility of a fuel is expressed in pounds per square inch of Reid Vapor Pressure, a standard measure. ''Cars are designed for 9-pound fuel,'' said Michael Bradley, executive director of the Northeast States for Coordinated Air Use Management. ''But we were seeing fuel as high as 11.7 pounds.''</p>
+        <p>The E.P.A. regulations issued earlier this year limited the volatility of gasoline to a range of 9 to 10.5 pounds this summer, depending on the region. The seven Northeastern states set the limit at 9 pounds, and now the E.P.A. has indicated it will approve the tighter limits. California has had a 9-pound limit since 1972.</p>
+        <p>The E.P.A. has estimated that its volatility rules will cut hydrocarbon emissions by 13 percent. A New Jersey official has estimated that the more stringent 9-pound standard might bring about a reduction of one-third.</p>
+        <p>The oil companies, however, say the measures will tend to drive up the price of gasoline by substituting more expensive components for butane and will make cars hard to start in cold weather. The American Petroleum Institute, the principal oil industry trade group, has filed suit in New York to block the state regulation. State-level regulations, it said recently, would create ''a patchwork of costly and inefficient energy and environmental policies.''</p>
+        <p>The automotive and oil industries have differed over ways to control emissions from gasoline vapors. The auto companies have said the Stage II gasoline pump at service stations, in which the vapors displaced from a car's gasoline tank are carried through a second hose to the station's tank, is the most effective solution.</p>
+        <p>The system involves a larger hose that encases the pump's nozzle. As gasoline fills the tank, the vapors are displaced and pass up through the larger hose and back into the filling station's underground storage tanks.</p>
+        <p>The oil companies favor increasing the capacity of the activated charcoal canister, built into all cars since the early 1970's, to capture the displaced vapors.</p>
+        <p>The canisters absorb gasoline vapors emitted from fuel feed lines when a hot engine is shut off, as well as vapors displaced as gasoline in the car's tank grows warm. The vapors are absorbed by the carbon granules.</p>
+        <p>When the engine is started, the canister is purged by opening a switch and drawing fresh air over the carbon granules. The air carries the purged vapors into the engine where they are burned along with gasoline and outside air.</p>
+        <p>''The E.P.A. is clearly in favor of on-board canisters, but some safety issues have been raised,'' said Marc Hillson, an official of the agency's Office of Mobile Sources. There is concern that the larger fume-containing canisters might increase the danger of a fire in an accident.</p>
+        <p>In the face of E.P.A. pressure to meet Federal air pollution standards, states have the option of incorporating several pollution control plans into their own regulations. One of these is requiring gas stations to install the Stage II gasoline pumps. New York and New Jersey have been requiring gasoline stations to equip their pumps with such hoses, and more and more states are adopting the technology. These pumps, with the large black hoses, are becoming familiar sights in various parts of the country.</p>
+        <p>The technology has been in use in California and Washington, D.C., for more than a decade. Early models of the pump nozzles were difficult to hold in place as fuel was pumped into a car, but newer models have corrected that problem.</p>
+        <p>The E.P.A. estimated that conversions would cost $12,000 to $20,000 for a station with 9 to 12 nozzles. But a petroleum institute survey of stations in the St. Louis area found the actual costs somewhat higher, ranging from $29,986 to $33,820 for the 18-nozzle stations typical of the area.</p>
+        <p>Installation requires that new piping be put in place to return the vapors to the station's storage tanks. In many cases, this requires digging up a station's driveway, a large expense in itself.</p>
+        <p>Many operators, however, take advantage of this operation to remodel, adding larger storage tanks and other modern service station technology.</p>
+        <p>BUSINESS TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

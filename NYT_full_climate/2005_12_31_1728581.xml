@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Way Past a Devastating Season, The 27th Tropical Storm Festers</title>
+    <meta content="31zeta" name="slug"/>
+    <meta content="31" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/12/31/national/31zeta.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1728581"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051231T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E4DD1030F932A05751C1A9639C8B63" item-length="488" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Way Past a Devastating Season, The 27th Tropical Storm Festers</hl1>
+        <hl2 class="online_headline">Way Past a Devastating Season, the 27th Tropical Storm Festers</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN NOBLE WILFORD</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Just in time to close out a record-setting year of ill winds, along comes Tropical Storm Zeta, in the Atlantic 1,000 miles southwest of the Azores.</p>
+        <p>Meteorologists, issuing early warnings yesterday, predicted that the storm would maintain or slightly increase its strength today and then weaken as it moved west. The storm, they said, was not expected to reach land or hurricane intensity.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Just in time to close out a record-setting year of ill winds, along comes Tropical Storm Zeta, in the Atlantic 1,000 miles southwest of the Azores.</p>
+      </block>
+      <block class="full_text">
+        <p>Just in time to close out a record-setting year of ill winds, along comes Tropical Storm Zeta, in the Atlantic 1,000 miles southwest of the Azores.</p>
+        <p>Meteorologists, issuing early warnings yesterday, predicted that the storm would maintain or slightly increase its strength today and then weaken as it moved west. The storm, they said, was not expected to reach land or hurricane intensity.</p>
+        <p>''It's a minimal storm,'' said Todd Miner, a meteorologist at Pennsylvania State University. ''It's way out in the middle of nowhere. Nonetheless, it is a storm, and storms are rare this late in the year.''</p>
+        <p>Two thousand five has been that kind of year. The first big Atlantic blow was Tropical Storm Arlene, back in June, and by early July Dennis had whipped itself into a full-blast hurricane. Twelve more hurricanes developed, the nastiest of which, Katrina, devastated New Orleans and much of the Gulf Coast.</p>
+        <p>In all, 26 named storms raged from June through November, the usual hurricane season, more than in any other year since the National Oceanic and Atmospheric Administration began keeping records in the mid-1800's. So many, indeed, that storm-namers ran through the alphabet and had to dip into the Greek alphabet. Zeta, the 27th named storm of 2005, gets the sixth Greek letter. The oceanic agency uses only 21 letters of the Roman alphabet.</p>
+        <p>While record-setting, the bounty of storms fits in with the Atlantic's return to an active hurricane pattern in 1995, after decades of relative quiet. The warming of tropical waters is probably contributing to the intensity of storms, as well, climate scientists say.</p>
+        <p>The latecomer Zeta may be an off-season surprise, but it is not unprecedented. In 1954, Tropical Storm Alice appeared on Dec. 30 and intensified into a hurricane.</p>
+        <p>The National Hurricane Center in Miami said Tropical Storm Zeta was near 25 degrees north latitude and 36.9 degrees west longitude, southwest of the Azores. It is moving northwest at about 8 miles per hour. Maximum sustained winds are reaching 50 m.p.h., with winds extending up to 85 miles from the storm's center.</p>
+        <p>Analyzing the latest reports, Brian D. McNoldy, a research associate in atmospheric sciences at Colorado State University, said the storm might strengthen briefly today and then weaken rapidly early next week. Wind shears are expected to break apart its center, he said.</p>
+        <p>''Zeta probably will not be around long enough to reach land or cause any trouble,'' Mr. McNoldy said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

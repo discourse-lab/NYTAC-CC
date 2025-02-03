@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Pollution Tool: Toxic Avengers With Leaves</title>
+    <meta content="06PLAN$03" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/03/06/science/06PLAN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1275822"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Flowers and Plants</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ecuador</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Bangladesh</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Ukraine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Hawaii</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Montana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/South Carolina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Utah</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Wyoming</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Fitness and Nutrition</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Gardens</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Oregon</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Bangladesh</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Britain/England</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/France</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Wyoming</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Greece/Crete</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Australia and Pacific/Australia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Ohio/Cincinnati</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Ukraine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America/Ecuador</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Utah</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/South Carolina</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Montana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Florida</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Hawaii</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Greece/Athens</classifier>
+        <classifier class="online_producer" type="descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="descriptor">Research</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Medicine and Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gardens and Gardening</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">United States</location>
+        <location class="online_producer">Cincinnati</location>
+        <location class="online_producer">england</location>
+        <location class="online_producer">Chernobyl</location>
+        <location class="online_producer">Ukraine</location>
+        <location class="online_producer">Athens</location>
+        <location class="online_producer">ecuador</location>
+        <location class="online_producer">North Logan</location>
+        <location class="online_producer">Utah</location>
+        <location class="online_producer">Wyoming</location>
+        <location class="online_producer">Montana</location>
+        <location class="online_producer">Hawaii</location>
+        <location class="online_producer">Detroit</location>
+        <location class="online_producer">Chantilly</location>
+        <location class="online_producer">Melbourne</location>
+        <location class="online_producer">Australia</location>
+        <location class="online_producer">Caledonia</location>
+        <location class="online_producer">Crete</location>
+        <location class="online_producer">France</location>
+        <location class="online_producer">Florida</location>
+        <location class="online_producer">Bangladesh</location>
+        <location class="online_producer">South Carolina</location>
+        <location class="online_producer">Oregon</location>
+        <org class="online_producer">Environmental Protection Agency</org>
+        <org class="online_producer">uses</org>
+        <org class="online_producer">Phytokinetics Inc.</org>
+        <org class="online_producer">DaimlerChrysler AG</org>
+        <org class="online_producer">School of Public Health</org>
+        <person class="online_producer">Glass, David</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010306T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9802EEDC103BF935A35750C0A9679C8B63" item-length="2624" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Pollution Tool: Toxic Avengers With Leaves</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Scientists study ability of certain plants to absorb pollutants in soil and groundwater, seeking a cheaper, easier ways to clean up environment; in United States alone, the cost of decontaminating tens of thousands of toxic sites on factory grounds, farms and military installations is expected to eventually surpass $700 billion; after decade of field and greenhouse tests, variety of techniques harnessing absorbtive power of plants' roots appear poised for much expanded role; photos; drawings show how plants absorb pollutants (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>As scientists struggle to find cheaper, easier ways to clean up polluted soil and groundwater, they are increasingly wielding a novel tool: plants.</p>
+        <p>In the United States alone, the cost of decontaminating tens of thousands of toxic sites on factory grounds, farms and military installations is expected to eventually surpass $700 billion, several analyses show.</p>
+      </block>
+      <block class="full_text">
+        <p>As scientists struggle to find cheaper, easier ways to clean up polluted soil and groundwater, they are increasingly wielding a novel tool: plants.</p>
+        <p>In the United States alone, the cost of decontaminating tens of thousands of toxic sites on factory grounds, farms and military installations is expected to eventually surpass $700 billion, several analyses show.</p>
+        <p>The main approach so far, digging out offending chemicals and carting them to special landfills, is costly and disruptive, often requiring fleets of trucks, forests of mechanical wells and other equipment.</p>
+        <p>After a decade of field and greenhouse tests, a variety of techniques harnessing the absorptive power of plants' roots appear poised for a much expanded role.</p>
+        <p>Hundreds of species of plants, together with the fungi and bacteria that infuse the rhizosphere, the ecosystem around roots, represent the botanical equivalent of detox centers, seeking and often breaking down molecules that can harm most other life, soil scientists and botanists say.</p>
+        <p>There are sunflowers that capture uranium, ferns that thrive on arsenic, alpine herbs that hoard zinc, mustards that lap up lead, clovers that eat oil and poplar trees that destroy dry-cleaning solvents.</p>
+        <p>In fact, poplars are so effective that people in the fast-growing ''phytoremediation'' business have a new name for them. ''A stand of poplars is a self-assembling solar-powered pump-and-treat system,'' said Steven A. Rock, an environmental engineer in the National Risk Management Research Laboratory of the federal Environmental Protection Agency in Cincinnati.</p>
+        <p>There, Mr. Rock is part of a team tracking research into ways plants can fight pollution. Small tests have been run at some sites on the federal Superfund list of worst toxic spills, and a growing number of larger projects have successfully cleaned plots where pollution is not as severe but still violates standards.</p>
+        <p>It is this kind of pollution problem -- with low, dispersed, but harmful levels of contamination -- that has proved least amenable to conventional technologies and is likely to be the most valuable niche for plants, Mr. Rock and other experts said.</p>
+        <p>Still, he and many scientists stress that there are still many questions to resolve before a particular project gets going.</p>
+        <p>Plants must be chosen not only for their ability to go after the chemicals involved, but also for their tolerance of weather and other conditions at a site.</p>
+        <p>Some plants that meet these requirements may actually make matters worse. For example, research is still under way to determine whether some solvents extracted from the ground by trees end up evaporating through pores in leaves.</p>
+        <p>For now, it appears that very little gets into the air, and what does is usually quickly degraded by sunlight, a variety of scientists say. But more work is being done.</p>
+        <p>Also, care must be taken to avoid the chance that insects or wildlife might eat plants that have accumulated high concentrations of toxic materials. Some laboratory studies are showing that insects avoid plants with high metal concentrations, and that pattern may explain how the metal-accumulating trait evolved in the first place.</p>
+        <p>Perhaps the biggest limitation of plants is that they take time to grow and time to work, with several crops over months or successive seasons often needed to eliminate pollution.</p>
+        <p>At sites requiring urgent action, there will always be the need to ''dig and dump,'' said Dr. Steven P. McGrath, senior principal scientist at the Institute of Arable Crops Research, in Hartfordshire, England, and an expert in the use of plants to purge metals from the soil.</p>
+        <p>But he is one of many experts who still see enormous potential worldwide for the greener method.</p>
+        <p>''These techniques offer the promise of cleaning up the legacy of pollution in a cost-effective way,'' Dr. McGrath said. ''With biological methods, prices come down by orders of magnitude into an area where as a society we can afford it.''</p>
+        <p>So far, the market appears to agree with Dr. McGrath. A recent analysis of the phytoremediation business by Dr. David J. Glass, a biologist and environmental business analyst in Needham, Mass., projected that the industry, with $50 million to $86 million in revenues in 2000, is likely to see an annual income of $100 million to $170 million by next year and reach $400 million a year by 2005.</p>
+        <p>That does not count the possible market overseas, Dr. Glass said, where low-cost cleanups will find many uses as developing countries eventually grapple with the side effects of industrialization. ''Twenty-five years from now, it'll be the rest of the world that's cleaning up,'' Dr. Glass said.</p>
+        <p>A Mystery of Chemistry</p>
+        <p>Another potential impediment to acceptance of plants in toxic cleanups is that, to a significant extent, much remains unknown about just how they do what they do, Mr. Rock said. The rhizosphere and the chemical processes that carry pollutants into roots and then stash them harmlessly in plant tissue still constitute ''a green box,'' he said. ''We know what goes in, we know what comes out, but we're not at all sure what's going on inside.''</p>
+        <p>For years, this mystery kept regulatory agencies -- long focused on traditional technologies -- from taking phytoremediation seriously, he said. But with a growing list of successful projects, the method is proving its worth -- even if some of the physiology and chemistry remains murky, he added.</p>
+        <p>''The most important thing is to make sure nothing bad is leaving a site,'' Mr. Rock said. ''You have the same cleanup standard whether you dig it, burn it or grow something on it. It's got to be the same level of clean. It's just another tool in the toolbox.''</p>
+        <p>What is known is that plants' roots evolved as extremely efficient mechanisms for pulling necessary nutrients, water and minerals out of the ground.</p>
+        <p>Dr. Ilya Raskin, a professor of plant biology at Rutgers, who is widely credited with coining the term phytoremediation 12 years ago, said the lengths of the maze of roots and tiny root hairs of a single sunflower plant could total many miles.</p>
+        <p>''Plants can't run around hunting for food,'' Dr. Raskin said. ''So they must harvest it. Root systems are a giant solar-driven harvesting mechanism that permeates every nook and crevice in the soil.''</p>
+        <p>Dr. Raskin conducted early tests of ways to exploit this mechanism to sop up radioactive substances and heavy metals. One of the most striking tests took place in 1995 in a small pond within sight of the Chernobyl nuclear power plants in Ukraine, where sunflowers were grown on Styrofoam rafts with their roots dangling in the water.</p>
+        <p>The pond, like everything for miles around, was contaminated with Strontium 90, Cesium 137 and other harmful radioactive substances released during the reactor fire in 1986. Within days, the sunflowers, which have dense mops of roots, accumulated levels of cesium and strontium that were several thousand times as high as the concentrations in the water.</p>
+        <p>Often, plants gather nutrients and other chemicals in the soil in tandem with bacteria and other soil life. Through photosynthesis, the plants pump oxygen and specialized enzymes down into the ground, helping the micro-organisms break down organic material.</p>
+        <p>As far as botanists know, the rigors of natural selection -- at least until well into the 20th century -- did not involve surviving exposure to substances like trichloroethylene, also known as TCE, a metal-degreasing solvent, or ethylene dibromide, a pesticide used to kill soil nematodes that has been banned in the United States but sometimes taints aquifers beneath farmland. Even so, some plants effectively dismantle these synthetic compounds, according to a variety of studies and field tests.</p>
+        <p>At an E.P.A. research laboratory in Athens, Ga., studies showed that an enzyme produced by a common aquatic weed, parrot feather, effectively destroyed trinitrotoluene, better known as TNT. This has led to several successful pilot projects in which artificial wetlands removed the chemical from water that had flowed under military firing ranges.</p>
+        <p>From Ecuador to the Hudson River Valley, similar constructed wetlands are already cleaning up polluted water from landfills, slaughterhouses, cider mills, sewage plants, fish farms and parking lots.</p>
+        <p>Putting Trees to Work</p>
+        <p>One of the most established techniques is using trees, mostly poplars and willows, to pump and treat groundwater from aquifers contaminated with solvents or other toxic organic compounds.</p>
+        <p>Phytokinetics Inc., based in North Logan, Utah, is one of more than half a dozen companies deploying trees to treat such sites. At the peak of the growing season, said Dr. Ari M. Ferro, a biochemist and Phytokinetics' president, each tree can pump more than 15 gallons of water each day. At former oil refineries in Wyoming and Montana, the company has planted plots with 1,000 trees per acre, resulting in a pumping rate of 10 gallons a minute per acre.</p>
+        <p>''The trees are pumping like crazy,'' Dr. Ferro said. ''The contaminants get sucked up into the root zone and biodegraded.''</p>
+        <p>Other trees are being put to work, with plantings of koa on a pineapple plantation in Hawaii extracting ethylene dibromide from groundwater.</p>
+        <p>The quickest growth in the business is in the use of plants to remove heavy metals from soil.</p>
+        <p>One of the notable successes in this area came last year in Detroit, when Edenspace Systems, a phytoremediation company in Chantilly, Va.,  completed a cleanup of a lead-laced plot of land tucked amid a complex of DaimlerChrysler buildings.</p>
+        <p>The top four feet of soil was bulldozed to a nearby area and planted in sunflowers and then Indian mustard, both of which are known to accumulate lead. The lead concentration in the soil was reduced 43 percent, bringing it below federal and state limits. The project cost $900,000, according to Michael Curry, the remediation project manager for the company. But that was more than $1 million less than it would have cost to cart the 5,700 cubic yards of soil to a hazardous waste landfill. Instead, only a few cubic yards of tainted plant material had to be disposed of, he said.</p>
+        <p>''It's not a magic bullet, but it's very cost effective,'' Mr. Curry said. ''We'd definitely consider doing it again.''</p>
+        <p>Just as botanists have been scouring the plant world for promising drugs, now they are seeking particular species that have evolved the ability to target roots at hot spots of a variety of toxic heavy metals and other elements in soil and accumulate concentrations so high that some of them, when dried, are up to 5 percent metal by weight.</p>
+        <p>Dr. Alan J. M. Baker, a botany professor at the University of Melbourne in Australia, is one of the veteran plant prospectors, having found promising species from New Caledonia to Crete. The count of metal accumulators is more than 440 species, he said.</p>
+        <p>In France, researchers studying the zinc-loving trait of alpine pennycress, a wild European herb, recently showed that its roots seek out the hottest hot spots of the metal, which often accumulates in farmland and is toxic to many other plants.</p>
+        <p>A Plant That Loves Arsenic</p>
+        <p>The latest discovery came at a central Florida lumberyard where the ground was badly contaminated with arsenic compounds from wood preservatives. Arsenic is so toxic to most plants that it is an ingredient in some herbicides. But after scientists at the University of Florida tested 14 plant species growing there, last year they found that the brake fern, common in the Southeast and other parts of the world, had arsenic in its fronds and stems at more than 200 times the concentration in the soil.</p>
+        <p>The work was reported last month in Nature. Under a licensing deal, the fern is being sold by Edenspace to filter the element out of water. The E.P.A. recently reduced limits for arsenic in drinking water in this country, and it also contaminates thousands of wells in Bangladesh.</p>
+        <p>Dr. Lena Q. Ma, an associate professor of soil and environmental chemistry at the university and the study leader, said her main interest was determining how the plant works. ''It not only tolerates arsenic, it loves it,'' Dr. Ma said. ''It has to have some mechanism to take it up and store it in a form that doesn't interfere with the plant and kill it. That's our next work.''</p>
+        <p>The next frontier, as in so many other areas of biology, is genetic manipulation, as scientists seek to blend the best attributes of different plants -- and not just plants. Already, yellow poplars have been grown with a gene taken from bacteria that transform a toxic form of mercury into a safer one.</p>
+        <p>And last June, research described in The Proceedings of the National Academy of Sciences successfully inserted into tobacco plants a gene for a mammalian liver enzyme that breaks down a variety of toxic organic chemicals.</p>
+        <p>The gene functioned ''spectacularly'' in one plant, said Dr. Lee A. Newman, an author of the study who teaches at the University of South Carolina School of Public Health.</p>
+        <p>She was involved in the Hawaiian project using koa trees and has also used poplars in successful TCE cleanups in Oregon and Washington.</p>
+        <p>The next goal would be to try to insert the mammalian gene in trees or other larger plants that could extract much larger amounts of the particular chemicals, she said. But she acknowledged that even though such plants would never turn up in a taco shell or other human food, the prospect of genetic manipulation would probably be looked at skeptically by the public.</p>
+        <p>In all of the cleanups, she said, even with unaltered plant species, great care will have to be taken to avoid mistakes.</p>
+        <p>''If you have a couple of big flops people will lose confidence,'' she said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

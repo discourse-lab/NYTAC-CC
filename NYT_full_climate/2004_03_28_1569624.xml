@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Quest For The Holy Grill</title>
+    <meta content="SEGRILLT" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Style and Entertaining Magazine" name="dsk"/>
+    <meta content="28" name="print_page_number"/>
+    <meta content="6" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Style; Magazine" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/28/magazine/magazinespecial/SEGRILLT.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1569624"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="indexing_service" type="descriptor">Barbecue</classifier>
+        <person class="indexing_service">Viladas, Pilar</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Magazine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="descriptor">Food</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cooking and Cookbooks</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040328T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A05E4DA1731F93BA15750C0A9629C8B63" item-length="1013" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Quest For The Holy Grill</hl1>
+        <hl2 class="online_headline">The Quest for the Holy Grill</hl2>
+      </hedline>
+      <byline class="print_byline">By Pilar Viladas</byline>
+      <byline class="normalized_byline">Viladas, Pilar</byline>
+      <abstract>
+        <p>Pilar Viladas reports on current rage for grilling outdoors; describes outdoor kitchens created by some grill enthusiasts; photos (M) (special section Style &amp; Entertaining) (Part 2 of 2-part section (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It's no secret that grilling is all the rage now. And in spite of the fact that there are many sophisticated indoor grills on the market, it's outdoor grilling that people seem to find especially alluring -- no muss, no fuss and no smoking up the house.</p>
+        <p>Die-hard grillers are like mailmen; neither rain nor sleet, etc. Some grill out of necessity: Román Alonso, co-publisher of Greybull Press, rents a house in the Hollywood Hills of Los Angeles in which the stove has never worked, so, as he explains: ''We cook out every night. But you can do that out here.''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Outdoor kitchens with everything from pizza ovens to refrigerators are the latest chapter in dining alfresco.</p>
+      </block>
+      <block class="full_text">
+        <p>It's no secret that grilling is all the rage now. And in spite of the fact that there are many sophisticated indoor grills on the market, it's outdoor grilling that people seem to find especially alluring -- no muss, no fuss and no smoking up the house.</p>
+        <p>Die-hard grillers are like mailmen; neither rain nor sleet, etc. Some grill out of necessity: Román Alonso, co-publisher of Greybull Press, rents a house in the Hollywood Hills of Los Angeles in which the stove has never worked, so, as he explains: ''We cook out every night. But you can do that out here.''</p>
+        <p>Others grill for the thrill of it. Paul Haigh, an architect in Greenwich, Conn., has fired up his Weber (charcoal-burning, not gas, he emphasizes) in subzero weather -- and worse, once while braving a violent thunderstorm. As he puts it, ''You're standing out there next to a huge metal object, with lightning flashing.'' Grilling as an extreme sport -- who knew?</p>
+        <p>For other people, however, grilling becomes the excuse, given the right season or climate, to move the entire cooking operation outdoors, along with all the bells and whistles of indoor kitchens. ''We've been doing a lot of outdoor fireplaces,'' says the Los Angeles architect Ron Radziner, who designed one for the outdoor dining room of his own house. ''And now more people are asking for outdoor kitchens.''</p>
+        <p>And these kitchens are equipped with not only elaborate gas grills, but also pizza ovens, refrigerators and running water. You can have a high-B.T.U. infrared grill for searing meats, and a rotisserie for slow-roasting chickens. The sky is pretty much the limit on outdoor kitchens, according to Geoffrey Bullard, the chief executive officer and designer of the Kalamazoo Grill, a family-owned, Michigan-based company that manufactures grills that sell for anywhere from $999 to $6,000, and custom-designed modular outdoor kitchens, one of which cost $75,000 and had its own freezer. (On orders of more than $15,000, Bullard sends his company's chef to show the client how everything works. Since Boris Yeltsin is among Kalamazoo's celebrity clients, it's perhaps not surprising that the company now has a showroom in St. Petersburg.)</p>
+        <p>What's driving people around the world to invest in a second kitchen only steps away from their first? Part of the appeal is pure status, according to Dale Persons, the vice president of public affairs for Viking, the manufacturer of high-end applicances. ''It's the trophy-kitchen thing transferred outdoors,'' he explains. To the expected complement of grills, burners and rotisseries, Viking has just added exhaust hoods for partly enclosed spaces and will soon bring out an outdoor gas oven, thereby further upping the status-toys ante. And these are, for the most part, boys' toys. Men have ''full-on barbecue envy,'' says Sofie Howard, the creative director of Joie, a clothing company in Los Angeles. Her husband, the composer James Newton Howard, is constantly on the lookout for new additions to the couple's built-in, Malibu-tiled backyard grill in Santa Monica.</p>
+        <p>But there is also the lure of easy maintenance in these kitchens. ''Outdoors,'' Persons adds, ''you don't have the clean-up issues you have indoors.''</p>
+        <p>Or as Odom Stamps, who has been designing outdoor kitchens for 15 years, says, ''it's my favorite kind of cleanup -- you just turn up the heat,'' thus incinerating all traces of food from the grill. Stamps, a designer in South Pasadena, Calif., and his partner and wife, Kate, a decorator, created a house in Rolling Hills, Calif., that has an open-air kitchen, located off the dining porch, overlooking a swimming pool. The kitchen has a grill, two stove burners, a sink, a full refrigerator and an ice maker -- all the comforts of home, and you don't even have to leave your backyard.</p>
+        <p>Of course, alfresco cooking is easier in places like California, where some people dine outdoors (albeit sometimes by the warmth of portable heaters) nearly every night. And in a state with a disproportionate number of serious foodies, outdoor kitchens can be downright sybaritic. John Hurley, a San Francisco restaurateur, asked the firm of Fisher Weisman to design an outdoor kitchen-dining-living-room for his weekend house in the Napa Valley. ''John didn't want to have to go into the house,'' the designer Jeffry Weisman says.</p>
+        <p>The idea behind the project, Hurley says, was that of ''building a 'great room' outside, with a fireplace at one end and a kitchen at the other.'' Even in the region's chillier winter months, Hurley says, ''we are out there all the time.'' He adds, ''When the pizza oven and the fireplace are going, it's very cozy.'' The oven, which uses almond wood for fuel, is also used for cooking bread and for roasting meats and fish. The kitchen also includes two burners, a rotisserie and warming drawers (great for keeping grilled meats warm without overcooking them), and Hurley often brings a commercial fryer out from the house to make French fries or calamari. There is an undercounter refrigerator, a bar and cabinets for storing plates and plastic glasses for use around the pool, which is just beyond the outdoor ''great room.'' Hurley loves the easy-clean aspect to the room's colored concrete floor -- ''You just hose it off'' -- but what he really likes is the fun of being outside. ''We even have breakfast out there,'' he says. And ''at lunch, when the wine starts flowing, it turns into quite a little party.''</p>
+        <p>Pilar Viladas is the design editor of The New York Times Magazine.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Pilar Viladas is the design editor of The New York Times Magazine.</tagline>
+    </body.end>
+  </body>
+</nitf>

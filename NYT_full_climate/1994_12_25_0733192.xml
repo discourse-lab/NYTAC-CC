@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Pollution Threat to Taj Gains Attention in India</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <docdata>
+      <doc-id id-string="733192"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="TRAVEL ADVISORY: CORRESPONDENT'S REPORT"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <classifier class="indexing_service" type="descriptor">TRAVEL AND VACATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">TAJ MAHAL</classifier>
+        <classifier class="indexing_service" type="descriptor">FACTORIES AND INDUSTRIAL PLANTS</classifier>
+        <location class="indexing_service">INDIA</location>
+        <location class="indexing_service">AGRA (INDIA)</location>
+        <person class="indexing_service">BURNS, JOHN F</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India/Agra</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Palaces and Castles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Historic Buildings and Sites</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941225T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A06E6DE1038F936A15751C1A962958260" item-length="776" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Pollution Threat to Taj Gains Attention in India</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN F. BURNS</byline>
+      <byline class="normalized_byline">BURNS, JOHN F</byline>
+      <dateline>NEW DELHI</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR many who visit the Taj Mahal, the journey begins with the predawn awakening necessary to catch the Shatabdi Express train that runs south from New Delhi to Agra, site of the world's most famous shrine to love. It is perhaps best to begin the trip in the dark, for a visit to the Taj can be an ascent, esthetically as much as literally, into the light.</p>
+        <p>Out of the blackness of the Delhi night, the train runs into the grays and pinks and oranges of dawn on the north Indian plain. Approaching Agra, two hours south, the colors change again, with a gray-brown haze of thick smog enveloping the city, especially in the winter months when most tourists visit India.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR many who visit the Taj Mahal, the journey begins with the predawn awakening necessary to catch the Shatabdi Express train that runs south from New Delhi to Agra, site of the world's most famous shrine to love. It is perhaps best to begin the trip in the dark, for a visit to the Taj can be an ascent, esthetically as much as literally, into the light.</p>
+        <p>Out of the blackness of the Delhi night, the train runs into the grays and pinks and oranges of dawn on the north Indian plain. Approaching Agra, two hours south, the colors change again, with a gray-brown haze of thick smog enveloping the city, especially in the winter months when most tourists visit India.</p>
+        <p>Finally, with the sun rising, the smog lifts, and, if the weather is clear, the stage is set for the shimmering whiteness of the Taj against the blue of the Indian winter sky.</p>
+        <p>This winter, in the aftermath of the plague outbreak that stunned India in October, many foreign tourists have stayed away. But Indians, made more prosperous by the country's turn toward market economics, have been visiting the Taj in greater numbers than ever, and that may be the best thing that has happened in many years. For it is Indians, not foreigners, who have it in their power to save the marble monument that the Moghul emperor Shah Jahan completed in 1653 as a burial place for his wife, Mumtaz Mahal.</p>
+        <p>For at least 30 years, mounting levels of air pollution have threatened the memorial. Once the Moghul capital of India, Agra in this century has become a dismal city of grimy smokestacks and narrow streets clogged with vehicles with belching exhausts. A recent Government study counted 1,750 factories within a 30-mile radius of the city, including hundreds of small steel foundries, brick kilns and glass factories. All burn coal, which leaves a heavy, asphyxiating pall of sulfur in the air.</p>
+        <p>To this are added the thousands of diesel generators used to make up for electricity shortages, and the heavy truck traffic passing by the city on the "national road" that links Delhi to central and southern India. At Mathura, 30 miles to the northwest and upwind of Agra for much of the year, is a state-owned oil refinery that is the largest of its kind in the country, pumping more than a ton of sulfur dioxide into the atmosphere every hour.</p>
+        <p>Together, the industries and vehicles produce a noxious brew of gases that studies have shown to be as much as 5 to 10 times higher than the maximum permissible levels under Indian environmental laws. At the Taj Mahal, one result has been what Indian experts have described as "marble cancer." While the Taj in bright sunlight or the glow of a winter moon still retains its translucent whiteness, a closer look reveals a yellowing of the building's facade that is coupled with pitting and a proliferation of black and brown spots. In some places, the marble has crumbled and fallen away.</p>
+        <p>For years, efforts to tackle the problem have been frustrated by political expediency and bureaucratic inertia, as well as by arguments among archeologists and ecologists about which industry is mostly to blame. Some Indian experts have complicated matters further by suggesting that natural aging, not pollution, is to blame. Others have put an ideological spin on the matter, arguing that trying to save the Taj, as one reader wrote in a letter to The Indian Express, "should be considered a reflection of medieval and regressive psychology."</p>
+        <p>The Archeological Survey of India, the Government agency responsible for more than 3,000 historic buildings and monuments, struggles to repair the damage to the Taj with a budget of less than $65,000 a year. But last year, hopes for a turnaround were increased when the Supreme Court ordered the closing of more than 200 factories in the Agra vicinity until they installed pollution control devices. Most of these plants are back in business now, having complied with the court's orders, and hundreds of other plants have been put on notice that they could be similarly dealt with.</p>
+        <p>For the ecologists, the plant closings were a mainly symbolic victory, since many of the worst polluters, including the Mathura oil refinery, continue to exceed emission limits. But the issue is finally where the campaigners have wanted it, on the front pages of Indian newspapers and the covers of the country's leading magazines, and the Government seems to have awakened to the political risks of inaction. "I will not relax my norms," said Kamal Nath, the Environment Minister, after industrialists reacted to the Supreme Court ruling with a petition for new exemptions. "There can be no compromise with the Taj."  TRAVEL ADVISORY: CORRESPONDENT'S REPORT</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

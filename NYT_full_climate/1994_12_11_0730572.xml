@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ideas &amp; Trends; Is This Really a Bitter Winter? Or Did the Almanac Cry Wolf?</title>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="730572"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <org class="indexing_service">NATIONAL WEATHER SERVICE</org>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941211T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E6DB1139F932A25751C1A962958260" item-length="1122" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ideas &amp; Trends; Is This Really a Bitter Winter? Or Did the Almanac Cry Wolf?</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AS an extraordinarily long Indian summer gives way to weather more typical of winter's approach, Northeasterners are looking over their shoulders at the incessant snowstorms that battered their region in early 1994 and wondering with a shiver if the weeks ahead hold more of the same.</p>
+        <p>Earlier this autumn, the 1995 Old Farmer's Almanac fed the fear of a repeat performance by predicting a snowier than normal winter for most of the Northeast. The credibility of that forecast took a major hit when November, which the almanac said would be cold and wet in the eastern two-thirds of the country, turned out to be warmer than usual everywhere east of the Rockies. Instead of the frigid, snowy month predicted by the Almanac for them, New Yorkers, for instance, experienced a gloriously warm November: Temperatures averaged more than 4 degrees above normal, slightly less precipitation fell than average and the merest trace of snow dusted the area on Thanksgiving Eve.</p>
+        <p>Prediction or Prestidigitation?</p>
+        <p>Now the National Weather Service, which itself is not always right but whose November forecast was on the mark, is predicting a milder than normal winter for most of the country.</p>
+      </block>
+      <block class="full_text">
+        <p>AS an extraordinarily long Indian summer gives way to weather more typical of winter's approach, Northeasterners are looking over their shoulders at the incessant snowstorms that battered their region in early 1994 and wondering with a shiver if the weeks ahead hold more of the same.</p>
+        <p>Earlier this autumn, the 1995 Old Farmer's Almanac fed the fear of a repeat performance by predicting a snowier than normal winter for most of the Northeast. The credibility of that forecast took a major hit when November, which the almanac said would be cold and wet in the eastern two-thirds of the country, turned out to be warmer than usual everywhere east of the Rockies. Instead of the frigid, snowy month predicted by the Almanac for them, New Yorkers, for instance, experienced a gloriously warm November: Temperatures averaged more than 4 degrees above normal, slightly less precipitation fell than average and the merest trace of snow dusted the area on Thanksgiving Eve.</p>
+        <p>Prediction or Prestidigitation?</p>
+        <p>Now the National Weather Service, which itself is not always right but whose November forecast was on the mark, is predicting a milder than normal winter for most of the country.</p>
+        <p>Just how trustworthy are long-range forecasts?</p>
+        <p>Although the atmosphere displays many well-known patterns and tendencies, its behavior is inherently so chaotic as to be largely unpredictable very far in advance. Two weeks ahead is generally taken as the limit at which any attempt at precision forecasting is worth the effort, even with today's sophisticated, computerized forecasting tools. Even then, the Weather Service's 6-to-10-day forecasts for temperature, the most predictable variable, are accurate 75 percent of the time at best. That is in winter, when weather patterns are most stable and easiest to pin down. In summer, 65 percent accuracy is about the best that can be achieved, and in spring and fall, the most unstable seasons, accuracy is even less.</p>
+        <p>To make accurate daily forecasts months or a year ahead, as several almanacs try to do, is impossible, many meteorologists say. How, then, is it possible to predict the weather for a whole season? The Weather Service doesn't really try. It simply tries to forecast the probability that a given part of the country will experience above-normal, normal or below-normal warmth and precipitation for the month ahead and the season.</p>
+        <p>It helps greatly if some strongly predictive climate signal turns up, something the forecasts can hang their hats on rather than being limited to massaging data on long-term temperature and precipitation trends. As it happens, there is such a signal for this winter. It is the return of El Nino, the marked warming of ocean surface waters in the eastern tropical Pacific that appears every three to seven years. El Nino's heat is one of the world's great weather makers, affecting climate globally by altering atmospheric circulation patterns. "We are in the early stages of an El Nino right now," said Vern Kousky, a meteorologist at the weather service's Climate Analysis Center at Camp Springs, Md., who keeps track of El Nino's comings and goings. El Nino last developed in 1991 and faded out in late 1993.</p>
+        <p>El Nino will probably assert itself some time in the last half of December, said Jim Wagner, a veteran forecaster at the Climate Analysis Center, causing the national weather pattern to flip to a new state.</p>
+        <p>El Nino can affect North American weather in various ways depending on its strength (the new one is expected to be mild to moderate) and the state of planetary air circulation when it takes hold. Often it brings wet, cool weather to the southern United States and mild, dry weather to the Northwest. Sometimes it drenches California. Usually, said Mr. Kousky, El Nino tends to generate strong west-to-east winds that break up large Arctic air masses. Last winter, it was an unusual combination of invasive Arctic air masses overlapping with highly moist air from the South, time after time, that gave metropolitan New York and New England their rapid-fire run of snowstorms.</p>
+        <p>The Climate Analysis Center's forecast for December through February, which takes El Nino into account, says it is probable that the eastern two-thirds of the country except for northern New England and upstate New York will experience warmer temperatures than normal. For metropolitan New York, for instance, the forecasters say there is a 55 percent to 60 percent chance that the winter will be warmer than normal. The forecast indicates that cold Arctic air will not penetrate very far south.</p>
+        <p>This does not mean there will be no snow or cold. For one thing, the predicted winter weather pattern implies a succession of "Alberta clippers," compact, fast-moving storms that sweep out of Canada, across the Great Lakes and into the Northeast. In the absence of a convergence of cold air from Canada and moist air from the South, last winter's deadly combination, the clippers are not expected to be monsters. But if El Nino generates a second, more southerly storm track, as it usually does, and it turns northward along the Atlantic Coast, more storms may occur in the Northeast.</p>
+        <p>Given the right convergence of air masses, one or two big snowstorms could develop even though the winter is generally mild.</p>
+        <p>Although the Weather Service's long-range seasonal temperature forecasts are generated with the help of state-of-the-art analytical tools, they are right only about six times out of 10 in winter; monthly temperature forecasts are accurate better than 65 percent of the time. Skill in forecasting precipitation is somewhat less. Since forecasters would be right 50 percent of the time just by chance, "all the knowledge that's put into the forecast squeezes out another 10 or 15 percent in the winter and much less in the summer," said Fred Gadomski, a meteorologist at the Pennsylvania State University weather communications group.</p>
+        <p>Some years ago the Climate Analysis Center tracked the Old Farmer's Almanac forecasts and found them accurate about half the time. Other studies have found greater accuracy, although the 80 percent rate traditionally attributed to the Almanac cannot "realistically" be true for every region all the time, said Susan Peery, its managing editor. The almanac bases its forecasts largely on an analysis of solar cycles.</p>
+        <p>For his part, Mr. Gadomski is steadfast in believing that the coming winter will not match last winter's repeated onslaught of big snowstorms. "This year will have a very hard time holding a candle to that," he said. "Chances of that occurring are very small."</p>
+        <p>But if the snow boots wore out last winter, it might be a good idea to get new ones just in case.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

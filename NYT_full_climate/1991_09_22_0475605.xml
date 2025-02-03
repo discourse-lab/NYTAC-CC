@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Abandoned Housing Site Leads to Suit Over Pollution</title>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="12WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="475605"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">SUITS AND LITIGATION</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">CLEAN WATER ACT</classifier>
+        <location class="indexing_service">WESTCHESTER COUNTY (NY)</location>
+        <location class="indexing_service">DOBBS FERRY (NY)</location>
+        <org class="indexing_service">C M REALTY DEVELOPERS</org>
+        <org class="indexing_service">MOUNT MERCY ASSOCIATES</org>
+        <org class="indexing_service">HUDSON RIVER FISHERMEN'S ASSOCIATION</org>
+        <org class="indexing_service">FRIENDS OF WICKERS CREEK ARCHAEOLOGICAL SITE</org>
+        <person class="indexing_service">BRENNER, ELSA</person>
+        <person class="indexing_service">ARCURI, GRAIG</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/New York/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910922T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE7D8173FF931A1575AC0A967958260" item-length="1734" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Abandoned Housing Site Leads to Suit Over Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By ELSA BRENNER</byline>
+      <byline class="normalized_byline">BRENNER, ELSA</byline>
+      <dateline>DOBBS FERRY</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>BY some accounts, Graig Arcuri, a housing developer, simply ran into a string of bad luck trying to build 140 luxury town houses on 40 acres of waterfront property here.</p>
+        <p>By other accounts, no amount of ill fortune justified the erosion and pollution left behind when Mr. Arcuri, faced with mounting debts and a failed project, apparently abandoned his plans and walked away.</p>
+      </block>
+      <block class="full_text">
+        <p>BY some accounts, Graig Arcuri, a housing developer, simply ran into a string of bad luck trying to build 140 luxury town houses on 40 acres of waterfront property here.</p>
+        <p>By other accounts, no amount of ill fortune justified the erosion and pollution left behind when Mr. Arcuri, faced with mounting debts and a failed project, apparently abandoned his plans and walked away.</p>
+        <p>In a lawsuit against the developer, two environmental groups claim that hard economic times notwithstanding, a builder must not be allowed to leave behind the remnants of a housing project to degrade the surrounding countryside.</p>
+        <p>The verdant hillside that Mr. Arcuri had hoped would become an affluent residential area has undergone dramatic changes in the four years since the Village Board of Trustees approved the developer's plans. No longer protected by natural ground cover, a section of the hillside has eroded, leaving a steep, deeply fissured incline leading down to a meandering creek and the Hudson River.</p>
+        <p>All that remains of Mr. Arcuri's initial effort to develop the land are two concrete foundations, one framed-in model town house, rubble from another building and narrow, unpaved roadways cutting across the land.</p>
+        <p>The Hudson River Fishermen's Association and the Friends of Wickers Creek Archeological Site are suing Mr. Arcuri, C. M. Realty Developers and Mount Mercy Associates. Mr. Arcuri is president of C. M. Realty and a partner in Mount Mercy Associates. The suit states that the developer violated and continues to violate mandates of the Federal Clean Water Act. 'We Want It to Set an Example'</p>
+        <p>"This is an extremely important case," said John Cronin, Hudson Riverkeeper for the Hudson Riverkeeper Fund. "We want it to set an example for other communities and developers to follow. The Hudson River should not have to pay the price for bad business."</p>
+        <p>The Hudson River Fishermen's Association, originally a citizen activist group dedicated to preserving the ecosystems of the river, is now part of the 2,000-member, Garrison-based Hudson Riverkeeper Fund.</p>
+        <p>The case against the developer is being prosecuted by Robert F. Kennedy Jr., senior lawyer for the Riverkeeper Fund and professor at the Environmental Litigation Clinic of Pace University's School of Law. Called a Threat to Fish and Crabs</p>
+        <p>The citizens' suit has been filed in United States District Court in White Plains. Citing Section 505 of the Clean Water Act, the suit claims that sediment-laden drainage from the two building sites flows into Wickers Creek through PVC pipes and along gullies caused by erosion. The discharges -- which include solid waste, wrecked and discarded equipment, garbage, rocks, sand and cellar dirt -- pose a threat to populations of freshwater fish and blue crabs in the creek, an estuary of the Hudson River, the suit says.</p>
+        <p>"This is somebody we couldn't ignore," Mr. Kennedy said last week, referring to Mr. Arcuri. "This guy dropped half a hillside and part of a house into a herring run."</p>
+        <p>The Soil and Water Conservation District for Westchester County inspected the site several times from 1987 to 1990 and informed the village that erosion and sediment control measures there were inadequate.</p>
+        <p>The erosion problem was first brought to the attention of the Hudson River Fishermen's Association by the Friends of Wickers Creek Archeological Site, a 20-member Dobbs Ferry group. Inclusion in National Register Sought</p>
+        <p>"First we passed the word along to the Village Board and the Mayor, but when they took no action, we came to the conclusion that we couldn't let this situation continue," said Thomas S. Morrison, chairman of the friends group. "We want proper conservation of the creek and all 40 acres. Right now, it is a blight in our community and a blight on the Hudson River."</p>
+        <p>An area covering less than an acre near Wickers Creek is being considered by the State Office of Parks, Recreation and Historic Preservation for nomination for inclusion in the National Register of Historic Places, said Julia S. Stokes, the state's deputy commissioner for historic preservation.</p>
+        <p>Prehistoric archeological artifacts dating to the fourth and third millenniums and belonging to hunter and gatherer societies of coastal New York have been found at the site. Members of the Weckquaesgeek tribe were the first settlers of Westchester, and shells from oysters, which once abounded in the river and were a key source of food for the Indians, can still be found in the soil. Until 1644, when the Indians were massacred by Dutch settlers, members of the tribe spent the warmer months along Wickers Creek.</p>
+        <p>A dig on the site -- from which many artifacts of the early Indian period were unearthed -- was completed by Greenhouse Consultants, an Atlanta-based archeological company. Barry Greenhouse, the company's president, said the prehistoric materials had been turned over to C. M. Realty Developers, which paid for the excavation. Moratorium on Sewer Systems</p>
+        <p>The developer's lawyer, Stephen J. Mignano, said that despite Mr. Arcuri's good intentions to excavate the archeological material properly before proceeding with the development, and his efforts to construct a viable housing project there, other events had prevented the project from moving ahead.</p>
+        <p>"What we hoped would be a beautiful project eventually went down the tubes," the lawyer said.</p>
+        <p>In November 1987, shortly after Mr. Arcuri received approval from the village to build, the state imposed a building moratorium on new sewer systems feeding into the Yonkers Joint Wastewater Treatment Plant.</p>
+        <p>By the time the moratorium was lifted in May 1990, Mr. Arcuri was finally ready to build and sell the $250,000-to-$300,000 condominiums, but he faced a depressed real estate market, Mr. Mignano said. Lender Now in Receivership</p>
+        <p>Also, City Federal Savings Bank in Piscataway, N.J., the savings and loan institution that gave Mr. Arcuri the mortgage for the development, folded. The bank is now in receivership and managed by the Resolution Trust Corporation.</p>
+        <p>P. Christian Yates, assistant director for loans and other assets at Resolution Trust's Somerset, N.J., office, said City Federal had made a $25.6 million commitment to Mr. Arcuri. Although the full amount of the loan was never advanced to the developer, Resolution Trust is "working with the borrower to resolve the loans that have been made," Mr. Yates said.</p>
+        <p>In addition to his mortgage debt, Mr. Arcuri owes money to contractors who began work and were not paid, said Tara M. Wall, a third-year law student at Pace who is assisting Mr. Kennedy with the suit. The total amount of those loans is not known. And Resolution Trust would not divulge the extent of Mr. Arcuri's debt.</p>
+        <p>The developer also owes the Village of Dobbs Ferry $185,000 in liens and taxes and the Town of Greenburgh $912,965 in taxes. Officials of both jurisdictions said that they have been unable to contact Mr. Arcuri to collect the money.</p>
+        <p>"Mr. Arcuri has been a thorn in our side," said the Dobbs Ferry Village Administrator, Margaret Slavin. "But this is an unfortunate story. Talk about bad luck." A Trail of Bad Debts</p>
+        <p>Mr. Mignano said his client had left a trail of bad debts and continued to be difficult to contact.</p>
+        <p>But, despite what many people believe, the lawyer said his client's "intentions are good."</p>
+        <p>"This is not Darth Vader we are talking about," Mr. Mignano said. "This is a man who ran into some hard times."</p>
+        <p>From a plaintiff's point of view, though, there is little sympathy for Mr. Arcuri's failures. Mr. Cronin said it was not bad luck but miscalculation that led to the current situation, because the developer failed to plan for all contingencies.</p>
+        <p>"Now there's a public price to pay," Mr. Cronin added. "And the question is, Will the people who said that everything was going to be rosy be held accountable?"</p>
+        <p>Jennifer Johnson, a project manager for the Trust for Public Land, a national nonprofit conservation organization, called Mr. Arcuri's story "a classic example of a bad loan that the rest of the country is paying for. That's definitely a hot issue these days." Public Access to Waterfront a Goal</p>
+        <p>The Trust for Public Land, which is based in San Francisco and has an office in Manhattan, is working with the developer and the Resolution Trust Corporation to obtain land to provide public access to the waterfront area and possibly to protect the archeological site, Ms. Johnson said.</p>
+        <p>"There may be a way," she said, "to work out a scenario whereby the developer gets out of a tough situation, the town gets something back and the public gains access to the river."</p>
+        <p>The trust wants to obtain land to connect the Old Croton Aqueduct Trailway to the waterfront.</p>
+        <p>"Hopefully," Ms. Johnson said, "we can work out a crisis situation with some capital from the trust."</p>
+        <p>Mr. Mignano said his client is still interested in moving ahead with the project if his debt situation is resolved. Matthew P. Carey, clerk-treasurer of Dobbs Ferry, said the village would welcome news that "somehow Mr. Arcuri became solvent again and the project could go forward."</p>
+        <p>Mr. Carey estimated that the village would realize about $250,000 a year in taxes if the property were developed.</p>
+        <p>Mercy College, however, is negotiating to buy the land and build a dormitory there. Because the college is a tax-exempt institution, that plan -- if realized -- would represent a significant loss in taxes for the village, Mr. Carey said.</p>
+        <p>Mr. Cronin called Dobbs Ferry "a partner in desperation with Mr. Arcuri." He said the Fishermen's Association and the friends group want the site restored and used in "a responsible way."</p>
+        <p>In the meantime, the plaintiffs are proceeding with the lawsuit. "Our primary goal is to have the creek cleaned up and the situation remedied," Mr. Kennedy said. "We won't agree to any settlement that doesn't include that." Facing Penalties of $25,000 a Day</p>
+        <p>"In the past, polluters have been reluctant to go to court," Mr. Kennedy said. "They have sought to settle."</p>
+        <p>Under the Clean Water Act, if the case goes to trial and the court finds the defendants guilty, the judge could order them to pay civil penalties of $25,000 for each day of violation.</p>
+        <p>"Instead of paying the U.S. Treasury," Mr. Kennedy said, "polluters often set up a fund to contribute to the local environment."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

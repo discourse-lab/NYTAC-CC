@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Waiting for the Warm Night Air of Los Angeles</title>
+    <meta content="11FRI3$01" name="slug"/>
+    <meta content="11" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/11/opinion/11fri3.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1656064"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Editorial Observer"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Seasons and Months</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <location class="indexing_service">California</location>
+        <location class="indexing_service">Los Angeles (Calif)</location>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Klinkenborg, Verlyn</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Rain</classifier>
+        <classifier class="online_producer" type="descriptor">Reclamation of Land</classifier>
+        <classifier class="online_producer" type="general_descriptor">Seasons and Months</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Reclamation of Land</classifier>
+        <location class="online_producer">California</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050311T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B05E6D7173CF932A25750C0A9639C8B63" item-length="880" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Waiting for the Warm Night Air of Los Angeles</hl1>
+        <hl2 class="online_headline">Waiting for the Warm Night Air of Los Angeles</hl2>
+      </hedline>
+      <byline class="print_byline">By VERLYN KLINKENBORG</byline>
+      <byline class="normalized_byline">Klinkenborg, Verlyn</byline>
+      <abstract>
+        <p>Verlyn Klinkenborg Editorial Observer from Los Angeles detects subtle signs of season change in southern California, but misses sense of time he feels back home in New York</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ever since I got to Southern California, people have been reminding me that this part of the world has its seasons, too. I always agree. I can think of at least four seasons in Los Angeles: rain, fire, escrow and the Academy Awards. Some years the rainy season comes and goes without attracting much attention to itself, but not this year. There's something a little redundant in being told, in the midst of another downpour, that Los Angeles does indeed have seasons. It almost sounds like complaining.</p>
+        <p>There's an old Midwestern guilt in that need to account for the seasons here. I think of all the Iowa families who moved to California about the same time my family did, in the mid-1960's. For most of them in that first generation, lying in the sun -- just lying there! -- seemed an unaccountable waste of time. They could barely allow themselves the pleasure of eating outdoors without fussing over the pleasure of eating outdoors.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Southern California has a way of reminding you that climate is a function of place and that season is a function of time.</p>
+      </block>
+      <block class="full_text">
+        <p>Ever since I got to Southern California, people have been reminding me that this part of the world has its seasons, too. I always agree. I can think of at least four seasons in Los Angeles: rain, fire, escrow and the Academy Awards. Some years the rainy season comes and goes without attracting much attention to itself, but not this year. There's something a little redundant in being told, in the midst of another downpour, that Los Angeles does indeed have seasons. It almost sounds like complaining.</p>
+        <p>There's an old Midwestern guilt in that need to account for the seasons here. I think of all the Iowa families who moved to California about the same time my family did, in the mid-1960's. For most of them in that first generation, lying in the sun -- just lying there! -- seemed an unaccountable waste of time. They could barely allow themselves the pleasure of eating outdoors without fussing over the pleasure of eating outdoors.</p>
+        <p>Telling the ones who stayed in the Midwest that there are seasons here, too, was a kind of cultural negotiation, a way of saying, ''We're not all that different just because we live in California and dine on artichokes now.'' The fact that the growing season is 365 days long felt like a plenary indulgence, even if you were a Methodist.</p>
+        <p>Any place with as many climates -- or as much climate, allowing the word its salutary overtones -- as Southern California doesn't really need seasons. To drive from San Juan Capistrano over the Santa Ana Mountains on the Ortega Highway and up through Riverside to the snowpack on the San Bernardino Mountains is to cross any number of climatic zones, each of which is enjoying a season unto itself. Southern California has a way of reminding you that climate is a function of place and that season is a function of time.</p>
+        <p>A climatic zone may be tiny -- no larger than a damp winter creek-bottom in an otherwise arid landscape. And a season in Southern California may be only a matter of days. One day feels like sodden winter, and by the evening of the next day, the middle-school girls are playing soccer under the field lights, the shriek of the referees' whistles cutting through the warm night air. Summer comes over and over and over. As a result, everyone is equipped to seize it the instant it appears. Back home -- in New York state -- the winter coats are put away with a sense of reluctant foreboding, and only after a good spell of hot weather.</p>
+        <p>I sense the encroaching season here readily enough -- the way a plum-blossom spring overlaps with the constancy of agave and yucca. But I miss the sense of time. The days are longer than they were when we arrived in mid-January. And yet it's hard to feel their lengthening. That's partly because of the orange perma-glow in the urban sky at night. But it's also because of the fact that light isn't the cue that my students, who are keenly and hormonally sensitive to climatic disturbance, are really waiting for.</p>
+        <p>They're waiting -- and the whole region with them -- for warm nights. Here, every night is a convertible night, unless it's pouring. But with real warmth, the stoicism of keeping the top down will give way to the sybaritic pleasure of merging with the biotic city, all those beings feasting on air.</p>
+        <p>Whenever I think of where we are in the year -- on the verge of spring -- I think of home, of our farm north of New York City and the winter it's been having. I can imagine the operatic movement of the light, the way each day reaches a little further into the darkness of evening and morning than the one before.</p>
+        <p>Those extra minutes of dawn and dusk are almost pure emotion at this time of year, as if something had been reclaimed that was in danger of disappearing forever. It's almost as if that place -- its snowy pastures, its huddled woods -- were on a separate globe, pursuing a more elliptical path around the sun than the planet Los Angeles occupies.</p>
+        <p>Emotion is the difference, of course. The irises are in bloom in Southern California. But what is an iris? Back home it's something won back from the cold and the snow, a rigorous assertion that winter may come again, but only by going through summer first.</p>
+        <p>That is not what the irises are saying here. They are blooming with the roses and the oranges and the birds of paradise and the rosemary and the lavender and the camellias. To me it makes no sense, no matter how beautiful it is. To the nectarivorous creatures here -- to bees and moths and hummingbirds -- it merely seems, perhaps, like the slight swelling of their circumstances. Much is blooming now, but then something is always blooming here in this nectared city.</p>
+        <p>Editorial Observer</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

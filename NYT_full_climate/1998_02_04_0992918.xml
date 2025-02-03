@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Slushy Storm Is Not Expected To Change Low-Salt Winter</title>
+    <meta content="04STOR$04" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="992918"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Salt</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Rohde, David</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Salt</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980204T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9906E7DE173DF937A35751C0A96E958260" item-length="1007" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Slushy Storm Is Not Expected To Change Low-Salt Winter</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID ROHDE</byline>
+      <byline class="normalized_byline">Rohde, David</byline>
+      <abstract>
+        <p>Mild winter is boon for taxpayers across New York metropolitan area; millions of dollars budgeted for snow removal is going unspent; average temperature in Central Park in January was 40 degrees, seventh warmest January since records started being kept in 1869; hundreds of thousands of tons of salt are going unused (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The words usually prompt glee in mischievous schoolchildren and overworked adults eager to play hooky: a formidable Northeaster is gathering strength as it slowly moves up the East Coast toward New York. But this storm -- like so many others this winter, which is proving to be the mildest in terms of snowfall since 1972-73 -- lacks one crucial ingredient for a city-paralyzing blizzard: frigid, Arctic air.</p>
+        <p>The average temperature in Central Park last month was 40 degrees, the seventh-warmest January since records started being kept in 1869. The record was set in January 1932, when the average temperature was 43.2 degrees.</p>
+      </block>
+      <block class="full_text">
+        <p>The words usually prompt glee in mischievous schoolchildren and overworked adults eager to play hooky: a formidable Northeaster is gathering strength as it slowly moves up the East Coast toward New York. But this storm -- like so many others this winter, which is proving to be the mildest in terms of snowfall since 1972-73 -- lacks one crucial ingredient for a city-paralyzing blizzard: frigid, Arctic air.</p>
+        <p>The average temperature in Central Park last month was 40 degrees, the seventh-warmest January since records started being kept in 1869. The record was set in January 1932, when the average temperature was 43.2 degrees.</p>
+        <p>While disappointing to some, the  mild weather is a boon for taxpayers. Across the New York metropolitan region this year, millions of dollars budgeted for snow removal is going unspent, creating the possibility of budget surpluses for local governments if the weather holds. And hundreds of thousands of tons of costly road salt is going unused. Even the latest snow-removal gadgets, delivered with such promise at the beginning of the season, remain largely untouched.</p>
+        <p>Lucian Chalfen, a spokesman for the New York City Department of Sanitation, said that the city's fleet of 3,000 garbage trucks, which can be equipped with snowplows, had not taken to the streets once this year. The city's salt spreaders have been used only three times. And new snow-removal equipment, millions of dollars worth of road salt and complicated contingency plans are gathering dust.</p>
+        <p>''We can put 350 salt-spreaders and about 2,000 plows on the road at any one time,'' Mr. Chalfen said with a touch of wistfulness in his voice. ''No city, no state can do that. I don't know if the Army could do that. I don't know anyone who can marshal that kind of equipment.''</p>
+        <p>So far, the city has spent only $10 million of the $27 million it budgeted for snow removal this winter. Only 5,000 tons of the 200,000 tons of road salt the city bought for the season has been used. Mr. Chalfen said the road salt can be saved for next winter and any surplus money will be returned to the city's general fund.</p>
+        <p>In areas surrounding the city, the mild winter could mean more money to beautify local parks or for other projects. In New Jersey, Dominic J. Novelli, a spokesman for the Bergen County Executive, William P. Schuber, said that the county had spent less than half the $2 million it budgeted for snow removal in 1997. The surplus, he said, will be put back in the county's general fund.</p>
+        <p>Joseph Nicoletti, Commissioner of Public Works in White Plains, said the city could have a $200,000 surplus if the weather continued to be mild.</p>
+        <p>And Patricia Broom, director of operations for Stamford, Conn., said the city had spent only one-quarter of the $765,000 it had budgeted for snow removal.</p>
+        <p>In New York City, new high-tech gadgets are being left untested. New infrared sensors that record pavement temperatures, bought by the city's Department of Sanitation for $400 to $800 each, have gone largely unused. And a $150,000, 12-million-B.T.U. snow melter that produces enough energy to heat 80 suburban homes, is gathering dust.</p>
+        <p>''They'd use it downtown near Wall Street in areas where there's narrow streets and tremendous amounts of people,'' Mr. Chalfen said, referring to the snow melter. ''There's no place to dump the snow. You've got to melt and pour it down a storm drain or haul it away.''</p>
+        <p>Meteorologists predicted yesterday that the current storm, like others this winter, would bring messy bouts of rain, sleet, slush and some snow to New York and the region today and tomorrow. Flooding is also a possibility in coastal areas.</p>
+        <p>The blame, the meteorologists said, probably lies with the unusual pattern that the jet stream, a powerful current of air flowing west to east miles above the earth's surface, is following this winter. They say the stream is split and its northern branch is blocking cold air in Canada. Instead of a single stream out of Canada over the northeastern United States, one branch is moving across southern Canada, which had a heavy ice storm last month, and the other is carrying rainstorms and floods across the southern United States. The New York region, sandwiched between the two, is left with muck.</p>
+        <p>''The Arctic air has been locked in Canada by a relentless branch of the jet stream,'' said Lee Grenci, a meteorologist at Pennsylvania State University. ''Why? Who knows. Weather forecasting is a humbling experience.''</p>
+        <p>Mr. Grenci and meteorologists with the National Weather Service said that the unusual winter weather probably had little to do with El Nino,  a periodic warming of ocean temperatures in the central and eastern equatorial Pacific Ocean. They said El Nino has little effect on the jet stream over North America.</p>
+        <p>Whatever the reason, New York had enough moisture last month for several formidable snowstorms, but not the freezing temperatures. According to the National Weather Service, January 1998 was nearly as wet as January 1996, when a historic blizzard buffeted the city. Last month, 5.20 inches of precipitation  fell in New York City, 1.78 inches more than normal. (Precipitation includes rain, snow and sleet, measured as if it were all water.) In January 1996, the month of the blizzard, 5.64 inches of precipitation fell.</p>
+        <p>As a result, city and municipal governments that budgeted millions of dollars in expected snow removal expenses may end up with a surplus.</p>
+        <p>Meteorologists say they do not know if the unusual circumstances that have produced the mild winter of 1997-98 will continue. ''We have a rule here at Penn State,'' Mr. Grenci said. ''Tell folks what you know, not what you don't know.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

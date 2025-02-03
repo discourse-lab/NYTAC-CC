@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Los Angeles Is Curbing Trucks in Rush Hours to Ease Traffic and Pollution</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="183561"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">TRUCKS AND TRUCKING</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">LOS ANGELES (CALIF)</location>
+        <person class="indexing_service">REINHOLD, ROBERT</person>
+        <person class="indexing_service">BRADLEY, TOM (MAYOR)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880929T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3DF173BF93AA1575AC0A96E948260" item-length="1039" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Los Angeles Is Curbing Trucks in Rush Hours to Ease Traffic and Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT REINHOLD, Special to the New York Times</byline>
+      <byline class="normalized_byline">REINHOLD, ROBERT</byline>
+      <dateline>LOS ANGELES, Sept. 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Faced with the worst traffic congestion and air pollution in the country, Los Angeles today moved to impose the most drastic curbs on trucks of any major American city.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Faced with the worst traffic congestion and air pollution in the country, Los Angeles today moved to impose the most drastic curbs on trucks of any major American city.</p>
+        <p>Faced with the worst traffic congestion and air pollution in the country, Los Angeles today moved to impose the most drastic curbs on trucks of any major American city.</p>
+        <p>The plan announced by Mayor Tom Bradley would bar 70 percent of the large heavy-duty trucks that operate in the city from streets and roads in the morning and evening rush, and such major shippers and receivers as supermarkets would be required to stay open at least four hours at night.</p>
+        <p>In addition, helicopters and heavy-duty tow trucks have been assigned to locate and clear traffic accidents. Truck collisions and spills result in maddening delays that cause thousands of commuters to be late for work and miss appointments. A Highly Charged Issue</p>
+        <p>Probably no issue is more politically charged in this, the second largest American city, and all of Southern California than that of traffic and smog. Critics of Mayor Bradley, who is running for re-election to a fifth term next spring, charge that the economic growth he has promoted has contributed to the traffic and air pollution problems.</p>
+        <p>The rush-hour restriction requires a new city ordinance, but other elements can be imposed by the Mayor or by agreement between the city and other governmental agencies in the region. The mayor said he wants to have most of the plan in operation in four months.</p>
+        <p>In announcing his ''truck control program'' today, Mr. Bradley said he hoped that the number of large trucks in rush hour would be cut by half within a year.</p>
+        <p>Even as the mayor spoke this morning, with an array of 18-wheelers as a backdrop, a yellowish haze of smog obscured buildings across the street from the parking lot of the Los Angeles Memorial Sports Arena where he stood. The downtown skyline, just two miles away, was invisible even though the sky was cloudless.</p>
+        <p>Initial reaction to Mr. Bradley's program was mixed. Appearing with the Mayor were representatives of major truckers, such as S.E. Rykoff &amp; Company, the Federal Express Corporation and United Parcel Service of America Inc. ''This is a viable plan - I don't see any practical problems,'' said Larry R. Bolls, operations manager for Rykoff, whose 150-truck fleet supplies restaurants, hotels and schools with food and supplies. ''We all realize we've got a serious pollution problem.''</p>
+        <p>But the California Trucking Association was opposed. And many local retailers, shippers and receivers were concerned that the operations might be unduly restricted, or that they would incur additional costs by hiring more employees to stay open late. Parts of the plan require City Council approval, and the problem of additional late-night noise is expected to arise.</p>
+        <p>According to Norton Younglove, chairman of the South Coast Air Quality Management District Board, large trucks make up only 4 percent of registered vehicles in the Los Angeles Basin but produced 17 percent of the air pollution. Moreover, 70 percent of the major accidents involve such trucks. Similar Arrangement in Olympics</p>
+        <p>Mayor Bradley's plan, the latest and most drastic traffic measures he has advanced in the last year, is modeled after a voluntary arrangement used in the 1984 Olympics here, when commercial deliveries were made mostly at night. ''All of us remember how well it worked then, how smoothly traffic flowed,'' the Mayor said.</p>
+        <p>The new plan applies to semi-tractor trailers, and three-axle trucks exceeding 29,500 pounds. Exempt are small delivery vans, garbage trucks and hazardous-waste carriers. The plan does not apply to freeways, which come under state control, but the city says truck traffic on those highways would be reduced if the trucks cannot get off within city limits.</p>
+        <p>The major elements of the program are:</p>
+        <p>* No more than 30 percent of a trucking fleet would be allowed on the streets between 6 A.M. and 9 A.M. and from 4 P.M. to 7 P.M.</p>
+        <p>* Shippers and receivers with five or more deliveries or pickups a week would have to remain open at least four hours each workday between 8 P.M. and 6 A.M. or face fines by the Air Quality Management District, a regional authority with wide-ranging power to enforce air quality measures. This requires no legislation but an agreement between the Mayor and the district.</p>
+        <p>* The Mayor has ordered city agencies to take deliveries only from 8 P.M. to midnight.</p>
+        <p>* The Mayor ordered the Harbor Commission to extend working hours at the port to reduce dependency on trucks.</p>
+        <p>In New York City, only oversized tractor trailers and tandem trailers have been banned in most of Manhattan since the late 1970's.</p>
+        <p>There are two types of truck routes in all New York City's five boroughs: local truck routes for local deliveries and through truck routes.</p>
+        <p>In addition, there are special truck regulations. No commercial vehicles are permitted on Fifth Avenue. And all commericial vehicles are banned from the city parkways.</p>
+        <p>In Los Angeles, city officials say the mayor's plan could have a tremendous effect on the working life of this sprawling city, profoundly altering commuting patterns and stimulating a late-night economy. They hope to even out commuting patterns and speed traffic at all hours. The air quality district estimates that increasing freeway speed from 30 m.p.h. to 55 m.p.h. would reduce such organic wastes as ozone and carbon monoxide by 40 percent.</p>
+        <p>The vice chairman of the air quality district, Henry W. Wedaa, who is a City Councilman from the suburb of Yorba Linda, said cities in the region were regarding the plan as a pilot project that might be emulated if successful.</p>
+        <p>But Robert E. Burt, of the California Manufacturers Association, said the plan posed serious problems for shippers, especially those who ship right off the production line. Some, he said, might need to rent additional storage and loading space.</p>
+        <p>But he said the burden was greater on truckers, giving them little flexibility to respond to needs of customers. ''We feel it will be very difficult to enforce on truckers - it will be very difficult to tie down,'' Mr. Burt said.</p>
+        <p>Mr. Wedaa, on the other hand, said the long-run benefits for the truckers will overcome those objections. ''In the long run,'' he said, ''off-peak operations should reduce delivery time and save costs for them.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

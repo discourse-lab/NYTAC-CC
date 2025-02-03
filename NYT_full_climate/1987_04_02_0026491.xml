@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>POLLUTION RISE TIED TO ONE-WAY TOLL</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="26491"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">TOLLS</classifier>
+        <classifier class="indexing_service" type="descriptor">TRUCKS AND TRUCKING</classifier>
+        <location class="indexing_service">MANHATTAN (NYC)</location>
+        <location class="indexing_service">VERRAZANO-NARROWS BRIDGE</location>
+        <person class="indexing_service">BOORSTIN, ROBERT O</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tolls</classifier>
+        <classifier class="online_producer" type="general_descriptor">Trucks and Trucking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DEFD71139F931A35757C0A961948260" item-length="748" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>POLLUTION RISE TIED TO ONE-WAY TOLL</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT O. BOORSTIN</byline>
+      <byline class="normalized_byline">BOORSTIN, ROBERT O</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Air pollution has increased to dangerous levels along major streets in lower Manhattan since one-way tolls were introduced on the Verrazano-Narrows Bridge more than a year ago, according to a new draft study.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Air pollution has increased to dangerous levels along major streets in lower Manhattan since one-way tolls were introduced on the Verrazano-Narrows Bridge more than a year ago, according to a new draft study.</p>
+        <p>Air pollution has increased to dangerous levels along major streets in lower Manhattan since one-way tolls were introduced on the Verrazano-Narrows Bridge more than a year ago, according to a new draft study.</p>
+        <p>The study found, in essence, that drivers are avoiding westbound tolls on the bridge and adding to pollution and congestion levels by journeying through lower Manhattan.</p>
+        <p>Although Staten Island drivers and residents have benefited from the suspension of eastbound tolls through lower pollution levels and faster driving times, the study said residents in the Canal Street corridor of Manhattan and along major Brooklyn highways have suffered from increasing pollution, congestion and noise. New carbon-monoxide ''hot spots'' have been created on Canal and Varick Streets, according to the study, which was conducted by the URS Company of Manhattan for the Triborough Bridge and Tunnel Authority. High levels of carbon monoxide, which violate Federal air-pollution standards, are a result of increased emissions caused by heavier traffic.</p>
+        <p>The study confirms earlier reports that hundreds of westbound truckers are avoiding the bridge, which connects Staten Island and Brooklyn, by taking less-direct but free routes through lower Manhattan. One-Way Toll Is a Year Old</p>
+        <p>The report, long awaited by politicians on both sides of the increasingly angry debate over one-way tolls on the bridge, appears to strengthen the hand of leaders in Manhattan and Brooklyn who are trying to end what began as a six-month trial.</p>
+        <p>That experiment, in which the eastbound tolls were suspended under Federal legislation, has now lasted for more than a year. Westbound car tolls, which were originally doubled to $3.50, are now $4. Truck tolls westbound range between $8 and $24, depending on size.</p>
+        <p>The next move is up to Governor Cuomo, who had said he would withhold a decision until after the study was issued. His transportation adviser, Mary Ann Crotty, said yesterday that the Governor's staff was reviewing the report.</p>
+        <p>Ms. Crotty declined to say when the Governor, whose office has been besieged by lobbyists on both sides of the issue, may make a decision. Final Report Expected in June</p>
+        <p>The Triborough Bridge Authority has scheduled three public hearings for early May. The final report is expected to be issued in June.</p>
+        <p>The two-inch thick study, ordered by a State Supreme Court judge after Brooklyn Borough President Howard Golden filed suit to reinstate the two-way tolls, also contained these conclusions:</p>
+        <p>* Annual westbound traffic across the bridge fell by 1,423,000 vehicles, including 212,000 trucks, in 1986. More than 57 million vehicles used the bridge in 1985.</p>
+        <p>* Net revenues to the Triborough Bridge Authority have fallen more than $7 million.</p>
+        <p>* Morning travel times on the eastbound Staten Island Expressway have been cut significantly, but those travel delays have been shifted to the Gowanus Expressway in Brooklyn.</p>
+        <p>* ccess to lower Manhattan businesses by customers and delivery trucks has been impaired.</p>
+        <p>The study's findings were hailed yesterday by Manhattan and Brooklyn officials and residents but dismissed by Staten Islanders.</p>
+        <p>A spokeswoman for Mr. Golden, Deborah L. Gardner, said the study confirmed fears that ''the adverse effects far outweigh any benefits on Staten Island.'' Mr. Golden is traveling in Israel.</p>
+        <p>Ms. Gardner said that the creation of new carbon monoxide hot spots not only threatened residents' health but also could mean the loss of Federal highway funds to New York City. The city has until Dec. 31 to meet Federal Clean Air Act standards for carbon-monoxide and ozone levels. Report's Findings Disputed</p>
+        <p>Representative Guy V. Molinari, the Staten Island Republican who introduced the one-way toll legislation and who has vigorously defended it, said that, after reviewing a summary of the report, he had ''serious disagreement'' with a number of findings.</p>
+        <p>In a telephone interview, Mr. Molinari said that any possible increases in pollution in lower Manhattan were far outweighed by the improvements in Staten Island and parts of Brooklyn and that Triborough Bridge Authority revenue losses were lower than estimated.</p>
+        <p>Representative Ted Weiss, Democrat of Manhattan, said the study ''confirms our worst fears and expectations.'' He said that nine members of the New York Congressional delegation planned to send telegrams to Mr. Cuomo to urge him to ask Federal officials to repeal the one-way tolls.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

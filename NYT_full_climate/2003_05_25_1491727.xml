@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The World; Like Everest, The North Pole Draws a Crowd</title>
+    <meta content="25REVK$07" name="slug"/>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/25/weekinreview/25REVK.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1491727"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <location class="indexing_service">Arctic Regions</location>
+        <location class="indexing_service">North Pole (Alaska)</location>
+        <person class="indexing_service">Hadow, Pen</person>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="descriptor">Mountains</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mountains</classifier>
+        <person class="online_producer">Hadow, Pen</person>
+        <person class="online_producer">Hillary, Edmund</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030525T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E2DE1531F936A15756C0A9659C8B63" item-length="1185" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The World; Like Everest, The North Pole Draws a Crowd</hl1>
+        <hl2 class="online_headline">Like Everest, the North Pole Draws a Crowd</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>British adventurer Pen Hadow completes first unassisted solo trek from Canada to North Pole, latest in long line of explorers drawn to Earth's northernmost place; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THERE is something magnetic about the North Pole, and it is not the force that tugs compass needles.</p>
+        <p>The allure of the top of the world may come from its status as the last of Earth's far, harsh places to be tamed. Even Antarctica, its polar opposite, has permanent bases serving two dozen countries. In a habit shared with ants, people compulsively press outward until the extreme becomes familiar.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Humans are doing their best, ever so slowly, to tame the North Pole. After all, where else is left?</p>
+      </block>
+      <block class="full_text">
+        <p>THERE is something magnetic about the North Pole, and it is not the force that tugs compass needles.</p>
+        <p>The allure of the top of the world may come from its status as the last of Earth's far, harsh places to be tamed. Even Antarctica, its polar opposite, has permanent bases serving two dozen countries. In a habit shared with ants, people compulsively press outward until the extreme becomes familiar.</p>
+        <p>But there is no there at the North Pole.</p>
+        <p>At the place where all is south, where all time zones converge, where a year has one day and one night, where you have to take a step every 15 seconds or so to remain in one place, there is no permanent thing except the ocean floor. And it is so far under the ice that 10 Empire State Buildings could be stacked without breaking the surface.</p>
+        <p>For centuries, ships probed northward, some seeking Ultima Thule, the legendary northernmost place, and others seeking a theorized open polar sea beyond the girdling barrier of Arctic ice. Dozens of explorers lost their minds or died.</p>
+        <p>Even today -- when aircraft can land on the ice there after a three-hour flight from Canada, Norway or Russia -- some people still seek fresh ways to ''attain'' the pole, as an ultimate test of physical and mental limits.</p>
+        <p>Last Monday, after a 64-day, 478-mile trek, Pen Hadow, a British adventurer, completed the first unassisted solo trek from Canada to the pole. He skied until the loss of a ski forced him to walk the last 10 days, dragging his sledge and swimming across open-water gaps. After a particularly grueling day, he sent this message to the team tracking him: ''Had a 50-meter swim today, it took about 45 minutes. The snow is about six inches thick and it is like pulling my sledge through treacle.''</p>
+        <p>He remained stranded near the pole into the weekend, rations dwindling and phone battery dead, as foul weather in the Canadian Arctic prevented a pair of chartered airplanes -- one holding extra fuel for the other -- from fetching him.</p>
+        <p>Mr. Hadow was doing his best -- humans are doing their best -- ever so slowly, to tame the North Pole.</p>
+        <p>After all, where else is left?</p>
+        <p>Fifty years after Sir Edmund Hillary and Tenzing Norgay first reached the peak of Everest, more than 1,200 climbers have followed. Last week more than 100 people were there trying to replicate their feat on its golden anniversary, which comes on Thursday.</p>
+        <p>In recent days, marathons were run both at a base camp 17,600 feet up Everest's Nepali side and at the North Pole, perhaps signaling a strange planetary coming of age.</p>
+        <p>In a speech several days ago in India, Sir Edmund lamented checkbook mountaineering.</p>
+        <p>''It is more like a conducted tour,'' the New Delhi papers quoted him as saying.</p>
+        <p>''We were the lucky ones,'' he said, who ''never walked in other peoples' footsteps.''</p>
+        <p>The pioneers' trail in the Himalayas is now marked by unintended cairns of discarded oxygen bottles. So much, perhaps, for Everest. The North Pole is next in line, but it is holding fast.</p>
+        <p>For the last 10 years, with endless difficulties but increasing assurance, Russian and French entrepreneurs have set up a temporary base camp, called Borneo, in March and April on the drifting ice 60 miles from the pole.</p>
+        <p>The tents have piped-in heat. The generators sputter nonstop, powering microwave ovens and satellite phones. Twenty-ton airplanes come and go from an ice runway carved out of the flattest available floe by a bulldozer.</p>
+        <p>During a recent three-day visit, this reporter encountered a half-dozen Russian skydivers preparing to parachute to the pole; three dozen skiers doing 60-mile pole treks; a snowboarder jumping ice ridges while being towed behind a snowmobile; and a runner-up in a Russian beauty pageant who claimed the trip after the winner turned it down.</p>
+        <p>Some came for the snapshots. Others were running from one extreme challenge to the next, as one metals trader explained, to avoid more profound challenges: facing one's inner demons or quotidian obligations like raising a family.</p>
+        <p>Scientists were there with a more serious mission: to study the polar ice's retreat, which may signal that heat-trapping smokestack and tailpipe emissions are nudging the global climate.</p>
+        <p>But the researchers, too, said they were drawn by something more cosmic.</p>
+        <p>As he listened to a rising drumbeat in the ice under his feet, indicating colliding plates that would soon shatter, Jim Osse, a marine engineer and diver from the University of Washington who had just hours before spent time beneath that ice, listed some of the marvels: ''The vastness of it, the fact that we're standing on an ocean, and that we're not stationary.''</p>
+        <p>''You read those books when you're up here, about Peary and those guys, and it does kind of cheapen this experience,'' he continued. ''Twenty-four hours from Seattle I'm on the Arctic icecap. Some people might think it's rather bold and daring, but these days all exploration is kind of forced, finding things to create a challenge because living doesn't require much challenge.''</p>
+        <p>The human encampment marred the silence and the brilliant 24-hour whiteness and blueness. The sky was stained by a ribbon of soot from the generator and a perforated fuel drum where garbage was burned. As the six-month day progressed, a latrine built of igloo-style ice blocks was steadily sullied.</p>
+        <p>ONE had to hike nearly a mile to escape the generator's chug and hear only the rhythmic ticking and cracking from the shifting ice below.</p>
+        <p>Some distance from camp was also required to grasp that this spot remained hostile not only to people, but to all other life. In three days, there was but one sign of wildlife: a lone seal popping up for a breath through a widening crack.</p>
+        <p>With that sighting, too, came a prickly, but oddly welcome, awareness that this was not yet comfortable human habitat, because where there are seals there are polar bears, predators that see people as nothing more than mobile meat.</p>
+        <p>Borneo could not, and will never, last. By May 1 the runway was turning to slush, and the camp, like a traveling carnival, was dismantled and airlifted to Siberia, lest it fall into the ocean as the sun-warmed ice cracked.</p>
+        <p>After the single dawn brightens next March 18, Borneo will return. And a fresh-minted icescape will test a new crop of thrill seekers.</p>
+        <p>If the warming continues, it may be harder to find a safe site, so it may end up that humans indirectly -- through distant emissions of pollutants -- make the pole harder to stand on, but easier to sail to.</p>
+        <p>Before the scientists departed, they set up a barber-style pole and sign reflecting the inherently fleeting nature of nature there.</p>
+        <p>The sign read ''North Pole Is Here.'' But Jim Johnson, a colleague of Mr. Osse, scratched out the ''Is'' and scribbled ''Was.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

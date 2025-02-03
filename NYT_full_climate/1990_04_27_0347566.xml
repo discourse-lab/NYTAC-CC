@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A BID FOR SCRAP, TO CUT POLLUTION</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="16" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="347566"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">GASOLINE</classifier>
+        <location class="indexing_service">LOS ANGELES (CALIF)</location>
+        <org class="indexing_service">UNOCAL CORP</org>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D71439F934A15757C0A966958260" item-length="815" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A BID FOR SCRAP, TO CUT POLLUTION</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: For years clean air experts, from government officials to academics, have suggested half in jest that the cheapest way to cut pollution was to scrap old cars that do not meet today's emission standards. Yesterday a California oil company said it would spend $5 million to do just that.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: For years clean air experts, from government officials to academics, have suggested half in jest that the cheapest way to cut pollution was to scrap old cars that do not meet today's emission standards. Yesterday a California oil company said it would spend $5 million to do just that.</p>
+        <p>For years clean air experts, from government officials to academics, have suggested half in jest that the cheapest way to cut pollution was to scrap old cars that do not meet today's emission standards. Yesterday a California oil company said it would spend $5 million to do just that.</p>
+        <p>The Unocal Corporation, based in Los Angeles, offered to buy 7,000 of the oldest and dirtiest cars in the Los Angeles area. Each owner will get $700 and a one-month bus pass. The cars, which probably have a market value far less than that, will be recycled.</p>
+        <p>Unocal is taking the step on its own and not to meet any government requirement. But it is not acting in a vacuum; it made the announcement as many oil companies, including several competitors, are moving voluntarily to change the recipe of their gasoline to reduce air pollution in Los Angeles and add to good will.</p>
+        <p>Recipe changes are premature. said Unocal's chairman and chief executive, Richard J. Stegemeier, who noted that the oil companies and automobile manufacturers recently began joint testing of a variety of combinations of fuel and hardware changes to reduce emissions.</p>
+        <p>'Hearing From Everybody'</p>
+        <p>But Unocal felt it must do something, he said in a telephone interview, adding, ''We're hearing from everybody -our customers, our shareholders and the communities in which we live -that corporations need to pay their dues, so to speak, for the operations that we engage in.''</p>
+        <p>Scrapping old and dirty cars has long been seen as a cheaper way to cut air pollution than requiring that new cars, which are already relatively clean, be made even cleaner. Experts said yesterday that no one had yet initiated a program of buying and scrapping cars before the era of pollution controls.</p>
+        <p>Regulations have largely left drivers alone and focused on steps to be taken by big corporations, like making new cars better, and more recently, making gasoline cleaner. Unocal's demonstration bounty program, with enough financing to buy 1.7 percent of the older cars in the region, is a different approach, involving tinkering with the used-car market.</p>
+        <p>''It's a neat idea,'' said Alan Van Arsdale, an air pollution expert at the Northeast States for Coordinated Air Use Management, in Boston, a group that has forced gasoline changes in New England, New Jersey and New York. ''It's an idea that a lot of people have been talking about.''</p>
+        <p>The Ingredients of Smog</p>
+        <p>Cars built before the introduction of the catalytic converter, in 1975, produce substantially larger amounts of carbon monoxide, a poison, and nitrogen oxides and unburned hydrocarbons, two major ingredients of ground-level ozone. (The third is sunlight, of which Los Angeles has a surfeit.) Cars without catalytic converters can produce 50 grams or more of carbon monoxide for every mile they are driven, but cars built in 1975 and later are designed to produce no more than 20.7 grams a mile, and those built to current California standards produce 1.8 grams a mile.</p>
+        <p>Experts have long argued that relativelly small numbers of old cars create a disproportionately large amount of air pollution.</p>
+        <p>Substantial Premium Seen</p>
+        <p>Unocal's solution is to offer a flat $700 per car for pre-1971 models, a price the company believes represents a substantial premium above market value in many cases. Beginning on May 2, interested owners may call, toll free, 1-800-UNOCAL-1.</p>
+        <p>The company plans to advertise its program in English and Spanish, Unocal said, and will have up to 30 people at a junkyard to handle up to 12 cars an hour, 40 hours a week. The car must have been registered in the Los Agneles Basin for at least six months, the company added.</p>
+        <p>Mr. Stegemeier said the scrap metal value of the cars was ''probably $10 or $20 each.''</p>
+        <p>If the buyout program achieves its goal of 7,000 vehicles, that would represent only 1.7 percent of the 410,000 pre-1975 vehicles registered in the area. Thus, Unocal said, the program is not a solution to air pollution, but a demonstration program that may inspire other companies to do the same.</p>
+        <p>''Sixty percent of smog comes from mobile sources, cars and trucks,'' Mr. Stegemeier said. ''Thirty percent is coming from pre-1975 automobiles. If you want to make a big impact in a hurry, this is by far the quickest and most cost-effective way.''</p>
+        <p>Free Tune-Ups Planned</p>
+        <p>Unocal also said it would offer free tune-ups for pre-1975 cars. The tune-up program could cost more than $5 million, depending on how many drivers participate, the company said.</p>
+        <p>California cars must pass a ''smog check'' test every other year, and the free tune-ups would be offered in the ''off'' year. Labor would be free but parts would be extra, and would be installed only with the driver's permission, Unocal said.</p>
+        <p>Company officials acknowledged that the free offer could generate extra paid business at its Unocal Protech service stations.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

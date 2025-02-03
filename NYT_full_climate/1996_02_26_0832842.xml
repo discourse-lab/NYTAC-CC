@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>60-M.P.H. Winds Kill Three and Cause Severe Damage</title>
+    <meta content="26" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="832842"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">BLACKOUTS (ELECTRICAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">WIND</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">KENNEDY, SHAWN G</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Blackouts and Brownouts (Electrical)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wind</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960226T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE5DC1139F935A15751C0A960958260" item-length="1277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>60-M.P.H. Winds Kill Three and Cause Severe Damage</hl1>
+      </hedline>
+      <byline class="print_byline">By RANDY KENNEDY</byline>
+      <byline class="normalized_byline">KENNEDY, SHAWN G</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Fierce winds that whipped to more than 60 miles per hour caused at least three deaths in the metropolitan region yesterday along with severe damage to some homes and businesses, as gusts uprooted trees, peeled roofs away and contributed to the collapse of at least two buildings in Brooklyn.</p>
+        <p>In Midwood, Brooklyn, a sharp gust ripped a tree from its roots and sent it flying across the street, where it crushed a 40-year-old construction worker, the police said. The worker, who was not identified, was pronounced dead from head injuries at the scene of the accident at about 3 P.M.</p>
+      </block>
+      <block class="full_text">
+        <p>Fierce winds that whipped to more than 60 miles per hour caused at least three deaths in the metropolitan region yesterday along with severe damage to some homes and businesses, as gusts uprooted trees, peeled roofs away and contributed to the collapse of at least two buildings in Brooklyn.</p>
+        <p>In Midwood, Brooklyn, a sharp gust ripped a tree from its roots and sent it flying across the street, where it crushed a 40-year-old construction worker, the police said. The worker, who was not identified, was pronounced dead from head injuries at the scene of the accident at about 3 P.M.</p>
+        <p>And in Farmington, Conn., a man and his 6-year-old son were killed when the  wind splintered a towering pine tree and sent it crashing onto their car, critically injuring three other passengers. The man, Anthony Bouckums, 44, and his son Christopher were killed instantly when the tree crushed the car, the police said. Early today, Mr. Bouckums's wife, Alexia, 41, and another son, Miles, 7, were in critical condition. A daughter, Sarah, 10, was in stable condition.</p>
+        <p>As thousands of New Yorkers ventured out to take advantage of the unusual springlike temperatures and cloudless blue skies, the wind proved more than just an annoyance for long-anticipated Sunday outings.  Police and fire officials reported scores of incidents in which gusts blew trees and telephone poles onto  roads and houses, shattered windows in high-rise buildings and knocked out power to more than 100,000 homes in New York and New Jersey.</p>
+        <p>In Borough Park, Brooklyn, a gust tore part of the facade from a three-story  apartment building, forcing dozens of residents from their homes. At Ocean Parkway and Avenue U in Gravesend, Brooklyn, a two-story wood-frame building under construction collapsed with two workers on the roof, leaving the workers shaken but not injured and reducing the building to a pile of splintered timber.</p>
+        <p>Fire officials also reported that at Broadway and 74th Street, part of the marquee on the Beacon Theater was ripped loose and dangled dangerously over the  sidewalk before a crew shored it up.</p>
+        <p>George Semidey, a spokesman for the Fire Department, said firefighters responded to dozens of requests throughout the day for help, mostly in Queens, where streets signs, utility poles, trees and awnings were brought down by knifelike gusts. "We've been running around to these kinds of things like crazy  today," he said.</p>
+        <p>In New Jersey, where the National Weather Service issued a high-wind warning  for Bergen, Essex, Hudson, Passaic and Union counties, officials reported that a man in Newark was struck by a sign that blew off of a building and that gusts of more than 50 miles per hour tore part of the roof from a fraternity house at the New Jersey Institute of Technology.</p>
+        <p>Meteorologists said the northwesterly winds were clocked at up to 70 miles per hour in parts of the Hudson Valley near Albany, 66 miles per hour in Ossining in Westchester County and 55 in parts of New York City, churning the Hudson and East Rivers into whitecaps and causing the cancellation of ferry service to Ellis Island and Liberty Island.</p>
+        <p>As bad as the gusts were in the metropolitan region, conditions were worse farther north, where a winter storm left more than a foot of snow in the Adirondack Mountains before moving north. Todd Miner, a meteorologist with the Pennsylvania State Weather Communications Group, said the area worst hit was Mount Washington in northern New Hampshire, an area known for high winter winds, where snow and heavy fog combined with sustained winds of more than 100 miles per hour and gusts reaching 120.</p>
+        <p>But in New York City, for whatever frustration it caused, the wind actually helped bring temperatures up to an almost balmy high of 64 degrees, Mr. Miner said. "Even though if feels like the wind makes it colder when you go outside, the actual temperature of the air if there were no wind would be a few degrees colder," he said, explaining that the wind caused an effect meteorologists call  "compressional warming," in which air is swept into the city from higher elevations and warmed on its way.</p>
+        <p>But for many, the wind only served to wreak havoc and inconvenience. In New Jersey, more than 37,000 residents lost power for part of yesterday, including 25,000 Jersey City Power and Light customers. In central New York, 10,000 to 20,000 customers lost power on Saturday night and early yesterday, according to  a spokeswoman for the Niagara Mohawk Power Corporation. As of 1 A.M., there were about 57,000 homes in Connecticut without power.</p>
+        <p>For people who took to the parks and streets yesterday, emerging squinty-eyed to bask in dazzling sunshine and the sixth day in a row of springlike temperatures, there was no expression of gratitude.</p>
+        <p>It was a day of watery eyes, gritty teeth and cyclones of trash and leaves that caused people to crouch down as if dodging bullets. People with long hair found it plastered across their faces. Coats were blown upward and turned inside out over the heads of cursing pedestrians.</p>
+        <p>But many were determined to catch the fleeting sunshine before winter as usual returns later this week. At Battery Park, Emmanuelle Boucraut, 24, was determined that a picture would be taken to memorialize her trip to New York City and the brilliant sample of spring that graced it yesterday. The trouble was that her scarf would not cooperate.</p>
+        <p>Just as she straightened her sunglasses for the third time, smiled big and braced against the wind, a tremendous gust wrapped the black scarf all the way around her head. "Oh, pooh!" she said, as she stumbled around blindly and her husband, Sebastien, grinning, snapped away.</p>
+        <p>On the Promenade in Brooklyn Heights, the wind was not blowing or screaming,  but thundering, turning the water in the harbor muddy brown with white crests and causing it to pound the rusty lighterage piers.</p>
+        <p>Marvin Holland, a Federal Court judge for the Eastern District of New York, was trying to enjoy the sun nonetheless. "I wanted to go rollerblading, but I knew I'd never be able to get back up wind from where I started," he said, but added loudly into the wind: "It's an exhilarating day. It's a marvelous end to six weeks of cabin fever.' "</p>
+        <p>In Central Park, people dressed uncertainly, some in the heavy layers of winter, which they began to peel off under the sun.</p>
+        <p>But the wind plagued even the smallest. Near the Boat House, a tiny Yorkshire terrier struggled as it tried to walk against the stiff breeze. Exhausted, the dog looked pleadingly at his owner, who picked him up and tucked him into his coat.</p>
+        <p>The pleasant reprieve from winter is expected to last until Wednesday night,  Mr. Miner said, but already a very strong cold front is making its way through the Rocky Mountains toward the region. When it arrives, he said, it will combine with a cold air mass over Canada and will plunge temperatures back into the teens by Thursday morning.</p>
+        <p>"That air up in Canada has been waiting to pay us a visit," Mr. Miner said. "And when it does on Thursday, it's going to be a real reality check."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

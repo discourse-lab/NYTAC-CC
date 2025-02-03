@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ball for Cleaner Air</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="211588"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="WASHINGTON TALK: BRIEFING"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">PRESIDENTS AND PRESIDENCY (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INAUGURATIONS</classifier>
+        <org class="indexing_service">RENEW AMERICA</org>
+        <org class="indexing_service">CLEAN FUELS DEVELOPMENT COALITION</org>
+        <person class="indexing_service">SHABECOFF, PHILIP</person>
+        <person class="indexing_service">BINDER, DAVID</person>
+        <object.title class="indexing_service">WASHINGTON TALK PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE6D81739F936A35752C0A96F948260" item-length="240" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ball for Cleaner Air</hl1>
+      </hedline>
+      <byline class="print_byline">By Philip Shabecoff and David Binder</byline>
+      <byline class="normalized_byline">SHABECOFF, PHILIP; BINDER, DAVID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: On Inauguration Eve, two environmental groups will sponsor a ball to raise public awareness of air pollution and its effects, specifically how the atmosphere traps pollutants under the sun's heat, like a greenhouse, in a way that is some think will raise the Earth's temperature. The ball will be held in a greenhouse.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: On Inauguration Eve, two environmental groups will sponsor a ball to raise public awareness of air pollution and its effects, specifically how the atmosphere traps pollutants under the sun's heat, like a greenhouse, in a way that is some think will raise the Earth's temperature. The ball will be held in a greenhouse.</p>
+        <p>On Inauguration Eve, two environmental groups will sponsor a ball to raise public awareness of air pollution and its effects, specifically how the atmosphere traps pollutants under the sun's heat, like a greenhouse, in a way that is some think will raise the Earth's temperature. The ball will be held in a greenhouse.</p>
+        <p>The two groups concerned with reducing pollution, Renew America and the Clean Fuels Development Coalition, are sponsoring a ''Clean Air Inaugural Ball'' on Jan. 20 in the United States Botanic Garden Conservancy, an elegant greenhouse at the foot of Capitol Hill.</p>
+        <p>The event is co-sponsored by environmental groups, clean energy organizations, members of Congress, William K. Reilly, who was recently named by President-elect George Bush to head the Environmental Protection Agency, and Manuel Lujan Jr., designated as Secretary of the Interior. Among the members of the ball committee are the American Gas Association, the Oxygenated Fuels Association and the American Corn Growers Association, which wants to make clean-burning ethanol fuel from corn.</p>
+        <p>''What better place to hold an environmental event than the most beautiful national greenhouse?'' said Tina C. Hobson, executive director of Renew America.</p>
+        <p>Admission to the ball is on a first come, first served basis. Tickets are $100 per person, with the proceeds going to support educational programs for clean air. Dress is black tie and green thoughts.</p>
+        <p>WASHINGTON TALK: BRIEFING</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Norwegian Nibbles</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Arts and Leisure Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="2" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Theater; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="236573"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <series series.name="FOOD ON STAGE"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">THEATER</classifier>
+        <person class="indexing_service">STRINDBERG, AUGUST</person>
+        <person class="indexing_service">KOHL, J C</person>
+        <person class="indexing_service">GUSSOW, MEL</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Theater/News and Features</classifier>
+        <classifier class="online_producer" type="general_descriptor">Theater</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890402T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE4DC163DF931A35757C0A96F948260" item-length="288" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Norwegian Nibbles</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Mel Gussow's ''nary a nibble in the kitchen of 'Miss Julie' ''  [ ''The Curtain Rises on Kelp Lasagna and Chopped Liver,'' Feb. 26 ]  is language worthy of Oscar Wilde but, unfortunately, inaccurate. Strindberg uses food quite deliberately during the first scene in ''Miss Julie'' to establish relationships and to reveal personalities.</p>
+        <p>Kristin, the cook, prepares a meal for Jean, the valet, which he hopes is ''tasty.'' The food is, she says in the Sprigge translation, ''just a little bit of kidney I cut off their joint.'' Jean allows as kidney is his ''special delice,'' but chastises her for not warming the plate. Kristin then offers Jean a beer, which he refuses for ''something better than that'' as he produces a bottle of wine which he has taken from the Count's cellar; he proceeds to instruct her on its label and value.</p>
+        <p>Thus, in a short conversation about food and drink, Strindberg has revealed a sensual, class-conscious valet and a pilfering cook. Later, Jean uses the bottle of wine to humiliate the fallen Miss Julie, who prefers beer, as she recognizes herself as an accomplice to a petty thief. Strindberg's Naturalism would dictate food on the play's kitchen table.  J. C. KOHL  Poughkeepsie, N.Y.</p>
+        <p>Mel Gussow replies: Rechecking the Strindbergian menu, one is surprised to discover not only nibbles in the kitchen of ''Miss Julie'' but also hot chocolate in ''The Stronger'' and a steady flow of food and wine in other cafes and creameries visited in the works of the august playwright. The captain in ''Dance of Death,'' a confirmed epicurean, drinks grog and smacks his lips over remembered veal. In the case of Strindberg, there is a healthy appetite in a wintry climate.</p>
+        <p>FOOD ON STAGE</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

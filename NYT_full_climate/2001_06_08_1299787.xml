@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Lots of Finger-Pointing Over Mercury in Cars</title>
+    <meta content="08MERC$02" name="slug"/>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Automobiles" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Automobiles" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/06/08/automobiles/08MERC.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1299787"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Mercury (Metal)</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <org class="indexing_service">Clean Car Campaign</org>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <person class="indexing_service">Motavalli, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Metals and Minerals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <org class="online_producer">DaimlerChrysler AG</org>
+        <org class="online_producer">General Motors Corporation</org>
+        <org class="online_producer">Alliance of Automobile Manufacturers</org>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010608T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E05E5DA113FF93BA35755C0A9679C8B63" item-length="725" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Lots of Finger-Pointing Over Mercury in Cars</hl1>
+      </hedline>
+      <byline class="print_byline">By JIM MOTAVALLI</byline>
+      <byline class="normalized_byline">Motavalli, Jim</byline>
+      <abstract>
+        <p>Clean Car Campaign, coalition of environmental groups, is trying to persuade automakers not only to stop using mercury in car parts but to take responsibility for toxic element in millions of existing vehicles, in parts such as headlamps, antilock braking systems and light switches; industry agrees to phase out most mercury switches by end of 2001 model year but is balking at monumental effort to remove those now in use; mercury accumulates in water and was declared hazardous air pollutant by EPA in 1971, but is still used in many industrial processes; most European and Japanese automakers stopped installing mercury convenience switches in mid-1990's (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHAT do your car's high-intensity headlamps, antilock brake system, navigation screen and trunk-  or hood-mounted light switches have in common? All may contain mercury, a highly toxic element.</p>
+        <p>The Clean Car Campaign, a coalition of environmental groups, is trying to persuade automakers not just to stop using mercury, but to take responsibility for what is in millions of vehicles on the road. The industry has agreed to phase out most mercury switches by the end of the 2001 model year, but is balking at the monumental effort required to remove existing switches.</p>
+      </block>
+      <block class="full_text">
+        <p>WHAT do your car's high-intensity headlamps, antilock brake system, navigation screen and trunk-  or hood-mounted light switches have in common? All may contain mercury, a highly toxic element.</p>
+        <p>The Clean Car Campaign, a coalition of environmental groups, is trying to persuade automakers not just to stop using mercury, but to take responsibility for what is in millions of vehicles on the road. The industry has agreed to phase out most mercury switches by the end of the 2001 model year, but is balking at the monumental effort required to remove existing switches.</p>
+        <p>Charles Griffith, auto project director at the Ecology Center in Ann Arbor, Mich., one of the groups in the coalition, said it was not necessarily calling on automakers to recall cars with the switches, but wanted them to agree to remove the devices voluntarily when the vehicles are brought in for service or are recalled for other reasons.</p>
+        <p>Mercury accumulates in water and in the tissues of humans, fish and animals, and was declared a hazardous air pollutant by the Environmental Protection Agency in 1971. Mercury is slowly being phased out of many uses, including thermometers, but it is still used in many industrial processes and is present in fluorescent lights, thermostats, appliances and toys like maze puzzles.</p>
+        <p>Michael Bender, executive director of the Mercury Policy Project, a group in Montpelier, Vt., that seeks the elimination of mercury, said the auto industry installed 10 tons of the element in car switches in 1995. That amount has been sharply reduced, though precise figures are not available.</p>
+        <p>Most European and Japanese automakers stopped installing mercury convenience-light switches in the mid-1990's; those switches are now used in only a few Ford and General Motors vehicles. But even as the switches are being phased out, domestic and foreign companies are equipping cars with headlamps, brake components and navigation systems that contain mercury.</p>
+        <p>The auto industry is not the leading source of mercury, Mr. Bender said, ''but it's definitely a significant source.'' He points to coal-fired power plants and waste incinerators as the prime sources of airborne mercury in the United States. Mr. Griffith says the mercury in auto switches is released into the atmosphere when steel recovered from scrapped automobiles is melted down in arc furnaces.</p>
+        <p>Dr. Robert J. Kainz, a senior manager for pollution prevention at DaimlerChrysler, said that only two of the company's products, the Jeep Cherokee and Wrangler, still had mercury antilock-brake switches.</p>
+        <p>''There are better ways of handling this problem than going after the carmakers,'' Dr. Kainz said. ''Eighty-seven percent of the mercury going out into the atmosphere is coming from utility boilers, waste combustors, coal-fired power plants, cement plants and medical incinerators.'' Mr. Kainz also said DaimlerChrysler's records did not consistently identify which cars or trucks actually had mercury switches, making any systematic recall and removal difficult.</p>
+        <p>Five states have laws that either put restrictions on the use, sale or disposal of mercury, or that require product labels. Similar bills are pending in 15 state legislatures. In New York, the Comprehensive Management of Waste Mercury Act, which has 40 co-sponsors and is before the Assembly's Rules Committee, puts the onus on manufacturers to remove mercury switches. Bills pending in California and Oregon would require auto dismantlers to remove mercury switches before cars could be crushed.</p>
+        <p>The auto industry has lobbied against producer-responsibility laws, arguing that it is phasing out mercury on its own. Gregory Dana, vice president for environmental affairs at the Alliance of Automobile Manufacturers, said G.M., Ford and DaimlerChrysler began removing mercury from products in 1995, under an agreement with Michigan. Switches in existing cars should be removed when the car is scrapped, he said, adding: ''The recyclers are already taking out the gasoline, oil and air-conditioner refrigerant. It's a simple add-on for them to rip out the mercury switches.''</p>
+        <p>But the Automotive Recyclers Association and the Institute of Scrap Recycling Industries say they have little financial incentive to take on the task, since each switch includes only a gram of mercury, and the element is trading for less than $2 a pound. William P. Steinkuller, executive vice president of the auto recycling group, said: ''The auto manufacturers engineered the vehicles to include mercury switches, produced the product and profited from it. It defies logic that they now want to deny any responsibility and put the onus on dismantlers.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

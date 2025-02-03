@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Delhi Prepares Attempt to Control Pervasive Pollution</title>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="263659"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">FOOD CONTAMINATION AND POISONING</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <location class="indexing_service">NEW DELHI (INDIA)</location>
+        <org class="indexing_service">WORLD HEALTH ORGANIZATION (WHO)</org>
+        <person class="indexing_service">CROSSETTE, BARBARA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/India</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Food and Wine</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India/New Delhi</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/India</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food Contamination and Poisoning</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890704T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEED61F30F937A35754C0A96F948260" item-length="732" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Delhi Prepares Attempt to Control Pervasive Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By BARBARA CROSSETTE</byline>
+      <byline class="normalized_byline">CROSSETTE, BARBARA</byline>
+      <dateline>NEW DELHI</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: THE Indian capital, the haphazard amalgam of a walled Mogul town, a majestic imperial quarter of British design and a welter of expanding slums that fill up the empty spaces, is also a city of multiple environmental hazards, a World Health Organization report says.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: THE Indian capital, the haphazard amalgam of a walled Mogul town, a majestic imperial quarter of British design and a welter of expanding slums that fill up the empty spaces, is also a city of multiple environmental hazards, a World Health Organization report says.</p>
+        <p>THE Indian capital, the haphazard amalgam of a walled Mogul town, a majestic imperial quarter of British design and a welter of expanding slums that fill up the empty spaces, is also a city of multiple environmental hazards, a World Health Organization report says.</p>
+        <p>Five million of the Delhi metropolitan area's 8.2 million people do not have toilets at home, 30 percent of the food sold by street vendors is seriously contaminated, and 1.3 million vehicles as well as 60,000 to 70,000 unregulated factories are poisoning the air, says the report, prepared for the city's Lieutenant Governor, Romesh Bhandari.</p>
+        <p>Last month, Mr. Bhandari, a former diplomat committed to enhancing the quality of city life, put three groups to work on Delhi's problems. They will look at water, air, food and hygienics. The challenges are immense in each area, said the World Health Organization's regional team, which completed the study in January.</p>
+        <p>The report said many of Delhi's environmental problems could be traced to recent migrations from the countryside to the city. When India gained its independence in 1947, Delhi had only 800,000 people and about 11,000 motor vehicles. Skyrocketing Costs</p>
+        <p>Half of Delhi's residents live below India's urban poverty line - that is, a monthly income of $10.65 (170 rupees) or less. Their plight is complicated by skyrocketing rents and other increases in the cost of living that keep them in their squatter settlements along the Jamuna River, around the city fringes, and on other small plots of open land. Many never leave the sidewalks.</p>
+        <p>Even in houses, many Delhi residents live without a regular water supply, garbage collection or a connection to a sewage system.</p>
+        <p>''Solid waste management services for domestic, industrial and commercial areas in the city are grossly inadequate, resulting in a nauseating environment with foul smells, insects breeding and rodents posing a problem,'' the report says.</p>
+        <p>It says all of Delhi's sewerage, treated or not, ends up in the Jamuna River. Much of the garbage and trash piles up in neighborhood heaps, where dogs, cats, rats, large birds, cows and poor people scavenge.</p>
+        <p>The World Health Organization report says many of the city's tens of thousands of industries operate without health controls. The study described them as ''cramped, poorly lighted, ill-ventilated spaces with atmospheres full of dust, gas, vapors and fumes.'' It said the use of child labor was common.</p>
+        <p>''For both small and large industry,'' the report says, ''hazardous wastes, especially large quantities of sludges, simply go to municipal landfills, where they pose a danger to landfill operators, scavengers and groundwater.'' Hepatitis and Cholera</p>
+        <p>Delhi's air, the report says, is polluted by tons of particulate matter, hydrocarbons, sulfur dioxide, nitrogen oxides, carbon monoxide, fluorides and other chemicals. Noise levels are also higher than internationally acceptable, the study says.</p>
+        <p>The city's air, water and food supplies are contributing to regular outbreaks of infectious diseases and respiratory problems, the health organization's team and other experts in epidemiology said.</p>
+        <p>Delhi suffers annual outbreaks of hepatitis. In the summer of 1988, it also had a cholera epidemic. Gastroenteric illnesses are common.</p>
+        <p>The report now being studied by Mr. Bhandari, who serves as a federally appointed chief administrator of the capital territory, says that 20 percent of water collected from carts run by street vendors had high levels of coliform bacteria from human feces, as did 30 percent of food from food stalls, which also showed a high incidence of salmonella.</p>
+        <p>Many restaurants are also suspect, even though they may display inspection certificates. The report does not say so, but it is common knowledge in this city, as elsewhere in India, that the small number of overworked, poorly paid inspectors in food services or industry are often easily bribed.</p>
+        <p>Mr. Bhandari's three working groups are now looking for ways to put into practice the dozens of short-term and long-term recommendations the report made.</p>
+        <p>Although financial constraints are an impediment to quick solutions, the report notes that Delhi has the scientific expertise to solve its problems. ''Therefore,'' it concludes, ''the immediate need seems to be the development of action plans and forging ahead with their implementation.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

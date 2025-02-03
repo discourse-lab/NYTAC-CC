@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Promises Turning Into Snowmen</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Cultural Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Arts" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="817543"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <series series.name="CRITIC'S NOTEBOOK"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">REVIEWS</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEVISION</classifier>
+        <classifier class="indexing_service" type="descriptor">NEWS AND NEWS MEDIA</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">GOODMAN, WALTER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Television</classifier>
+        <classifier class="online_producer" type="general_descriptor">News and News Media</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B02E6D71439F932A15751C1A963958260" item-length="679" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Promises Turning Into Snowmen</hl1>
+      </hedline>
+      <byline class="print_byline">By WALTER GOODMAN</byline>
+      <byline class="normalized_byline">GOODMAN, WALTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Let it snow! Let it snow! Let it snow!</p>
+        <p>The week began with promises: 8 to 12 inches in the city; as much as two feet in the northern and western suburbs. The television weather prophets, with their giddy maps and incomprehensible satellite pictures and their meteorological lingo and their Winter Storm and Coastal Flood Warnings, led off the local news, coming even before the live pictures of the day's killings and long before the end-of-program spots to which they are usually relegated. Powerful moisture-packed systems were slouching toward us from Oklahoma -- see what a mess -- the way New York sends its garbage to distant places.</p>
+      </block>
+      <block class="full_text">
+        <p>Let it snow! Let it snow! Let it snow!</p>
+        <p>The week began with promises: 8 to 12 inches in the city; as much as two feet in the northern and western suburbs. The television weather prophets, with their giddy maps and incomprehensible satellite pictures and their meteorological lingo and their Winter Storm and Coastal Flood Warnings, led off the local news, coming even before the live pictures of the day's killings and long before the end-of-program spots to which they are usually relegated. Powerful moisture-packed systems were slouching toward us from Oklahoma -- see what a mess -- the way New York sends its garbage to distant places.</p>
+        <p>Earthwatch, Stormwatch and Stormtrack were unanimous. "That low will feed its energy into this low," explained the refined gent on Channel 2, while the less elegant fellow on Channel 11 spoke of "the guts of the storm." And how about that high pressure sitting up there in Canada? Anyhow, all agreed we were  in for ice, sleet, drifts and their concomitant miseries. "A double whammy!" exulted the man on Channel 9, delivering the Pinpoint Forecast. Adjectives like  "crippling" and "treacherous" were heard everywhere.</p>
+        <p>Some of the forecasters sounded cheery. "We're about to get clobbered," brightly announced a woman on Channel 4. Others looked as serious as the sports  announcers on Monday Night Football. The Nextrad Precision Radar told of a blizzard, and Accu-Weather called it a tornado. "Make sure your pets are secure," someone advised, amid cautions everywhere not to drive, not to shovel,  not to venture out.</p>
+        <p>Swell advice, if, like me, you had nothing more important to do than stay home and watch television.</p>
+        <p>Tuesday began a touch disappointingly. At midday, only a bare few inches had  fallen, hardly enough to give a heart attack to even the oldest shoveler. Shadow Traffic told of slick roads, and reporters at LaGuardia and Newark airports told of delays and cancellations, but trains and buses were running pretty much on schedule, and the screen was short on suffering.</p>
+        <p>The storm was just not living up to expectations. Although by the afternoon New Jersey was putting on a pretty good show, predictions of inches dropped. There was some sheepishness. A reporter braving a Long Island road where traffic seemed to be moving about as slowly as usual conceded, "We have seen worse." Producers had to go to Champaign, Ill., to find pictures of a jackknifed tractor-trailer truck.</p>
+        <p>Yet trust in those lows remained high. The snow line was advancing. "The worst is yet to come," a reporter on Channel 2 assured fans, and by drive-home time Tuesday, what several reporters inventively called the white stuff was coming down more seriously. Driving was at a crawl, and holiday fliers were out  of luck. The suggestion was that you should stay home Wednesday if you could afford it, and all channels invited viewers to tune in for the most comprehensive reports on the unpleasantness that would afflict them should they  step outside.</p>
+        <p>By yesterday morning, the snow was at heart-attack depth, and it kept falling. We were shown taxis slushing along in Manhattan. "It's not over yet!" a reporter declared triumphantly. In a late-game turnaround, the area was on the way to reaching its 12-inch quota. And, hey, it looked as if Boston was in for it, too.</p>
+        <p>The weather folk deserved to do a little hot-dogging. "We're in this together," said a Channel 2 man. Well, not all together. The reporters out there in the cold and the flurries were bringing to people who did not have to leave home the fun of watching how difficult urban life could be for the people who did.</p>
+        <p>So, cheers to the local channels for as warming a few days of element viewing as they have ever provided for the indoor element who had the tube to keep us warm.</p>
+        <p>CRITIC'S NOTEBOOK</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

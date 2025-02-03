@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>OCT. 1-7: Reaching the O's; Hurricane Opal Latest In a Season of Storms</title>
+    <meta content="8" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Week in Review" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="795575"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HURRICANES AND TROPICAL STORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">HURRICANE OPAL</classifier>
+        <person class="indexing_service">STEVENS, WILLIAM K</person>
+        <person class="indexing_service">GRAY, WILLIAM M (PROF)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951008T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CEFD71F3AF93BA35753C1A963958260" item-length="271" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>OCT. 1-7: Reaching the O's; Hurricane Opal Latest In a Season of Storms</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K STEVENS</byline>
+      <byline class="normalized_byline">STEVENS, WILLIAM K</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The supercharged 1995 Atlantic hurricane season finally delivered a major blow to the United States mainland last week. Surprising the experts, Hurricane Opal slammed into Florida's Gulf Coast Thursday with peak gusts of 145 m.p.h., killing at least 19 people and causing $1.8 billion in damages -- the third most destructive storm after Hurricane Andrew in 1992 and Hurricane Hugo in 1989.</p>
+        <p>The surprise came because the storm blossomed overnight from a minimal hurricane to a strong Category 4 on the Saffir-Simpson scale of intensity, the second most powerful category. It dropped back to a Category 3 before making landfall but still qualified as one of four severe hurricanes in the Atlantic basin this year -- one more than predicted for the season by Dr. William M. Gray of Colorado State University. It was also the ninth of nine hurricanes predicted in all by Dr. Gray, and the 15th tropical storm of the season strong enough to be named. Never before had the naming of the storms reached as far as O in the alphabet.</p>
+      </block>
+      <block class="full_text">
+        <p>The supercharged 1995 Atlantic hurricane season finally delivered a major blow to the United States mainland last week. Surprising the experts, Hurricane Opal slammed into Florida's Gulf Coast Thursday with peak gusts of 145 m.p.h., killing at least 19 people and causing $1.8 billion in damages -- the third most destructive storm after Hurricane Andrew in 1992 and Hurricane Hugo in 1989.</p>
+        <p>The surprise came because the storm blossomed overnight from a minimal hurricane to a strong Category 4 on the Saffir-Simpson scale of intensity, the second most powerful category. It dropped back to a Category 3 before making landfall but still qualified as one of four severe hurricanes in the Atlantic basin this year -- one more than predicted for the season by Dr. William M. Gray of Colorado State University. It was also the ninth of nine hurricanes predicted in all by Dr. Gray, and the 15th tropical storm of the season strong enough to be named. Never before had the naming of the storms reached as far as O in the alphabet.</p>
+        <p>The Earth's climate is warming, and some experts say that should bring more and stronger hurricanes. Dr. Gray did not need to rely on their forecast, unsubstantiated so far by evidence. He arrived at his predictions through an analysis of conventional climatic patterns, including rainfall in the Sahel area of Africa where hurricanes germinate.</p>
+        <p>Does worse lie ahead as the 1995 season winds down? A day after Hurricane Opal's passage, tropical storm Pablo appeared in the Atlantic -- the 16th named storm of the year, exactly as many as predicted by Dr. Gray. WILLIAM K. STEVENS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

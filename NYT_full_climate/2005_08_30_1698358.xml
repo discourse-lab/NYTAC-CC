@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Road to Hell Is Clogged With Righteous Hybrids</title>
+    <meta content="30tierney" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/08/30/opinion/30tierney.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1698358"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Columnist"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="indexing_service" type="descriptor">Fuel Efficiency</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <classifier class="indexing_service" type="descriptor">Car Pools</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <location class="indexing_service">Virginia</location>
+        <person class="indexing_service">Tierney, John</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/John Tierney</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Virginia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Virginia</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Car Pools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <person class="online_producer">Tierney, John</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050830T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C04E7DB1631F933A0575BC0A9639C8B63" item-length="820" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Road to Hell Is Clogged With Righteous Hybrids</hl1>
+        <hl2 class="online_headline">The Road to Hell Is Clogged With Righteous Hybrids</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN TIERNEY; Nicholas D. Kristof is on vacation.</byline>
+      <byline class="normalized_byline">Tierney, John</byline>
+      <dateline>LOS ANGELES</dateline>
+      <abstract>
+        <p>John Tierney Op-Ed column says giving drivers of fuel-efficient and hybrid cars new privileges, such as car pool lanes, will result in dirtier air and more gasoline comsumption, because it will encourage more of them to drive; notes that in Virginia, car pool lanes have become so clogged that advisory panel recommends their banishment; says one change that could speed up traffic and help environment is to convert car pool lanes into high-occupancy toll lanes, reserved for those in car pools, jitneys and buses (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Judgment Day has arrived in California, but not exactly as prophesied. The ones sitting on the right-hand side are the sinners.</p>
+        <p>They're stuck in bumper-to-bumper traffic while the righteous fly past them in the far left lanes. Those freeway lanes used to be reserved for car pools, but they've just been opened to a new group: those of us virtuous enough to drive the right hybrids.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>While new privileges are allowing for more fuel-efficient cars on the road, I'm afraid the net effect will be dirtier air and more gasoline consumption.</p>
+      </block>
+      <block class="full_text">
+        <p>Judgment Day has arrived in California, but not exactly as prophesied. The ones sitting on the right-hand side are the sinners.</p>
+        <p>They're stuck in bumper-to-bumper traffic while the righteous fly past them in the far left lanes. Those freeway lanes used to be reserved for car pools, but they've just been opened to a new group: those of us virtuous enough to drive the right hybrids.</p>
+        <p>I'm not a good enough person yet to own a hybrid, but I've been passing for one. I rented a Toyota Prius for the pleasure of cruising the car pool lanes and parking free at meters, another perk available here in Los Angeles. I've enjoyed it all, especially the envious looks from guys in S.U.V.'s, and I can understand why hybrid drivers in other states and cities are clamoring for similar privileges.</p>
+        <p>But even if these new privileges put more fuel-efficient cars on the road, I'm afraid the net effect will be dirtier air and more gasoline consumption. The promoters of hybrids are committing the sin identified by the ecologist Garrett Hardin in ''The Tragedy of the Commons,'' the 1968 essay providing one of the foundations of environmentalism.</p>
+        <p>The essay's title refers to a pasture that's commonly owned and open to all. Since every individual has an incentive to increase his own herd, the pasture will eventually be destroyed by overgrazing, just as other types of unregulated commons -- the ocean, the atmosphere -- will be damaged by overproduction and pollution when too many individuals pursue their own goals.</p>
+        <p>This seems like an obvious lesson, Hardin wrote, but it must be ''constantly refreshed'' because each new generation repeats the mistake. As an example of ''how perishable the knowledge is,'' he pointed to politicians in a Massachusetts town who declared that people didn't have to pay at parking meters during the Christmas shopping season. By giving away the spaces at a time of peak demand, the town encouraged some people to hog spaces and left everyone else unable to park.</p>
+        <p>That's the same mistake being made with hybrids. In Virginia, where they've been allowed for years in the car pool lanes, the lanes have become so clogged that an advisory committee has repeatedly recommended their banishment. The same problem will occur in California, where some of the car pool lanes were congested even without hybrids.</p>
+        <p>As traffic slows down, there will be more idling cars burning more gas and emitting more pollution, but politicians will be reluctant to offend hybrid owners by revoking their privilege. So it will be harder than ever to make the one change proven to speed up traffic and help the environment: convert the car pool lanes into what engineers call high-occupancy toll lanes.</p>
+        <p>These HOT lanes would be free for the truly virtuous commuters -- those in car pools, jitneys and buses -- and available to anyone else for a toll that would vary with demand. By enticing just enough drivers to maintain a steady flow of high-speed traffic, the HOT lanes could handle many more vehicles per hour than today's car pool lanes, which are usually either too empty or too congested to accommodate the optimum number.</p>
+        <p>With HOT lanes, everyone would come out ahead, drivers as well as environmentalists. As more drivers paid for a guaranteed speedy commute in the left lane, they would leave the regular lanes less clogged, so there would be fewer cars stuck in traffic jams, wasting gas and spewing fumes.</p>
+        <p>With HOT lanes, you could still encourage people to buy hybrids by promising them a discount on the tolls, but there's a fairer way to promote environmental virtue. Instead of arbitrarily rewarding a few cars for having a certain kind of engine, set tolls for all vehicles according to their weight. Since S.U.V.'s and other heavy vehicles require more room to brake, they need more empty pavement between them and the next car, and they should pay extra for it.</p>
+        <p>I realize that many Prius owners would rather have free privileges in the car pool lane than a discount in a HOT lane. But they'd be moving a lot faster, and they would still have one great satisfaction.</p>
+        <p>As they contemplated how much more the Hummer drivers were paying in tolls, devout environmentalists would experience the ''joyful sense'' that Jonathan Edwards predicted for Judgment Day: ''When the saints in glory, therefore, shall see the doleful state of the damned, how will this heighten their sense of the blessedness of their own state, so exceedingly different from it!''</p>
+        <p>Op-Ed Columnist E-mail: tierney@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: tierney@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

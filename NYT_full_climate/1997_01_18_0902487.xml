@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Wintry Air Blows Into New York And Makes Everyone Take Notice</title>
+    <meta content="18COLD$04" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19970121T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="902487"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Purdy, Matthew</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E4DA153BF93BA25752C0A961958260" item-length="1504" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Wintry Air Blows Into New York And Makes Everyone Take Notice</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW PURDY</byline>
+      <byline class="normalized_byline">Purdy, Matthew</byline>
+      <abstract>
+        <p>Bitter cold weather blasts into New York region for first time this winter; temperature in Central Park dips to 11 degrees, and wind chill factor drops to 10 degrees below zero; day's highest reading is 16 degrees; record for day is 2 degrees, set in 1977; hardest hit are homeless, who seek refuge in shelters or heated subway trains; photo; chart (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New York City tramples away snow, chills away heat with a zillion air-conditioners and sheds rain with the flick of a $4 umbrella. But the bitter cold that blasted into the region yesterday for the first time this winter was even a bit much for the city that never notices.</p>
+        <p>Even thick-skinned guys like James Kivlehan, a Wall Street administrator who proudly says ''my friends call me the polar bear,'' found the weather chilly when he rode the open deck of the Staten Island ferry on his morning commute. He was glad he had grabbed his topcoat on the way out of the house, although he took his afternoon cigarette break outside in his shirt sleeves, saying the weather was exhilarating.</p>
+      </block>
+      <block class="full_text">
+        <p>New York City tramples away snow, chills away heat with a zillion air-conditioners and sheds rain with the flick of a $4 umbrella. But the bitter cold that blasted into the region yesterday for the first time this winter was even a bit much for the city that never notices.</p>
+        <p>Even thick-skinned guys like James Kivlehan, a Wall Street administrator who proudly says ''my friends call me the polar bear,'' found the weather chilly when he rode the open deck of the Staten Island ferry on his morning commute. He was glad he had grabbed his topcoat on the way out of the house, although he took his afternoon cigarette break outside in his shirt sleeves, saying the weather was exhilarating.</p>
+        <p>But Wall Street is often bullish against all odds, and as the temperature inched toward the single digits, the wave of cold air arriving from Canada seemed to alter almost everything and everyone it touched. Complaints to city agencies of a lack of heat and hot water tripled yesterday, homeless shelters reported an influx of people and engineers on the Metro-North Commuter Railroad took precautions to keep locomotives from freezing.</p>
+        <p>Among those who were hardest hit were the homeless who sought refuge in shelters or heated subway trains late last night, as the temperature in Central Park dipped to 11 degrees around 11 P.M. and the wind chill factor dropped to 10 degrees below zero. Two hours later, the temperature had dropped another degree.</p>
+        <p>''If I don't fall asleep here,'' said Carl Corde, a 38-year-old homeless man sitting on a bench at the subway station at 42d Street and Lexington Avenue, ''I'll ride the train to Brooklyn and sleep at New Lots Avenue, or ride the train all night. I can't go nowhere else because it is too cold.''</p>
+        <p>On the streets of Manhattan yesterday, people changed their costumes and customs out of deference to the cold.</p>
+        <p>Men in the diamond district rushed along 47th Street, their yarmulkes secured by the bands of their earmuffs. The people strolling along Fifth Avenue were swaddled in fur, like crystal vases wrapped for storage. Ibrahim Abozaid, operating a hot lunch cart on the Avenue of the Americas, had donned his winter uniform: five layers of thermal underwear, flannel and denim topped by a red Hebrew National apron.</p>
+        <p>''We're waiting for winter to finally come,'' said Javed Chan, a bank officer who was out on the street with his hands cupped over his freezing ears. ''Now it is here.''</p>
+        <p>At the center for the homeless at Bellevue Hospital last night, all but two of the beds had been taken by 9 P.M., even though some of the men who went to the shelter feared that it might not be the best place for them to get out of the cold.</p>
+        <p>''Someone like me shouldn't be coming here,'' said Richard Rodriguez, 40, who has AIDS.</p>
+        <p>''I don't know what the guys staying here have,'' he said. ''They may have TB, and if I get it, it would kill me. But if I don't spend the night here, I'll have to take my chances sleeping on the subway trains.''</p>
+        <p>The temperature was 14 degrees in Central Park at 7 A.M. yesterday. The day's highest reading at Central Park was 16 degrees at 2 P.M. Temperatures were expected to return to the mid-teens today before warming up above 20 degrees tomorrow.</p>
+        <p>Although yesterday's temperature was well above the record of 2 degrees for the day, set in 1977, the wind chill factor made it feel like 19 below zero yesterday morning.</p>
+        <p>Fred Gadomski, a meteorologist at Pennsylvania State University, said that although the temperatures are not close to records, ''this is the type of cold outbreak that typically occurs every two to three winters in the northeastern United States.''</p>
+        <p>Mr. Gadomski said the region was feeling the effects of a mass of cold air that developed over the frozen tundra of northern Canada and swept into the United States during the last several days, causing freezing temperatures and snowstorms over the Great Lakes. He said the air mass hit North Dakota and the rest of the northern plains a couple of days ago and has steadily moved to the east and south, slashing temperatures everywhere it went.</p>
+        <p>In Chicago and Pittsburgh, temperatures hovered just above zero yesterday. At noon yesterday, temperatures in New Orleans were in the mid-30's. In Miami, it was 59. ''Generally, all throughout the eastern United States, it's much colder than normal,'' Mr. Gadomski said. ''No place in the nation is warm.''</p>
+        <p>In the New York region, the first bone-chilling cold snap made itself felt in myriad ways.</p>
+        <p>Lillian Barrios-Paoli, the city's Commissioner of Housing Preservation and Development, said the agencies logged 1,000 calls yesterday from people reporting problems with heat or hot water. The number was three times the normal daily volume, but far below the 5,700 calls the agency received on the coldest day last winter.</p>
+        <p>No major disruptions of commuter services were reported, but engineers with Metro-North were keeping their locomotives running and spraying alcohol on wheels and gears to guard against freezing.</p>
+        <p>In Newark, officials at the Goodwill Home and Missions homeless shelter said their population had tripled since Thursday night. ''We normally house between 60 and 75 people a night,'' said the Rev. Lee Schmokler, the mission's executive director. ''But when we turned the lights on this morning, we had about 175 people.''</p>
+        <p>Across the region, those who work outside were reminded most profoundly of the sting of winter.</p>
+        <p>''If you dress warm, you can take it,'' said Eleni Stratigakos, a school crossing guard in Fresh Meadows, Queens. ''But the wind, when it hits my face, is rough. My mouth goes numb.''</p>
+        <p>Some welcomed the freezing temperatures.</p>
+        <p>Larry Laluna, who works for the Westchester Vault Company of Rye, N.Y., declared the cold ''an advantage in my business'' after lowering a concrete vault into a grave at Mount St. Mary's Cemetery in Flushing. It is easier to drive on frozen than soft ground. ''When it's cold like this and the ground is hard, it makes my life easy,'' he said.</p>
+        <p>Then there were those who found the cold snap simply delightful.</p>
+        <p>Monica Negri, swathed in a black leather coat and black cape, flashed a big smile as she posed for a picture in front of the skating rink at Rockefeller Center. Ms. Negri and her friend, Fatima Cohen, were visiting from Brazil.</p>
+        <p>''We like to get some cold,'' Ms. Negri said. ''Back in Brazil, it's hot, hot, hot, all the time. Almost boring.''</p>
+        <p>Which is not New York City's problem. Yesterday, you could feel the city's excitement everywhere, especially if you were from Brazil.</p>
+        <p>''It's the fingers and the toes,'' Ms. Cohen said.</p>
+        <p>HEAT HELP  Numbers to Call</p>
+        <p>With nighttime lows expected to be in the single digits over the weekend and daytime highs in the teens today and into the 20's tomorrow, here are telephone numbers for help with heat-related problems.</p>
+        <p>NEW YORK CITY Tenants in all five boroughs who have problems with heating can call (212) 960-4800 (Department of Housing Preservation and Development) any time.</p>
+        <p>NASSAU COUNTY Residential renters with heating problems can call (516) 571-3410 from 9 A.M. to 4:45 P.M. during the week or (516) 742-6154 for odd-hour emergencies.</p>
+        <p>SUFFOLK COUNTY People who have received a shut-off notice from a utility or have less than a seven-day supply of home heating oil can call (516) 853-8825 until 4:30 P.M. on weekdays. The weekend or after-hours emergency number both for people on public assistance and those who are not is (516) 854-9100. Renters are advised to call landlords first.</p>
+        <p>WESTCHESTER COUNTY Renters can call (914) 593-5100 (Department of Health) from 8:30 A.M. to 4:30 P.M. during the week and (914) 642-2367 at odd hours and on weekends.</p>
+        <p>NEW JERSEY and CONNECTICUT Emergency numbers are listed by municipality or region in telephone books.</p>
+        <p>Correction:  January 21, 1997, Tuesday</p>
+        <p>An article on Saturday about the cold snap in the metropolitan region misstated the record low temperature for Jan. 17 in New York City. The record, set in 1977, was 2 degrees below zero, not 2 degrees.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: January 21, 1997, Tuesday</p>
+        <p>An article on Saturday about the cold snap in the metropolitan region misstated the record low temperature for Jan. 17 in New York City. The record, set in 1977, was 2 degrees below zero, not 2 degrees.</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heat and Pollution Equal Death</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="779448"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">HEAT</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">MIDWESTERN STATES (US)</location>
+        <location class="indexing_service">NORTHEASTERN STATES (US)</location>
+        <person class="indexing_service">RUSSELL, ROBERT H</person>
+        <person class="indexing_service">KASSEL, RICHARD A</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Temperature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE3DB113CF932A3575BC0A963958260" item-length="354" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heat and Pollution Equal Death</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Your July 20, 24 and 27 news articles on the increased death toll during the heat wave that has swept the Middle West and Northeast miss an important public health message that could help save lives: air pollution from smokestacks and motor vehicles increases substantially during heat waves, and has likely contributed to heat-related deaths.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Your July 20, 24 and 27 news articles on the increased death toll during the heat wave that has swept the Middle West and Northeast miss an important public health message that could help save lives: air pollution from smokestacks and motor vehicles increases substantially during heat waves, and has likely contributed to heat-related deaths.</p>
+        <p>Recent epidemiological studies show that small particulate pollution, commonly known as soot, from such sources as coal-fired power plants and heavy-duty diesel engines may cause 60,000 premature deaths annually from heart and lung ailments. Other recent studies show that ground-level ozone (or smog) triggers asthma attacks, leaves long-term lung tissue damage and causes emergency-room visits to skyrocket during heat waves.</p>
+        <p>This heat wave has brought elevated levels of particulate and ozone concentrations well above the Federal health standard. Air quality monitors from Cook County, Illinois, have measured ozone levels exceeding the standard by up to 40 percent on 10 occasions so far this summer.</p>
+        <p>In the Northeast, 41 monitoring sites have registered 87 cases of ozone levels exceeding the standard since June. But the standard itself is considered too lax to protect public health and is under review by the Environmental Protection Agency.</p>
+        <p>It is ironic, and troubling, that these monitors are reporting such high pollution levels when Congress is considering rolling back many basic environmental protections.</p>
+        <p>Citizens face greater health risks not only when heat and humidity rise, but also when air pollution levels soar. Children, the elderly, people who exercise or work outdoors and anybody with pre-existing lung conditions are at even greater risk.</p>
+        <p>If people are to minimize their risk by avoiding exercise and staying in air-conditioned areas in high-pollution periods, they must know pollution carries a potentially deadly health risk.  ROBERT H. RUSSELL  RICHARD A. KASSEL  Boston, July 27, 1995 The writers are lawyers with, respectively, the Conservation Law Foundation and the Natural Resources Defense Council.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

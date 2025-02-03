@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cleaner Los Angeles Air? Don't Hold Your Breath</title>
+    <meta content="14AIR$02" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/14/national/14air.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1627267"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Asthma</classifier>
+        <classifier class="indexing_service" type="descriptor">Children and Youth</classifier>
+        <classifier class="indexing_service" type="descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <location class="indexing_service">Los Angeles (Calif)</location>
+        <location class="indexing_service">California</location>
+        <org class="indexing_service">American Lung Assn</org>
+        <person class="indexing_service">Broder, John M</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Family</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Asthma</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Asthma</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ratings and Rating Systems</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Children and Youth</classifier>
+        <classifier class="online_producer" type="general_descriptor">Diseases and Conditions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+        <location class="online_producer">Los Angeles (Calif)</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9901E4D6173FF937A25752C1A9629C8B63" item-length="1074" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cleaner Los Angeles Air? Don't Hold Your Breath</hl1>
+        <hl2 class="online_headline">Cleaner Los Angeles Air? Don't Hold Your Breath</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN M. BRODER</byline>
+      <byline class="normalized_byline">Broder, John M</byline>
+      <dateline>LOS ANGELES, Nov. 13</dateline>
+      <abstract>
+        <p>Air quality in Los Angeles basin is best it has been in 25 years, largely because of unusually cool, cloudy weather through spring and summer and unusually early rains this fall, rather than efforts at battling air pollution; American Lung Assn still ranks Los Angeles as nation's most polluted city; California has made progress in fighting smog, but airborne particulate matter is still problem, especially near ports, railyards and freeways, and contributes to ill health, particularly asthma in children; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Air quality in the Los Angeles basin this year has been the best in 25 years, largely because of a fluke in the weather. But by virtually all measures, the region, the bowl-shaped home to 17 million air-breathing humans, remains the nation's capital of bad air.</p>
+        <p>Cool, cloudy weather through the spring and summer and unusually early rains this fall combined to sharply reduce the number of days when levels of ozone, or smog, exceeded federal standards. This year, the region failed to meet the federal one-hour ozone standard on 27 days, compared with 68 last year. Under the more stringent eight-hour standard, the region was out of compliance on 88 days in 2004, compared with 120 in 2003.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>By virtually all measures, the Los Angeles basin, the bowl-shaped home to 17 million air-breathing humans, remains the nation's capital of bad air.</p>
+      </block>
+      <block class="full_text">
+        <p>Air quality in the Los Angeles basin this year has been the best in 25 years, largely because of a fluke in the weather. But by virtually all measures, the region, the bowl-shaped home to 17 million air-breathing humans, remains the nation's capital of bad air.</p>
+        <p>Cool, cloudy weather through the spring and summer and unusually early rains this fall combined to sharply reduce the number of days when levels of ozone, or smog, exceeded federal standards. This year, the region failed to meet the federal one-hour ozone standard on 27 days, compared with 68 last year. Under the more stringent eight-hour standard, the region was out of compliance on 88 days in 2004, compared with 120 in 2003.</p>
+        <p>Through the 1970's and 1980's, the Los Angeles region was typically out of compliance with federal standards on 150 or more days a year. Tougher auto emission rules, reformulated gasoline and crackdowns on polluting industries have produced marked gains in air quality over the last decade, even as the population has continued to grow. But the region still has a long way to go to reach the federal goal of zero noncompliance days by 2010.</p>
+        <p>Gail Ruderman Feuer, senior lawyer for the Natural Resources Defense Council in Los Angeles, said this year's air quality figures masked a troubling trend.</p>
+        <p>''The number of bad air days has dropped, but scientists agree that it was the result of weather and not success in battling pollution,'' Ms. Feuer said. ''What you need to look at is the trend. Over the last six years, there has been a steady increase in the number of days with poor air quality. If we have a typical year next year, we'll see a jump in the number of bad air days.''</p>
+        <p>She concluded, ''The bottom line is we've still got very dirty air and need very strong measures to achieve a future goal of clean air.''</p>
+        <p>Ground-level ozone is formed when auto emissions and vapors from volatile compounds like paints and solvents ''cook'' in the atmosphere. Smog conditions are worsened by heavy vehicle traffic, heat, still winds and temperature inversions, when warm air is trapped near the ground -- in other words, typical Los Angeles conditions for much of the year.</p>
+        <p>Joe Cassmassi, chief meteorologist for the South Coast Air Quality Management District, the region's air pollution monitoring agency, said that if fluctuations in the weather were taken into account, the region's air quality had been ''pretty much flat'' for the last five years.</p>
+        <p>''We have not seen a huge improvement,'' he said. ''We're pretty much keeping even with growth, but we have to beat growth to meet the new federal standards.''</p>
+        <p>Mr. Cassmassi said the weather in 2003 was particularly favorable for smog formation. This year, the cool and cloudy weather known here as June gloom began early and lasted well into the summer. Nature also delivered several drenching rainstorms in October. That reduced the number of days on which the region's airborne toxic stew could simmer and produce health-threatening smog.</p>
+        <p>The American Lung Association's annual air pollution ranking lists Los Angeles as the nation's most polluted city, a perch it has commanded for many years. Seven of the top 10 urban areas, including the first four, are also in California, in a band through the San Joaquin Valley from Sacramento to Bakersfield. Houston, Dallas and Knoxville, Tenn., round out the list.</p>
+        <p>California's air quality standards, the most stringent in the nation, have produced considerable progress in reducing smog. But environmental and health advocates are increasingly turning their attention to airborne particulate matter, the soot belched from tailpipes and smokestacks.</p>
+        <p>A 10-year study of children's health commissioned by the California Air Resources Board has found that children living in areas with high concentrations of airborne pollutants suffer higher rates of asthma, respiratory ailments and decreased lung function than those living in areas with cleaner air.</p>
+        <p>The damage is both acute and long-term, researchers say.</p>
+        <p>''If a child or young adult with low lung function were to have a cold, they might have more severe lung symptoms, or wheezing,'' said Dr. W. James Gauderman of the Keck School of Medicine at the University of Southern California, the lead author of the study. ''They may have a longer disease course, while a child with better lung function may weather it much better.''</p>
+        <p>Dr. Gauderman said the long-term effects of exposure to air pollutants were worrisome. ''Low lung function has been shown to be second only to smoking as a risk factor for all-cause mortality,'' he said in a statement accompanying release of the study this summer.</p>
+        <p>Todd Campbell, policy director at the Coalition for Clean Air, a Los Angeles advocacy group, said one of the worst culprits in the region's bad air quality was the enormous Los Angeles-Long Beach port complex, the nation's busiest. Container ships burning high-sulfur diesel fuel sit at the docks for days as hundreds of trucks and locomotives with ineffective pollution control equipment wait to haul off the cargo.</p>
+        <p>Onshore breezes blow the sooty fumes inland, where they are trapped by the mountains ringing the Los Angeles basin.</p>
+        <p>''We've definitely seen an improvement in terms of smog over the past 10 to 15 years,'' Mr. Campbell said. ''But now the problem with particulates is growing, especially in those communities near the goods movement system -- the ports, the rail yards and the freeways.''</p>
+        <p>He noted that Gov. Arnold Schwarzenegger had vetoed a bill that would have required California ports to hold emissions at current levels, even as the port traffic continues to climb. The governor said the regulation would cost shippers too much money and drive their business to other ports.</p>
+        <p>But Mr. Campbell said something had to be done to clean up the ports to protect the health of those living near them, as well as those downwind.</p>
+        <p>''Somehow you have to motivate them,'' he said. ''Either financial incentives or new regulations -- take your pick.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

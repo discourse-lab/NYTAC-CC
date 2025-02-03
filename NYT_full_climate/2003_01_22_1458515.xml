@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>This Winter, Even 'Normal' Is Cold Comfort</title>
+    <meta content="22FRIG" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/01/22/national/22FRIG.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1458515"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">Northern States (US)</location>
+        <person class="indexing_service">Wilgoren, Jodi</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030122T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F01EFD91030F931A15752C0A9659C8B63" item-length="1241" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>This Winter, Even 'Normal' Is Cold Comfort</hl1>
+        <hl2 class="online_headline">This Winter, Even 'Normal' Is Cold Comfort</hl2>
+      </hedline>
+      <byline class="print_byline">By JODI WILGOREN</byline>
+      <byline class="normalized_byline">Wilgoren, Jodi</byline>
+      <dateline>CHICAGO, Jan. 21</dateline>
+      <abstract>
+        <p>Temperatures drop to much colder than normal over northern half of United States; severe cold snap of past two weeks comes after December, which was unseasonably warm in much of country; maps; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In weather, it turns out, everything is relative.</p>
+        <p>Throughout much of the Midwest and parts of the Northeast, frozen souls say they have never shivered this much.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Below-freezing temperatures may not be unusually cold for this time of year  but they certainly feel that way.</p>
+      </block>
+      <block class="full_text">
+        <p>In weather, it turns out, everything is relative.</p>
+        <p>Throughout much of the Midwest and parts of the Northeast, frozen souls say they have never shivered this much.</p>
+        <p>''It's even colder than a meat locker,'' said Midge Stebbins of West Lebanon, N.H. ''When the wind hits you, it's like walking into hell.''</p>
+        <p>It is, in fact, cold. It is January, after all. But, for much of the country, it is not abnormally cold -- it just seems that way.</p>
+        <p>That is because the cold snap of the last two weeks, when many cities have been stuck in below-freezing temperatures, came after a December that was unseasonably warm in much of the country. That followed a remarkably mild winter last year, which capped a decade where temperatures were higher, and snow lighter, than average.</p>
+        <p>''This is not a record-setting cold outbreak by any stretch of the imagination,'' said Fred Gadomski, a meteorologist at Pennsylvania State University. ''What it is, however, is a return of wintry conditions of a fairly intense kind after a seeming break from them. That's what has hit people like a cold slap in the face.''</p>
+        <p>Still there have been record lows in parts of New England and unseasonably temperatures of 37 degrees as far south as Little Rock, Ark., and many cities are suffering below-freezing temperatures day after day.</p>
+        <p>Though this has been Chicago's 51st mildest winter of the 131 on record, temperatures have been below normal for 8 of the last 10 days, and the mercury has not passed 32 since Jan. 10, a particular shock coming on the heels of 31 straight days of above-normal temperatures. When the temperature dropped below 10, on Jan. 11, that was the longest the city had waited for a single-digit day in half a century.</p>
+        <p>Detroit has also been subfreezing for a dozen days, and Buffalo has had 11 straight. Minneapolis, 9. Albany, Boston, New York City -- 8 each (16 in a row is New York's record, set in 1961). Caribou, Me., has been frozen since Jan. 3. In Bangor, Me., the high today was 5 below zero.</p>
+        <p>In Chicago a spokesman for the Cook County medical examiner said 16 people had died from exposure to the weather since October, up from 11 by this time last year. The victims range from a 6-year-old girl severely beaten and left in the snow, to the elderly, to a homeless alcoholic found frozen in a parking lot.</p>
+        <p>''I've lived here all my life and I can't remember it being this cold for this long since at least the late 80's, and this seems to have lasted even longer than that time,'' said Ms. Stebbins, who has been leaving cabinet doors open so the pipes under her sink do not freeze, and running her car engine each midnight to sustain the battery.</p>
+        <p>Perhaps it should not come as a surprise that winter has brought cold temperatures to these northern climes, but somehow, it still stings.</p>
+        <p>You know it's coming, yet you cannot really ever get used to the bite of the wind on whatever skin is left uncovered by your hat, the ache of frozen toes inside hard boots, the unquenchable desire for a mug of something steamy.</p>
+        <p>The lack of snow, at least in the Midwest, has also yanked some of the fun from winter, with no snowball fights and angel-making to compensate for complaints about the cold.</p>
+        <p>''I'm a guy who likes to go to Alaska in the winter, yet there's something about this air,'' said Tom Skilling, chief meteorologist for WGN-TV here. ''It does go right through you, no question about that.''</p>
+        <p>Mr. Gadomski, the meteorologist, attributed the cold snap to ''what meteorologists refer to -- at least around the office -- as a Siberian connection.'' That means wind whips from the Russian steppes across the North Pole, through Canada and into America's northern cities.</p>
+        <p>Right to the corner of LaSalle and Madison Streets in Chicago's Loop, where the cardboard sign -- Vietnam Vet, Homeless, Hungry -- quivers in D. Liotta's gloved hand. To Watertown, N.Y., where schools planned to open late on Wednesday so parents could drive their children rather than having them wait for the bus in temperatures forecast at 22 below. To the corner of Franklin and Monroe Streets here, where Gina Depcik keeps extra pairs of gloves warming in the oven of her pizza truck, rotating every hour or so.</p>
+        <p>Known as the ''mother of the messengers,'' Ms. Depcik, 51, places those toasty mitts on the cheeks of the bike jockeys when they pull in for slices and passes grinders through windows so cabbies don't have to leave the comfort of their cars. Today, she said she was wearing 32 pounds of clothing on her 120-pound frame to keep out the chill.</p>
+        <p>One of her bike messenger regulars, Mitch Goldstein, is also a master of layering. Thermal undershirt, two regular undershirts, biker jersey, sweater, jacket, vest. Two pairs of biker tights under shorts with the company logo. Two pairs of socks and fleece-lined Neoprene booties with holes cut in the bottom for the clips on his biker shoes.</p>
+        <p>''I've got everything I ever owned on, and I'm fine,'' Mr. Goldstein said between stops.</p>
+        <p>''It hasn't been snowing,'' he added, ''so I'm happy.''</p>
+        <p>Not so the folks in Minnesota, who rely on the white stuff to bring the green.</p>
+        <p>Wally Mafe, the owner of HBM Service Inc., which clears snow from Minneapolis parking lots, said his business is at a standstill, with $28,000 in debt outstanding for new equipment. ''It's the worst year ever,'' Mr. Mafe said. ''If it doesn't snow, I don't get paid.''</p>
+        <p>The St. Paul Winter Carnival, scheduled to open on Friday, has had to import 18 truckloads of machine-made snow for its sculpture competition, and has nixed its giant snow slide in favor of a contest throwing Styrofoam balls against targets.</p>
+        <p>Here in Chicago, Matthew Sackel stood in the plaza between two office buildings just before noon, earmuffs in place, scarf tucked in tight. He stubbed out a cigarette, then did something unusual: he lit another.</p>
+        <p>''I'm making up for lost time,'' explained Mr. Sackel, 26, who works at an advertising agency and skipped his morning smoke because of the cold. ''This is breakfast and lunch.''</p>
+        <p>Mr. Sackel said he had cut way back on his half-pack-a-day habit because of the cold snap these last two weeks. By Thursday, when the forecast is calling for a low of minus 5, he may just quit altogether.</p>
+        <p>''With wind chill, there's no way we can be outside,'' he told the other lone smoker shivering on the plaza. ''Our lungs will freeze if we inhale.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

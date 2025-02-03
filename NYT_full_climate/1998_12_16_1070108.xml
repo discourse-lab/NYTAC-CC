@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Report on Nuclear Waste Site Is Said to Contain Contradictions</title>
+    <meta content="Y16YUC$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1070108"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Atomic Energy</classifier>
+        <classifier class="indexing_service" type="descriptor">Nuclear Wastes</classifier>
+        <location class="indexing_service">Nevada</location>
+        <location class="indexing_service">Yucca Mountain (Nev)</location>
+        <org class="indexing_service">Energy Department</org>
+        <person class="indexing_service">Wald, Matthew L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Nevada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Nevada</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nuclear Wastes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19981216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C05E2DD123DF935A25751C1A96E958260" item-length="1270" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Report on Nuclear Waste Site Is Said to Contain Contradictions</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">Wald, Matthew L</byline>
+      <dateline>WASHINGTON, Dec. 15</dateline>
+      <abstract>
+        <p>Energy Dept, after 15 years and $6 billion of research, plans to release its first detailed analysis on whether Yucca Mountain, in Nevada desert, is a good place to bury nuclear waste for what amounts to eternity (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>After 15 years and $6 billion of research, the Energy Department plans to release its first detailed analysis this week on whether Yucca Mountain, in the Nevada desert, is a good place to bury nuclear waste for what amounts to eternity.</p>
+        <p>The report is expected to say there is no reason to stop investigating  Yucca Mountain, near Las Vegas, as the site for storing thousands of tons of long-lived radioactive waste from the production of electricity and nuclear weapons. But according to people who have been briefed on the assessment, and public comments by agencies advising the Energy Department, several contradictory points are contained within its thousands of pages</p>
+      </block>
+      <block class="full_text">
+        <p>After 15 years and $6 billion of research, the Energy Department plans to release its first detailed analysis this week on whether Yucca Mountain, in the Nevada desert, is a good place to bury nuclear waste for what amounts to eternity.</p>
+        <p>The report is expected to say there is no reason to stop investigating  Yucca Mountain, near Las Vegas, as the site for storing thousands of tons of long-lived radioactive waste from the production of electricity and nuclear weapons. But according to people who have been briefed on the assessment, and public comments by agencies advising the Energy Department, several contradictory points are contained within its thousands of pages</p>
+        <p>First, water has been found to move through the desert mountain faster than many proponents of the site had hoped, posing the possibility that nuclear contamination could be carried relatively quickly into the groundwater under the mountain and then beyond the boundaries of the waste repository.</p>
+        <p>Because the mountain alone will not be able to contain the waste without some help from man, if then, engineering details such as how the wastes are packaged and how the storage tunnels are laid out will be crucial, the assessment states.</p>
+        <p>But the report's supporting documents also predict that the peak period of radioactive releases from the waste will be so far in the future -- 200,000 years or more -- that man-made features, like corrosion-resistant canisters, will not be reliable.</p>
+        <p>Officials at the Energy Department, which was supposed to have begun accepting reactor waste in February, say the report, known as a Viability Assessment, merely lays out a path for further research before 2001, when the department is supposed to make a recommendation on the site to the President.</p>
+        <p>Department officials and nuclear-power executives say the assessment is a step toward the department being able to recommend the site, even if the rock is not as impermeable as once believed.</p>
+        <p>But other experts, including independent reviewers brought in by the department, say that making any predictions about the site will be extremely difficult if the Environmental Protection Agency, which must eventually establish the criteria for it, decides that it must perform well hundreds of thousands of years from now. Two thousand centuries from now, they say, Yucca Mountain, now one of the driest and most remote places in the United States, may no longer be desert.</p>
+        <p>The Energy Secretary, William B. Richardson, said in a telephone interview that predictions would be stated in probabilities. ''That's all one can offer,'' he said. ''I don't think in science one can offer certainty.''</p>
+        <p>The assessment runs five volumes; thousands of supporting documents have already been made public. Many are available on line at www.ymp.gov/va.htm.</p>
+        <p>The nuclear industry, which is eager for the Government to take spent reactor fuel off its hands, is asserting that the assessment shows there are no ''show-stoppers'' that would nullify Congress's instructions to the Energy Department to investigate Yucca Mountain.</p>
+        <p>Theodore J. Garrish, an expert on waste at the Nuclear Energy Institute, the industry's trade association, said study of the mountain was going through ''a natural progression'' into man-made aspects of the project.</p>
+        <p>''They're saying what kind of engineering needs to be put into this site to make this thing work,'' Mr. Garrish said. ''This is a combination of geology and man-made barriers and engineering.''</p>
+        <p>Mr. Garrish also said that the work thus far is sufficient to lay to rest some concerns, like that a volcano or an earthquake would disturb the site.</p>
+        <p>But outside scientists have raised many questions about the research. Many of these scientists are not hostile to the idea of burying the wastes at Yucca, but say that evaluation of the 15 years of research points to many unanswered questions.</p>
+        <p>Recent reviews by outside scientists found that not enough is known about how water, the main vector in spreading the wastes, will flow through the mountain in coming millennia, when rainfall may be triple the mountain's current six inches a year. The time scale is so long that it probably includes climactic changes including ice ages.</p>
+        <p>''Greenhouse gas warming is a little blip on the screen, compared to longer-term changes we're going to see here,'' said another independent scientist who has seen the statement.  Scientists have already found that in the section of the mountain where the waste would go, 1,000 feet below the surface, water shows signs of atomic bomb fallout, which means that it made the trip in the last 50 years, after atmospheric nuclear testing began.</p>
+        <p>To carry wastes from the site, the water would have to percolate down another 1,000 feet to reach the water table, but a report last month to Congress and the Energy Department by a panel of outside scientists, the Nuclear Waste Technical Review Board, found that water may flow relatively quickly, through rock fractures.</p>
+        <p>The report said that the usefulness of the area above the water table as a barrier was ''uncertain'' and that during times when the climate in Nevada is wetter than it is now, travel times could be ''several hundred years or shorter,'' which is brief compared to the longevity of the wastes.</p>
+        <p>How fast the waste moves depends heavily on the amount of rainfall, but even the United States Geological Survey, the organization that first identified the region in 1976 as a likely site for burying waste, said in a report to the Energy Department this month that ''there is surprisingly little'' in the assessment about ''reckoning the uncertainties in either past or future climates.''</p>
+        <p>Department officials say that shifting the focus of research to engineering considerations is natural. ''In any scientific endeavor, it starts off seeming simple, and you will find more and more questions,'' said one high-ranking department official, speaking on condition that he not be further identified. Most of those willing to talk about the study said they did not want to comment on the record before it is released by Mr. Richardson, who could make changes in its findings.</p>
+        <p>''People used to think, 20 years ago, that the geology was so good, you don't have to worry much about the man-made part,'' said the official. But no matter what site was chosen, ''you find more and more you need to explain,'' he said, and eventually, engineers will have to address the question of how the metal of the waste containers, and how the heat created by the wastes, will interact with the rock at the site chosen.</p>
+        <p>As part of the shift in attention, the department has been testing the corrosion resistance of a nickel alloy that it wants to use to package the spent fuel; scientists think those tests could be used to predict the metal's performance for centuries or even a few thousand years. But, said one scientist who was asked by the Energy Department to evaluate its research, ''if you want to extrapolate from 2 years to 100,000 years, good luck. There's no good theoretical basis for your extrapolations.''</p>
+        <p>And no one is clear on how much extrapolation is necessary, because the period for which the repository should be expected to contain the wastes has not been established. In the 1980's, the Environmental Protection Agency suggested 10,000 years in a draft rule that was later withdrawn.</p>
+        <p>In 10,000 years the most intensely radioactive wastes, like cesium and strontium, will have decayed away, but the plutonium and other man-made elements will still have most of their radioactivity.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

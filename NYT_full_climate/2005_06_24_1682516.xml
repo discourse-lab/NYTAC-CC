@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Researchers Say Ocean Evidence Points to a Million-Year El Niño</title>
+    <meta content="24CLIMATE" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/06/24/science/24climate.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1682516"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Oceans</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oceans</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050624T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=980DE5DB1F3BF937A15755C0A9639C8B63" item-length="479" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Researchers Say Ocean Evidence Points to a Million-Year El Niño</hl1>
+        <hl2 class="online_headline">Researchers Say Ocean Evidence Points to a Million-Year El Niño</hl2>
+      </hedline>
+      <byline class="print_byline">By KENNETH CHANG</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The last time the earth was warm, the waters of the Pacific Ocean may have been stuck in an El Niño pattern that lasted more than a million years, scientists reported yesterday.</p>
+        <p>''It's an indication we need to focus on how El Niño may change as the earth warms,'' said Dr. Michael W. Wara, who performed the research while a graduate student at the University of California, Santa Cruz. The findings were published yesterday on the Web site of the journal Science.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists are looking to the Pliocene, about 4.5 million years to 3 million years ago, for clues about how the earth's current warming trend could affect climate.</p>
+      </block>
+      <block class="full_text">
+        <p>The last time the earth was warm, the waters of the Pacific Ocean may have been stuck in an El Niño pattern that lasted more than a million years, scientists reported yesterday.</p>
+        <p>''It's an indication we need to focus on how El Niño may change as the earth warms,'' said Dr. Michael W. Wara, who performed the research while a graduate student at the University of California, Santa Cruz. The findings were published yesterday on the Web site of the journal Science.</p>
+        <p>During the first half of an epoch known as the Pliocene, about 4.5 million years to 3 million years ago, global temperatures averaged about 5 degrees Fahrenheit warmer than today's temperatures. Thus, scientists look to the Pliocene for clues about how the earth's current warming trend could affect climate.</p>
+        <p>The surface waters of the western tropical Pacific Ocean are now usually about 10 degrees warmer than those of the eastern Pacific. But during a Niño event, east-to-west winds die down and warmer water sloshes eastward, causing a shift in weather patterns.</p>
+        <p>Dr. Wara and his colleagues studied the shells of plankton taken from two drill cores of the ocean floor, one from the western Pacific near Indonesia and one from the eastern Pacific near the Galápagos Islands.</p>
+        <p>The shells are mostly made of calcium carbonate, but occasionally an atom of magnesium substitutes for an atom of calcium. These substitutions occur more frequently in warmer water; measuring the magnesium indicates the temperature of the water where the plankton lived.</p>
+        <p>The data indicated that the western and eastern Pacific waters were closer in temperature during the Pliocene, as during El Niño, the researchers said.</p>
+        <p>In a paper published in Science three months ago, however, two researchers from University of Oxford in England, using the same technique on samples from the same two drill cores, came to the opposite conclusion. The Oxford scientists said that during the Pliocene, water in the eastern Pacific was much cooler.</p>
+        <p>Dr. Rosalind E.M. Rickaby, an author of the earlier paper, suggested that the results reported by the team from Santa Cruz might have been skewed by magnesium in coatings on the shells. The Santa Cruz researchers said their conclusions were stronger because they had made many more measurements.</p>
+        <p>Dr. David Lea, a professor of geological sciences at the University of California, Santa Barbara, said, ''On balance, I think the evidence probably is more supportive of the second paper, but I don't think it's definitive.'' Dr. Lea, who was not involved with either team, said that as scientists analyzed the samples more closely and looked at additional sites, the st]ory should become clearer.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

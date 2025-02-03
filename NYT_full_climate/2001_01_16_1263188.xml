@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Another Source of Air Pollution: The Home</title>
+    <meta content="16BROD$02" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Health &amp; Fitness" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/01/16/health/16BROD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1263188"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="PERSONAL HEALTH"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <person class="indexing_service">Brody, Jane E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Columns/Personal Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D06EED7123DF935A25752C0A9679C8B63" item-length="1089" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Another Source of Air Pollution: The Home</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE E. BRODY</byline>
+      <byline class="normalized_byline">Brody, Jane E</byline>
+      <abstract>
+        <p>Jane E Brody Personal Health on sources of indoor pollution at home; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Can the air you breathe inside your home or office be more hazardous to your health than the outdoor pollution that has created  so much public concern and regulation in recent decades?</p>
+        <p>According to a report in the journal Preventive Medicine, by Kenneth R. Spaeth, a University of Connecticut medical student, within their homes, ''Americans are exposed to numerous pollutants, from heavy metals to volatile organic compounds.'' But while people spend the vast majority of their time indoors, Mr. Spaeth wrote, ''the Environmental Protection Agency acts to limit the amount of toxins released into the outdoors.''</p>
+      </block>
+      <block class="full_text">
+        <p>Can the air you breathe inside your home or office be more hazardous to your health than the outdoor pollution that has created  so much public concern and regulation in recent decades?</p>
+        <p>According to a report in the journal Preventive Medicine, by Kenneth R. Spaeth, a University of Connecticut medical student, within their homes, ''Americans are exposed to numerous pollutants, from heavy metals to volatile organic compounds.'' But while people spend the vast majority of their time indoors, Mr. Spaeth wrote, ''the Environmental Protection Agency acts to limit the amount of toxins released into the outdoors.''</p>
+        <p>Some pollutants commonly found in homes and offices are carcinogenic, others can aggravate existing problems like asthma and heart disease, while others may have untoward effects that have not yet been discovered. Now, in winter, people are spending more time indoors. Because of substances released in heating and cooking, cleaning agents, building and decorating materials and tobacco use, they are inhaling far more toxic substances than they are likely to encounter outdoors any other time.</p>
+        <p>The problem of indoor pollution has been made worse in recent years by efforts to make homes and offices more energy-efficient. Building techniques aimed at airtight environments reduce heat loss but greatly increase exposure to toxic substances released within the home.</p>
+        <p>But you don't have to wait for research and regulation to clean up indoor air. The American Lung Association, among other groups concerned about public health, has many suggestions for clean up indoor air.</p>
+        <p>Exposures of Concern</p>
+        <p>Data drawn from studies sponsored by the Environmental Protection Agency ''indicate that the general population is exposed to unexpectedly high levels of carcinogenic substances in their homes,'' Mr. Spaeth wrote. ''The results found that 'the highest personal exposures were 5 to 70 times the highest outdoor levels,' '' he reported, with some toxin levels inside the majority of homes ''greater than the levels that qualify as a chemical waste site for Superfund status.''</p>
+        <p>For example, Mr. Spaeth noted, the average levels of exposure to benzene, a known carcinogen, was found to be three times as high indoors as outdoors. Its chief source was cigarette smoke, the greatest source of indoor pollutants. Others include incomplete combustion from cooking and heating systems, household deodorizers, dry-cleaned clothes, air fresheners and cleaners, insect repellents and treated wood.</p>
+        <p>Heating appliances and systems, especially wood-burning stoves and fireplaces, can pollute indoor air with carbon monoxide, nitrogen dioxide, particulates, sulfur dioxide, unburned hydrocarbons and aldehydes. Carbon monoxide is insidious and potentially deadly; nitrogen dioxide, particulates and sulfur dioxide irritate the respiratory tract and are especially hazardous to people with asthma.</p>
+        <p>Little is known about the hazards of other combustion products and carcinogens of indoor air, but at least 6,000 cases of cancer a year are believed to be caused by exposure to second-hand tobacco smoke and other compounds and pesticides in indoor air. The pollutants are inhaled directly or become part of the dust and are then inhaled or, in the case of children who spend much time on the floor, transferred by hand to mouth. From indoor exposure alone, urban children may ingest as much benzo[a]pyrene, a potent carcinogen, as they would get from smoking three cigarettes a day, according to a 1998 report in Scientific American.</p>
+        <p>Reducing Exposure</p>
+        <p>An important control measure is for those who smoke to quit, or, short of quitting, confine all smoking to the outdoors, where the pollutants can be diluted by the general atmosphere. The second most important measure is to allow more air to circulate within the home by opening windows or doors. Just a crack at night can help a lot. Consider purchasing one or more High Efficiency Particulate Arresting (HEPA) air cleaners (especially for the bedrooms) and, if it is time to replace your vacuum, get one with a HEPA filter.</p>
+        <p>Install exhaust fans over the stove to reduce exposure to toxic combustion products and a ventilation system in the bathroom. Check the flame and pilot lights on gas furnaces and ranges. They should burn blue with at most a slight yellow tip. If the flame is too yellow or orange, it is spewing toxic substances into the air. Call the utility company to have the flame adjusted.</p>
+        <p>Remove the plastic bags from dry-cleaned clothes before you leave the store and let the clothes air out on the way home. Instead of air freshener sprays, light a match to deodorize the bathroom. To control mice, roaches and other vermin, keep all tempting food items (including pet food) in impenetrable containers (glass, rigid plastic or metal with tight lids) and don't leave pet dishes around with uneaten remnants. Boric acid can be used to control roach and ant infestations.</p>
+        <p>Have people remove their shoes on entering your home to reduce the amount of toxins that are tracked in. Also, consider eliminating carpets, which harbor lots of dust. At the least, vacuum carpets often, and clean under them every few months.</p>
+        <p>Properly install and maintain the systems you use to heat your home. Chimneys, stove pipes and furnaces should be inspected and cleaned annually, preferably before the start of the heating season. Filters can be installed within the heating unit and inside hot-air ducts.</p>
+        <p>Wood stoves and fireplaces can, if improperly used, expose people to enormous amounts of toxic and irritating combustion products. Instead of an open fireplace, use a glass-enclosed firebox.</p>
+        <p>Choose a stove or firebox no larger than needed to heat the space involved. Look for an E.P.A. certification label. A stove with a catalytic combustor is preferable (it reduces emissions the way a catalytic converter does on motor vehicles). Let a professional install it.</p>
+        <p>Burn only hardwood -- maple, oak, beech, elm or ash -- that has been air-dried for a year. Never use green, wet, painted or chemically treated wood, colored paper or lots of paper and twigs. Commercial fire-starter bricks or sticks can help. After getting the fire started, use logs as large as the firebox will accommodate.</p>
+        <p>When adding wood, open the stove's damper fully to prevent smoke from being drawn back into the house. Let the fire burn for about 15 minutes before partially closing the damper. It is better to add logs fairly often than to overstuff the firebox. Soot on the furniture is a sign that the stove is releasing pollutants into the indoor air.</p>
+        <p>PERSONAL HEALTH</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

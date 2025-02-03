@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Diverse Sources of Indoor Pollution</title>
+    <meta content="WCCLINIC" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="40" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1010833"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <series series.name="HOME CLINIC"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOME REPAIR</classifier>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <person class="indexing_service">Lipinski, Edward R</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980419T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D04E4DA153CF93AA25757C0A96E958260" item-length="742" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Diverse Sources of Indoor Pollution</hl1>
+      </hedline>
+      <byline class="print_byline">By EDWARD R. LIPINSKI</byline>
+      <byline class="normalized_byline">Lipinski, Edward R</byline>
+      <abstract>
+        <p>Home Clinic column with advice on improving air quality within the home; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>INDOOR air pollution can cause some health problems, like eye irritation, lingering colds, runny noses and constant coughing, difficulty in breathing, chronic headaches, skin rashes, unaccountable lethargy and irritability, and infectious diseases. The air quality in your home is dependent upon the strength of pollution sources, how well you clean and how much fresh air circulates through the house.</p>
+        <p>There are a number of sources that can foul indoor air. Molds, for example, are biological contaminates that quickly grow in wet or damp areas. Molds are remarkably prolific. As they grow, they release more spores. The airborne spores become a constant source of throat and nose infections.</p>
+      </block>
+      <block class="full_text">
+        <p>INDOOR air pollution can cause some health problems, like eye irritation, lingering colds, runny noses and constant coughing, difficulty in breathing, chronic headaches, skin rashes, unaccountable lethargy and irritability, and infectious diseases. The air quality in your home is dependent upon the strength of pollution sources, how well you clean and how much fresh air circulates through the house.</p>
+        <p>There are a number of sources that can foul indoor air. Molds, for example, are biological contaminates that quickly grow in wet or damp areas. Molds are remarkably prolific. As they grow, they release more spores. The airborne spores become a constant source of throat and nose infections.</p>
+        <p>Another biological contaminate is the dust mite. These are tiny creatures that grow in damp, warm environments. They often inhabit carpets, where they devour the debris between carpet fibers. The dust mite clings tenaciously to the carpet material and is not an actual source of air pollution. However, its fecal pellets and the body shells deposited after molting become airborne particles. These invisible particles are powerful biological allergens that can trigger reactions, including hypersensitivity pneumonitis and allergic rhinitis.</p>
+        <p>A good way to control molds and dust mites is with regular vacuuming and by lowering the relative humidity in your home to between 40 and 60 percent. Mites cannot survive when the humidity drops below 50 percent. Also be sure to wipe up any spills and eliminate damp areas in the home. In some rooms, like the bathroom, it may help to install an exhaust fan to remove excess moisture from the air.</p>
+        <p>Ironically, some homeowners add to the indoor air pollution when they attempt to control biological contaminates. They spray insecticides. Even if the insecticides are used exclusively outdoors, they can end up in the home. Research has shown that a surprising amount of insecticides are deposited in carpets and rugs as people track dirt in from the outside. Use these products sparingly and follow the directions on the label. Place door mats at all entrance doors so people can wipe their feet.</p>
+        <p>Besides insecticides, there are other household chemicals that can pollute the air. Called ''organic compounds,'' because they have a molecular base containing carbon atoms, they are better known as solvents. Common solvents are paints, varnishes, cleaners, waxes and thinners. They evaporate quickly and launch airborne particles that are absorbed by the human body.</p>
+        <p>Unfortunately, many solvents are necessary for household jobs and do-it-yourself tasks, so they cannot be eliminated entirely. They can, however, be used within common-sense safety guidelines. Always ventilate the working area. Work out of doors whenever possible. To limit your contact with these products, wear protective gloves and a respirator. Buy only the quantities needed and avoid storing excess or unused solvents.</p>
+        <p>Combustion devices, like stoves, furnaces, heaters and fireplaces, can release dangerous gases into the home. Perhaps the two most dangerous gases are carbon monoxide and nitrogen dioxide. To prevent these gases from polluting the home, make sure they are serviced annually and adjusted properly so they are clean burning. In addition, be sure that all combustion gases are properly vented to the outside.</p>
+        <p>In general, there are three basic strategies to employ in controlling indoor air pollution. First, increase ventilation to draw more outdoor air inside. Opening windows and doors, operating window or attic fans, weather permitting, or running an air-conditioner with the vent control open will help the ventilation rate. Increasing the air flow will also keep combustion gases from being pulled back into the house.</p>
+        <p>Second, installing air cleaners can help reduce the amount of airborne particles (they are not effective in removing the gaseous elements) in the home atmosphere. An air cleaner must be able to circulate large volumes of air through an efficient filter. In general, small table-top units do not draw in enough air to clean the atmosphere in a medium-sized room.</p>
+        <p>For most homeowners, source control may be the most effective solution. Do not stock up on unnecessary solvents and clean the house regularly.</p>
+        <p>HOME CLINIC</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The View From: Stamford;In Greenery, a Lift to the Spirits and an Antitoxin, Too</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Connecticut Weekly Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="13CN" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="19960225T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="831114"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">CHEMICALS</classifier>
+        <person class="indexing_service">EISEMAN, ALBERTA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Connecticut</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960218T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1D81139F93BA25751C0A960958260" item-length="673" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The View From: Stamford;In Greenery, a Lift to the Spirits and an Antitoxin, Too</hl1>
+      </hedline>
+      <byline class="print_byline">By ALBERTA EISEMAN</byline>
+      <byline class="normalized_byline">EISEMAN, ALBERTA</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HOUSE plants brighten a winter day, bring cheer to a sickroom, relieve the drabness of the average office. But that's not all they do. The creators of an exhibition now on view at the Champion Greenhouse in Stamford say plants can significantly reduce air pollution in homes and workplaces by renewing stale air and filtering out harmful gases.</p>
+        <p>The show, entitled "The Green Machine," examines everyday objects that contain pollution-causing chemicals -- plywood, carpeting and facial tissues, for example -- and introduces plants that fight the harmful fumes.</p>
+      </block>
+      <block class="full_text">
+        <p>HOUSE plants brighten a winter day, bring cheer to a sickroom, relieve the drabness of the average office. But that's not all they do. The creators of an exhibition now on view at the Champion Greenhouse in Stamford say plants can significantly reduce air pollution in homes and workplaces by renewing stale air and filtering out harmful gases.</p>
+        <p>The show, entitled "The Green Machine," examines everyday objects that contain pollution-causing chemicals -- plywood, carpeting and facial tissues, for example -- and introduces plants that fight the harmful fumes.</p>
+        <p>The plants are not exotic, nor are they costly. Display benches in the attractive greenhouse feature such old standbys as English ivy, philodendron and snake plant, sworn enemies of the "big bad three" of harmful gases: formaldehyde, benzene and trichloroethylene, or T.C.E. "Most Americans now spend 90 percent of their time indoors, so our most significant exposure to air pollution is probably in our homes and our offices," said Penny Low, Champion's  greenhouse consultant.</p>
+        <p>"Modern efforts to conserve energy by recycling a building's air, and the common use of materials that emit damaging fumes have led to increased pollution," she continued. The guilty materials include paints, dyes and gasoline as well as harmless-seeming articles like waxed paper, grocery bags and permanent press fabrics.</p>
+        <p>Long-term exposure to high concentrations of pollutants can cause what is known as "sick building syndrome," with symptoms including nausea, headaches, eye and throat irritation, rashes and, sometimes, irregular heartbeat, liver or kidney damage and cancer.</p>
+        <p>Mrs. Low, who creates and produces four or five greenhouse exhibitions a year, said that experiments have been carried out for several decades in efforts to correct the situation. Scientists at the National Aeronautics and Space Administration, working to find natural ways to renew air for permanent habitation in space, discovered that certain tropical plants could reduce concentrations of pollutants by as much as 90 percent. "Green plants are the most efficient, and the bigger the leaves, the better," said Mrs. Low, "but flowering plants like azaleas and gerbera daisies do a good job too, and I did want to add color to the exhibit." Each of the three display benches is enhanced by orchids, bromeliads and the pink-flowered peace lily, or spathiphyllum. And the greenhouse itself -- a pyramid-shaped oasis rising from a fifth-floor terrace in the Champion Building -- is ablaze with cyclamen and poinsettias still in bloom.</p>
+        <p>Three ferns, a Norfolk Island pine and an eight-foot ficus form a permanent background to the changing exhibits, as do stands of loblolly pine. Mary Lou Brown, manager for the greenhouse, explained that the straight, fast-growing loblollies provide pulp for much of the paper manufactured by the Champion International Corporation, which operates the greenhouse. One of the special exhibits addresses the complex way in which house plants -- most of which originated in the rain forest -- developed adaptations that enable them to act as air fresheners indoors.</p>
+        <p>In their native environment, many plants develop microbes on their roots that break down acids in decaying leaves, giving the plant quick access to needed nutrients. These plants also secrete a substance that kills growths such as mold and mildew on their own leaves. It is with these two techniques that the plants  break down indoor pollution and rid the air of mold spores and mildew.</p>
+        <p>How many plants does it take to clean our air? Exhibit labels suggest two or  three plants in 8- to 10-inch pots for every 100 square feet of floor space. Fewer will do if plants are over four feet tall.</p>
+        <p>"The Green Machine" will be on view until March 16 at the Champion Greenhouse, 1 Champion Plaza (corner of Atlantic Street and Tresser Blvd.) Stamford. The greenhouse is open to the public from 11 A.M. to 5 P.M. Tuesday through Saturday. There is no charge for admission or parking</p>
+        <p>Correction:  February 25, 1996, Sunday</p>
+        <p>Because of a production error, a picture credit last Sunday with an article about the Champion Greenhouse in Stamford was illegible. The pictures were by Carl David LaBianca for The New York Times.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: February 25, 1996, Sunday&lt;br&gt;&lt;br&gt;    Because of a production error, a picture credit last Sunday with an article about the Champion Greenhouse in Stamford was illegible. The pictures were by Carl David LaBianca for The New York Times.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Heating The Floor, Not the Air</title>
+    <meta content="04HOME$03" name="slug"/>
+    <meta content="4" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/05/04/realestate/04HOME.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1485983"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="YOUR HOME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Heating</classifier>
+        <person class="indexing_service">Romano, Jay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Your Home</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Real Estate</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Home Furnishings</classifier>
+        <classifier class="online_producer" type="general_descriptor">Real Estate</classifier>
+        <classifier class="online_producer" type="general_descriptor">Heating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030504T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05EFD71E3DF937A35756C0A9659C8B63" item-length="1195" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Heating The Floor, Not the Air</hl1>
+        <hl2 class="online_headline">Heating the Floor, Not the Air</hl2>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+      <byline class="normalized_byline">Romano, Jay</byline>
+      <abstract>
+        <p>Your Home column on efficiency of radiating heating systems (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>AFTER a winter that seemed more unpredictable than even the stock market, the time may finally have come for homeowners to shut down their gas-, oil- and electricity-guzzling heating systems.</p>
+        <p>While most people would rather not think about thermostats, radiators, registers and fuel-oil deliveries for at least five or six months, heating experts say that now is the ideal time for any major renovation or replacement of a home's heating system. And by many accounts, one of best ways to heat a house is with a radiant heating system.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>By many accounts, one of best ways to heat a house is with a radiant heating system. And with rising energy costs, now may be the time do it.</p>
+      </block>
+      <block class="full_text">
+        <p>AFTER a winter that seemed more unpredictable than even the stock market, the time may finally have come for homeowners to shut down their gas-, oil- and electricity-guzzling heating systems.</p>
+        <p>While most people would rather not think about thermostats, radiators, registers and fuel-oil deliveries for at least five or six months, heating experts say that now is the ideal time for any major renovation or replacement of a home's heating system. And by many accounts, one of best ways to heat a house is with a radiant heating system.</p>
+        <p>''For comfort, ease of maintenance, value and energy-efficiency, you're not going to beat radiant heat,'' said David Lovesky, the owner of C&amp;N Mechanical, a heating and air-conditioning contractor in Bloomfield, Conn. ''We're talking about a system that can cost up to 40 percent less to operate than a conventional warm-air system and comfort that is unsurpassed.''</p>
+        <p>Mr. Lovesky explained that with conventional heating systems -- including forced-warm-air, hot-water baseboard, steam- or hot-water radiator and electric baseboard -- the temperature in the house is maintained by heating up the air. Since air is not very good at retaining heat, however, and since the air in a room tends to move around quite a bit, heating a house by using warmed air can result in drafts and uneven heating.</p>
+        <p>A radiant heating system turns that strategy on its head.</p>
+        <p>''What happens with a radiant system is that instead of heating air, we're heating objects,'' Mr. Lovesky said. ''Basically, the whole floor becomes a radiator.'' He said that with a radiant heating system, water or other liquid that has been heated is circulated through hydronic tubing imbedded in the floor or attached to its underside. The floor, then, transfers heat to objects on it -- sofas, tables, chairs, appliances, draperies and even walls -- with the warmth in the room concentrated where the people are.</p>
+        <p>''Radiant heat is ideal for homes with cathedral ceilings,'' Mr. Lovesky said. ''And since there are no radiators or heat registers to worry about, there are no concerns about furniture placement.''</p>
+        <p>There are, however, other concerns relating to the cost and ease of installation.</p>
+        <p>A radiant heating system can cost 50 to 100 percent more than a conventional hot water baseboard system, depending how big and complex the system is and how much of the original system has to be replaced.</p>
+        <p>For example, Mr. Lovesky said, in homes that have basements with unfinished ceilings, it may be possible to attach the tubing to the underside of the floor above, weaving the tubing in the space between the joists. When that is done, he said, it is usually necessary to cover the tubing with aluminum to direct the heat up toward the floor and then to insulate the underside of the aluminum.</p>
+        <p>It is also possible to install radiant heating even in areas where access to the underside of a floor is not available.</p>
+        <p>Ann Woodard, marketing manager for Stadler-Viega, a radiant heating system manufacturer in Bedford, Mass., said her company's Climate Panel System is installed on top of an existing subfloor.</p>
+        <p>''This system was developed for the retrofit market,'' Ms. Woodard said. The panels are 7 or 10 inches wide, 48 inches long and a half inch thick with a precut channel into which the hydronic tubing can be inserted after the panels have been installed. (The system uses PEX tubing, high-density cross-linked polyethylene that can withstand high temperatures and pressures and which does not permit chemical reactions between the tubing and the liquid flowing through it.)</p>
+        <p>''The panels generally get installed on top of the subfloor,'' she said, and conventional flooring can be installed over the panels.</p>
+        <p>Henry Gifford, owner of Gifford Fuel Saving, a heating and air-conditioning consultant in Manhattan, said that while a radiant system can be a highly efficient way to heat a house, planning and design are critical.</p>
+        <p>For example, Mr. Gifford said, it is usually wise to ''zone'' the system so that every room can be controlled independently. In most cases, he said, that is accomplished by running a separate loop of tubing to each zone, with the various loops originating and terminating at a distribution manifold.</p>
+        <p>It is also important, he said, to design the system to adjust the temperature of the water flowing through the tubing to respond to changes in outside temperature. Mr. Gifford said that with most conventional hot-water heating systems, the water is heated to a preset temperature -- generally around 180 degrees Fahrenheit -- and then circulates that heated water to radiators throughout the house. The temperature inside the house is then maintained by a single centrally located thermostat.</p>
+        <p>With a properly designed a radiant system, the heat output to each zone is the result of both the temperature of the water and the circulation of that water within an individual zone. As the outdoor temperature gets colder, Mr. Gifford explained, the controls automatically increase the temperature of the water in the tubing, thereby increasing the heat available to the system as a whole. Then, he said, individual thermostats in each zone turn the heat on or off -- by starting or stopping the circulation of water --- to meet the particular needs of that zone.</p>
+        <p>Mr. Gifford pointed out that while radiant heating can be installed in selected rooms in a house that already has a hot water heating system -- a bathroom, kitchen or living room, for example -- it is still necessary to take into consideration the size and layout of the room.</p>
+        <p>For example, he said, since a living room typically has lots of floor area, it is fairly easy to install enough tubing in the floor to adequately heat the room. It may not be so easy to accomplish the same thing in a kitchen or bathroom, however, where cabinets and fixtures take up much of the floor space.</p>
+        <p>Those who want a warm kitchen or bathroom floor but who do not have hot-water heat can install an alternative form of radiant heating powered by electricity.</p>
+        <p>Terry Allen, marketing manager for Orbit Manufacturing in Perkasie, Pa., said his company makes electric radiant heating cable that can be installed in a floor much as hydronic tubing is installed.</p>
+        <p>''The cable is normally installed in a wet-bed of cement or thin set and then covered with tile or hardwood,'' Mr. Allen said. He pointed out that the system -- which costs anywhere from $5 to $15 a square foot installed -- is not intended to heat the whole room. ''We're basically warming a floor in a house that already has central heat,'' he said.</p>
+        <p>Information about radiant heating systems is available on the Internet site of the Radiant Panel Association (www.radiantpanelassociation.org), based in Loveland, Colo.</p>
+        <p>YOUR HOME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

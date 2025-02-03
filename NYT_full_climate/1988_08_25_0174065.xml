@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Corn and Soybeans Jump On Fears of an Early Frost</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="15" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="174065"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <series series.name="FUTURES/OPTIONS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FUTURES TRADING</classifier>
+        <classifier class="indexing_service" type="descriptor">GRAIN</classifier>
+        <classifier class="indexing_service" type="descriptor">SOYBEANS</classifier>
+        <classifier class="indexing_service" type="descriptor">PRICES</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <org class="indexing_service">CHICAGO BOARD OF TRADE</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Futures and Options Trading</classifier>
+        <classifier class="online_producer" type="general_descriptor">Grain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Prices (Fares, Fees and Rates)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Food</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D8123EF936A1575BC0A96E948260" item-length="390" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Corn and Soybeans Jump On Fears of an Early Frost</hl1>
+      </hedline>
+      <byline class="print_byline">By The Associated Press</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Corn and soybean futures prices moved sharply higher on the Chicago Board of Trade yesterday, amid fears that a frost will hit the Corn Belt as early as this weekend. Wheat and oats also advanced.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Corn and soybean futures prices moved sharply higher on the Chicago Board of Trade yesterday, amid fears that a frost will hit the Corn Belt as early as this weekend. Wheat and oats also advanced.</p>
+        <p>Corn and soybean futures prices moved sharply higher on the Chicago Board of Trade yesterday, amid fears that a frost will hit the Corn Belt as early as this weekend. Wheat and oats also advanced.</p>
+        <p>Meteorologists and grain analysts were skeptical of the Midwestern frost talk, which helped drive Chicago corn futures prices up by the daily limit of 10 cents a bushel.</p>
+        <p>''It's not going to happen,'' said James Roemer, a meteorologist and commodities adviser for Freese-Notis Weather Inc. and Weather Trades Inc., both of Des Moines, Iowa.</p>
+        <p>''There's going to be some 30's and 40's in parts of Michigan and parts of the Great Lakes region so it'll be cool for the weekend and then we'll be warming up again next week,'' he said.</p>
+        <p>Jane Hollingsworth, a National Weather Service meteorologist in Chicago, predicted lows in the 40's this weekend in the Northern Plains and Great Lakes region. But she said, ''It doesn't look like there's any indications right now for freezing temperatures in the Midwest.''</p>
+        <p>The National Weather Service predicted above-normal temperatures and below-normal rainfall for the Midwest next week.</p>
+        <p>Mr. Roemer said early frosts, in September, followed two of the last four summer droughts, in 1974 and 1983.</p>
+        <p>He said the early freeze in 1974 wiped out a large part of the soybean crop but added that this year's crops were maturing at a faster than average pace, so frost would have to occur by Sept. 20 to cause significant damage.</p>
+        <p>Jerry Gidel, an analyst with G.H. Miller &amp; Co., a Chicago-based division of the British-owned trading company LIT America Inc., called the freeze talk crazy.</p>
+        <p>''I find it hard to believe with all the hot weather we've had,'' he said.</p>
+        <p>Coffee futures surged on New York's Coffee, Sugar and Cocoa Exchange on continuing concerns about dry weather in Brazil, the world's leading coffee producer and exporter.</p>
+        <p>Coffee settled 2.91 cents to 5.46 cents higher, with September at $1.2668 a pound.</p>
+        <p>Unexpectedly strong demand for beef by retailers lifted cattle futures on the Chicago Mercantile Exchange while strong cash hog markets helped to push the pork futures higher, analysts said.</p>
+        <p>Most energy futures slipped lower in lethargic trading on the New York Mercantile Exchange. West Texas Intermediate crude oil settled 2 cents to 7 cents lower, with October at $15.68 a barrel.</p>
+        <p>FUTURES/OPTIONS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

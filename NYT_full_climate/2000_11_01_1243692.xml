@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Nader Sees a Bright Side to a Bush Victory</title>
+    <meta content="Y01COU$03" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2000" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2000/11/01/politics/01COUN.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1243692"/>
+      <doc.copyright holder="The New York Times" year="2000"/>
+      <series series.name="THE 2000 CAMPAIGN: THE GREEN PARTY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Presidential Election of 2000</classifier>
+        <classifier class="indexing_service" type="descriptor">Election Issues</classifier>
+        <org class="indexing_service">Green Party</org>
+        <person class="indexing_service">Henneberger, Melinda</person>
+        <person class="indexing_service">Nader, Ralph</person>
+        <person class="indexing_service">Gore, Al (Vice Pres)</person>
+        <person class="indexing_service">Bush, George W (Gov)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/Ralph Nader</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Election of 2000</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20001101T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9504E1DD1030F932A35752C1A9669C8B63" item-length="1028" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Nader Sees a Bright Side to a Bush Victory</hl1>
+      </hedline>
+      <byline class="print_byline">By MELINDA HENNEBERGER</byline>
+      <byline class="normalized_byline">Henneberger, Melinda</byline>
+      <dateline>DEARBORN, Mich., Oct. 31</dateline>
+      <abstract>
+        <p>Ralph Nader, defending his stand that there is no real difference between Vice Pres Al Gore and Gov George W Bush, cites Gore's failure to fight for key issues on which he differs with Bush, interview; dismisses Democrats warnings that he could hurt himself and his causes if his candidacy aids in Bush victory; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Ralph Nader has no campaign plane and arrives for his commercial flight at the last possible moment, along with just one aide. The Green Party's presidential candidate keeps his head down, as if he is not sure he wants to be noticed.</p>
+        <p>When a man seated across the aisle on the plane asks that Mr. Nader write ''Happy Halloween, Chuck'' on a photo of Dave Barry in a magazine, he grumbles, ''That takes the cake,'' while signing, and the man apologizes.</p>
+      </block>
+      <block class="full_text">
+        <p>Ralph Nader has no campaign plane and arrives for his commercial flight at the last possible moment, along with just one aide. The Green Party's presidential candidate keeps his head down, as if he is not sure he wants to be noticed.</p>
+        <p>When a man seated across the aisle on the plane asks that Mr. Nader write ''Happy Halloween, Chuck'' on a photo of Dave Barry in a magazine, he grumbles, ''That takes the cake,'' while signing, and the man apologizes.</p>
+        <p>Even straight-talking John McCain did not go to these lengths to be refreshing.</p>
+        <p>Yet many Democrats accuse Mr. Nader of basing his entire campaign on a much more substantial whopper than Vice President Al Gore's story about his arthritic dog or Gov. George W. Bush's claim that he pushed for a patients' bill of rights in Texas. They question Mr. Nader's insistence that there is no real difference between the two major-party candidates.</p>
+        <p>And in an interview today on his way to Michigan, where he later spoke at the University of Michigan here, he did seem winded by his efforts to stick to that story.</p>
+        <p>Why not just say, ''I'm the liberal alternative'' -- the better guy, without all the insistence that the other two are essentially the same guy?</p>
+        <p>''I don't like the word 'liberal,' '' he began. ''I prefer 'progressive.' I don't like the word, 'I' either. I make a difference between linguistic distinctions and real ones.''</p>
+        <p>But in what sense is opposing drilling in the Arctic National Wildlife Refuge no different from supporting it? Is there no difference between a man who flew to Kyoto to singlehandedly rescue an international framework for limiting greenhouse gas emissions -- and one who believes environmental goals should be met through negotiations with industry?</p>
+        <p>''Kyoto!'' he said derisively. ''It was watered down so badly, structured to alienate the third world, then Gore went back home and there was no push to make the case'' for the Senate to ratify the treaty. There was unanimous opposition in the Senate.</p>
+        <p>But Mr. Nader said that should not have stopped him. ''It's what do they stand for versus what do they fight for -- I discount the rest as linguistic differences,'' he said, adding that Mr. Gore had also done nothing to force automakers to make cars more fuel efficient. But hadn't Mr. Gore at least tried to make that case?</p>
+        <p>''All right, he fought for it,'' he said. ''But since August, when he said he's his own man, has he been saying, 'We're going to put the wood to the auto industry?' ''</p>
+        <p>''Anyway,'' he said, ''my phrase is that there are few major differences.''</p>
+        <p>Mr. Nader said he was not impressed by pressure from Democrats who warn he could hurt his reputation as well as his causes if he was seen as having helped elect Mr. Bush. On the contrary, he said, it is because of him that ''Gloria Steinem is getting her calls returned.''</p>
+        <p>''I waited in '84, '88, '92, '96,'' he said bitterly. ''It's as if the Democrats are telling us, 'Wait another four years, then ask our permission.' ''</p>
+        <p>Then he said the way the two parties cozied up to special interests and encouraged a concentration of power made all other distinctions meaningless. ''I don't care if they're different on everything else,'' he said.</p>
+        <p>Including the Supreme Court, which some environmentalists fear could take regulation of the clean air and water standards away from the federal government?</p>
+        <p>Mr. Nader said he did not think there would be much difference between the justices Mr. Gore would choose and those Mr. Bush would appoint. After all, Democrats had helped confirm Justices Antonin Scalia and Clarence Thomas, hadn't they? Besides, ''You can't really predict how Supreme Court justices will behave.''</p>
+        <p>And he called the possibility that a court packed with Republican appointees could overturn Roe v. Wade a ''scare tactic.'' On Sunday, Mr. Nader said in a television interview that even if Roe v. Wade was overturned, the issue ''would just revert to the states.'' Just?</p>
+        <p>''Here's what happened on that,'' he said wearily. ''The scare tactic is that would end choice in America, and I just said that's not true, but I should have been astute enough not to mention that.''</p>
+        <p>He said he did not in any case believe for a moment that Mr. Bush would seek to overturn Roe v. Wade. ''The first back alley death, and the Republican Party is in deep trouble and they know it,'' he said. He described the party's opposition to abortion as just for show, ''just for Pat Robertson.''</p>
+        <p>He also pooh-poohed recent reports in Salon.com questioning the purity of his financial investments. Mr. Nader's supporters have criticized Mr. Gore because the vice president's mother's trust owns shares in Occidental Petroleum. Mr. Nader's running mate, Winona LaDuke, has accused Occidental of ''working to exploit oil reserves under U'wa land in Colombia.'' But it turns out that Mr. Nader himself is an Occidental investor through shares he owns in a mutual fund.</p>
+        <p>''The key is whether you fight the company you have money in,'' he said. ''There comes a point when everything is connected to everything else in investments.''</p>
+        <p>This was getting a little heavy, even for Mr. Nader, so he told a joke: ''You know George W.'s air pollution policy? He believes in personal responsibility: Don't inhale.''</p>
+        <p>Asked how he would feel on Nov. 8 if the man he considers such a joke was elected, he smiled, and even seemed to suggest he would prefer that outcome. ''A bumbling Texas governor would galvanize the environmental community as never before,'' he said. ''The Sierra Club doubled its membership under James Watt.''</p>
+        <p>THE 2000 CAMPAIGN: THE GREEN PARTY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

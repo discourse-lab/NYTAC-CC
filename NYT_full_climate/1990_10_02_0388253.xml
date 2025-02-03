@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>REPORT SAYS E.P.A. NEGLECTS ECOLOGY</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="19" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="388253"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">REGULATION AND DEREGULATION OF INDUSTRY</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">REILLY, WILLIAM K (ADMR)</person>
+        <person class="indexing_service">SHABECOFF, PHILIP</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901002T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE6D8143DF931A35753C1A966958260" item-length="896" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>REPORT SAYS E.P.A. NEGLECTS ECOLOGY</hl1>
+      </hedline>
+      <byline class="print_byline">By PHILIP SHABECOFF, Special to The New York Times</byline>
+      <byline class="normalized_byline">SHABECOFF, PHILIP</byline>
+      <dateline>WASHINGTON, Oct. 1</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: A report ordered by Administrator William K. Reilly says the Environmental Protection Agency has neglected the care of natural ecological systems by focusing instead on risks to human health, though the two are directly related and should be analyzed together.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: A report ordered by Administrator William K. Reilly says the Environmental Protection Agency has neglected the care of natural ecological systems by focusing instead on risks to human health, though the two are directly related and should be analyzed together.</p>
+        <p>A report ordered by Administrator William K. Reilly says the Environmental Protection Agency has neglected the care of natural ecological systems by focusing instead on risks to human health, though the two are directly related and should be analyzed together.</p>
+        <p>While the agency's singular approach to problems has produced demonstrable benefits, the report says, the agency is failing to attain many national environmental goals and should reorder its priorities to encompass a broader strategy.</p>
+        <p>The report, prepared by the agency's Science Advisory Board, found that in stressing the regulation of single environmental risks, like the risk of an individual chemical to human health, the agency sets priorities and commits resources in ways that frequently make a poor match with the actual risks posed by environmental problems.</p>
+        <p>''In a sense, what this report says is that we have come to the end of the command-and-control regulation era in which we addressed environmental problems one by one,'' said Jonathan Lash, director of the Environmental Law Center of the Vermont Law School, who is co-chairman of the committee that produced the study. ''That approach has been enormously effective, but we have reached the point of diminishing returns in achieving our goals through such regulations.''</p>
+        <p>'Reconsider Our Best Strategy'</p>
+        <p>In a telephone interview on Friday, Mr. Reilly said: ''This is an opportunity to redefine our mission. It asks us to reconsider the best strategy for reducing risk and protecting health and the environment. As that question is asked, we will open vast new opportunities.''</p>
+        <p>Mr. Reilly said his agency's budget request for the fiscal year 1992 would reflect the need for a broader variety of tools in addressing ecological problems. ''We are at a point of transition,'' he said.</p>
+        <p>The board, which is made up of scientists and other outside experts, identified a number of ''relatively high risk'' problems that in many cases were receiving inadequate attention. The high-risk problems include the alteration and destruction of natural systems like wetlands and forests, the loss of biological diversity as a result of habitat destruction and pollution, and a gradual warming of the earth anticipated from industrial gases in the atmosphere that are trapping radiation from the sun.</p>
+        <p>Little Coordination Cited</p>
+        <p>Other important risks cited by the report are toxic substances in the air, worker exposure to dangerous chemicals, indoor air pollution and the pollution of drinking water.</p>
+        <p>Relatively lower environmental risks are presented by oil spills, low-level radiation, acid runoff into lakes and streams and the pollution of underground water sources, the report said.</p>
+        <p>Although the agency is dealing with most of these issues in some fashion, it does not do so in a coordinated way, nor does it devote resources commensurate with the risks, said the report, which was released last week.</p>
+        <p>The report, ''Reducing Risk: Setting Priorities and Strategies for Environmental Protection,'' noted that the nation is now spending about $100 billion a year to meet the requirements of the environmental statutes, including the clean air and water and toxic substances laws.</p>
+        <p>Humanity and Ecology Tied</p>
+        <p>It went on to say: ''Those efforts have led to very real national benefits. The staggering human health and ecological problems apparent throughout Eastern Europe suggest the price this country would be paying now had it not invested heavily in pollution controls.</p>
+        <p>''Yet despite the demonstrable success of past national efforts to protect the environment, many national environmental goals still have not been attained.''</p>
+        <p>The report said the environmental agency's emphasis on human health and relative neglect of ecological issues was ''inappropriate, because in the real world, there is little distinction between the two.''</p>
+        <p>''Over the long term, ecological degradation either directly or indirectly degrades human health and the economy,'' the Science Advisory Board report stated. Beyond their importance to human health and the economy, these ecological systems have ''an intrinsic moral value that must be measured in its own terms and protected for its own sake.''</p>
+        <p>Accordingly, the report said, environmental policy should focus on the ''real'' risks and cost to the economy, or the nation and the world will face increasing threats to both public health and global ecological systems.</p>
+        <p>Among the recommendations of the science board were these:</p>
+        <p>* The E.P.A. should focus its efforts on opportunities for the greatest risk reduction.</p>
+        <p>* It should attach as much importance to reducing ecological risks as it does to reducing risks to human health.</p>
+        <p>* It should do a better job of acquiring and analyzing environmental data.</p>
+        <p>* It should make greater use of tools other than regulation, including economic incentives to reduce pollution and public information to inform the public of environmental risks.</p>
+        <p>* The agency should integrate its environmental programs with broader public policies involving energy, agriculture, taxes and foreign affairs.</p>
+        <p>Mr. Lash said the study was, in effect, calling for ''a change of cultures for the agency.''</p>
+        <p>''It means the E.P.A. has to go beyond being a simple regulatory agency to become the locus of environmental planning, policy and values for this country,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Search for Missing Otters Turns Up a Few Surprises</title>
+    <meta content="05OTTE" name="slug"/>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1999" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1074736"/>
+      <doc.copyright holder="The New York Times" year="1999"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="indexing_service" type="descriptor">Sea Otters</classifier>
+        <classifier class="indexing_service" type="descriptor">Otters</classifier>
+        <classifier class="indexing_service" type="descriptor">Whales and Whaling</classifier>
+        <classifier class="indexing_service" type="descriptor">Sea Urchins</classifier>
+        <classifier class="indexing_service" type="descriptor">Kelp</classifier>
+        <classifier class="indexing_service" type="descriptor">Sea Lions</classifier>
+        <classifier class="indexing_service" type="descriptor">Seals (Animals) and Sealing</classifier>
+        <location class="indexing_service">Aleutian Islands</location>
+        <location class="indexing_service">Alaska</location>
+        <person class="indexing_service">Stevens, William K</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Beaches</classifier>
+        <classifier class="online_producer" type="general_descriptor">Cats</classifier>
+        <classifier class="online_producer" type="general_descriptor">Whales and Whaling</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fish and Other Marine Life</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19990105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE7DB173EF936A35752C0A96F958260" item-length="1877" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Search for Missing Otters Turns Up a Few Surprises</hl1>
+      </hedline>
+      <byline class="print_byline">By WILLIAM K. STEVENS</byline>
+      <byline class="normalized_byline">Stevens, William K</byline>
+      <abstract>
+        <p>Investigation into plunge in number of sea otters off Aleutian Islands and Alaska mainland opens rare and revealing window on nature's complexity and interconnectedness; researchers find that orcas, or killer whales, have started eating otters after decades and possibly centuries of peaceful coexistence; suggest that this development was in turn triggered by changes in fish population that caused decline in sea lions and habor seals, the major food for orcas; note that decline of sea otters has led to explosion of sea urchin and deforestation of kelp beds on which sea urchin feed; believe further ecological ripples are under way; drawings illustrate oceanic ecosystem and kelp forest ecosystem (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sea otters are appealing, no doubt about it. In recent decades they have cruised the cold waters off the Aleutian Islands and the Alaskan mainland in robust numbers, like crowds of carefree vacationers.</p>
+        <p>They float around luxuriously on their backs, all the while solicitously tending the babies that rest on the mothers' chests.  They do barrel rolls and cartwheels. They dive down into the kelp beds that are their main feeding ground, where they gather up a gourmet feast of sea urchins, clams and mussels, tuck them under their arms, head for the surface and resume their backfloat.</p>
+      </block>
+      <block class="full_text">
+        <p>Sea otters are appealing, no doubt about it. In recent decades they have cruised the cold waters off the Aleutian Islands and the Alaskan mainland in robust numbers, like crowds of carefree vacationers.</p>
+        <p>They float around luxuriously on their backs, all the while solicitously tending the babies that rest on the mothers' chests.  They do barrel rolls and cartwheels. They dive down into the kelp beds that are their main feeding ground, where they gather up a gourmet feast of sea urchins, clams and mussels, tuck them under their arms, head for the surface and resume their backfloat.</p>
+        <p>They demonstrate their skill as tool users (the only mammals except primates that can do so) by putting rocks on their chests and cracking the clams and mussels on them. They roll the spiny urchins between their paws to make them go down better.  Then they pop the succulent marine morsels into their mouths.</p>
+        <p>So it came as a shock to many people when Dr. James A. Estes, a marine ecologist with the United States Geological Survey, and his colleagues discovered that the otter population in the Aleutians had plunged sharply. Wild animal populations are always fluctuating to some degree or other -- that is nature's way -- but Dr. Estes and his co-researchers at first could find no reason for the otters' unusually sharp decline.</p>
+        <p>Thus began a detective hunt that did not just uncover the cause of the decline: it opened a rare and revealing window on nature's complexity and interconnectedness -- in this case, a huge slice of ecological reality encompassing both the broadest dimensions and most spectacular inhabitants of the marine environment as well as its most minute creatures and relationships.</p>
+        <p>Among other things, it turned out that orcas, or killer whales, had started eating the otters after decades and possibly centuries of peaceful coexistence. The new and lethal relationship between orcas and otters, the researchers concluded, was occasioned by ripples running from one end of this elegant web of existence to the other. And the otters, they found, were the crucial  species holding the web together.</p>
+        <p>It is not often that ecologists are able to get a clear fix on such a big and complicated chunk of the natural world, or on the full sweep of the dynamics operating within it.  Most ecological research projects are too short and too small to come to grips with such expansive dimensions. But Dr. Estes and his colleagues, who are based at the University of California at Santa Cruz, have been using the Aleutians and Western Alaska, a stretch of some 2,000 miles, as their research laboratory for nearly three decades.</p>
+        <p>In that period they have tracked the otters' movements and population dynamics by tagging the otters and in some cases surgically implanting small radio transmitters in them. The researchers found that on some of the islands, otter populations had recovered strongly since they were nearly extinguished a century ago by a long-defunct fur trade. The Estes group had every reason to expect that they would continue to be robust. So when they began to notice in the 1990's that some populations were instead declining, he said, ''it was unexpected and perplexing.''</p>
+        <p>In fact, the researchers just did not believe it at first. ''We wrote it off to sampling error, just the imprecision of the data,'' he said. But the numbers continued to drop, and it seemed clear that something unusual was going on.</p>
+        <p>Could the otters simply have migrated from one part of the region to another? To find out, the researchers analyzed populations over a 500-mile-long stretch of the Aleutians from Kiska to Seguam islands.  Sure enough, by 1993 otter numbers in that whole stretch had been cut by half.  Here the geographical scope of the research effort became critical; a smaller region would not have been large enough to reveal the decline. In 1997, they repeated the surveys and found that the population decline had worsened, to about 90 percent. In the 500-mile stretch, otter numbers had dropped to an estimated 6,000 from 53,000 in the 1970's.</p>
+        <p>''That told us for sure it was a very large-scale decline, but we were still trying to understand the cause,'' Dr. Estes said. Early on, the researchers had ruled out reproductive failure. Their studies enabled them to keep track of how often otters gave birth and how many young survived, and this revealed that reproduction was continuing to re-supply the population.</p>
+        <p>With other possible causes eliminated, the Estes team reasoned, mortality had to be the explanation.  In the past, they had seen temporary declines in otter populations because of starvation, pollution or infectious disease. ''In all those cases,'' Dr. Estes said, ''we find lots of bodies.  They get weak and tired and come ashore to die.'' This time not a single dead otter was found -- a clue, he said, that ''something really weird was going on.''</p>
+        <p>As early as 1991, a member of the team had seen an orca eating an otter. Killer whales normally ignore otters as prey in favor of seals and sea lions, which give them more food for less expenditure of hunting energy. So at first, no one made the connection between a single otter's bad luck in meeting a killer whale and the shrinking otter population.</p>
+        <p>''We'd watched them swimming around with otters for decades and never saw them eat one,'' Dr. Estes said of the orcas. Then the researchers began seeing more attacks. Soon the count of sightings reached nine, Dr. Estes said, and it became clear that ''something was going on with whales in terms of their behavior toward otters.''</p>
+        <p>The rest of the detective story was described in a recent issue of the journal Science by Dr. Estes and other members of his team: M. T. Tinker, a graduate student at the university in Santa Cruz; Dr. Terrie M. Williams, a physiologist in the university's biology department, who is also Dr. Estes's wife; and Dr. Daniel F. Doak, a population biologist at the university.</p>
+        <p>Through statistical analysis, the researchers determined that the observed increase in attacks could not be attributed to chance alone. Then they compared otter population trends in two places on Adak Island where circumstances had by chance created experimental and control groups. In one place, Clam Lagoon, the entrance from the sea was too narrow and shallow for orcas to enter. In the other, Kuluk Bay, they could enter easily. There was virtually no movement of otters between the two areas. Almost two-thirds of the otters disappeared from the unsheltered bay in a year's time, while only 12 percent disappeared from the sheltered one.</p>
+        <p>''That made us perk up our years and think it really was the killer whales,'' Dr. Estes said.</p>
+        <p>Finally, the researchers calculated what the likely rate of observed attacks would be if whales were responsible for the 90 percent reduction in the otter population. The rate was close to the number of attacks actually seen.</p>
+        <p>But this conclusion only raised new questions. What made the whales attack the otters? The researchers have proposed the following chain of events, which begins in the open ocean:</p>
+        <p>First, populations of the northern Pacific's most nutritious fish, like ocean perch and herring, declined.  The reasons are uncertain, but several have been proposed. One is overfishing by commercial fishermen.  Another is a sudden warming of the North Pacific climate that began in the late 1970's. A third is competition from a predator species of fish, the pollock, which is not as nutritious as the other, oilier species. The pollock population grew, according to one hypothesis, when whalers reduced the populations of whales that survive by filtering microscopic animals from the water. The tiny animals proliferated, and the pollock gorged on them.</p>
+        <p>The decline in the most nutritious forage fish, according to the proposed story line, was mainly responsible for an ensuing crash in Alaskan populations of Steller sea lions and harbor seals, for which pollock did not provide sufficient nourishment.  Numbers of these pinnipeds, as seals and sea lions are called, have declined sharply since the 1970's. According to a 1996 study by the National Research Council, the decline in forage fish was probably a major factor in the pinniped crash.</p>
+        <p>Pinnipeds are the major food of orcas. Faced with a shortage, the Estes group believes, some killer whales turned to the next best thing:  sea otters.</p>
+        <p>Here the ecological web gets even more complex. The otters are the keystone species of a coastal ecosystem called kelp forests. These are great stretches of algae, analogous to terrestrial woodlands, in which kelp fills the role of trees.</p>
+        <p>Otters maintain the ecosystem by eating sea urchins, which feed on kelp. When otters disappear, the urchin population explodes and quickly ''deforests'' the kelp ecosystem.  That is exactly what happened in the Aleutians when killer whales removed so many otters from the scene. As the ''trees'' of the ecosystem disappeared, so did many other species of algae that are analogous to the underbrush of a terrestrial forest.</p>
+        <p>The researchers have documented the decline of otters, the proliferation of urchins and the deforestation of kelp beds. And based on earlier studies, the scientists believe that further ecological ripples are also under way. ''Taking the otter out of the system has a whole cascade of effects,'' Dr. Estes said. ''Most of them are unstudied, but we've looked at it enough to know there are a lot of them.''</p>
+        <p>Here are some examples:</p>
+        <p>Sea stars (starfish), which prefer open water rather than kelp and which are preyed on by otters, should thrive. But the growth rate of invertebrates like limpets, sea mussels and barnacles is expected to slow.  Fish species that live in the kelp forest, like rockfishes, sculpins and greenlings (a relative of ling cod) should decline. A number of bird species are dependent on these varieties of marine life, and they may well be affected different ways.</p>
+        <p>Seagulls, for instance, will have fewer fish on which to prey. But they are adaptable enough to switch to invertebrates. Bald eagles, on the other hand, are totally dependent on the fish, and their local populations may well drop. The likelihood that America's symbol will become locally extinct one of its main strongholds, Dr. Estes said, ''becomes very high.''</p>
+        <p>Many more details remain to be fleshed out before the researchers will have a fully rounded picture of how the complicated chain of marine life works. But one thing seems clear: If they had not thought big by focusing on the broad scale and the long term, they would not have gotten close. For the young science of ecology, that may be the biggest lesson.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

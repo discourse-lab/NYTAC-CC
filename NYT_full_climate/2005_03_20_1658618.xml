@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Predictions Vary for Refuge As Drilling Plan Develops</title>
+    <meta content="20POWE$03" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="26" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/03/20/politics/20power.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1658618"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Arctic National Wildlife Refuge</classifier>
+        <person class="indexing_service">Barringer, Felicity</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <location class="online_producer">Washington (DC)</location>
+        <location class="online_producer">Alaska</location>
+        <org class="online_producer">Congress</org>
+        <person class="online_producer">Bush, George W</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050320T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B04EEDE1E3CF933A15750C0A9639C8B63" item-length="1277" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Predictions Vary for Refuge As Drilling Plan Develops</hl1>
+        <hl2 class="online_headline">Predictions Vary for Refuge as Drilling Plan Develops</hl2>
+      </hedline>
+      <byline class="print_byline">By FELICITY BARRINGER</byline>
+      <byline class="normalized_byline">Barringer, Felicity</byline>
+      <dateline>WASHINGTON, March 19</dateline>
+      <abstract>
+        <p>Results of opening Arctic National Wildlife Refuge to oil production, as Congress appears poised to do, are largely unknown; crucial question is whether there is enough oil scattered underneath coastal plain section of refuge to be commercially viable, though publicly available surveys suggest there is as much as 10 billion barrels; proponents say surface disturbance can be minimized by new technologies, but detractors point to warming of climate which causes access problems calling for laying of more roads in 'roadless' area; effects on wildlife are debated; map, photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With Congress apparently poised to open the coastal plain of the Arctic National Wildlife Refuge to oil exploration, the nation is on the verge of a major experiment. The results, in terms of oil production and the effects on the landscape and wildlife, like the local herd of 120,000 caribou, are largely unknown.</p>
+        <p>President Bush has portrayed the area as central to increasing domestic oil production. Yet one crucial question is whether there is enough oil scattered underneath the coastal plain section of the 19-million-acre refuge to be commercially viable.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>One crucial question is whether there is enough oil scattered underneath the coastal plain section of the Arctic National Wildlife Refuge to be commercially viable.</p>
+      </block>
+      <block class="full_text">
+        <p>With Congress apparently poised to open the coastal plain of the Arctic National Wildlife Refuge to oil exploration, the nation is on the verge of a major experiment. The results, in terms of oil production and the effects on the landscape and wildlife, like the local herd of 120,000 caribou, are largely unknown.</p>
+        <p>President Bush has portrayed the area as central to increasing domestic oil production. Yet one crucial question is whether there is enough oil scattered underneath the coastal plain section of the 19-million-acre refuge to be commercially viable.</p>
+        <p>Oil industry experts said in interviews that they believe that the gambles of those companies who bid for leases to explore and drill for oil would probably pay off. But in recent years some of the multinational companies that were actively pressing for opportunities to drill in the refuge have been less visible in their support.</p>
+        <p>Once companies decide to drill, it is unclear how extensive the network of drill pads and connecting roads, pipelines and shelters and supply vehicles will be, and how they will change the landscape and the habitat of the animals that move through the area.</p>
+        <p>During last week's Senate debate, which marked a turning point in the long struggle over energy and environmental policy, supporters of drilling argued that the development would be minimal. ''When we talk about the roadless areas we have available for exploration, we mean it,'' said Senator Lisa Murkowski, Republican of Alaska. ''We do mean that we are going to put down an ice road that will disappear when the summer comes.''</p>
+        <p>But there are other areas of Alaska's northern coast that can give some indication of how development may proceed. Once exploration was over and drilling had begun in other Alaska oil facilities, like the Alpine field west of Prudhoe Bay, the concept of ''roadless'' became more fungible as gravel roads were constructed within the sites. Responding to questions about this in a recent environmental impact statement on oil development in an area farther west, Interior Department officials wrote, ''the term 'roadless' does not mean an absence of roads. Rather, it indicates an attempt to minimize the construction of permanent roads.''</p>
+        <p>And the gradual warming of the arctic climate in recent years has nearly halved the length of time that ice roads -- constructed and used when the temperature of the permafrost reaches minus 5 degrees Celsius -- can be used by equipment like the 64,000-pound exploratory rigs that employ seismic imaging technology.</p>
+        <p>At the same time, the disturbance of surface land can be reduced because oil drills are now able to probe long distances at a slant. At the Alpine field, for example, 125 miles of holes extend below ground from the central drill pad, said Henri Bisson, the Alaska director for the federal Bureau of Land Management.</p>
+        <p>Despite the technological advances, some biologists remain concerned about how one of Alaska's larger caribou herds, which in the spring and summer graze and calve along the coastal plain of the wildlife refuge, will react to the intermittent industrialization. A herd whose habitat was crisscrossed by 30 years' worth of development at Prudhoe Bay continued to expand.</p>
+        <p>The desolate and dry coastal plain that reaches out toward the Beaufort Sea has become a talisman for both parties.</p>
+        <p>The pro-drilling forces see its opening as an important statement about the country's willingness to develop domestic oil resources. Major environmental groups see the South Carolina-sized refuge as a sacred, undeveloped place at the northern edge of the continent that should be passed on as is to future generations.</p>
+        <p>But beyond the ideology, there is the question of how the exploration might work. The amount of oil there remains unknown; a test well was drilled about 20 years ago, but the companies and the state have kept the results secret.</p>
+        <p>''We don't know if there's any real oil there,'' Gov. Frank H. Murkowski said in a telephone interview last week. The most common prediction by the pro-drilling forces, based on publicly available surveys by the United States Geological Survey, is that pools and pockets containing as much as 10 billion barrels of oil lie beneath the coastal plain of the refuge. Mr. Murkowski said ''there's no question that different corporations have different ideas'' about the amount of oil and the ability to recover it at a profit, but he added, ''Believe you me, when those areas are put up for lease, every major oil company in the world will be there bidding.''</p>
+        <p>Michael Rodgers, a senior director of PFC Energy, an oil industry consulting firm based in Washington, said in an interview that because ''it is increasingly difficult for companies to identify new opportunities and they are having a harder and harder time growing production and reserves, any time you have a chance of having 10 billion barrels of new reserves in a place where there is no political instability, there will certainly be some companies that would be interested'' -- particularly when the world price of oil is above $55 a barrel.</p>
+        <p>The first order of business, Mr. Rogers said, would be exploration -- something that Mike FitzMaurice, the geophysical operations manager for the Bill Barrett Corporation, an oil exploration company based in Denver, estimated could take a minimum of two years.</p>
+        <p>Once drilling begins, proponents say, surface disturbance would be minimized by new technologies. But Jim Waltman, an expert on the preserve at the Wilderness Society, said that data from state agencies indicated that claims of technological improvements that allow for miles of diagonal drilling may be exaggerated and that data shows that the average horizontal distance of wells in the Prudhoe Bay area has increased only to 1.04 miles from nine-tenths of a mile in the last 30 years.</p>
+        <p>Just how such exploration affects wildlife is a matter of contention. A large segment of the Central Artic caribou herd continues to migrate in and out of the Prudhoe area, and its numbers have grown.</p>
+        <p>But wildlife biologists warn that the growth of the herd may mask a problematic effect: the females that were most affected by the industrial activity were less successful at reproducing.</p>
+        <p>Meanwhile, the Porcupine caribou herd, which forages and calves in the Artic National Wildlife Refuge where oil development could occur, is already shrinking at a slow but steady rate, now numbering about 120,000, according to state and university biologists.</p>
+        <p>Gary Kofinas, an assistant professor at the University of Alaska at Fairbanks, said that a recent study predicted ''a decrease in the reproductive success of the herd.''</p>
+        <p>Mr. Waltman, of the Wilderness Society, added: ''We look at the arctic refuge as a spectacular wilderness replete with wildlife that has been protected for 40 years. You're talking about scattered deposits of oil -- that means you need a network of pads connected by pipelines with airstrips and housing and pumping stations and power plants and power lines and sewage treatment and waste disposal and on and on and on. It would spread out like a spider web.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

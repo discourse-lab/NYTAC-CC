@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ralph W. Schreiber Is Dead at 45; Bird Expert Was Museum Curator</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Obituary" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Obituaries" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="133629"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">DEATHS</classifier>
+        <classifier class="indexing_service" type="descriptor">BIOGRAPHICAL INFORMATION</classifier>
+        <person class="indexing_service">SCHREIBER, RALPH W (DR)</person>
+        <classifier class="online_producer" type="types_of_material">Obituary</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Obituaries</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880406T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE4DC1539F935A35757C0A96E948260" item-length="331" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ralph W. Schreiber Is Dead at 45; Bird Expert Was Museum Curator</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Dr. Ralph W. Schreiber, an ornithologist and curator of birds and mammals at the Natural History Museum of Los Angeles County, died March 29 of pancreatic and liver cancer at his Los Angeles home. He was 45 years old.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Dr. Ralph W. Schreiber, an ornithologist and curator of birds and mammals at the Natural History Museum of Los Angeles County, died March 29 of pancreatic and liver cancer at his Los Angeles home. He was 45 years old.</p>
+        <p>Dr. Ralph W. Schreiber, an ornithologist and curator of birds and mammals at the Natural History Museum of Los Angeles County, died March 29 of pancreatic and liver cancer at his Los Angeles home. He was 45 years old.</p>
+        <p>Dr. Schreiber was known for his studies of Pacific seabirds, particularly the brown pelican. His early work 20 years ago helped identify the deadly effect of DDT on those pelicans, committing him to work for the survival of the endangered species.</p>
+        <p>In 1982, he and his wife, Elizabeth Anne, who is also an ornithologist at the museum, observed the periodic change in the eastern Pacific Ocean atmosphere known as El Nino. Their surveys, supported by the National Science Foundation and the National Geographic Society, showed how these drastic changes were linked to unusual weather patterns and serious disruptions of fish populations around the globe.</p>
+        <p>After studying the birds and mammals on Christmas Island, Dr. Schreiber reported that virtually the entire bird population, counted in the many millions, had vanished from the mid-Pacific atoll, leaving their nestlings to starve.</p>
+        <p>Months later, on a follow-up visit to the world's largest atoll, he found that various species were coming back in small numbers, apparently with the return of anchovies and squid, on which they feed. Dr. Schreiber concluded that El Nino worked as a mechanism that controlled bird populations by decimating them.</p>
+        <p>The studies by the Schreibers also found that sea birds of the Central Pacific could sense the coming of El Nino months before scientists could.</p>
+        <p>Dr. Schreiber was born in Wooster, Ohio, and held a doctorate from the University of South Florida. Before coming to the museum in Los Angeles in 1976, he had worked for the Smithsonian Institution.</p>
+        <p>In addition to his his wife, Dr. Schreiber is survived by his parents, William I. and Clare Adel Schreiber of Wooster; and three brothers, James L. and William M. of Louisville, Ky., and Stephen T. of Princeton, N.J.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

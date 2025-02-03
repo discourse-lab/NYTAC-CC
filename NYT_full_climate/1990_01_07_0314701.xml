@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soviet-American Base A Good Antarctic Idea</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="314701"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <location class="indexing_service">UNION OF SOVIET SOCIALIST REPUBLICS (USSR)</location>
+        <location class="indexing_service">UNITED STATES</location>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE3DB1F3DF934A35752C0A966958260" item-length="321" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soviet-American Base A Good Antarctic Idea</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: To the Editor:</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: To the Editor:</p>
+        <p>To the Editor:</p>
+        <p>Proposed United States-Soviet collaboration in the Antarctic (news article, Dec. 17), with an internationally operated base at the summit of Antarctica, has much to commend it on scientific grounds. This is the coldest high-altitude site on the earth's surface, where the atmosphere is uniquely transparent to electromagnetic wavelengths between the visual band and radio. Observations at these wavelengths show the birth of stars like our sun, the formation of galaxies like the Milky Way and the origins of structure in the universe. This site would also fill a gap in the network monitoring ionospheric and magnetospheric phenomena.</p>
+        <p>It is important that the base be international because it is also ideal for monitoring stratospheric chemistry. The air over Antarctica circulates southward at high altitude, drops directly downward at the summit and continues northward at low altitude. The air at the site comes from the stratosphere, and is therefore as uncontaminated as air can be. It is also extremely dry, allowing a clear view of the spectroscopic lines emitted by stratospheric molecules. Balloons sent into the stratosphere will hover for weeks at the same site.</p>
+        <p>The problems of global atmospheric change such as the ozone hole and the increase in greenhouse-effect gases are international in scope and can only be solved cooperatively. International responsibility for collecting the data to monitor these problems can bring consensus on how to proceed. (Governments tend to believe data collected by their own citizens.) International cooperation in the problems of running an Antarctic base could be a step toward solving our worldwide environmental problems and a dress rehearsal for international collaboration on the moon and Mars.</p>
+        <p>ANTONY A. STARK</p>
+        <p>Holmdel, N.J., Dec. 20, 1989</p>
+        <p>The writer is on the radio physics research technical staff at A.T.&amp; T. Bell Laboratories.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

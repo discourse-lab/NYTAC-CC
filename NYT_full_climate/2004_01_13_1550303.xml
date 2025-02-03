@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Alaska Thaws, Complicating the Hunt for Oil</title>
+    <meta content="13TUND$03" name="slug"/>
+    <meta content="13" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/01/13/science/earth/13TUND.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1550303"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Arctic National Wildlife Refuge</classifier>
+        <classifier class="indexing_service" type="descriptor">Tests and Testing</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">Alaska</location>
+        <location class="indexing_service">North Slope (Alaska)</location>
+        <org class="indexing_service">Alaska Conservation Foundation</org>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <person class="indexing_service">Bader, Harry</person>
+        <person class="indexing_service">Williams, Deborah</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Alaska</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Northwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Alaska</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Regulation and Deregulation of Industry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Tests and Testing</classifier>
+        <location class="online_producer">Alaska</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040113T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E07E7D91530F930A25752C0A9629C8B63" item-length="2004" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Alaska Thaws, Complicating the Hunt for Oil</hl1>
+        <hl2 class="online_headline">Alaska Thaws, Complicating the Hunt for Oil</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <dateline>DEADHORSE, Alaska</dateline>
+      <abstract>
+        <p>Warming climate in Alaska's Arctic tundra has reduced number of days seismic vehicles can search for oil reserves to only 103 days compared to 189 days in 1969; Harry Bader, Department of Natural Resources land manager for North Slope, has begun two-year testing process to redefine guidelines for exploration of tundra; current test to determine if vehicles can drive on tundra without harm to ecosystem is six inches of snow and one foot of frozen ground; Bader maintains that more precise measurement of ground conditions and extensive testing and observation of limited area of tundra under pressure from vehicles will yield new ideas that will protect environment and foster exploration; Alaska Conservation Foundation executive director Deborah Williams warns of damaging America's only Arctic region by making policy changes during period when North Slope is already experiencing warming and change; map; photos; graph (L)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Harry Bader slogged across a patch of America's only Arctic shore, leaning into a late December gale that filled the midday twilight with blowing snow and sent the wind chill to 40 below.</p>
+        <p>Despite the weather, Mr. Bader, the state's land manager for the oil-rich North Slope, was consumed with one thing -- the warming climate. Oil-prospecting convoys in search of new deposits are allowed to crisscross the fragile tundra only when it is snowy and solid. But over three decades, rising temperatures have cut this frozen season in half, to 100 days from 200.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Scientists are testing a new way to measure the Arctic landscapes ability to withstand the impact of oil exploration.</p>
+      </block>
+      <block class="full_text">
+        <p>Harry Bader slogged across a patch of America's only Arctic shore, leaning into a late December gale that filled the midday twilight with blowing snow and sent the wind chill to 40 below.</p>
+        <p>Despite the weather, Mr. Bader, the state's land manager for the oil-rich North Slope, was consumed with one thing -- the warming climate. Oil-prospecting convoys in search of new deposits are allowed to crisscross the fragile tundra only when it is snowy and solid. But over three decades, rising temperatures have cut this frozen season in half, to 100 days from 200.</p>
+        <p>Environmentalists have begun to point out the contradictions in a situation where Arctic-wide warming, which many scientists say is at least partly driven by smokestack and tailpipe emissions, is curtailing the quest for a fossil fuel that is a prime source of such pollution. Nowhere is the warming trend more acute than here on this Minnesota-size stretch of pond-pocked plains and shrubby foothills.</p>
+        <p>But even as temperatures have risen, so has the demand for oil from the Slope, which holds the country's last big known domestic reserves. And Mr. Bader's agency, the Department of Natural Resources, is bound by the State Constitution not only to protect the land, but to increase extraction of the oil and gas beneath it.</p>
+        <p>Something had to give -- and the only flexibility lay in the rules for tundra travel. So, with $270,000 from the federal Department of Energy and the help of the oil industry, Mr. Bader was out on the frigid plains testing a new way to measure the landscape's ability to withstand the impact of oil exploration.</p>
+        <p>He hiked through drifts by the light of a headlamp, leading a Caterpillar bulldozer, a Tucker Sno-Cat and other machines in Figure 8's to measure their effect on the vegetation beneath the snow. After repeating this ritual every two weeks through the winter, he will return in the summer to assess any damage.</p>
+        <p>Mr. Bader was unabashed in saying that his goal was to give oil companies and state and federal officials what they wanted, an expanded oil-hunting season, by replacing what he called an overly protective rule with something more precise.</p>
+        <p>For decades, officials have relied on a simple test to determine when the spongy soil and the carpet of lichens, sedges and other vegetation were shielded from scarring by the heavy vehicles. Six inches of snow and a foot of frozen ground -- measured by hammering a finger-thick steel bar into the earth -- meant the convoys could roll. With those rules, the exploring season had dwindled.</p>
+        <p>All of this was happening as the Bush administration, Gov. Frank H. Murkowski, the oil industry and Mr. Bader's agency were pushing more than ever to expand oil exploration. Established wells were playing out and the Senate still refused to allow the oil hunt to expand into the Arctic National Wildlife Refuge, the most familiar part of the North Slope.</p>
+        <p>''We have to find out what the standard really ought to be,'' Mr. Bader said. ''When the season was 200 days a year, who cared if we were off by 40 days? But we're right on that cusp of the minimum number of days now.''</p>
+        <p>The oil industry says it needs 120 days a year to avoid having projects drag out expensively. ''We still want to protect the Arctic environment,'' said Larry Houle, general manager of the Alaska Support Industry Alliance, a trade group for oil subcontractors. But because of the shrunken season, he said, ''if you discover oil today it's going to take you eight years to get it developed.''</p>
+        <p>Mr. Bader said he was braced for attack, knowing that environmental groups were already saying any rule revision would inevitably amount to a relaxation of protections. And his work is being watched by the Bush administration, which recently announced that it planned to open to oil development a new area of 8.8 million acres of federal lands at the western side of the Slope. The only way for oil companies to get there is to cross state lands, where access is increasingly constrained by the tundra rules.</p>
+        <p>Some tundra ecologists support the project, saying it may result in better protection. For example, they say, abundant snow is not always beneficial. If it falls too early in the season, it can act like insulation, preventing the soil from freezing. A more flexible way of assessing conditions could take such issues into account.</p>
+        <p>But others say it is folly to propose lengthening the potentially destructive travel season amid a sustained warming trend. This is particularly true, they say, on the treeless tundra, where a veneer of boggy vegetation overtops a few inches to a foot or so of soil that thaws and comes alive a few months each year, providing food and habitat for hundreds of species of birds and mammals. That living layer sits on up to 2,000 feet of perpetually frozen ground, called permafrost. If the permafrost starts to thaw, that process is hard to stop.</p>
+        <p>''I don't think one can be overly protective, but underprotective is a distinct possibility,'' said Prof. Bruce Forbes, a tundra expert on the other side of the Arctic, at the University of Lapland in Finland.</p>
+        <p>Tundra damage is already far worse, he said, in places like Siberia, where warming is as sharp and rules are rarely enforced. ''It is ultimately a matter of the risks one is willing to accept,'' he said. ''Rehabilitation of tundra vegetation is extremely difficult in northern Alaska, and once the ice-rich permafrost substrates have melted, they are not coming back.''</p>
+        <p>Mr. Bader, 41, who is completing a forestry doctorate at Yale to go with a Harvard law degree, said he was confident he could fulfill his dual mission: to protect and exploit the North Slope. He emphasized that he was merely creating a new tool for policy makers, not setting a new standard -- yet. ''Science can inform what your options are, but at the end of the day, every single resource management decision is political,'' he said.</p>
+        <p>For the moment, Mr. Bader, who left a tenured professorship at the University of Alaska for this state job in 2001, was consumed with gathering the data, and clearly reveling in the work. Over the howling wind and diesel roar, he yelled: ''Big toys, big science, big country! It doesn't get any better than this.''</p>
+        <p>The day before the big vehicles rolled, he and an assistant, Todd Nichols, spent long, cold hours using a device that is replacing the hammer and rod of old -- a custom-built ''slide hammer,'' to measure ground hardness. It is a calibrated steel rod with a 15-pound sliding weight that is dropped, not pounded, giving a precise measure of the force needed to pierce a foot of soil.</p>
+        <p>''What we want here is repeatability,'' Mr. Bader said. The old test could vary, depending on who swung the sledgehammer.</p>
+        <p>Dr. Max Brewer, a retired geologist and former state conservation commissioner who first worked on the Slope in 1949, is widely credited with creating the ''6 and 12'' standard after assessing damage from early careless practices. Now 79 and living in Anchorage, he said he supported Mr. Bader's effort to bring some scientific precision to the tundra-travel analysis.</p>
+        <p>But he said a new policy expanding access to the oil would require cooperation between environmentalists and industry engineers. ''If they don't work together, you don't have a chance of success, because you either overcontrol or undercontrol,'' he said.</p>
+        <p>For now, environmentalists are expressing strong concern. They say economic pressures to relax the standard are too great; the Department of Natural Resources has a built-in conflict of interest; and the study is assessing just two 40-acre sites out of more than 50 million acres of variegated territory and running over just two summers.</p>
+        <p>''This is America's only Arctic heritage,'' said Deborah Williams, executive director of the Alaska Conservation Foundation. ''How much do we push the envelope in this fragile ecosystem that is experiencing so much change and warming?''</p>
+        <p>In a telephone interview, Governor Murkowski, a Republican, said any changes in the way the state regulates the tundra season would be done ''responsibly,'' adding: ''We're not influenced or encouraged by industry. Either conditions are right to warrant activity or, if not, they've got to get out.''</p>
+        <p>But something has to change if oil development is to continue, he said. And oil remains the lifeblood of his state.</p>
+        <p>Mr. Bader, who a decade ago had his right arm bones splintered by Serb captors while working as a human-rights investigator in Bosnia, said he was not fazed by the pressures that come when industry meets ecology. As he crisscrossed the tundra with his slide hammer and shepherded the vehicles over his test plots, he repeatedly cited his hero, Gifford Pinchot, the pioneering American forester. ''You've got to make wealth for society while stewarding the environment,'' he said. ''That's what trips my trigger.''</p>
+        <p>Even this single round of tests, however, revealed how variable the tundra is, and how complicated the task of protecting it with more precision will be.</p>
+        <p>At one test site, in the generally softer foothills, 59 drops of the weight were required to reach a foot on one attempt. Just a yard away, it took only 6 to reach the same depth.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

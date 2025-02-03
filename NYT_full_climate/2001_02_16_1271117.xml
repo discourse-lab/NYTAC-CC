@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Let Forests Grow Old</title>
+    <meta content="L16TRE$01" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/02/16/opinion/L16TRE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1271117"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Forests and Forestry</classifier>
+        <org class="indexing_service">Pacific Forest Trust</org>
+        <person class="indexing_service">Wayburn, Laurie</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B03E4D91530F935A25751C0A9679C8B63" item-length="139" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Let Forests Grow Old</hl1>
+      </hedline>
+      <abstract>
+        <p>Letter by Laurie Wayburn of Pacific Forest Trust says that allowing 747 million acres of forestland in US to grow older would benefit environment (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>I was pleased to read ''Report to Back Forests to Fight Warming'' (news article, Feb. 10). But while it helps to plant new trees, our work with some of the country's leading scientists has shown that much more can be done through prevention of forest loss and protection of older trees.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>I was pleased to read ''Report to Back Forests to Fight Warming'' (news article, Feb. 10). But while it helps to plant new trees, our work with some of the country's leading scientists has shown that much more can be done through prevention of forest loss and protection of older trees.</p>
+        <p>Allowing the 747 million acres of forestland in the United States to grow older could significantly increase carbon storage because older forests accumulate and store more carbon than younger forests. Planting more trees is, of course, beneficial, especially when formerly forested areas are restored. But let's not overlook the greater benefits from conservation and stewardship.</p>
+        <p>LAURIE WAYBURN  President, Pacific Forest Trust  Santa Rosa, Calif., Feb. 13, 2001</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

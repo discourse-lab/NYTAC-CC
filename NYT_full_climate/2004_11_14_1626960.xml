@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Packed Powder Via Your PC</title>
+    <meta content="PRACSKI" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Technology; Travel" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/11/14/travel/14prac.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1626960"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="PRACTICAL TRAVELER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Skiing</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <org class="indexing_service">Weather.com</org>
+        <org class="indexing_service">Bestskiweather.Com</org>
+        <org class="indexing_service">Snocountry.Com</org>
+        <person class="indexing_service">Tedeschi, Bob</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Columns/Practical Traveler</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="descriptor">Skiing</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041114T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03E3D6133CF937A25752C1A9629C8B63" item-length="1441" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Packed Powder Via Your PC</hl1>
+        <hl2 class="online_headline">Packed Powder Via Your PC</hl2>
+      </hedline>
+      <byline class="print_byline">By BOB TEDESCHI</byline>
+      <byline class="normalized_byline">Tedeschi, Bob</byline>
+      <abstract>
+        <p>Bob Tedeschi Practical Traveler column on weather.com, BestSkiWeather.com, Snocountry.com and other ski-related Web sites that help ski aficionados chart getaways; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WHEN Walter DeTour, of New Canaan, Conn., logged on to Weather.com last December and saw yet another snowstorm forecast for New England, he did what any responsible parent would do: He put his son, Tyler, into the car and drove five hours north to Stowe, Vt.</p>
+        <p>''Tyler was going to be out of school anyway,'' Mr. DeTour said of his 16-year-old son. ''I figured why not get up to the mountain?''</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Web sites can help you find the best snow conditions.</p>
+      </block>
+      <block class="full_text">
+        <p>WHEN Walter DeTour, of New Canaan, Conn., logged on to Weather.com last December and saw yet another snowstorm forecast for New England, he did what any responsible parent would do: He put his son, Tyler, into the car and drove five hours north to Stowe, Vt.</p>
+        <p>''Tyler was going to be out of school anyway,'' Mr. DeTour said of his 16-year-old son. ''I figured why not get up to the mountain?''</p>
+        <p>Ski aficionados have long made use of Weather.com to chart getaways. But in recent years, the offerings of other ski-related sites have improved significantly.</p>
+        <p>Sites are not only better organized than in the Web's earlier days, but they frequently contain better information than what was available even two ski seasons ago. Skimag.com, snocountry.com and others, for example, have recently started services to help match skiers with the best mountains and snow conditions.</p>
+        <p>Even weather.com has improved its ski features. Later this month, it will add a new element, the Weekend Outlook, which will highlight Saturday and Sunday forecasts for resorts closest to a selected location.</p>
+        <p>That feature will complement a useful weather-related service already on the site, the Snow Finder application, which allows users to select from scores of states and cities worldwide, and choose resorts with ideal snow. (To find these features, click on the Ski link near the bottom of the home page, to the right of the Recreation link.)</p>
+        <p>Niche sites also offer weather guidance. BestSkiWeather.com, for instance, is run by Jim Roemer, a meteorologist and avid skier in Hyde Park, Vt. Mr. Roemer, whose service is in its third year, said that at least five major ski resorts, including SnowBird in Utah and Stowe in Vermont, used his services to compile weather reports for their Web sites.</p>
+        <p>Studying Peak Weather</p>
+        <p>Unlike many meteorologists, he says, he studies weather patterns of high-altitude locations in winter, and so claims to have a better read on snowy conditions. (Most meteorologists study how the weather will affect higher population areas, rather than, say, the top half of a mountain in a remote area of Vermont.)</p>
+        <p>His counsel is not free, however. Subscribers pay $239 a year or $49 monthly for forecasts and powder alerts, which arrive via e-mail.</p>
+        <p>As most skiers know, a good weather forecast does not always mean good skiing. Resort Web sites are replete with information regarding open trails, snow base and the number of ski lifts operating, among other things. But when faced with an array of choices, clicking through to each of the mountain Web sites can be tedious.</p>
+        <p>Snocountry.com is a good alternative. The Web site's parent company, SnoCountry Mountain Reports, is an industry trade association providing mountain-related information to a wide range of news media outlets (including SportsThursday in The New York Times), and is one of the more comprehensive sites for ski conditions in North America, Europe and the Southern Hemisphere.</p>
+        <p>The Web site offers pull-down menus that quickly lead you to a region and state. On a single page, users can compare the mountains on the basis of snow conditions, available ski lifts, night skiing and operating hours, and click through to a more detailed page on a given resort. The information comes from the resorts, but snocountry.com says it updates more frequently than even the resorts do.</p>
+        <p>On the comparison page, readers find descriptions of the mountain that are less than hard hitting, but still yield useful information. Atop each ski area's page, users also find basic data on the mountain, like the summit temperature and the percentage of trails devoted to various levels of expertise.</p>
+        <p>In late October, the company redesigned its site and added several features. Among them is a cellphone text-messaging service providing alerts when snow conditions meet the subscriber's standards.</p>
+        <p>SnoCountry, which is based in Lebanon, N.H., is also helpful for cross-country skiers. From the Cross Country tab on the left side of the home page, the site offers ski areas in various regions, with listings about the availability of single and double tracks, snowshoeing and even dog trails. Other vital information, like the availability of hot tubs or warming huts, is also presented in an easy-to-find format.</p>
+        <p>The Right Resort</p>
+        <p>To find descriptions more apt to reveal a mountain's weaknesses than those on SnoCountry, click to Skimag.com or Skiingmag.com. The Web sites are, as the names suggest, the online components of the well-known magazines for powder enthusiasts. (Ski is devoted to families and more upscale skiers, while Skiing is for more extreme skiers.)</p>
+        <p>According to Doug Sabanosh, the managing editor of both Web sites, the most popular feature of both Skimag.com and Skiingmag.com is the Resort Finder, which is based on an annual survey of magazine readers and ski experts. That feature, which is found on the left hand side of both sites' home pages, allows users to click on attributes they deem important in a resort.</p>
+        <p>Looking for a resort in the Midwest, for example, I clicked on three of the 20 attributes -- snow quality, service and family. The search engine sifted through the surveys to find the resorts that scored in the top five for each. Notably, only resorts that scored in the nation's top 60 are included in the results, which, in my case, was topped by Nub's Nob, in Harbor Springs, Mich.</p>
+        <p>From there, the Resort Finder provides a page of resort-specific information from the magazines' editorial staffs, along with links to past articles about that resort so you can track its progress relative to other area peaks.</p>
+        <p>Both Skimag.com and Skiingmag.com also include forums where readers weigh in on a range of issues. But for more varied voices, GoSki.com is a worthwhile stop. Like other sites that rely heavily on reader submissions for content, though, users are well served to approach GoSki with some patience.</p>
+        <p>For instance, below a cursory profile of Jackson Hole, the Wyoming resort, is a compendium of readers' comments on the mountain, anchored by tips on good bars, hotels and restaurants in the area. While some of the submissions are useful, others would benefit from editing.</p>
+        <p>In January, GoSki will undergo a facelift, according to Richard Bilodeau, vice president for marketing, research, and technology for Resort Sports Network, GoSki's parent company. Among other things, the new design is intended to make it easier to navigate the site.</p>
+        <p>One element that will remain consistent on GoSki is its extensive use of Webcams to provide a glimpse of mountain conditions. Resort Sports Network operates an extensive network of Webcams, covering popular North American ski resorts. The images, found at RSN.com, are updated at least once a day, and distributed widely among online media sites like weather.com and snowboardermag.com.</p>
+        <p>Snoweye.com offers more global Webcam coverage, with extensive views of European mountains (some of its North American mountain images are provided by RSN.com). Resort-specific sites can sometimes offer even better views.</p>
+        <p>Aspensnowmass.com, which covers the Aspen Mountain, Snowmass, Aspen Highlands and Buttermilk ski areas, offers live Webcams all winter during daylight hours. Rather than offering one angle of the mountain, as some Webcam sites do, AspenSnowmass.com gives skiers different vantage points.</p>
+        <p>For skiers who are brainstorming hotels and restaurants in a given area, and who want a more comprehensive offering, SkiCentral.com misses little, at least among North American mountains. The site, which is based in Ottawa, is a directory of Web sites related to ski areas throughout North America, Europe and Australia.</p>
+        <p>According to Dave McGrath, the site's founder and manager, SkiCentral includes links to roughly 10,000 Web sites, mostly on this continent. SkiCentral's editorial team searches for sites on lodging, events, real estate, ski clubs and vacation operators in a given resort area, and lists the paying advertisers first in each category.</p>
+        <p>Below those links, though, are many worthwhile sites.One such site, PurcellHelicopterSkiing.com, was helpful to Mr. DeTour and his son, Tyler, of New Canaan, this fall. The site, which specializes in tours of the Purcell mountain range in Canada, turned up a five-day package that was nearly 50 percent less expensive than similar packages south of the border.</p>
+        <p>Mr. DeTour booked the trip online, and quickly set himself to the task of getting in shape for five days of chasing a 16-year-old through the powder.</p>
+        <p>''He thinks he'll be able to keep up with me,'' Tyler said. ''But he'll be huffing and puffing.''</p>
+        <p>PRACTICAL TRAVELER E-mail: tedeschi@nytimes.com</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">E-mail: tedeschi@nytimes.com</tagline>
+    </body.end>
+  </body>
+</nitf>

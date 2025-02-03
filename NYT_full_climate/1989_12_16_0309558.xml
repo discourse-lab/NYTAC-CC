@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>At the Pump, Pollution Curb Yields Bonus</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Style Desk" name="dsk"/>
+    <meta content="52" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="309558"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">GARAGES AND SERVICE STATIONS</classifier>
+        <classifier class="indexing_service" type="descriptor">OZONE</classifier>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <object.title class="indexing_service">CONSUMER'S WORLD PAGE (NYT)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style/Fashion and Style</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gases</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891216T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DE0D8153DF935A25751C1A96F948260" item-length="1042" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>At the Pump, Pollution Curb Yields Bonus</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Clouds, even the ones formed by pollution, can have a silver lining. Regulators who have been trying to keep the chemicals that form harmful ozone from getting into the air have found that the same equipment that controls those chemicals can help control benzene, a toxic component of gasoline.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Clouds, even the ones formed by pollution, can have a silver lining. Regulators who have been trying to keep the chemicals that form harmful ozone from getting into the air have found that the same equipment that controls those chemicals can help control benzene, a toxic component of gasoline.</p>
+        <p>Clouds, even the ones formed by pollution, can have a silver lining. Regulators who have been trying to keep the chemicals that form harmful ozone from getting into the air have found that the same equipment that controls those chemicals can help control benzene, a toxic component of gasoline.</p>
+        <p>The anti-pollution strategy that is achieving more than one goal is a vapor-control system that allows gasoline to go from refineries to pumps to automobile gas tanks without vapors escaping. It is now in place in many service stations around the nation in an effort to protect motorists from ozone, which forms when volatile organic compounds in gasoline get into the atmosphere and cook in the sun's heat.</p>
+        <p>Among these compounds is benzene. It forms ozone slowly, but is dangerous even before the car is started because it escapes from the gasoline as a vapor. It has been shown to cause cancer in laboratory animals and is believed to do the same in people.</p>
+        <p>Benzene, a molecule of carbon and hydrogen, is a natural component of crude oil. It is also manufactured at refineries, where it is put in gasoline because of its high octane. Refineries have been using more benzene in the last decade because they can no longer add lead, which was also an octane-enhancer. Fumes In, Fumes Out</p>
+        <p>When motorists at self-serve stations pump gas from a nozzle equipped with an accordion-like bellows, they are looking at the exterior of the vapor-control system. As the car's tank is filled and fume-laden air in it is displaced by incoming liquid, the hose captures the fumes. The vapors are pumped back into the underground tank, joining vapors from evaporating gas.</p>
+        <p>When a tanker truck arrives at the service station, it exchanges its gasoline for the fumes in the underground tank. Then, back at the refinery, the fumes are condensed back into a liquid and re-injected into the fuel.</p>
+        <p>One way to reduce benzene in the air would be to order refineries to take it out of gasoline, but thus far the states have ordered only vapor control. California recently extended its requirement for vapor control systems to the whole state, even in areas where ozone is not a problem.</p>
+        <p>It is likely in the next year that the Environmental Protection Agency will require 72,000 service stations around the nation to install vapor-control systems. President Bush's clean-air bill also calls for wider use of these systems.</p>
+        <p>Oil companies dislike the idea because a system for a six-pump station can cost $15,000. The companies would like to attack the benzene problem by enlarging the canisters in cars that capture stray vapors. The canisters store the vapors until the car is running; the fumes are then channeled to the engine and burned. But thus far, auto makers have prevailed on Government officials to leave the burden with the oil companies.</p>
+        <p>David Doniger, a lawyer at the Natural Resources Defense Council, a Washington advocacy group, said it was ''absolutely beyond question'' that benzene causes cancer. But scientists disagree over precisely how poisonous the chemical is.</p>
+        <p>The California Air Resources Board, a state agency that is a trend-setter in pollution regulation, has endorsed studies that show that if a million people are exposed to benzene over a 70-year period at the level now prevalent in that state, between 72 and 560 of them will develop leukemia (compared with a cancer rate for all causes, including smoking, of 237,000 cases per million people). Some oil companies, though, cite studies that say the number is much lower.</p>
+        <p>A draft study released by the Environmental Protection Agency in September estimated that benzene from all sources causes 181 cancer cases a year, roughly a tenth of the cancers caused by toxic materials in the air. The Federal agency has recently taken steps to reduce public exposure to benzene from industrial sources.</p>
+        <p>In June, California adopted regulations on auto emissions that will result in a small drop in benzene emissions, along with larger drops in other chemicals. The state is now studying whether to require refiners to cut in half the amount of benzene in gasoline sold in the state.</p>
+        <p>The presence of toxic materials in gasoline is an old issue. At the suggestion of the American Petroleum Institute, the industry's trade group, most gasoline retailers have marked their pumps with a warning label.</p>
+        <p>Charles J. DiBona, president of the institute, noted in a recent policy statement that the reason for the labels is ''an abundance of caution,'' and pointed out that benzene is also found in industrial emissions and cigarette smoke.</p>
+        <p>Mr. Doniger countered that refiners were ''concerned enough about the danger to warn people, but not concerned enough to control the pollution.''</p>
+        <p>Benzene is a hazard in settings other than gas stations, environmentalists acknowledge, in part because car engines can manufacture benzene in their exhausts even if there was none in the fuel. But the highest concentration encountered by most people is at the gas station.</p>
+        <p>One California company, Arco, recently cut the benzene in half in the fuel that it sells for older cars designed for leaded gasoline, the kind that lack catalytic converters. But some of what Arco took out of that gas it put into its regular unleaded.</p>
+        <p>The senior vice president of the Arco Products Company, Dwaine H. Smith, said moving the benzene from one fuel to another has an environmental benefit because ''in the newer cars, the benzene gets taken care of by the emissions control system.''</p>
+        <p>This is true, environmentalists and regulators agree, but they point out that much of the benzene enters the atmosphere before the fumes get to the car's catalytic converter, and even before the gasoline goes into the engine.</p>
+        <p>Cutting the benzene level by half - to about 0.8 percent of the gasoline - would cost more than 2 cents a gallon, according to refiners and the Government. While the price per tankful would be only about 15 cents, refiners say that the number of cancers avoided would be quite small.</p>
+        <p>Dixon B. Smith, a general manager at Chevron, said only one life would be saved per $80 million to $100 million spent. If the same amount of money were put to more effective use, he said, more than one life could be saved.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

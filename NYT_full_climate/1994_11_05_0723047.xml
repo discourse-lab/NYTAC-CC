@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mother Nature Reminds Us Old Man Winter Is Not Here</title>
+    <meta content="5" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="723047"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">KENNEDY, RANDY</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941105T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E6DD153EF936A35752C1A962958260" item-length="389" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mother Nature Reminds Us Old Man Winter Is Not Here</hl1>
+      </hedline>
+      <byline class="print_byline">By RANDY KENNEDY</byline>
+      <byline class="normalized_byline">KENNEDY, RANDY</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In what forecasters described as a sort of early Christmas present to New York from the South, gentle southeasterly winds delivered a summerlike day to the metropolitan region yesterday, breaking a temperature record in Newark.</p>
+        <p>The surprise warming trend is expected to continue at least through tomorrow's New York Marathon, after which a mild cold front, also from the South, will take its place.</p>
+      </block>
+      <block class="full_text">
+        <p>In what forecasters described as a sort of early Christmas present to New York from the South, gentle southeasterly winds delivered a summerlike day to the metropolitan region yesterday, breaking a temperature record in Newark.</p>
+        <p>The surprise warming trend is expected to continue at least through tomorrow's New York Marathon, after which a mild cold front, also from the South, will take its place.</p>
+        <p>The reminder of summer sent many who had begun to steel themselves for winter scrambling outside for a last bask in the sun.</p>
+        <p>In Caldwell, N.J., which hit a balmy 80 degrees, Girolamo Cerrigone, 20, who works late as a maitre d' at an Italian restaurant, said that his mother forced him out of bed early. "She basically pulled the covers off of me and said, 'It's no day to stay inside,' " he said. Mr. Cerrigone and his girlfriend, Denise Miele, spent the day tooling along Ortley Beach in his convertible with the top down, he said, adding: "This is November?"</p>
+        <p>The temperature reached 79 degrees at Newark International Airport, where the previous high for the date, 78 degrees, was set in 1987.</p>
+        <p>In Central Park, the temperature reached 76, a far cry from the 57-degree high recorded last year.</p>
+        <p>"I just wrote out my forecast for the day and it says, and I quote, 'Warm-slash-sultry autumn-summer day," said Pamela Joyce, a meteorologist for the National Weather Service. "It sounds a little weird, but when do you get temperatures like this in November?"</p>
+        <p>She said that the coming cold front was not likely to drop temperatures much below the mid-60s. "It's a cold front," she said, "but it's still coming from the South, so it's not going to be that cold."</p>
+        <p>Despite predictions that the unseasonable warmth would last, many New Yorkers were taking no chances on missing it.</p>
+        <p>Brooke Wilson, 31, a financial analyst for Estee Lauder in midtown, donned a pair of blue shorts and a sweatshirt and dined with a companion at a sidewalk cafe on Columbus Avenue last night.</p>
+        <p>She said she usually prefers to stay indoors after October, but that she was afraid she "would be missing something if I didn't get outside today."</p>
+        <p>Her companion, John Novotny, 35, added, "It's great. You sort of lull yourself to believing it's summer for a second, then it occurs to you that you may be wearing mittens and boots tomorrow."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

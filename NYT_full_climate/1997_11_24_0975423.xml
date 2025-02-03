@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Treaty Facts</title>
+    <meta content="LSINGE" name="slug"/>
+    <meta content="24" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="975423"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Greenhouse Effect</classifier>
+        <person class="indexing_service">Singer, S Fred</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971124T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9805E4D7123BF937A15752C1A961958260" item-length="153" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Treaty Facts</hl1>
+      </hedline>
+      <abstract>
+        <p>S Fred Singer letter on Nov 18 article on climate variations and global warming threat (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Contrary to popular belief, the present climate is quite variable. We are still emerging from the Little Ice Age that started around 1450, following the Medieval Climate Optimum that peaked about 1,000 years ago. And as you point out (Science Times, Nov. 18), warm periods brought prosperity, while colder periods brought poor harvests and starvation.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Contrary to popular belief, the present climate is quite variable. We are still emerging from the Little Ice Age that started around 1450, following the Medieval Climate Optimum that peaked about 1,000 years ago. And as you point out (Science Times, Nov. 18), warm periods brought prosperity, while colder periods brought poor harvests and starvation.</p>
+        <p>This natural variability makes it difficult to discern any human influence on climate. But ocean core analyses, published by Dr. Lloyd D. Keigwin of the Woods Hole Oceanographic Institution, show temperature changes during the last 3,000 years that are larger and more rapid than any anticipated by the United Nations science advisory panel. The upcoming climate treaty negotiations in Kyoto should take note of these scientific facts.</p>
+        <p>S. FRED SINGER</p>
+        <p>Fairfax, Va., Nov. 20, 1997</p>
+        <p>The writer, a physicist, is president of the Science and Environmental Policy Project.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

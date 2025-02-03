@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Frost Clouds the Crystal Ball: Cold Now Doesn't Necessarily Mean Cold Later</title>
+    <meta content="17COLD$01" name="slug"/>
+    <meta content="17" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="973785"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Sengupta, Somini</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971117T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DEFD81038F934A25752C1A961958260" item-length="666" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Frost Clouds the Crystal Ball: Cold Now Doesn't Necessarily Mean Cold Later</hl1>
+      </hedline>
+      <byline class="print_byline">By SOMINI SENGUPTA</byline>
+      <byline class="normalized_byline">Sengupta, Somini</byline>
+      <abstract>
+        <p>Meteorologists discuss unusually cold weather that engulfed New York City over weekend; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It is cold. Very cold. The high temperature in Central Park yesterday -- peaking at 39 degrees by midafternoon -- was 15 degrees below normal for the middle of November, prompting one meteorologist to describe the weekend as ''almost ridiculously cold.''</p>
+        <p>But do not panic. The recent drop in temperature is not necessarily a harbinger of a cruel winter, although the cold is expected to linger for much of the week. The last two Novembers, said the meteorologist, Sam Perugini, of Pennsylvania State University, were also unusually cold. And while November 1995 was followed by one of the snowiest winters in recent history, November 1996 led to a remarkably mild season.</p>
+      </block>
+      <block class="full_text">
+        <p>It is cold. Very cold. The high temperature in Central Park yesterday -- peaking at 39 degrees by midafternoon -- was 15 degrees below normal for the middle of November, prompting one meteorologist to describe the weekend as ''almost ridiculously cold.''</p>
+        <p>But do not panic. The recent drop in temperature is not necessarily a harbinger of a cruel winter, although the cold is expected to linger for much of the week. The last two Novembers, said the meteorologist, Sam Perugini, of Pennsylvania State University, were also unusually cold. And while November 1995 was followed by one of the snowiest winters in recent history, November 1996 led to a remarkably mild season.</p>
+        <p>The sudden drop in temperature, meteorologists said yesterday, was caused by a high-pressure system over Canada that pushed cold air into the metropolitan region, dusting parts of Manhattan with snow flurries on Saturday night. Temperatures were expected to drop into the mid-20's in Central Park last night, which would have made it the coldest night of the season so far. There were scattered snow showers across the Connecticut coast. And upstate, Rochester remained under 11 inches of snow.</p>
+        <p>Temperatures in the region are expected to stay low but may rise slightly over the next few days. According to forecasts by the National Weather Service, it will be brisk and sunny today, with high temperatures in the mid-40's and lows in the mid-30's. By Friday, the temperature may reach close to 50 degrees, which would still be short of the normal high temperature of 52 degrees.</p>
+        <p>Meteorologists warned yesterday that New Yorkers should not regard the recent cold snap as an outgrowth of El Nino, the term used to describe a periodic warming of the Pacific Ocean that is linked to drastic shifts in weather patterns worldwide.</p>
+        <p>''The thing to remember about El Nino is that it's one piece of a giant climate puzzle,'' Mr. Perugini said. ''Single events -- a cold day here, a rainy day there -- cannot and should not be directly attributed to El Nino. I'm sure there are folks that are running around saying this storm was the El Nino. It's all baloney.''</p>
+        <p>Across the metropolitan area this weekend, preparations for winter began.</p>
+        <p>A spokeswoman for the City Department of Homeless Services, Susan Wiviott, estimated that an additional 50 or 60 people sought beds in city shelters over the weekend, though she did not have precise numbers. Advocates for the homeless who monitored the shelters said the number was much higher.</p>
+        <p>The advocates were preparing for their seasonal struggle helping the homeless find a place to escape the cold. The shortage of space in shelters has been worsened in recent years by the steady decline of affordable permanent housing, the advocates said.</p>
+        <p>In Laurelton, Queens, Loretta Aiken provided a more luxurious kind of shelter yesterday at She Things, a day spa owned by the rapper Spinderella. Women came in to discard their weaves (the hair extensions are too bulky to stuff under winter hats, explained Ms. Aiken, the manager and stylist), to condition their hair after a summer of sunning and swimming or to brace for the inclement season with a facial or massage.</p>
+        <p>Ms. Aiken also offered them coffee, hot chocolate and doughnuts -- not so good for the skin, she conceded, but rather nice for the spirits.</p>
+        <p>''It's a nice, calming, soothing thing when you come in for the winter,'' she said.</p>
+        <p>Across the East River, the bartender at the Algonquin Hotel, Hoy Wong, prepared to handle the rush for his house specialty -- hot toddies. Not many people ordered toddies over the weekend, Mr. Wong said, but he was sure that would change soon.</p>
+        <p>''They just haven't caught cold yet,'' he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

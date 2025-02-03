@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Policy: Heat and Sparks</title>
+    <meta content="LTR222720" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="14" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1399273"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <person class="indexing_service">Singer, S Fred (Prof)</person>
+        <person class="indexing_service">Herbert, Bob</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020609T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E0D7133DF93AA35755C0A9649C8B63" item-length="186" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Policy: Heat and Sparks</hl1>
+      </hedline>
+      <abstract>
+        <p>Prof S Fred Singer letter rebuts Bob Herbert's June 6 column, saying balance of observational evidence does not support government report's claim that climate is warming and human activities are responsible (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (''Ignoring a Growing Peril,'' column, June 6) accepts the claim of a government report that the climate is warming and that human activities are responsible. But the balance of the observational evidence does not support such a claim.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Bob Herbert (''Ignoring a Growing Peril,'' column, June 6) accepts the claim of a government report that the climate is warming and that human activities are responsible. But the balance of the observational evidence does not support such a claim.</p>
+        <p>The government report to the United Nations is a routine document. President Bush called it ''the report put out by the bureaucracy.''</p>
+        <p>The E.P.A. compilers of the report have rehashed a study completed under the former administration. In fact, the acting director of the White House science office, a Clinton appointee, acknowledged last September that the study did not reflect ''policy positions or official statements of the U.S. government.''</p>
+        <p>S. FRED SINGER  Arlington, Va., June 6, 2002</p>
+        <p>The writer, professor emeritus at the University of Virginia, is a former deputy assistant administrator of the E.P.A.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

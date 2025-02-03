@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>White Autumn May Give Way to Mild Winter</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="9" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="817265"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <person class="indexing_service">REVKIN, ANDREW C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19951220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A00E4DA1439F933A15751C1A963958260" item-length="648" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>White Autumn May Give Way to Mild Winter</hl1>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">REVKIN, ANDREW C</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The late-autumn snowstorm that slowly spread over southern New York and southern New England yesterday was really two storms back to back, meteorologists said, with each system drawing power from a confluence of Canadian cold, Gulf of Mexico warmth and enormous reserves of Atlantic Ocean moisture.</p>
+        <p>The storm is expected to continue into today's morning rush hour, according to the National Weather Service, with expected accumulations in Central Park of  8 to 12 inches.</p>
+      </block>
+      <block class="full_text">
+        <p>The late-autumn snowstorm that slowly spread over southern New York and southern New England yesterday was really two storms back to back, meteorologists said, with each system drawing power from a confluence of Canadian cold, Gulf of Mexico warmth and enormous reserves of Atlantic Ocean moisture.</p>
+        <p>The storm is expected to continue into today's morning rush hour, according to the National Weather Service, with expected accumulations in Central Park of  8 to 12 inches.</p>
+        <p>Since weather data were first systematically recorded in Central Park in 1869, only a dozen December storms have deposited eight inches of snow or more.</p>
+        <p>But even with such a snowy climax to autumn in New York City, meteorologists  said they were holding to predictions of normal precipitation and mild temperatures for the winter. "Snow lovers should enjoy their snow while they have it," said James Wagner, a senior forecaster at the Climate Prediction Center of the National Weather Service, in Camp Springs, Md.</p>
+        <p>Scientists raised the probability of a warmer winter in the Northeast last month, he said, when they confirmed the appearance of a periodic cooling of the  sea surface in the equatorial eastern Pacific Ocean, a phenomenon nicknamed La Nina.</p>
+        <p>In the past, the arrival of La Nina -- the lesser-known counterpart to a Pacific warming called El Nino -- has, through a complex chain of atmospheric events, often been linked to dryness and warmth along the Gulf Coast of the United States, Mr. Wagner said. As the winter progresses, chances are better than average that the moderating effects of such a shift will be felt as far north as Washington and New York City.</p>
+        <p>With New York City frequently at the dividing line between snow and rain, even a tiny shift in conditions can make a big difference in what falls from the sky, he said, adding, "In the long run, there's probably more of a chance of mixed messes, like freezing rain."</p>
+        <p>In general, Mr. Wagner said, weather during the transition from fall to winter in southern New York and surrounding areas has been a poor predictor of the season overall. He pointed out that December 1993 was not notably stormy or  cold, even though it was followed by an extraordinary string of snowstorms through the first three months of 1994.</p>
+        <p>In the winter of 1989, December produced record cold snaps in Washington and  New York City, he said, "but the rest of the winter went the other way, with January and February close to record mild. That winter ended up being quite mild overall."</p>
+        <p>Yesterday's storm began in a stop-and-start fashion that kept school superintendents and commuters off balance and had local television and radio weather forecasters working hard to convince people that a heavy snowfall was imminent.</p>
+        <p>The reason for the stuttering start, meteorologists said, was that the storm  was two systems, the first of which left the brunt of its precipitation in a white band across the Midwest after deluging parts of Texas and other Gulf states over the weekend.</p>
+        <p>But through yesterday afternoon, energy from that low-pressure system began to transfer to a rapidly developing storm off the North Carolina coast, said George Klein, a National Weather Service meteorologist.</p>
+        <p>Like power transferred between meshed gears, the energy from the inland storm helped intensify the new Atlantic storm, Mr. Klein said. The offshore storm was  "positioned just right" both to pull cold Canadian air from the north and sop up enormous amounts of moisture from air over the sea. "It acts like a sponge," he  said, "and it has the whole Atlantic to work with."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

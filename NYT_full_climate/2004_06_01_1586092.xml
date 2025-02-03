@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Looking for Some Help For Love Canal's Other Site</title>
+    <meta content="01TOXIC" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/06/01/nyregion/01toxic.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1586092"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="indexing_service" type="descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <location class="indexing_service">Model City (NYS)</location>
+        <location class="indexing_service">Love Canal (NY)</location>
+        <person class="indexing_service">Depalma, Anthony</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <org class="online_producer">Waste Management Incorporated</org>
+        <org class="online_producer">Environmental Protection Agency</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040601T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9402EED91631F932A35755C0A9629C8B63" item-length="1230" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Looking for Some Help For Love Canal's Other Site</hl1>
+        <hl2 class="online_headline">Looking for Some Help for Love Canal's Other Site</hl2>
+      </hedline>
+      <byline class="print_byline">By ANTHONY DePALMA</byline>
+      <byline class="normalized_byline">Depalma, Anthony</byline>
+      <dateline>NIAGARA FALLS, N.Y.</dateline>
+      <abstract>
+        <p>Residents of Model City (NY), which neighbors notorious Love Canal where tons of toxic chemicals were dumped in 1940s, are trying to force government to examine health and economic issues stemming from town's waste sites; map; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Niagara's rush and roar have long drawn both visionaries and hucksters, but few ever matched the audacity of William T. Love, a fast-talking drifter who vowed in 1893 to build a canal linking this city to a fertile field seven miles away and there erect ''the most perfect city in existence.''</p>
+        <p>Just a small section of canal was dug, but today the two places that would have been connected by water are bound instead by a pair of environmental nightmares that arose from the ruins of Mr. Love's grandiose dream.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>NIAGARA FALLS, N.Y. - Niagara's rush and roar have long drawn both visionaries and hucksters, but few ever matched the audacity of William T. Love, a fast-talking drifter who vowed in 1893 to build a canal linking this city to a fertile field seven miles away and there erect</p>
+      </block>
+      <block class="full_text">
+        <p>Niagara's rush and roar have long drawn both visionaries and hucksters, but few ever matched the audacity of William T. Love, a fast-talking drifter who vowed in 1893 to build a canal linking this city to a fertile field seven miles away and there erect ''the most perfect city in existence.''</p>
+        <p>Just a small section of canal was dug, but today the two places that would have been connected by water are bound instead by a pair of environmental nightmares that arose from the ruins of Mr. Love's grandiose dream.</p>
+        <p>Near the southeastern end of this city lies the infamous Love Canal, the remnant of Mr. Love's doomed plan where tons of toxic chemicals were dumped. Federal environmental officials recently declared a formal end to the Love Canal cleanup, though monitoring continues.</p>
+        <p>But there is no end in sight for the problems that have arisen at what would have been the northern terminus of Mr. Love's canal. He called the area Model City, and now it contains one of the largest hazardous-waste landfill sites in the country, right next to a government storage site containing radioactive residues from the construction of the first atomic bomb.</p>
+        <p>In Model City, as in Love Canal, questions are being asked about fault and fairness. While the federal government's actions to clean up the Love Canal hazards appear to be finally approaching an end, the people who live in the Model City area face a struggle just to get officials to heed their calls for help.</p>
+        <p>''To the government, there are no health issues, no economic issues, no community issues,'' said Vincent Agnello, who leads a group of local residents fighting the landfill, run by Chemical Waste Management, Inc. and known around town as C.W.M. To the government, ''This is just a great place to dump,'' he said.</p>
+        <p>Substantial changes in attitudes and regulations help explain the disparity between the two communities. The chemical dump at Love Canal was ancient by modern standards. It was no more than the open pit left by Mr. Love when dumping started in 1942, and it had none of the safety features now required by the federal Environmental Protection Agency. The chemical landfill in Model City, by contrast, was acquired by Chemical Waste in 1984 and is far more technologically advanced and more closely regulated.</p>
+        <p>State and federal environmental officials insist that the waste sites in Model City pose no threat to nearby residents. ''The C.W.M. operation is run properly,'' said Walter E. Mugdan, regional director of environmental planning and protection for the Environmental Protection Agency. ''It does not represent an inappropriate level of risk.''</p>
+        <p>That assurance, however, means little to the people living around Model City. Having watched the intensive government effort to clean up Love Canal, residents of Model City expected the same diligence in their area and are increasingly frustrated that it has not materialized.</p>
+        <p>''The whole history of Love Canal has left a legacy of distrust,'' said Sean Q. Kelly, an associate professor of political science at Niagara University. ''When the government comes in and says there's no problem in a place like Model City, people don't believe it.''</p>
+        <p>While Love Canal's origins are now largely forgotten, the horrors of what came later are well known. The Hooker Chemical Company of Niagara Falls used it as a dumping ground. The canal was capped in the early 1950's and sold to the city for $1.</p>
+        <p>In the 1970's, water seeped through the broken cap and forced chemicals into the basements of homes that had been built near the canal. Residents organized and demanded action, which provided the catalyst for passage of the federal Superfund law to identify and clean up the worst industrial pollution sites in the country.</p>
+        <p>Some residents -- the ones who, like 78-year-old Sam Giarrizzo, never considered the canal all that dangerous to begin with -- were relieved when the Environmental Protection Agency said in March that the $400 million cleanup was over. A resident of the Love Canal neighborhood since 1957, Mr. Giarrizzo never moved.</p>
+        <p>But while some of the contaminated houses have been bulldozed and lie buried beneath the surface along with the 20,000 tons of hazardous chemicals that could not be removed, Mr. Love's dream-turned-nightmare lives on.</p>
+        <p>''You never get rid of Love Canal,'' Mr. Giarrizzo said of the lingering atmosphere of doubt. ''We'll have it forever.''</p>
+        <p>Although the city of Niagara Falls is trying to erase the memory of these problems -- even renaming the Love Canal neighborhood Black Creek Village -- residents are bracing for a new round of controversy. Sometime next year, the State Department of Health is expected to release the results of an epidemiological study of 6,000 people who lived in the Love Canal neighborhood from the 1940's to the late 1970's.</p>
+        <p>That study is examining the rates of cancer, mortality and birth defects among those residents and comparing them with the rates in the rest of Niagara County and the state.</p>
+        <p>Luella Kenny, 67, moved from Love Canal to nearby Grand Island two decades ago after Jon, her 7-year-old son, died of a kidney ailment. She believes Love Canal chemicals that seeped into a creek behind her house made him ill.</p>
+        <p>Mrs. Kenny, who is participating in the state study, said she feared that it might turn out to be inconclusive, which would allow detractors to claim that Love Canal had never presented any real danger.</p>
+        <p>''If you take down Love Canal, you take down everything,'' she said. ''All the grassroots groups fighting around the country would be undone.''</p>
+        <p>One of those community environmental groups is in Model City, where the grimy front windows of the Model City Country Inn look out on a steady stream of trucks loaded with waste headed to either the Chemical Waste Management landfill or a huge garbage dump next to it. The Chemical Waste site is the only commercial hazardous waste landfill in the Northeast and contains some of the contaminated soil from Love Canal.</p>
+        <p>State and federal officials consider the Chemical Waste site to be well run and have no objections to its continued operation. But William C. Roland, a local resident, thinks 62 years of being dumped on is enough. He belongs to Residents for Responsible Government, which fears that the site's operation has harmed the health of people living nearby.</p>
+        <p>During a recent public hearing, which drew more than 650 residents, he said he has taken cues from Lois Gibbs, the Love Canal resident who received national attention for her cleanup demands by refusing to allow a federal official to leave a meeting until some action was taken.</p>
+        <p>''We wanted to do this professionally,'' Mr. Roland said, ''but if we have to do what Lois Gibbs did, we will.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

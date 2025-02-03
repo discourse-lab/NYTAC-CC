@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Microclimates, Big Variations</title>
+    <meta content="30NJWEATH" name="slug"/>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="New Jersey Weekly Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="14NJ" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1645974"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="WEATHER"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Robinson, David</person>
+        <person class="indexing_service">Carney, Leo H</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050130T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E04E6DA173BF933A05752C0A9639C8B63" item-length="907" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Microclimates, Big Variations</hl1>
+      </hedline>
+      <byline class="print_byline">By LEO H. CARNEY</byline>
+      <byline class="normalized_byline">Carney, Leo H</byline>
+      <abstract>
+        <p>Article on microclimates that caused wide variations in predicting last weekend's would-be blizzard in New Jersey; David Robinson, state climatologist at Rutgers University, says state's extraordinarily diverse climates can cause weather changes, sometimes within a few minutes of each other; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>IN New Jersey, all weather, like politics, is local.</p>
+        <p>So, when it comes to the patchy success in predicting Garden State weather, don't blame the meteorologists alone. Blame the microclimates.</p>
+      </block>
+      <block class="full_text">
+        <p>IN New Jersey, all weather, like politics, is local.</p>
+        <p>So, when it comes to the patchy success in predicting Garden State weather, don't blame the meteorologists alone. Blame the microclimates.</p>
+        <p>Take last weekend's would-be blizzard. Both snowfall and intensity of the storm varied significantly statewide. That range was attributable to a combination of factors, according to Dr. David A. Robinson, the state climatologist at Rutgers University in Piscataway. Chief among them is New Jersey's extraordinarily diverse climate and some of the microclimates that can be experienced, sometimes within a few minutes of each other, while traversing the state's five distinct regions.</p>
+        <p>''We have a wide, wide variety of weather and climate conditions within a very small state,'' said Dr. Robinson, adding that ''this smorgasbord of climate in New Jersey is created by differences in proximity to the ocean, latitude, elevation and the urban warming influence.''</p>
+        <p>The regions, he said, are Northern, Central, Pine Barrens, Southern and Coastal, each of which also vary in prevailing atmospheric flow patterns that produce variations in the daily weather. Within the larger mid-Atlantic region, New Jersey is also a transition zone when it comes to Northern and Southern climates. Wild variations in temperature can be found throughout the state's 166-mile length on any given day. The annual average of freeze-free days in the northern highlands is 163; 179 in the central and southern interior; and 217 along the seacoast, according to information provided by Dr. Robinson's office.</p>
+        <p>Last weekend's storm, obsessed over like a newborn with a cough by civilians and weathermen alike, never reached the proportions that had been predicted for most of the state. The average snowfall missed the predicted 18 to 24 inches, averaging 9 to 12 inches in most places. Snowfall even varied within counties.</p>
+        <p>In Bergen, Carlstadt got 16.8 inches of snow while nearby Hillsdale got just 8; maybe it was the ''Meadowlands Effect.'' Monmouth County was hit hardest by the storm. But even there, Clarksburg and Cream Ridge got 18 and 16.5 inches, while just a few miles east -- about 10 miles from the coast -- Matawan got 7 inches. Atlantic City had 3.4 inches, and residents of Cape May -- those dogs -- put away their shovels and sopped up some rain.</p>
+        <p>Those who commute within the state say that accurate weather forecasts are a daily concern, especially in winter. As vice president of operations for Modern Facilities Services in East Hanover, John Burns traveled by car from his home in Washington Crossing last week to oversee the personnel he provided to shovel snow and clean terminals and other buildings at Newark Liberty International Airport and the Port Authority of New York and New Jersey. He later drove to his office in East Hanover, then home, a total trip of 164 miles.</p>
+        <p>While online and television weather forecasts are helpful, Mr. Burns said, the winter weather often changes at least a couple times from Washington Crossing in Mercer County to Newark in Essex County to East Hanover in Morris County. ''It can be clear here when I leave in the morning,'' he said. ''And 45 minutes down the road, I'm in snow.''</p>
+        <p>At Hidden Valley Resorts in Vernon, John Shema, the general manager, said that though general weather conditions can be reliably gleaned from several online and local broadcast sources, humidity and precise temperatures often cannot. Low humidity and cold are needed for good artificial-snow production, he said, and the absence of these largely unpredictable conditions can mean the difference between having one or all 14 ski slopes open.</p>
+        <p>In places like Hidden Valley and throughout the snow belt of northwestern Sussex County, a condition known as orographic lifting can increase humidity and precipitation. Meteorologists explain that this happens when air is forced up and over natural barriers like hills and mountainsides. The cool, moist air that gathers creates clouds that produce additional snow or rain that may not have been predicted, he said.</p>
+        <p>And, microclimates aside, Dr. Robinson said yet another factor influencing the public's perception of weather forecasts occurs when detailed weather models and official forecast probabilities generated by the National Weather Service are inaccurately interpreted by broadcast meteorologists.</p>
+        <p>That happened last weekend, he said, when WCBS meteorologists in Manhattan warned of ''The Blizzard of 2005,'' a liberal extrapolation of weather service data to which the station subscribes. He said the actual data had merely mentioned the potential for episodic ''blizzard-like'' conditions that never happened.</p>
+        <p>''It worries me that in the future some people might think, well, they made it through that blizzard in 2005 O.K., and that wasn't so bad,'' Dr. Robinson said. ''So they may not take the next real blizzard warning seriously. A blizzard and its accompanying whiteout conditions, in which you can lose all sense of direction in your vehicle and drive off the road or wind up going the wrong way, is usually life-threatening.''</p>
+        <p>Finally, for snow lovers and those who love to complain about snow, the rest of this winter could keep emotions raw. Dr. Robinson said his outlook calls for ''the potential for some very stormy and dicey weather in the next few weeks.''</p>
+        <p>WEATHER</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

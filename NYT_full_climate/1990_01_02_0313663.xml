@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Editorial Notebook;   Checking Out the 1990's</title>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Health; Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="313663"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">NINETEEN HUNDRED NINETIES</classifier>
+        <classifier class="indexing_service" type="descriptor">FORECASTS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forecasts</classifier>
+        <classifier class="online_producer" type="general_descriptor">History</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEEDB103AF931A35752C0A966958260" item-length="483" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Editorial Notebook;   Checking Out the 1990's</hl1>
+      </hedline>
+      <byline class="print_byline">By NICHOLAS WADE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Programmed dreams. Individual flight platforms. Human hibernation. These are some of the innovations cited by Herman Kahn and Anthony Wiener as likely to occur before the year 2000. Their predictions, offered in 1967, were not at all bad. But even with 10 years to run they veer toward excessive optimism about technology and its blessings.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Programmed dreams. Individual flight platforms. Human hibernation. These are some of the innovations cited by Herman Kahn and Anthony Wiener as likely to occur before the year 2000. Their predictions, offered in 1967, were not at all bad. But even with 10 years to run they veer toward excessive optimism about technology and its blessings.</p>
+        <p>Programmed dreams. Individual flight platforms. Human hibernation. These are some of the innovations cited by Herman Kahn and Anthony Wiener as likely to occur before the year 2000. Their predictions, offered in 1967, were not at all bad. But even with 10 years to run they veer toward excessive optimism about technology and its blessings. Given the tenor of the 60's, that's not surprising.</p>
+        <p>Just as historians interpret the past by the present, analysts of the future usually project some present trend. Their forecasts would always be right - except for the unforeseen factor by which the trend is shattered. Hence the maxim that prediction is very difficult, especially with regard to the future.</p>
+        <p>If the 1960's produced technological optimists, the 1970's bred pessimists, particularly in the Club of Rome's report, ''Limits to Growth.'' Population growth, industrialization, rising pollution and dwindling resources were interwoven trends, the club's computer model warned, that would lead to Malthusian collapse within a century unless the trends were altered. The club was right to tell industrial countries they had to pollute less, but it underestimated the power of technology to raise the limits to growth, and the vast flexibility of economic systems to respond to shortages with new sources of supply.</p>
+        <p>Forecasts of oil crises and other shortages, The Economist bravely remarked in the dark days of 1974, always result 5 to 10 years later in vast surpluses of the commodity predicted to be scarce. Provided that all pundits and politicians believe the forecast, governments and producers ''are triggered by that commentary into starting the overproduction cycle at precisely the same time.'' Sure enough, the world soon swam in oil.</p>
+        <p>In the 1980's, when Americans were fretting over their stressed economy and the burden of the Reagan military buildup, along came another tome in tune with the zeit-geist, Paul Kennedy's ''The Rise and Fall of the Great Powers.'' Mr. Kennedy argued that great empires had slid into decay when military spending exceeded their economic base; he said the U.S. was headed the way of Imperial Spain.</p>
+        <p>But his yardstick of excess - 10 percent of G.N.P. on military spending, a measure buried in a footnote - was never even approached during the Reagan years. Still, his method, applied more evenly, might have predicted the sudden economic retrenchment in the Soviet Union, which spends at least 14 percent of G.N.P. on defense.</p>
+        <p>This decade will doubtless produce a crop of predictions to match its preoccupations. Computer models will predict imminent or not so imminent warming of the global climate. Economists will warn of global boom or gloom, recession and depression. Japanologists will warn of the impending ascendancy or collapse of Japan. There will be a little truth, we predict, in all these predictions. But also a large dollop of error.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

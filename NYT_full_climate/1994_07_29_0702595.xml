@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Ouch! Slap! The Air Is Filled With the Sounds of Summer</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Front Page; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="702595"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">MOSQUITOES</classifier>
+        <classifier class="indexing_service" type="descriptor">PESTICIDES AND PESTS</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">JUDSON, GEORGE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pesticides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Mosquitoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insects</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940729T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE2D91739F93AA15754C0A962958260" item-length="997" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Ouch! Slap! The Air Is Filled With the Sounds of Summer</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE JUDSON</byline>
+      <byline class="normalized_byline">JUDSON, GEORGE</byline>
+      <dateline>STRATFORD, Conn., July 28</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The mosquitoes rising out of the Great Meadows marsh here remind Edward Dennehy, a former Marine, of World War II. No, not as big as B-29's. As thick as on Pacific islands.</p>
+        <p>"We have to stay indoors all the time," he said. "We feel like prisoners."</p>
+      </block>
+      <block class="full_text">
+        <p>The mosquitoes rising out of the Great Meadows marsh here remind Edward Dennehy, a former Marine, of World War II. No, not as big as B-29's. As thick as on Pacific islands.</p>
+        <p>"We have to stay indoors all the time," he said. "We feel like prisoners."</p>
+        <p>Scott Crans, at least, gets paid to scratch. He is paid, in fact, to stand outside in shorts and short sleeves and let mosquitoes bite him. That is how some experts count mosquitoes, said Mr. Crans, the mosquito-control chief for Sussex County, N.J., who has counted as many as 53 bites a minute this summer. That bite level has forced him to use up his $100,000 budget.</p>
+        <p>Across the New York region, many people are feeling as trapped in their homes by mosquitoes this summer as they were by snow and ice last winter, and entomologists say it is not just global-warming, hole-in-the-ozone-layer, too-many-people-on-the-planet anxiety. There is a connection.</p>
+        <p>Deep winter snows, combined with ample spring rains, provided perfect conditions for a banner crop not only of mosquitoes, but of black flies, gnats,  no-see-ums and ticks, experts say. Then, one well-timed lunar tide and a boom in thunderstorms prolonged the plague.</p>
+        <p>It is a summer to make the skin crawl, and itch, and bleed, a summer when the words of the French essayist Michel de Montaigne, "Scratching is one of life's sweetest gratifications, and the nearest at hand," suggest how truly Off and Cutter have alienated us from our own nature.</p>
+        <p>A nice long drought might help. Insect populations, like many flowering plants and shrubs, burst forth this spring after heavy snow insulated them from  winter's harshness and then deeply watered them as it melted. Spring rains came  at just the right time for the life cycle of inland mosquitoes, and frequent thunderstorms have continued to replenish the stagnant pools where they breed in woodlands, marshes, vacant lots and suburban yards.</p>
+        <p>But there is room for a little natural paranoia, a suspicion that Stephen King has developed a sudden creative interest in biting insects. July's hot humid nights have acted like a pressure-cooker, speeding the growth of mosquito  larvae into breeding, and feeding, adults.</p>
+        <p>"Their breeding cycle is accelerating in this weather, and we're seeing real  quick turnovers of egg to adult," said Alan Juszcyk, the superintendent of Passaic County's mosquito commission.</p>
+        <p>In Search of Blood</p>
+        <p>And across the salt marshes of Connecticut and Long Island, an unusually high lunar tide in June left pools of water far from the reach of fish that feed on larvae, producing a huge crop of salt-marsh mosquitoes -- the largest, the fiercest, and the thirstiest for human blood.</p>
+        <p>"I was outside the other day, and within seconds there were dozens on each leg, sticking like glue," said Carol DeCapua, whose Lordship neighborhood in Stratford borders one of Connecticut's largest marshes.</p>
+        <p>"It's always been a problem in summer," she said, "but until this year, you only had to worry about it at dusk and dawn. This year, they're attacking in the middle of the day."</p>
+        <p>Health officials say the mosquitoes are more nuisance than threat. Connecticut, for example, has not had a case of mosquito-borne malaria since the turn of the century. Eastern equine encephalitis, a deadlier disease, is extremely rare, although it is a concern. And so mosquito-control programs have  fallen victim to budget cutters everywhere across the region.</p>
+        <p>Budgets Bitten, too</p>
+        <p>Last year, Connecticut eliminated its annual $250,000 program. "This never would have happened if our unit was still in existence," said Paul Capotosto, who headed the state Department of Health program. "During the course of our normal inspections we would have found there was a problem ready to explode, and we could have prevented it."</p>
+        <p>Connecticut's program, like most, concentrated on repairing tidal marshes to  allow fish to reach mosquito larvae, and spraying the larvae when necessary. The war is largely lost once adults take wing, although on Long Island, Suffolk County resorted to helicopter spraying in early July when masses of adults emerged from the marshes.</p>
+        <p>Even in New York City, health officials, alarmed by the wet winter and spring, stepped up their efforts against mosquitoes. The Department of Health expanded its program to kill mosquitoes in their larval state in more than 700 different sites, including vacant lots and industrial sites, as well as marshlands and green spaces, said Steven Matthews, a department spokesman.</p>
+        <p>Dry weather, and the mosquitoes' own life cycle, are the only real answers, and normally August is a better month to be outdoors. Even more notorious pests  like the deer tick, which can carry Lyme disease, are becoming less of a threat now, as they pass from their treacherous nymph stage, when they are the size of pencil dots, into their quiescent larval stage.</p>
+        <p>When the ticks re-emerge in September and October and resume feeding on warm-blooded animals, they will be much less of a risk because they will be the  size of apple seeds, and much easier to spot, said Dr. Kirby Stafford, an entomologist at the Connecticut Agricultural Experiment Station.</p>
+        <p>"Ticks aren't mosquitoes," he said. "Nymphal ticks need about four days for a full meal, so even if a tick is infected, if you get it off you that first day,  odds are you will not contract Lyme disease."</p>
+        <p>The promise of drier days and fewer airborne pests might be enough to encourage residents along the marshes to step outside and venture down to the beach. Just in time, with a little luck, to watch the jellyfish arrive.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

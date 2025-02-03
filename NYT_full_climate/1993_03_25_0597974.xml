@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Philosophy Built It; Solar Logic Keeps It Warm</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Home Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Home and Garden; Style" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="597974"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SOLAR ENERGY</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">HEATING</classifier>
+        <location class="indexing_service">ORFORDVILLE (NH)</location>
+        <person class="indexing_service">SANDS, JONATHAN</person>
+        <person class="indexing_service">MERRILL-SANDS, DEBORAH</person>
+        <person class="indexing_service">WALD, MATTHEW L</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Home and Garden</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Style</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Hampshire</classifier>
+        <classifier class="online_producer" type="general_descriptor">Solar Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Heating</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930325T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CE0DC173FF936A15750C0A965958260" item-length="2136" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Philosophy Built It; Solar Logic Keeps It Warm</hl1>
+      </hedline>
+      <byline class="print_byline">By MATTHEW L. WALD</byline>
+      <byline class="normalized_byline">WALD, MATTHEW L</byline>
+      <dateline>ORFORDVILLE, N.H.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It was the quintessential New Hampshire winter day: bright sun, snow underfoot as crisp as corn flakes and temperature around zero, cold enough to make the teeth ache. But that was outside.</p>
+        <p>Inside, Jonathan Sands waved a desktop thermometer with a gesture that suggested either Merlin with a wand or Perry Mason with the crucial piece of evidence. The thermometer said 75 degrees, although his 1,900-square-foot house has no boiler or furnace. It does have a wood stove, but the fire had gone out almost 12 hours earlier.</p>
+      </block>
+      <block class="full_text">
+        <p>It was the quintessential New Hampshire winter day: bright sun, snow underfoot as crisp as corn flakes and temperature around zero, cold enough to make the teeth ache. But that was outside.</p>
+        <p>Inside, Jonathan Sands waved a desktop thermometer with a gesture that suggested either Merlin with a wand or Perry Mason with the crucial piece of evidence. The thermometer said 75 degrees, although his 1,900-square-foot house has no boiler or furnace. It does have a wood stove, but the fire had gone out almost 12 hours earlier.</p>
+        <p>The house, in which Mr. Sands and his wife, Deborah Merrill-Sands, and their son, Sam, 4 1/2, are completing their second winter, is heated mostly by the sun, and by three cords of wood a season -- which would make a pile about 7 feet wide, 7 feet long and 8 feet high -- at a cost of less than $300.</p>
+        <p>Since they designed the house themselves and Mr. Sands did much of the labor himself, seeing that it all works is more than a matter of comfort; it is also a confirmation of skill and philosophy.</p>
+        <p>Mr. Sands's work in areas related to natural resources has taken him around the world (he once ran a small company in Bermuda that installed solar heaters for swimming pools); Ms. Merrill-Sands is a consultant to the World Bank and the Ford Foundation on agricultural issues. When they decided to build a house in New Hampshire, a few miles from where he grew up, he was determined to practice what he preached with a house that would rely as heavily as possible on "renewable" resources like sun and wood.</p>
+        <p>Heating here, about 20 miles up the Connecticut River from Hanover, N.H., requires about 50 percent more fuel to maintain a given temperature over the course of a winter than an identical house in New York City. For that reason almost everything built here is designed to take advantage of the sun and to seal out the cold. And Mr. Sands, who studied solar engineering at Hampshire College, in Amherst, Mass., agricultural engineering at Cornell and resource dynamics at the Thayer School of Engineering at Dartmouth, said, "It comes down to philosophy."</p>
+        <p>"It's deciding not to use more than your share," he said.</p>
+        <p>That philosophy also helped the Sandses pick the spot on their 70 acres to build when they returned from The Hague, where both had worked for the International Service for National Agricultural Research. There were other south-facing slopes -- the best spot for solar heating -- but this one was on a rocky ledge with thin top soil that was unproductive as meadow or forest land. They named the house Wolf Pine Ledge, for the scraggly pine that grows there.</p>
+        <p>Nothing in its appearance screams that it is a solar house. With a spacious main room and a cathedral ceiling, the house feels not snug, but open. This is possible because of a frame of hemlock from a local company, Outback Post and Beam.</p>
+        <p>The house relies mostly on techniques that have been proven elsewhere to varying degrees. But more so than most other houses, this one goes to extreme lengths to ease the heating burden. In most new houses here, that means thinking about the sun; for the Sands family, it means relying on it.</p>
+        <p>Life inside is comfortable but sometimes complicated. In a house with a conventional heating system, the residents simply set the thermostat; but here, maintaining the right temperature requires planning. In the beginning, Mr. Sands built fires on cloudy mornings, and if the sun came out later in the day, they had to open the windows or sweat. "You can't just plug it in and use it, like a toaster oven," Mr. Sands said of his house. He regularly consults weather forecasts on Compuserve, the computer bulletin board, before deciding how big a fire to build.</p>
+        <p>But if the family goes away for a weekend or a week, there is no heating system to fail; the sun and the incidental sources of heat, like the refrigerator, will keep the temperature in the upper 50's.</p>
+        <p>Houses like this one are not rare, although the Census Bureau found too few in 1990 to measure as a separate category. The Passive Solar Industries Council of Washington, a trade association of building materials manufacturers, architects and others, believes that half a million American houses are heated primarily by the sun, half of them built in the last 10 years. The American Solar Energy Society, of Boulder, Colo., puts the number far lower, at about 100,000.</p>
+        <p>The problem is also in the definition of a solar house, particularly of passive solar heat, which relies on the sun coming through windows, unlike the much less common "active" systems that use rooftop solar collectors.</p>
+        <p>The real test of whether a house really relies on the sun is whether it has an oil- or gas-fired furnace as a backup. Mr. Sands has considered adding a coil to his propane-fired water heater that would circulate hot water as a backup heat source. But the house is doing well without it.</p>
+        <p>Solar power is not for everybody. When building from scratch, it's possible to add big heating improvements at low cost, but few people start from scratch. And the builder has to be interested in more than just plain economics.</p>
+        <p>For example, Northeast Utilities, which generates much of the electricity used in the area, sells plans for solar houses that cut the heating requirement nearly in half. It estimates that a 2,100-square-foot Victorian built to comply with the local building code would cost $203,200, or $212,600 for a solar house, an increase of less than 5 percent. In New Hampshire, the solar version would save about 385 gallons of oil a year. At current oil prices, about 90 cents a gallon, that would be $346.50, not quite enough to pay the interest on the $9,000 additional construction expense. But someone enthusiastic about solar houses could reasonably assume that the oil price will rise slightly, because of President Clinton's proposed energy tax, and that minimizing oil use also makes environmental sense.</p>
+        <p>There are also intangible benefits, like enjoying the view of the grosbeaks and the blue jays at the bird feeder in silence, without the distraction of a whirring, clicking, whooshing heating system.</p>
+        <p>Mr. Sands, having saved much on labor, said his house cost about $80,000. How much of that is extra for making it solar he couldn't say, because he has never figured the cost of the house any other way.</p>
+        <p>The calculation is always muddied by the question of where to draw the line. An extra window, for example, may be for solar heating but may also be a nice touch in a house set in the evergreen hills. And a new house in this climate would be heavily insulated no matter how it was heated.</p>
+        <p>Here is how the Sands house works:</p>
+        <p>First, it is nearly completely airtight. In fact, when the clothes dryer runs, pushing exhaust air out of the house, the front door of the house swings open if not latched.</p>
+        <p>Second, the house is miserly with its openings to the outside. It has exhaust fans in each of the two bathrooms and in the kitchen area of the living-dining-cooking room. But the air does not go straight outdoors; it runs through ducts to the basement, where outside air is also drawn in.</p>
+        <p>The air to be exhausted is run through hundreds of tiny passages in the aluminum honeycomb of a heat exchanger, while the outside air runs through adjacent passages, in the opposite directions. Thus the outgoing air gives up most of its heat to the incoming air; if the temperature is 72 degrees indoors and 32 outdoors, the outside air will be warmed to 64 degrees by the time it enters the house, and the air being exhausted will be cooled to 40 degrees. The $800 heat exchanger, built by Newtech Energy Systems of Ontario, Canada, runs continuously on a 100-watt fan. The result is that the house, while airtight, is continuously vented.</p>
+        <p>(Mr. Sands is currently unemployed, but is an ambitious tinkerer. He is working on a mechanism to recover some of the heat from the water that goes down the drains and use it to heat water from the well.)</p>
+        <p>Third, the house was configured with the sun in mind. About 60 percent of the south-facing area is glass, while the north side has only a few small windows. In fact, the "south" side isn't quite facing south; it is angled 17 degrees to the east. ("Well, 15 to 19 degrees," admitted Mr. Sands, who laid out the foundation himself.) This is to let the house pick up a little more sun at daybreak, when the day is coldest, and a little less in late afternoon. In summer, the angle helps reduce the peak temperature of the house, although cooling is not a major challenge in this climate. Angling a dwelling this way has been understood for thousands of years, but ignored in the last 50 years of tract developments, whose builders relied on cheap fuel and didn't think much about the environment.</p>
+        <p>But energy streaming through the spacious vertical windows, called clerestory windows, is not enough if the sun does not shine around the clock. And when the sun is shining through all those windows, without something besides white pine floors acting as a thermal mass to absorb the heat by day, the house would get too hot during the day and would not save energy for use at night.</p>
+        <p>"Once the glass gets over 7 percent of the wall area, you're looking at the need for additional thermal mass," said Helen C. English, the executive director of the Passive Solar Industries Council.</p>
+        <p>Mr. Sands's solution was to put a concrete slab in the south side of his wood-frame house, covering 164 square feet of the living-dining area and abutting the white pine floor, at a cost of about $1 a square foot. The concrete is five inches thick, covered with an inch and a quarter of blue soapstone tile quarried from the same Virginia hills as the stone for the stove. During the day, the slab is heated by the sun, and at night it gives the heat back.</p>
+        <p>For extra heat, there is the stove, manufactured by the Tulikivi Group of North America, a branch of a Finnish company based in West Lebanon, N.H. Most wood stoves are metal and are designed to burn continuously, starving the fire for oxygen to keep it running. The Tulikivi burns with a roar for an hour or two, heating up its 8,000-pound mass until it is hot to the touch. It gives off the heat over many hours. Usually this works well, although if the stove has been left unused for days, warming it can take hours.</p>
+        <p>"Our biggest cost that no sane person would have done was the stove," Mr. Sands said. It was $9,000; a conventional stove is less than $1,000.</p>
+        <p>Mr. Sands describes his house as "passive solar." But a purist might quibble, because the house, with a peaked roof 26 feet off the living room floor, has a mechanical system for moving heat around -- a return vent at the top driven by a small electric fan. The fan draws air down through a duct, through the concrete slab and back into the room. (In summer, it pushes air out of the house.)</p>
+        <p>For the Sandses, there are still unfinished details. Many houses this far north, solar or not, use quilted window shades to hold in heat at night. But the Sands like the uncluttered look of the white pine windowframes, and they are still looking for window treatments that will blend in.</p>
+        <p>And then there are hanging questions, like the four feet of heavy-duty electric cable dangling from the peak of the ceiling.</p>
+        <p>"The client really wanted a fan there and the contractor really didn't want to put one in," he said. Mr. Sands was his own contractor; the "client" is his wife.</p>
+        <p>The problem, he said, was that the decorative ceiling fan might look nice, but it would be so high off the floor that it would not circulate the air to the area at the bottom where the family actually lives; all it would do is mix the air in the top 20 feet or so, thus reducing the efficiency of the return vent at the roof's peak.</p>
+        <p>He said he would probably cut the cable and install a junction box in case he had a need later for electric power on the ceiling; the client, he predicted, would eventually agree.  BEFORE YOU PICK UP THAT HAMMER . . .</p>
+        <p>IF you are building a house or renovating an old one, your local electric utility probably wants to talk to you.</p>
+        <p>Northeast Utilities (P.O. Box 270, Hartford 06141), which serves large parts of Connecticut, Massachusetts and New Hampshire, sells a book, "Operation Solar," for $2 .</p>
+        <p>Among other free services, Pacific Gas and Electric Company (851 Howard Street, San Francisco 94103) will put house models on a three-axis table adjusted for latitude, month and hour. The table rotates under a spotlight to simulate the motion of the sun, and video cameras inside and outside the model record sun and shadow pattern.</p>
+        <p>The Passive Solar Industries Council sells a $50 book on design strategies, customized for local climate and construction practices: 1511 K Street NW, Washington 20005.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

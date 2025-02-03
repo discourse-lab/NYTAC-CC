@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Crazy Weather Got Started in Kuwait</title>
+    <meta content="25" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="20" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="552501"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FIRES AND FIREMEN</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">PERSIAN GULF WAR</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">KUWAIT</location>
+        <location class="indexing_service">MIDDLE EAST</location>
+        <person class="indexing_service">COPLAN, JOSEPH</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Middle East/Kuwait</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fires and Firefighters</classifier>
+        <classifier class="online_producer" type="general_descriptor">War and Revolution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920825T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7DD113AF936A1575BC0A964958260" item-length="207" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Crazy Weather Got Started in Kuwait</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>"Northeast's Strange Weather: Don't Blame It All on the Volcano" (Science Times, Aug. 4) omits what may be the key factor in this area's changing weather patterns: each of the 500 wells that were set ablaze in the oil fields of Kuwait.</p>
+        <p>According to information published by Friends of the Earth International (summer 1991), on June 8, 1991, the Friends of the Earth team, flying 120 miles south of Kuwait, "found the plume had reached an altitude of 16,400 feet."</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>"Northeast's Strange Weather: Don't Blame It All on the Volcano" (Science Times, Aug. 4) omits what may be the key factor in this area's changing weather patterns: each of the 500 wells that were set ablaze in the oil fields of Kuwait.</p>
+        <p>According to information published by Friends of the Earth International (summer 1991), on June 8, 1991, the Friends of the Earth team, flying 120 miles south of Kuwait, "found the plume had reached an altitude of 16,400 feet."</p>
+        <p>The report went on to state that the climatologist Adam Twombly was concerned by "the angle of the plume's trajectory," which indicated even greater "lofting" the farther the plume traveled. "Twombly projected that 'some of the plume reaches more than 50,000 feet.' The concern is that if the plume reaches altitudes of 40,000 feet, there could be global climate changes."</p>
+        <p>Given the relevancy and seriousness of these facts, why was there no mention of the Kuwaiti oil fires in your article? You owe it to your readers and to scientific accuracy to look into the premise. JOSEPH COPLAN  New York, Aug. 9, 1992 The writer is a consultant to industrial companies that have advanced systems for oil-water separation and oil spill cleanup.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

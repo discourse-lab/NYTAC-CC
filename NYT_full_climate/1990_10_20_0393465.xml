@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Power Still Out To Many Homes After the Storm</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="27" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="393465"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTRIC LIGHT AND POWER</classifier>
+        <classifier class="indexing_service" type="descriptor">TELEPHONES</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">PRIAL, FRANK J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19901020T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D6113EF933A15753C1A966958260" item-length="449" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Power Still Out To Many Homes After the Storm</hl1>
+      </hedline>
+      <byline class="print_byline">By FRANK J. PRIAL</byline>
+      <byline class="normalized_byline">PRIAL, FRANK J</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Hundreds of homes throughout the New York City metropolitan area were still without electricity or telephone service yesterday, as utility crews worked to repair lines downed by the powerful storm that slammed into the region Thursday night.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Hundreds of homes throughout the New York City metropolitan area were still without electricity or telephone service yesterday, as utility crews worked to repair lines downed by the powerful storm that slammed into the region Thursday night.</p>
+        <p>Hundreds of homes throughout the New York City metropolitan area were still without electricity or telephone service yesterday, as utility crews worked to repair lines downed by the powerful storm that slammed into the region Thursday night.</p>
+        <p>Winds of up to 65 miles an hour also uprooted trees, smashed billboards and damaged hundreds of homes, several seriously, on eastern Long Island and in New Jersey. Twenty people were hurt when a tractor-trailer was blown over at Newark International Airport.</p>
+        <p>Morning rush-hour service yesterday on the Long Island Rail Road between Great Neck and Port Washington was disrupted after a falling tree pulled down electrical wires east of the Plandome station on the Port Washington Line.</p>
+        <p>The National Weather Service said the storm was caused by an aggressive Canadian cold front colliding with unseasonably warm air that had lingered over the region for more than a week. The cool weather was expected to remain over the region today, with a slight warming trend tomorrow. Was It a Tornado?  Many victims of the brief but violent storm had no hesitation in saying it had spawned a tornado, but the Weather Service said it needed more evidence.</p>
+        <p>At Newark Airport, 20 people were injured when a tractor-trailer was blown over in an area frequented by taxi drivers and dispatchers. Departing flights were delayed about two hours until the storm dissipated.</p>
+        <p>In Elizabeth, N.J., 75 homes were damaged. At a Holiday Inn in the center of the city, a sign was blown loose and fell 12 floors, crushing six cars in the hotel's parking lot.</p>
+        <p>In Montgomery, in central New Jersey, the storm destroyed two houses and damaged five others so severely that they were condemned as uninhabitable, the police said. In Atlantic City, officials said 200 homes were damaged, most of them lightly, and several people were injured. Two of the three main roads into the city were temporarily closed by tidal flooding.</p>
+        <p>On Long Island, the storm knocked out power to more than 53,000 customers. About 3,000 were still without power yesterday, but Long Island Lighting Company crews hoped to have everyone back on line by some time last night, a spokeswoman said.</p>
+        <p>Right after the storm, 30,000 people in Putnam County and northern Westchester County were without power. Only about 3,000 still had no power at 10:30 last night, and utility workers said they expected to have everything back in order by noon today.</p>
+        <p>Another 8,500 customers briefly lost power in Orange and Rockland counties.</p>
+        <p>In New Jersey, 25,000 customers were without power after the storm, but most of the service was back early yesterday morning, the Public Service Electric and Gas Company said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

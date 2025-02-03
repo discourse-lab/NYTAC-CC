@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>EL NINO REUTRNS, BUT DISASTER IS NOT FORSEEN</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="5558"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EL NINO (PACIFIC OCEAN CURRENT)</classifier>
+        <org class="indexing_service">WEATHER SERVICE, NATIONAL</org>
+        <person class="indexing_service">ECKHOLM, ERIK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870121T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE6D8103DF932A15752C0A961948260" item-length="692" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>EL NINO REUTRNS, BUT DISASTER IS NOT FORSEEN</hl1>
+      </hedline>
+      <byline class="print_byline">By ERIK ECKHOLM</byline>
+      <byline class="normalized_byline">ECKHOLM, ERIK</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: El Nino, the momentous shift in the winds and waters of the tropical Pacific, has returned, but it appears unlikely to bring the widespread climatic disaster it did four years ago, the National Weather Service said yesterday.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: El Nino, the momentous shift in the winds and waters of the tropical Pacific, has returned, but it appears unlikely to bring the widespread climatic disaster it did four years ago, the National Weather Service said yesterday.</p>
+        <p>El Nino, the momentous shift in the winds and waters of the tropical Pacific, has returned, but it appears unlikely to bring the widespread climatic disaster it did four years ago, the National Weather Service said yesterday.</p>
+        <p>Data for December indicate that a ''moderate'' Nino has developed, the Federal scientists said. So far at least, the changes in ocean temperature are small compared with those of the last Nino in 1982-83, which played havoc with the weather on several continents, causing floods and droughts that took more than a thousand lives and caused billions of dollars in damage.</p>
+        <p>''It's highly unlikely that we will see a series of disastrous consequences like last time,'' said Vernon Kousky of the Weather Service's Climate Analysis Center. ''But it's difficult to say how it will evolve in the next few months.</p>
+        <p>The major effect observed this year has been a decline in the normally heavy rainfall in the Philippines, Indonesia and northern Australia as rains are pushed out into the central Pacific. Link to Southeast Rains</p>
+        <p>Wet weather in the Southeastern United States and mild conditions in the Northwest, western Canada and Alaska are also probably linked to the shifts in the tropical Pacific climate, Dr. Kousky said, as are abnormally heavy rains in southern Brazil and eastern Africa and dry conditions in southern Africa.</p>
+        <p>El Nino occurs at irregular intervals of two to seven years and normally lasts one to two years. For reasons that scientists are only beginning to figure out, warm Pacific surface waters, which usually build up near Asia, begin flowing toward South America. Surface winds that normally blow toward Asia weaken or reverse themselves.</p>
+        <p>When the changes are especially strong, as they were four years ago, South American countries along the Pacific are lashed by heavy rains while a sudden warming of coastal waters destroys valuable fisheries. In 1983, atmospheric disturbances brought on by El Nino also caused searing droughts in Australia, Indonesia and southern Africa.</p>
+        <p>This time the warming of surface water in the central Pacific is less marked than in 1983, and most scientists expect the unusual conditions to dissipate rather than to intensify. First Successful Predictions</p>
+        <p>Although current evidence suggests it will not be a strong one, this year's Nino may be remembered by experts as the first to be successfully predicted by scientific models. Last year at least three scientific teams, using different methods, predicted that a moderate Nino would occur in the fall or winter.</p>
+        <p>Through the summer and fall these scientists watched with interest, and sometimes chagrin. as data gathered by ships, airplanes, buoys and island stations failed to indicate an emerging Nino. In particular, the warming of cold, rich fishing waters off the coast of Peru that often heralds the phenomenon did not occur.</p>
+        <p>But major changes in ocean temperature were occurring farther out in the Pacific, said Stephen E. Zebiak of Columbia University's Lamont-Doherty Geological Observatory, who last winter, with Mark A. Cane, predicted the phenomenon for late 1986. Now, Dr. Zebiak said, scientists can only wait to see whether the changes persist long enough to alter waters near the South American coast, something he does not expect.</p>
+        <p>According to the predictive model developed by Dr. Cane and Dr. Zebiak, this winter's Nino should have begun somewhat earlier than it did and shown certain other traits that have not appeared. But over all, Dr. Zebiak said yesterday, ''We feel encouraged about our theory, and with new data from this year we can improve the model.''</p>
+        <p>Accurate predictions of Nino-related changes in weather and fishing conditions would be invaluable to farmers, fishermen and governments in many countries, including the United States, said Dr. Kousky of the Federal weather service. On the basis of this year's experience, ''we can't say with confidence that we know how to predict'' El Nino, he said, ''but we're getting closer.''</p>
+        <p>El Nino, Spanish for ''the child,'' was named by Peruvian fishermen who often noticed the shifts in ocean temperature around Christmas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

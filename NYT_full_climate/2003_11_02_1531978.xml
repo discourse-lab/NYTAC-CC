@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Machines For Dealing With Snow</title>
+    <meta content="02HOME$01" name="slug"/>
+    <meta content="2" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Real Estate Desk" name="dsk"/>
+    <meta content="5" name="print_page_number"/>
+    <meta content="11" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Real Estate" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/11/02/realestate/02HOME.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1531978"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="YOUR HOME"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <person class="indexing_service">Romano, Jay</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Columns/Your Home</classifier>
+        <classifier class="online_producer" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031102T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F05E0DB1730F931A35752C1A9659C8B63" item-length="1201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Machines For Dealing With Snow</hl1>
+        <hl2 class="online_headline">Machines for Dealing With Snow</hl2>
+      </hedline>
+      <byline class="print_byline">By JAY ROMANO</byline>
+      <byline class="normalized_byline">Romano, Jay</byline>
+      <abstract>
+        <p>Your Home column on numerous gadgets for removing snow; drawing (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ESKIMOS, it is said, have more than 100 words to describe snow. Those of us in more temperate climates have only a single word for snow, but we have numerous gadgets for removing it.</p>
+        <p>In fact, a trip to any local home improvement center will reveal a huge selection of such machines -- ranging from inexpensive electric-powered, hand-held shovels to budget-busting, gas-powered behemoths that can hurl up to 1,800 pounds of snow up to 40 feet away in a minute.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Eskimos, it is said, have more than 100 words to describe snow. Those of us in more temperate climates have only a single word for snow, but we have many gadgets for removing it.</p>
+      </block>
+      <block class="full_text">
+        <p>ESKIMOS, it is said, have more than 100 words to describe snow. Those of us in more temperate climates have only a single word for snow, but we have numerous gadgets for removing it.</p>
+        <p>In fact, a trip to any local home improvement center will reveal a huge selection of such machines -- ranging from inexpensive electric-powered, hand-held shovels to budget-busting, gas-powered behemoths that can hurl up to 1,800 pounds of snow up to 40 feet away in a minute.</p>
+        <p>George Maher, a farm safety specialist for North Dakota State University extension service in Fargo -- and the school's resident expert on snow-removal machines -- said that there are two basic types of snow throwers: single stage and two stage (or dual stage.) A single-stage machine, he said, uses either a series of rapidly spinning driver blades -- like paddles -- or an auger assembly to pick up snow and then eject it from the machine, all in one motion.</p>
+        <p>A two-stage snow thrower uses an auger to pull snow into the machine and then push it into an impeller -- basically, a high-speed fan -- which then ejects the snow out of the machine through a movable chute.</p>
+        <p>Within those two basic categories of snow throwers, also known as snow blowers, however, are scores of mechanical variations, engines, snow-clearing capabilities and combinations of features that result in price tags that range from under $100 to $2,400 or even more.</p>
+        <p>Scott Wozniak, marketing manager for the Toro Company in Minneapolis, said that the smallest, lightest and least expensive snow throwers are electric ''power shovels.'' ''They're meant for really light snow removal,'' Mr. Wozniak said.</p>
+        <p>Electric shovels, he said, are generally hand-held machines that can clear a swath of snow about 12 inches wide. ''A cubic foot of wet snow can weigh up to 10 pounds,'' he said. ''So, for someone who has a bad back, a power shovel can be a real help.''</p>
+        <p>The next level of snow thrower, Mr. Wozniak said, is 16 or 18 inches wide. ''They can move about 700 to 1,100 pounds of snow a minute,'' which is about as fast as a person can move a machine through six inches of snow, he said. These single-stage machines can be either electric powered or gasoline powered.</p>
+        <p>In the case of Toro's single-stage gas snow throwers, Mr. Wozniak said, the paddles used to scoop up the snow are made of rubber. ''That allows the machine to clear down to the pavement,'' he said, adding that the rotating paddles also move the machine forward.</p>
+        <p>''Most single-stage machines propel themselves by allowing the auger or paddle to contact the pavement,'' Mr. Wozniak said. ''And most two-stage machines are going to be propelled by mechanically driven wheels.''</p>
+        <p>Mr. Maher of North Dakota State University said that in addition to having traction-producing wheels, most two-stage snow throwers have a number of forward speeds and one or two reverse speeds.</p>
+        <p>''Having reverse is more than just a convenience,'' he said, noting that since the engines on most two-stage snow throwers are fairly heavy -- generally, the larger two-stage snow throwers weigh more than 200 pounds -- backing them up without mechanical assistance can take a considerable effort.</p>
+        <p>Another back-saving feature that many two-stage snow throwers have is an electric starter. ''Trying to pull-start larger engines can put a tremendous amount of strain on your shoulder and arm,'' Mr. Maher said, adding that in most cases, the starters on snow throwers are powered by plugging them into a 110-volt receptacle rather than by an on-board battery.</p>
+        <p>And while tractor-mounted snow throwers might seem easier to use, he said, some of the larger walk-behind snow throwers do a better job. ''The riding snow throwers often have only a single-stage snow blower,'' he said. ''And that really limits their ability to move deep or heavy snow.'' (A two-stage snow blower, which moves into the snow at a slow constant speed, is generally able to move large amounts of snow greater distances than single-stage units.)</p>
+        <p>''Another problem with riding tractors is maintaining traction with the machine,'' he said, adding that in many cases it is necessary to add both chains and weights to the tractor to keep the tractor from slipping. ''With a walk-behind, as long as you have a set of chains on them, they'll just dig in and keep on going.''</p>
+        <p>Scott Schreiner, a divisional merchandise manager for Amazon.com, the Internet-based retailer, said his company carries about 40 different snow throwers from six manufacturers. Electric-powered snow blowers, Mr. Schreiner said, range in price from $99 to $299. Single stage, gas-powered machines, he said, range from $299 to $500, while two-stage snow throwers start at $539 -- for a 5 horsepower, 22-inch unit -- to about $2,400 for a 13 horsepower, 45-inch snow thrower.</p>
+        <p>Troy Blewett, manager of corporate communications for Simplicity Manufacturing of Port Washington, Wis., the manufacturer of Simplicity and Snapper snow throwers, said that while a small electric or single-stage gas snow thrower might be appropriate for homeowners in the city who may have only a small swath of sidewalk to clear, those who have larger properties and driveways will almost always be better off with a dual-stage snow thrower.</p>
+        <p>And each manufacturer, it seems, has its own bells and whistles intended to make their machine just a little bit easier to use than the competition's.</p>
+        <p>Some of the larger Simplicity snow throwers, for example, have what is known as an ''easy turn'' feature, which allows the operator to turn the machine by interrupting the drive power to one of the wheels. ''You hold down one of the handles and the wheel on the right side of the machine turns freely to allow for easy maneuvering,'' he said.</p>
+        <p>''And for the person who has everything, we also have machines that have hand warmers in the grips,'' Mr. Blewett said.</p>
+        <p>Mr. Maher, the safety specialist from North Dakota State University, said that no matter what kind of snow thrower a person buys, it is critical to use the machine safely.</p>
+        <p>''The No. 1 rule with a snow blower is that if the machine is running, you never, ever, try to pull anything out of it by hand,'' he said. ''It's amazing. You'd think people have common sense, but ever year a number of people get injured by sticking their hand into the machine.''</p>
+        <p>If the machine clogs and must be cleared, he said, it should be turned off. ''Just letting the engine idle is not safe enough,'' Mr. Maher said.</p>
+        <p>Another mistake many people make, he said, is to attempt to refuel the snow blower while the engine is hot. ''Gasoline is extremely volatile,'' Mr. Maher said. ''And if it gets splashed on a hot muffler, the gas fumes can ignite.''</p>
+        <p>Finally, he said, it is important to avoid warming up a snow thrower in a garage.</p>
+        <p>''After you start the machine, immediately get it outdoors,'' he said. ''A running gasoline engine produces carbon monoxide. And carbon monoxide very reliably kills people.''</p>
+        <p>YOUR HOME</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

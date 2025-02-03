@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>HUD Has An 800 Line To Give Aid To the Needy</title>
+    <meta content="T09HOML" name="slug"/>
+    <meta content="9" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="24" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="979066"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Homeless Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Telephones and Telecommunications</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <org class="indexing_service">Housing and Urban Development Department</org>
+        <person class="indexing_service">Janofsky, Michael</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telephones and Telecommunications</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19971209T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9503E7D7173CF93AA35751C1A961958260" item-length="823" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>HUD Has An 800 Line To Give Aid To the Needy</hl1>
+      </hedline>
+      <byline class="print_byline">By MICHAEL JANOFSKY</byline>
+      <byline class="normalized_byline">Janofsky, Michael</byline>
+      <dateline>WASHINGTON, Dec. 8</dateline>
+      <abstract>
+        <p>Department of Housing and Urban Development announces creation of toll-free telephone number to summon aid for homeless people caught without food and shelter during winter; officials say number will also be used to encourage more Americans to become involved in solving problems that lead to deaths of several hundred homeless people every year because of exposure (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With expectations of a colder winter than usual in many parts of the country, the Department of Housing and Urban Development today announced the creation of a toll-free telephone number to summon aid for homeless people caught without food and shelter.</p>
+        <p>Department officials said the number would also be used to encourage more Americans to get involved in solving problems that lead to the deaths of several hundred homeless people every year because of exposure. Severe conditions are possible this winter, they said, because of El Nino, the warming of waters in the Pacific Ocean that disrupts normal weather patterns.</p>
+      </block>
+      <block class="full_text">
+        <p>With expectations of a colder winter than usual in many parts of the country, the Department of Housing and Urban Development today announced the creation of a toll-free telephone number to summon aid for homeless people caught without food and shelter.</p>
+        <p>Department officials said the number would also be used to encourage more Americans to get involved in solving problems that lead to the deaths of several hundred homeless people every year because of exposure. Severe conditions are possible this winter, they said, because of El Nino, the warming of waters in the Pacific Ocean that disrupts normal weather patterns.</p>
+        <p>''This is literally a matter of life and death,'' Andrew M. Cuomo, the Housing Secretary, said in a speech that was broadcast to groups that work with homeless in 66 cities.</p>
+        <p>Maria Foscarinis, executive director of the National Law Center on Homelessness and Poverty, a nonprofit organization, applauded the department's efforts so far as they go. But like others who work to reduce the homeless population, Ms. Foscarinis said she was more concerned about solving economic and social problems that lead to homelessness.</p>
+        <p>''The important thing,'' she said, ''is educating the public about homelessness and finding solutions. People who see homeless on the street are concerned, and they want to respond. But what's missing is why people are homeless. It's important to look for real solutions.''</p>
+        <p>The initiative is part of the Clinton Administration's continuing efforts to reduce the number of homeless people, officials said, at a time when most major cities cannot provide adequate shelter to meet the nightly demand. The housing department estimates that at least 600,000 Americans are homeless on any given night, and a 1996 analysis of the homeless population by the National Law Center on Homelessness and Poverty found that none of the nation's 50 biggest cities had sufficient beds to accommodate them.</p>
+        <p>The study found that in many of the bigger cities, including New York, Los Angeles and San Francisco, the disparity was especially large. Houston, for example, had 2,238 emergency shelter beds and a homeless population of 12,000.</p>
+        <p>Mr. Cuomo said the Federal Government had stepped up its efforts for the homeless, with $823 million available for homeless programs as part of the latest budget, compared with the $300 million that was authorized four years ago.</p>
+        <p>But as part of today's announcement, he gave the equivalent of a national pep talk, imploring the 5,000 service providers who were tuned in around the country to intensify their own efforts by arranging for additional emergency shelter in their communities for the months ahead.</p>
+        <p>''Resources are one problem we have to deal with,'' he said. ''Do we have enough? No. Can we use more? Yes. Can they be increased? Yes.''</p>
+        <p>Housing officials are planning a dual role for the toll-free telephone number, (800) HUD-1010. Its most urgent use is to allow a caller to summon help for a homeless person in desperate need of shelter or food. The caller will be immediately connected to a local homeless service.</p>
+        <p>But housing officials said the number would also allow local organizations to engage callers in a wider conversation about homelessness, to explain other ways help was needed.</p>
+        <p>Thomas J. Knoll, executive director of Community Family Life Services in Washington, said the possibility of recruiting people to help was ''what excites me the most about the hot line.''</p>
+        <p>Peg Reece, executive director of Unity for the Homeless in New Orleans, a nonprofit group, said New Orleans already had an elaborate emergency response system in place for severe weather that includes a toll-free number.</p>
+        <p>''But the H.U.D. number would more likely help people learn how they can get more involved,'' Ms. Reece said.</p>
+        <p>Mr. Cuomo disputed the notion that many Americans calling to alert the authorities to a homeless person would feel put off by an extended conversation about social ills and community needs. To the contrary, he argued. ''Most people want to help but don't know how to get involved,'' he said.</p>
+        <p>Lee Blons, executive director of Caritas, a nonprofit homelessness organization in Richmond, said, ''Most people who are concerned enough to pick up the phone would be willing to be asked to do more.''</p>
+        <p>To promote the effort, the housing department intends to distribute 300,000 wallet-sized cards in supermarkets, bookstores and community centers around the country that list the toll-free number as well as 10 suggestions for to volunteer time and money to help eliminate the causes of homelessness.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

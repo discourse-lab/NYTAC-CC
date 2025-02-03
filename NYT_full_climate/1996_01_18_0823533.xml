@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sorting Out Blizzards and 'Mild' Winters</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="823533"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <person class="indexing_service">MOONEY, RICHARD E</person>
+        <person class="indexing_service">FYBISH, STEPHEN</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960118T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D81139F93BA25752C0A960958260" item-length="217" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sorting Out Blizzards and 'Mild' Winters</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Re "When Winter's Reality Hits Home" (Editorial Notebook, Jan. 11): I agree with Richard E. Mooney that the Blizzard of 1888 still ranks as the most powerful snowstorm to strike modern New York City, despite the intensity of our  recent barrage and the 26-inch storm of 1947.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Re "When Winter's Reality Hits Home" (Editorial Notebook, Jan. 11): I agree with Richard E. Mooney that the Blizzard of 1888 still ranks as the most powerful snowstorm to strike modern New York City, despite the intensity of our  recent barrage and the 26-inch storm of 1947.</p>
+        <p>But the winter of 1887-88, before the surprise of the blizzard, was not "the mildest winter in 16 years."</p>
+        <p>Not only were there several previous winters whose monthly temperatures were  higher, especially 1879-80 and 1877-78, but they and several others also had less snow than the near-normal seasonal accumulation of 23.5 inches measured in  Central Park before the 1888 storm.</p>
+        <p>The explanation for the "mildest winter" error is that in the several weeks before the blizzard, the weather was less cold and snowy than it had been. The thermometer even rose into the 40's and 50's on a few days in late February and  early March. At least one local writer must have exaggerated this short-term mildness as unprecedented and thus began the "mild winter" of 1888.</p>
+        <p>STEPHEN FYBISH New York, Jan. 15, 1996</p>
+        <p>The writer is a climate researcher and historian.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

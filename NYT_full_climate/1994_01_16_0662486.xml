@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sports of The Times; Exercising the Freedom of Choice in Buffalo</title>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="662486"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">FOOTBALL</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">PLAYOFF GAMES</classifier>
+        <org class="indexing_service">BUFFALO BILLS</org>
+        <org class="indexing_service">LOS ANGELES RAIDERS</org>
+        <person class="indexing_service">VECSEY, GEORGE</person>
+        <object.title class="indexing_service">SPORTS OF THE TIMES (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Columns/George Vecsey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football/National Football League/Buffalo Bills</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports/Pro Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Playoff Games</classifier>
+        <classifier class="online_producer" type="general_descriptor">Football</classifier>
+        <classifier class="online_producer" type="general_descriptor">Baseball</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940116T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9507E2DF1F31F935A25752C0A962958260" item-length="827" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sports of The Times; Exercising the Freedom of Choice in Buffalo</hl1>
+      </hedline>
+      <byline class="print_byline">By GEORGE VECSEY</byline>
+      <byline class="normalized_byline">VECSEY, GEORGE</byline>
+      <dateline>IRKUTSK-ON-NIAGARA, N.Y.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>HERE is my official position on football games in zero weather in Buffalo in January: I truly do not mind, as long as they have an enclosed press box. In matters like this, I am a civil libertarian. This is a free country. This game was held among consenting adults, or at least among football players and football fans, which may be slightly different.</p>
+        <p>I was not seriously inconvenienced, nor were millions of fans watching the game on television, which is why this event was held. The targets-for-commercials saw the highly paid gladiators called the Buffalo Bills defeat the highly paid gladiators called the Los Angeles Raiders, 29-23. It wasn't exactly behind closed doors, but no innocents were harmed.</p>
+      </block>
+      <block class="full_text">
+        <p>HERE is my official position on football games in zero weather in Buffalo in January: I truly do not mind, as long as they have an enclosed press box. In matters like this, I am a civil libertarian. This is a free country. This game was held among consenting adults, or at least among football players and football fans, which may be slightly different.</p>
+        <p>I was not seriously inconvenienced, nor were millions of fans watching the game on television, which is why this event was held. The targets-for-commercials saw the highly paid gladiators called the Buffalo Bills defeat the highly paid gladiators called the Los Angeles Raiders, 29-23. It wasn't exactly behind closed doors, but no innocents were harmed.</p>
+        <p>So what if the temperature was zero, the wind 10-20 from the west, making kicks stop dead as if they had hit clear-air turbulence? The cash was in the till. And that's football.</p>
+        <p>The victory guaranteed that the Bills would be right back here again next Sunday, trying to get back to the Super Bowl and start catching up for those three consecutive losses. Somehow, I don't anticipate a spring thaw.</p>
+        <p>Sorry, kids, but yesterday's game wasn't even close to the coldest football game ever played, even with a windchill factor of minus 32. That honor goes to the 1967 so-called Ice Bowl in Green Bay, when Bart Starr cried "Mush, you huskies!" and sneaked over the goal line for a 21-17 victory over the Cowboys. That game began at minus-13 degrees, and they say there was a windchill factor of 60 below, but I do not believe in windchill factors. I say windchill factors were invented by giddy television weatherpersons. We didn't have windchill factors when I was a lad.</p>
+        <p>Of course, when I was a lad, the football season ended in late December. It wasn't so much that players were smarter then -- you've seen Art (Fatso) Donovan on television, haven't you? -- but that they had to cut short this football silliness so they could start their off-season jobs as bouncers and make some extra money. Nowadays, they make so much money they would play naked on the frozen tundra if the network told them to. My theory is that if the players didn't like it, they would stage a work stoppage, or demand a shorter season for lower pay, and I haven't noticed them agitating for that. What's a little frostbite among millionaires?</p>
+        <p>Was it cold for the millionaires? Depends which locker room. Jim Kelly, the winning quarterback, said, "The wind wasn't bad, but in the second half my hands were getting cold. There was a question whether I could hold the football." Nevertheless, he directed a rally that was heart-warming if not finger-warming.</p>
+        <p>His counterpart, Jeff Hostetler, mentioned "the conditions" three times in his news conference, particularly "going into the wind," which happens for two quarters per team. Hostetler said bluntly, "It's definitely an advantage to them," which the Raiders hadn't been admitting before the game.</p>
+        <p>The players and the fans were gallant, but the people I respected the most are the vendors and ushers who were out there earning a few dollars to feed their families. Charles Davis of Buffalo, who makes nine cents on the dollar hawking game programs, said, "I get to watch the game when we work the stands, but I couldn't see paying to be here."</p>
+        <p>Seventy thousand fans could see paying, which meant the sellout game could be televised to fans in the Buffalo area, but the great majority of fans used their tickets without a thought of staying home.</p>
+        <p>"Are you kidding?" asked John Rudman 3d of Cheektowaga, a Buffalo suburb. "This is football weather. This is the way it should be."</p>
+        <p>Besides, it was worse in the old days, said his father, John Rudman Jr., who recalled the wind and cold "in the old Rock Pile," War Memorial Stadium, during a Boston-Buffalo playoff game back in the old American Football League, "when they painted the sidelines and the markers pink so they could see them." Chuck Rudman, another son, went out and paid $38 apiece for the tickets, already knowing the Arctic air mass was on its way.</p>
+        <p>Besides, these fans know how to dress. Scott Sennett of Canadaigua, N.Y., was wearing rubberized longies that keep the heat in. He also had a scarf wrapped around his nose and mouth. His companion, Amy Christensen, said she had no qualms about attending because she's a Raiders fan.</p>
+        <p>With spirit like this, how could I waste precious space saying they should have called off the game or moved it to the Sun Belt? My tough little propeller commuter plane churned serenely through the wind, made a perfect landing on the frozen runway. My hotel room was warm. The bus service to the stadium was fine. The press box was nippy, but attendants swabbed the condensation off the windows while we watched the video-game figures slamming into each other on the frozen field. I was a paid witness at a mass ritual among willing participants. I'm almost curious to see how cold it can get next week.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

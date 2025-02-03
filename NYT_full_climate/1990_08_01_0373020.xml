@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>U.S. Proposes Steps to Curb Pollution If Plans by Los Angeles Fall Short</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="373020"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <location class="indexing_service">LOS ANGELES (CALIF)</location>
+        <location class="indexing_service">CALIFORNIA</location>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <person class="indexing_service">MYDANS, SETH</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California/Los Angeles</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE5D7163FF932A3575BC0A966958260" item-length="839" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>U.S. Proposes Steps to Curb Pollution If Plans by Los Angeles Fall Short</hl1>
+      </hedline>
+      <byline class="print_byline">By SETH MYDANS, Special to The New York Times</byline>
+      <byline class="normalized_byline">MYDANS, SETH</byline>
+      <dateline>LOS ANGELES, July 31</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: The Environmental Protection Agency proposed far-reaching pollution-control measures today for the Los Angeles area, with some to be used if new state and local efforts failed to bring pollution levels within legal limits.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: The Environmental Protection Agency proposed far-reaching pollution-control measures today for the Los Angeles area, with some to be used if new state and local efforts failed to bring pollution levels within legal limits.</p>
+        <p>The Environmental Protection Agency proposed far-reaching pollution-control measures today for the Los Angeles area, with some to be used if new state and local efforts failed to bring pollution levels within legal limits.</p>
+        <p>Officials of the Federal agency emphasized that they were reluctant to step into a local issue but said they were compelled to because of a court order that found an earlier regional plan inadequate.</p>
+        <p>''The South Coast has the worst ozone and carbon monoxide problems in the nation,'' the agency said in a statement issued with the proposals, adding that the area's current local air pollution control program ''is already the most stringent in the nation.''</p>
+        <p>By including drastic measures, like restrictions on the days that people could drive, the Federal proposal provides a powerful incentive for officials to enforce the local pollution regulations.</p>
+        <p>'Presenting All Possibilities'</p>
+        <p>The E.P.A. plan includes basic measures intended to complement the steps planned at the local level, plus backup measures that could go farther, like the driving limits, to reduce carbon monoxide in the air if the local regulations fall short.</p>
+        <p>''It is in the spirit of presenting all possibilities that we are presenting the no-drive day,'' said the agency's western regional administrative director, Daniel W. McGovern. ''It is not one we are endorsing.''</p>
+        <p>Mr. McGovern said the timing of the agency's proposals was unfortunate both because the state had recently offered its own plan and because a modification of the Federal Clean Air Act now before Congress could make today's proposals unnecessary.</p>
+        <p>William G. Rosenberg, the assistant administrator for air and radiation at the E.P.A., said House and Senate measures now being studied by a conference committee both contain provisions that could supercede the agency's action.</p>
+        <p>Provisions of Local Plan</p>
+        <p>The three-phase local plan, announced in March 1989, would require that all cars be converted to electric power or other ''clean'' fuels by the year 2007.</p>
+        <p>Other provisions include bans on barbecue lighter fluid and gasoline-powered lawnmowers and virtual elimination of free parking.</p>
+        <p>The Federal proposals announced today took into account the fact that later phases of the local plan will depend on technology that is not yet in use or in some cases not yet developed, like practical vehicles that do not use polluting fuels..</p>
+        <p>The Federal proposals would affect four counties in the Los Angeles area, a region that the E.P.A. said exceeds the national standard for ozone by 150 times. Carbon monoxide levels for the Los Angeles area exceed the standard by 72 times.</p>
+        <p>Public hearings are scheduled for October and November on today's proposals. A final plan is due next February.</p>
+        <p>Steps for Cleaner Gasoline</p>
+        <p>The proposals include some that would take effect as soon as 1992, including several measures to make gasoline cleaner. Among these are reductions in gasoline volatility, increased oxygen content in gasoline during the high-pollution winter months and Federal guidelines for reformulation of gasoline. Most of the E.P.A. measures would take effect after 1996.</p>
+        <p>The Federal plan envisions a periodic three-year review of air quality to determine whether local measures have met their goal of complying with Federal clean-air laws. If they have not, the Federal Government could then step in with measures that would make drastic cuts in pollution. In some cases, experts say, that could mean the closing of factories that did not meet the standards.</p>
+        <p>The E.P.A. proposals were required under an order by a Federal appeals court that predated the 1989 local plan. The court's order resulted from a suit by two environmental groups who contended that local measures were inadequate.</p>
+        <p>The E.P.A. proposals take a longterm approach, setting a 20-year deadline for meeting ozone standards and a deadline of either 10 or 14 years for carbon monoxide. Public hearings would help determine which deadline to apply for carbon monoxide.</p>
+        <p>Restrictions on automobile use would only be necessary if the shorter deadline were adopted, an agency spokesman said.</p>
+        <p>Deference to the Local Plan</p>
+        <p>''Instead of picking one silver bullet, they have selected a wide variety of control measures, most of which may never take effect,'' said Robert A. Wyman, a lawyer involved with environmental issues.</p>
+        <p>''This is a comprehensive plan that covers every stationary and motor facility conceivable,'' he said, but he added, ''It gives a strong nod of deference to the region and the state to allow their programs to take priority.''</p>
+        <p>One of the agencies involved in last year's local plan, the South Coast Air Quality Management District, issued a statement saying it was ''generally pleased'' with the E.P.A. action.</p>
+        <p>The local agency's chairman, Norton Younglove, praised the action, though he said the proposals should have called for greater reductions in federally controlled emissions sources, like planes, trains, ships and offshore oil drilling.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

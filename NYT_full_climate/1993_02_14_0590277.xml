@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Vast Volcano Cluster Is Found Rumbling in Depths of the Pacific</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="World" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="590277"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">VOLCANOES</classifier>
+        <classifier class="indexing_service" type="descriptor">MELVILLE (SHIP)</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EL NINO (PACIFIC OCEAN CURRENT)</classifier>
+        <location class="indexing_service">PACIFIC OCEAN</location>
+        <person class="indexing_service">NASH, NATHANIEL C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFDA1F3AF937A25751C0A965958260" item-length="1440" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Vast Volcano Cluster Is Found Rumbling in Depths of the Pacific</hl1>
+      </hedline>
+      <byline class="print_byline">By NATHANIEL C. NASH,</byline>
+      <byline class="normalized_byline">NASH, NATHANIEL C</byline>
+      <dateline>BUENOS AIRES, Feb. 13</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Scientists mapping the sea floor 600 miles northwest of Easter Island, in the South Pacific, have found what they say is the greatest concentration of active volcanoes on earth.</p>
+        <p>Using sonar scanning devices to peer into the ocean depths, the scientists aboard the research vessel Melville were surprised to discover 1,133 seamounts and volcanic cones in an area about the size of New York State. Many of the volcanoes rise more than a mile above the ocean floor, and some are almost 7,000 feet tall, with their peaks 2,500 to 5,000 feet below the sea's surface.</p>
+      </block>
+      <block class="full_text">
+        <p>Scientists mapping the sea floor 600 miles northwest of Easter Island, in the South Pacific, have found what they say is the greatest concentration of active volcanoes on earth.</p>
+        <p>Using sonar scanning devices to peer into the ocean depths, the scientists aboard the research vessel Melville were surprised to discover 1,133 seamounts and volcanic cones in an area about the size of New York State. Many of the volcanoes rise more than a mile above the ocean floor, and some are almost 7,000 feet tall, with their peaks 2,500 to 5,000 feet below the sea's surface.</p>
+        <p>Two or three of the volcanoes could be erupting at any given moment, said Dr. Ken Macdonald, a professor of marine geophysics at the University of California at Santa Barbara who was a leading scientist on the project. A Surprising Number</p>
+        <p>Professor Macdonald, along with Dr. Tanya Atwater, professor of geological sciences at the University of California at Santa Barbara, and Dr. Don Forsyph, a professor of geophysics at Brown University, were surprised by the sheer number of volcanoes they found while conducting surveys aboard the Melville from November to mid-January.</p>
+        <p>"We thought we would find a few dozen new volcanoes," Professor Macdonald said. "Instead we found over 1,000 that had never been mapped before."</p>
+        <p>A marine geologist who was not part of the research team, Dr. Janet Morton of the United States Geological Survey in Menlo Park, Calif., said, "Though you would expect to find a lot of volcanoes there, 1,100 is a much greater density of activity than other parts of the sea floor." There is no greater concentration of volcanoes on land either, specialists said.</p>
+        <p>Indeed, the finding underscores just how little is known about the ocean depths. Many scientists say that more is known about the mountains and valleys on the dark side of the moon than about the ocean floor, the last unexplored frontier on earth. Professor Macdonald estimated that no more than 5 percent of the sea bottom has been mapped in detail.</p>
+        <p>One potential benefit of the discovery, scientists said, is that the volcanic eruptions are generating large new mineral deposits, including copper, iron, sulfur and gold. Although the minerals cannot be commercially exploited now, they said, future technological advances could make that possible.</p>
+        <p>The discovery is also likely to intensify speculation over whether volcanic activity, pouring huge amounts of heat into the ocean, could change water temperatures enough to affect weather patterns in the Pacific, an idea that is greeted with skepticism by many scientists.</p>
+        <p>Scientists are particularly interested in determining whether periods of extreme volcanic activity underwater -- when perhaps a dozen or more volcanoes erupt simultaneously -- could trigger El Nino, a phenomenon that alters weather patterns around much of the globe every four to seven years.</p>
+        <p>El Nino occurs when a giant high pressure system centered near Easter Island drops slightly in pressure and triggers a change in the circulation of Pacific currents, bringing warmer water to certain areas and colder water to others. The shift has decimated the South American fishing industry in certain years and has been held responsible for bringing unusually heavy rainfall to the Southern United States -- early last year, for example.</p>
+        <p>"Volcanic action on the ocean floor is part of the whole of understanding El Nino," said Herbert R. Shaw of the United States Geological Survey. "More power to guys like Ken Macdonald." Pulses of Sound</p>
+        <p>The researchers on the Melville, owned by the Scripps Oceanographic Institute in La Jolla, Calif., used two modern sonar scanning devices, one attached to the bottom of the ship and one towed behind it. Each sent pulses of sound toward the bottom and then received the signal bounced back from the ocean floor.</p>
+        <p>Professor Macdonald said that the sonar equipment, in addition to mapping the shape of the cones, was able to distinguish the ones that had erupted recently.</p>
+        <p>"Places that have erupted recently tend to reflect more of the sound back to our sensors" since they are not covered with deep layers of silt that absorb some of the sound, he said. "It's almost like a mirror and shows up on the sonar paper as practically black."</p>
+        <p>He said that most of the volcanoes had probably erupted in the last few thousand years, making them active in geological terms, and that more than a hundred may have erupted in the last few hundred years. Submerged Mountain Ranges</p>
+        <p>In several places, he said, the volcanoes were so close that they formed underwater mountain ranges extending up to 300 miles. He said that initial seismic readings from the area indicated that one volcano may be erupting now.</p>
+        <p>The area of intense volcanic activity covers 55,000 square miles near the East Pacific Rise, a ridge running from north to south where two of the huge plates that make up the earth's crust, the Pacific and Nazca plates, are separating.</p>
+        <p>The plates are pulling apart at a rate of eight inches a year, faster than anywhere else on earth.</p>
+        <p>The East Pacific Rise is also the scene of intense volcanic activity as magma, or molten rock, comes up from the the earth's core to fill in the cracks. But these are generally small lava flows, not large volcanic eruptions.</p>
+        <p>Strange marine life inhabits the area, taking advantage of the relatively warm water. The rise is also an area where many plumes of water heated to almost 800 degrees Fahrenheit shoot up from beneath the ocean floor, carrying minerals from deep below the earth's crust.</p>
+        <p>The newly discovered area of intense volcanic activity lies 10 to 300 miles west of the East Pacific Rise, between 16 degrees and 19 degrees south latitude and 113.5 degrees and 117 degrees west longitude. Lava from the Rise</p>
+        <p>Professor Macdonald said the volcanoes mapped by the ship were not situated directly on the East Pacific Rise. But he said the molten lava that is flowing from the rise may come from a huge pool that also feeds the volcanoes.</p>
+        <p>Although much of the sea floor has yet to be mapped, scientists have known that there is much more volcanic activity on the ocean floor than on land.</p>
+        <p>"The ocean floor is pockmarked with thousands of small volcanoes," said Dr. Haraldur Sigurdsson, professor of oceanography at the Unversity of Rhode Island. "Ninety percent of all volcanic activity is on the ocean floor."</p>
+        <p>Dr. Sigurdsson estimated that three cubic kilometers, or about seven-tenths of a cubic mile, of molten rock is pushed up into the ocean floor every year, an amount 5 to 10 times the amount that erupts on land.</p>
+        <p>Only in 1991 were oceanographers able to document the first underwater eruption, which occurred on the Juan de Fuca ridge, 300 miles off the coast of Oregon. Discussing El Nino</p>
+        <p>The latest finding is almost certain to fuel discussion of whether volcanic activity can warm the water enough to affect weather conditions such as El Nino.</p>
+        <p>In the past few years, scientists from the United States Geological Survey and the University of Hawaii have published papers contending that a connection could exist and that it should be thoroughly researched.</p>
+        <p>Some scientists have noted that the location of the high pressure system that plays a role in El Nino coincides with the location and frequency of intense underwater volcanic activity near Easter Island that had been measured by seismic instruments. Some speculate that if the water temperature in the area warmed slightly, that could be transmitted into the atmosphere, triggering the change. Many Are Doubters</p>
+        <p>But many in the scientific community have rejected the theory, arguing that even though volcanic eruptions might pour vast amounts of heat into the ocean's depths, a warm water layer, or barrier, 650 to 1,650 feet from the surface, known as the thermocline, would prevent this warmer water from reaching the surface.</p>
+        <p>"The ocean is so big and even if you are putting a lot of heat in a few spots, it just does not have much effect," said Dr. William Chadwick, a volcanologist at the National Oceanic and Atmospheric Administration in Newport, Ore.</p>
+        <p>Professor Macdonald said, "I have always been one who thought the idea was hogwash, and I remain extremely skeptical." But having surveyed so many volcanoes, he now thinks the idea is worth exploring.</p>
+        <p>"It is definitely warming the water," he said. "The question is: Could there be periods when maybe a hundred of these volcanoes are simultaneously active, creating so much heat that it climbs up the water columns and gets transmitted into the atmosphere. It's still considered most unlikely."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

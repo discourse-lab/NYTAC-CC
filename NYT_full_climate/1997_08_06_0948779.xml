@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Electric Cars Get a Big Push In New York</title>
+    <meta content="06AUTO$02" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="948779"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Decisions and Verdicts</classifier>
+        <classifier class="indexing_service" type="descriptor">Automobiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Electric Vehicles</classifier>
+        <location class="indexing_service">New York State</location>
+        <person class="indexing_service">Kahn, Lawrence E (Judge)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Green Tech</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Decisions and Verdicts</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970806T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A04E4D91F3DF935A3575BC0A961958260" item-length="976" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Electric Cars Get a Big Push In New York</hl1>
+      </hedline>
+      <byline class="print_byline">By JAMES DAO</byline>
+      <dateline>ALBANY, Aug. 5</dateline>
+      <abstract>
+        <p>Federal Judge Lawrence E Kahn rules that New York State can order automobile manufacturers to sell thousands of electrically powered vehicles, beginning in fall 1997; upholds six-year-old rule requiring that 2 percent of all vehicles sold during 1998 model year be powered by electricity (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a decision that environmentalists contend will provide a major boost to the nation's tiny market in electric cars, a Federal judge ruled today that New York State can order automobile manufacturers to sell thousands of electrically powered vehicles in the state beginning this fall.</p>
+        <p>The ruling by Judge Lawrence E. Kahn of Federal District Court in Albany upholds a six-year-old state rule requiring that 2 percent of all vehicles sold during the 1998 model year, which begins on Oct. 1, be  powered by electricity. The quota gradually increases to 10 percent by 2003.</p>
+      </block>
+      <block class="full_text">
+        <p>In a decision that environmentalists contend will provide a major boost to the nation's tiny market in electric cars, a Federal judge ruled today that New York State can order automobile manufacturers to sell thousands of electrically powered vehicles in the state beginning this fall.</p>
+        <p>The ruling by Judge Lawrence E. Kahn of Federal District Court in Albany upholds a six-year-old state rule requiring that 2 percent of all vehicles sold during the 1998 model year, which begins on Oct. 1, be  powered by electricity. The quota gradually increases to 10 percent by 2003.</p>
+        <p>The case, which was brought by the automotive industry, was being closely watched around the country because New York is now the only state that is mandating the sale of electric cars in 1998. Under pressure from automobile makers, both California and Massachusetts backed away from similar mandates last year and now will not require the sale of electric cars until 2003.</p>
+        <p>New York State officials estimate that the mandate will require the sale of 7,800 electric cars in 1998, which would be a huge increase over the several dozen battery-powered vehicles traveling the state's roads now. No one is currently marketing electric cars anywhere in the state, officials said, though some companies are offering the vehicles for employees' use as part of test programs.</p>
+        <p>''This is tremendously important,'' said Val Washington, executive director of Environmental Advocates, a nonprofit group. ''The car manufacturers were not bringing electric cars to New York, and they wouldn't have without this mandate. Now they have to.''</p>
+        <p>But automotive industry officials said the mandate was forcing them to sell a product that is ill-suited to New York's cold climate and that consumers were not yet interested in buying. If anything, they said, the mandate would turn car buyers off of electric vehicles, thereby hurting the market in the long run. They said they planned to appeal the decision.</p>
+        <p>''Technology and the free market should determine when electric vehicles are ready for the market, not the mandate,'' said Jay Hyde, communications manager for the American Automobile Manufacturers Association, which represents Chrysler, Ford and General Motors. ''If you force them onto the market when the technology is not ready, you run the risk of souring consumers on the technology, which is very promising. We wouldn't want to see that happen.''</p>
+        <p>State officials said the ruling would help New York meet tougher pollution standards set by the 1990 Federal Clean Air Act without creating new burdens on manufacturers. ''This is a victory for clean air,'' Gov. George E. Pataki said in a statement.</p>
+        <p>The state's regulation was enacted in 1991 under Gov. Mario M. Cuomo, who sought to take advantage of amendments to the Clean Air Act allowing states to impose automobile emissions rules as tough as California's. At that time, California had an ambitious timetable requiring car manufacturers to sell increasingly clean-burning cars, culminating with the mandate for the sale of zero-emission, or electric, cars in 1998.</p>
+        <p>Car makers twice challenged that rule in court and lost. Then, earlier this year, after California had abandoned its plan to mandate the sale of electric cars between 1998 and 2002, the automotive companies again sued, arguing that the Clean Air Act required New York's standards to be identical to California's. They also contended that current electric-car technology would not work in New York's cold climate.</p>
+        <p>Judge Kahn rejected those arguments today.</p>
+        <p>While the state's law may impose economic hardships on car manufacturers, he said, such problems ''are overborne by Congress's intent that the quality of the air we breathe should continue to improve and benefit from all available technological advances.''</p>
+        <p>Under the state rule, automobile manufacturers that do not meet their 2 percent quotas by the end of the 1998 model year can be fined several thousand dollars a day, state officials said. The state could also ask a judge to order the companies to reduce their sales of nonelectric cars in the state until the 2 percent standard was met.</p>
+        <p>It was not clear tonight whether the automobile makers would try to enter into negotiations with the Pataki administration to try to reduce the first-year quota. Aides to Mr. Pataki said they had not heard of any such overtures, and they questioned whether the Governor would entertain them if they were made.</p>
+        <p>Despite their vigorous attempts to block electric-car mandates on both coasts, some automobile makers have begun marketing, on a very limited basis, battery-powered cars in the West. General Motors, for instance, has been selling a $34,000 two-seater called the EV1 that can travel as many as 90 miles between charges. It takes about two hours to recharge the car. Only about 200 people have bought the car, which is being sold mainly in Southern California and Arizona.</p>
+        <p>Industry officials contend that the batteries being mass-produced for electric cars will get less mileage in New York's cold climate. But environmentalists say that there is new battery technology that will allow cars to travel farther between charges -- 130 miles or more -- and that are not affected by the cold weather.</p>
+        <p>The New York mandate will spur mass production of those batteries and bring down the cost of electric cars, the environmentalists said. ''The technology has been advancing almost daily,'' said Sheila Lynch, executive director of the Northeast Alternative Vehicle Consortium, a Boston-based group that promotes electric cars. ''I hope the manufacturers get the message that New York wants clean-fuel vehicles.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

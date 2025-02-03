@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Economic Scene; The Great Search: A Perfect Tax</title>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="D" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="518082"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">TAXATION</classifier>
+        <classifier class="indexing_service" type="descriptor">FEDERAL TAXES (US)</classifier>
+        <classifier class="indexing_service" type="descriptor">INCOME TAX</classifier>
+        <classifier class="indexing_service" type="descriptor">UNITED STATES ECONOMY</classifier>
+        <classifier class="indexing_service" type="descriptor">FLAT TAX</classifier>
+        <classifier class="indexing_service" type="descriptor">ELECTION ISSUES</classifier>
+        <classifier class="indexing_service" type="descriptor">PRESIDENTIAL ELECTION OF 1992</classifier>
+        <person class="indexing_service">PASSELL, PETER</person>
+        <person class="indexing_service">BROWN, JERRY</person>
+        <object.title class="indexing_service">ECONOMIC SCENE (TIMES COLUMN)</object.title>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Columns/Economic Scene</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Federal Taxes (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income</classifier>
+        <classifier class="online_producer" type="general_descriptor">Income Tax</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Economy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Election Issues</classifier>
+        <classifier class="online_producer" type="general_descriptor">Taxation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidential Elections (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Elections</classifier>
+        <classifier class="online_producer" type="general_descriptor">Presidents and Presidency (US)</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19920401T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE5D71238F932A35757C0A964958260" item-length="814" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Economic Scene; The Great Search: A Perfect Tax</hl1>
+      </hedline>
+      <byline class="print_byline">By Peter Passell</byline>
+      <byline class="normalized_byline">PASSELL, PETER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>ARE Americans ready for another sweeping overhaul of taxes -- something, perhaps, like Jerry Brown's flat tax? The answer may not matter much to candidate Brown, who needs recognition as a champion of change far more than he needs a practical plan for cutting the Gordian tax knot. Indeed, Mr. Brown's campaign staff has conceded as much: "The nuts and bolts" of the flat tax, said a Brown campaign spokesman, "are still to be determined."</p>
+        <p>But the answer matters a lot to economists who thirst for a tax fix that is both simple and politically palatable, yet able to collect enormous sums without grinding down the poor or hopelessly distorting incentives to work, save and invest. For Mr. Brown's tax bears at least a fleeting resemblance to their Holy Grail -- what specialists call a "direct consumption" tax.</p>
+      </block>
+      <block class="full_text">
+        <p>ARE Americans ready for another sweeping overhaul of taxes -- something, perhaps, like Jerry Brown's flat tax? The answer may not matter much to candidate Brown, who needs recognition as a champion of change far more than he needs a practical plan for cutting the Gordian tax knot. Indeed, Mr. Brown's campaign staff has conceded as much: "The nuts and bolts" of the flat tax, said a Brown campaign spokesman, "are still to be determined."</p>
+        <p>But the answer matters a lot to economists who thirst for a tax fix that is both simple and politically palatable, yet able to collect enormous sums without grinding down the poor or hopelessly distorting incentives to work, save and invest. For Mr. Brown's tax bears at least a fleeting resemblance to their Holy Grail -- what specialists call a "direct consumption" tax.</p>
+        <p>The not-so-plain old income tax, the one Washington struggled mightily to reform in 1986, does have virtues. It can be made as progressive as one dares, and it is certainly a proven revenue raiser. But the tax is inherently complicated to calculate and administer because income is inherently difficult to define. Moreover, progressive income taxes are likely to distort incentives by putting a fat wedge between what successful people earn and what they keep. Most damning, the tax seems a lightning rod for discontent, perhaps because it is so easily riddled with exceptions and preferences.</p>
+        <p>Sales taxes, particularly European-style "value added" taxes collected at each stage of production rather than at the point of sale, attract less enmity. Indeed, some conservatives despise the V.A.T. precisely because it is invisible -- and thus an easy ticket to bigger government. But a uniform-rate V.A.T. has one giant drawback in almost everyone's view: It is bound to be regressive because the rich spend less of their income.</p>
+        <p>Western Europe has fixed this problem by exempting food and shelter, and by charging higher rates on luxuries. But the fixes made a shambles of rational pricing, undermining the free market principle that, say, a car costing nine times as much to build as a refrigerator should cost consumers nine times as much.</p>
+        <p>Taxes on gasoline -- better still, taxes on the carbon content of fuels -- have been known to set economists' pulses racing. They are a snap to collect, generate oodles of cash and, contrary to the popular impression, are progressive.</p>
+        <p>Carbon taxes may even serve the cause of economic efficiency by forcing consumers to reckon with the damage caused by traffic congestion, local air pollution and greenhouse warming. But they are political non-starters in the land of the free(way), pure poison at the American ballot box.</p>
+        <p>Contrast any of the above to the clever direct consumption taxes devised in the mid-1980's by Robert Hall and Alvin Rabushka of the Hoover Institution at Stanford University and by David Bradford of Princeton.</p>
+        <p>Direct consumption taxes have two complementary components: a levy on business revenues that resembles a value-added tax, and a single bracket payroll tax that together amount to a progressive levy on consumption.</p>
+        <p>The business tax is a flat percentage of business receipts after subtracting the cost of all purchased inputs, including labor and new capital equipment. Thus, it is really just a tax on the return to management skills and to capital already in place when the tax is first imposed. Since the cost of new assets would be deducted from taxable business receipts, the tax should not deter new investment.</p>
+        <p>If the flat tax rate on wages is set equal to the rate on business receipts, the combination would amount to a uniform value-added tax that exempted only the return to new capital. For the economy as a whole, after all, wages and business receipts, less the value of investment, equal total consumption. But here is the beauty part: by breaking out the wage component and taxing it separately, it is possible to make the combined tax progressive without distorting consumer prices.</p>
+        <p>Mr. Hall and Mr. Rabushka would give each family a basic exemption, and then tax wages exceeding the exemption at the flat rate. They calculated that a 19 percent rate, combined with a $16,000 family exemption, would generate the same amount of revenue as the current Federal income tax.</p>
+        <p>A direct consumption tax would be easier to collect and would demand far less paperwork than the current system. The broad base, combined with the low marginal rate, would minimize economic distortions. The wage allowance would exempt the working poor. And the exemption of investment would stimulate growth. But would it sell?</p>
+        <p>Jerry Brown's lookalike flat tax plus V.A.T. suggest that Mr. Brown thinks it would. And however one judges his other qualifications for office, it is hard to deny that the former governor of California has a better eye than most for what voters will buy.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

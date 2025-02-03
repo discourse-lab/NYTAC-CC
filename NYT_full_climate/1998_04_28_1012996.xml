@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="28QNA.$02" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="3" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1012996"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">El Nino (Pacific Ocean Phenomenon)</classifier>
+        <classifier class="indexing_service" type="descriptor">Volcanoes</classifier>
+        <location class="indexing_service">Pacific Ocean</location>
+        <person class="indexing_service">Ray, C Claiborne</person>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Volcanoes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980428T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9804E3DB1E3FF93BA15757C0A96E958260" item-length="342" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+      <byline class="print_byline">By C.CLAIBORNE RAY</byline>
+      <byline class="normalized_byline">Ray, C Claiborne</byline>
+      <abstract>
+        <p>Question and Answer column on possibility that warming in Pacific Ocean is caused by undersea volcanic action (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Volcanoes and El Nino</p>
+        <p>Q. Is it possible that warming in the Pacific Ocean is caused by undersea volcanic action?  A. Some scientists think it is possible that volcanic activity might be at least partly responsible for the periodic weather phenomenon called El Nino.</p>
+      </block>
+      <block class="full_text">
+        <p>Volcanoes and El Nino</p>
+        <p>Q. Is it possible that warming in the Pacific Ocean is caused by undersea volcanic action?  A. Some scientists think it is possible that volcanic activity might be at least partly responsible for the periodic weather phenomenon called El Nino.</p>
+        <p>This theory was inspired in part by the discovery in 1993 of the largest known cluster of volcanoes, covering an area the size of New York State. The area in question is 600 miles northwest of Easter Island, and it was found to have 1,133 seamounts and volcanoes, far more than any other area then known on dry land or under the ocean.</p>
+        <p>While many researchers dismiss the theory, and even proponents concede that there is no proof of cause and effect, some scientists say the idea is plausible enough to merit more research.</p>
+        <p>When the cluster of volcanoes was discovered, scientists said they were interested in determining whether periods of extreme volcanic activity underwater, like the simultaneous eruption of a dozen or more volcanoes, could be enough to set off El Nino, which alters global weather patterns every two to seven years.</p>
+        <p>When El Nino is active, a giant high-pressure system centered near Easter Island drops slightly in pressure and touches off a change in Pacific currents, bringing warmer water to certain areas and colder water to others. In 1995, scientists reported that a spate of undersea quakes and lava eruptions had preceded the onset of the El Nino cycle then in effect. Dr. Daniel A. Walker, a geophysicist at the University of Hawaii, said that the seismic activity was the most unusual it had been in 30 years and tentatively linked it to El Nino.</p>
+        <p>C.CLAIBORNE RAY</p>
+        <p>Readers are invited to submit questions about science to Questions, Science Times, The New York Times, 229 West 43d Street, New York, N.Y. 10036.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

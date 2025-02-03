@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Fat Flakes of Spring Snow Ring Up a Record</title>
+    <meta content="30" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="29" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="840111"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">RECORDS AND ACHIEVEMENTS</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <location class="indexing_service">NEW JERSEY</location>
+        <location class="indexing_service">NEWARK (NJ)</location>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <location class="indexing_service">NEW YORK, NY, USA</location>
+        <person class="indexing_service">STOUT, DAVID</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="general_descriptor">Records and Achievements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960330T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E06E2D81539F933A05750C0A960958260" item-length="619" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Fat Flakes of Spring Snow Ring Up a Record</hl1>
+      </hedline>
+      <byline class="print_byline">By DAVID STOUT</byline>
+      <byline class="normalized_byline">STOUT, DAVID</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Floating down in flakes as big as silver dollars, snow cloaked the region once again yesterday, allowing Newark to join the company of cities with record  snowfalls and setting yet another standard for New York.</p>
+        <p>After a night of rain and sleet, the plump flakes appeared in the sky above Newark around daybreak. By 8 A.M., a half-inch of snow had fallen, erasing at long last the 75.2-inch mark that had stood in Newark since 1868, the year Ulysses S. Grant was elected President.</p>
+      </block>
+      <block class="full_text">
+        <p>Floating down in flakes as big as silver dollars, snow cloaked the region once again yesterday, allowing Newark to join the company of cities with record  snowfalls and setting yet another standard for New York.</p>
+        <p>After a night of rain and sleet, the plump flakes appeared in the sky above Newark around daybreak. By 8 A.M., a half-inch of snow had fallen, erasing at long last the 75.2-inch mark that had stood in Newark since 1868, the year Ulysses S. Grant was elected President.</p>
+        <p>By early afternoon, another 2.3 inches had descended on northern New Jersey, leaving Newark with a season total of 77.6 inches. In Central Park, 4.1 inches was measured, making New York City's season total 74.9 inches; a knee-deep snowfall over the 63.2 inches counted in the winter of 1947-48, which had been the snowiest ever.</p>
+        <p>Weather observers, professional and amateur, agreed on one thing: those were  big snowflakes. "Those weren't snowflakes," George Klein, a meteorologist at the National Weather Service's Brookhaven Station on Long Island, said yesterday. "They were snowballs. The biggest I've seen."</p>
+        <p>In parts of Westchester County, where scattered school closings were announced, the snowflakes "looked like Frisbees," said Amy Steinman, a marketing analyst for radio station WFAS-AM in White Plains.</p>
+        <p>"The purple and yellow crocuses are covered with light snow and look very pretty," Ms. Steinman said.</p>
+        <p>In a way, the huge snowflakes were as much a harbinger of spring (real spring, with robins and tree buds) as the flowers the snow draped in a benign mantle that soon melted. The flakes were big and fluffy because, if the air had  been a bit warmer, there would have been spring rain instead of snow.</p>
+        <p>"As flakes begin to melt, they get sticky and wet, bumping into each other and sticking together," Colin Marquis, a meteorologist at Pennsylvania State University, said. (Conversely, a snowfall in bitter cold will generate small flakes, but this is no time to look back.)</p>
+        <p>Mr. Marquis said the snow was born 5,000 to 10,000 feet above the earth, where the air was below freezing. As it fell below 5,000 feet, it passed through air hovering on the freeze-melt divide. In a neat paradox of nature, the snow was most lovely, with its huge flakes, just as it was on the verge of losing its identity as snow.</p>
+        <p>The snowstorm was the 15th for New York City this season. But no snow was measured in Hartford or Boston, two other cities that went through their snowiest winters.</p>
+        <p>Speaking of records, Stephen Fybish, whose hobby is weather history, offered  several tidbits for trivia lovers. The New York winter of 1995-96, he said yesterday, was the first since modern record-keeping began in 1869 in which November, December, January, February and March each had above-normal snowfall.</p>
+        <p>It was the first in which December, January, February and March each had 11.5 inches or more of snow, and the first in which January, February and March each  had 13 inches or more.</p>
+        <p>Positively warming to his subject, Mr. Fybish said that this month, with its  13.2 inches, is the snowiest March since 1967, when 17.4 inches fell. And this March is the first in a century to have three separate snowfalls of 4 inches or  more, he said.</p>
+        <p>Enough. Sunshine and temperatures in the mid-50's are expected in the region  for the rest of the weekend. Monday's forecast calls for rain: spring rain.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

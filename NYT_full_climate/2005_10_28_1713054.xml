@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Give Them Shelter</title>
+    <meta content="28saunders" name="slug"/>
+    <meta content="28" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="21" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/10/28/opinion/28saunders.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1713054"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <series series.name="Op-Ed Contributor"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Earthquakes</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Aid</classifier>
+        <classifier class="indexing_service" type="descriptor">Housing</classifier>
+        <location class="indexing_service">Pakistan</location>
+        <person class="indexing_service">Saunders, Alexander</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Pakistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Contributors</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Pakistan</classifier>
+        <classifier class="online_producer" type="descriptor">Earthquakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Earthquakes</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <location class="online_producer">Pakistan</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20051028T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C06E5DC1E3FF93BA15753C1A9639C8B63" item-length="494" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Give Them Shelter</hl1>
+        <hl2 class="online_headline">Give Them Shelter</hl2>
+      </hedline>
+      <byline class="print_byline">By Alexander Saunders</byline>
+      <byline class="normalized_byline">Saunders, Alexander</byline>
+      <dateline>Garrison, N.Y.</dateline>
+      <abstract>
+        <p>Op-Ed article by Alexander Saunders says earthquake in Pakistan has left millions homeless and facing fierce winter in high mountains; says tents are not protection enough; suggests work shed-greenhouse combinations sold by American retailers; says they come in sections, are easy to transport, and large enough to house small family; says 200,000 of these sheds would be temporary homes for million people, at cost of less than $400 million; says American retailers should contribute their inventory to start these houses on their way, and United States Air Force should fly them over on humanitarian mission (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>THE earthquake in Pakistan has left millions homeless. Umar Ghuman, Pakistan's minister of foreign investment and a longtime customer of my foundry supply company, has asked me to help find housing for as many of these people as possible before the onset of winter in the next few days.</p>
+        <p>Tents are not protection enough, and conventional prefabricated houses are neither readily available nor easy to ship. The solution, then, is to think of something less conventional, like the work shed-greenhouse combinations sold at Sam's Club and other retailers. Such sheds -- small (882 cubic feet), plastic, weather-tight, insulated and portable -- retail for around $2,000. Two hundred thousand of these houses -- temporary homes for a million people -- would cost less than $400 million.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The United States should use a product of its manufacturing ingenuity to help the millions left homeless by the earthquake in Pakistan.</p>
+      </block>
+      <block class="full_text">
+        <p>THE earthquake in Pakistan has left millions homeless. Umar Ghuman, Pakistan's minister of foreign investment and a longtime customer of my foundry supply company, has asked me to help find housing for as many of these people as possible before the onset of winter in the next few days.</p>
+        <p>Tents are not protection enough, and conventional prefabricated houses are neither readily available nor easy to ship. The solution, then, is to think of something less conventional, like the work shed-greenhouse combinations sold at Sam's Club and other retailers. Such sheds -- small (882 cubic feet), plastic, weather-tight, insulated and portable -- retail for around $2,000. Two hundred thousand of these houses -- temporary homes for a million people -- would cost less than $400 million.</p>
+        <p>These sheds come in sections, such that a C5-A military cargo plane could fit hundreds of units on a single flight. The manufacturer can produce nearly 20,000 units per month, but additional new machinery could be developed promptly to speed up production. Although there are many garden structures to choose from, the one that combines both shelter and greenhouse functions is manufactured in Winfield, Kan.</p>
+        <p>Large enough to house a small family, the work shed and greenhouse, if supplied with water and seed, can also provide bean and alfalfa sprouts as well as other fast- growing vegetables. It can be fitted with solar panels for hot water and electricity. The built-in workbenches are ideal bed platforms.</p>
+        <p>Once delivered to Pakistan, the house kits could be carried in sections by the region's ubiquitous minitrucks, or even by backpackers or helicopters where mountain villages are inaccessible. An experienced team can assemble the houses in minutes on firm, dry, level ground. Their construction is both rugged and flexible enough to withstand future shocks.</p>
+        <p>This is an opportunity for the United States to present to the world a product of our manufacturing ingenuity delivered by our military might. The United States needs to regain credibility with its friends throughout the region, and the people there need housing desperately.</p>
+        <p>How about it, retailers? Can you contribute your inventory to start these houses on their way immediately? How about it, United States Air Force? Will you fly your C5-A's on a humanitarian mission?</p>
+        <p>We need to do this now, not next week or next month. Winter -- with mountain blizzards, powerful winds and subzero temperatures -- will come to the Himalayas in days. The commercial air freight system is already shipping blankets, tents and medical supplies. That's a good start, but it is in no way adequate for housing people in winter.</p>
+        <p>Of course we must remember the needs of our own hurricane victims, as well as the tsunami victims still in makeshift camps. But the winter storms of the high mountains present a mortal threat that demands an immediate response. We have the means. So what are we waiting for?</p>
+        <p>Op-Ed Contributor Alexander Saunders is a founder of Clearwater, an environmental organization.</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Alexander Saunders is a founder of Clearwater, an environmental organization.</tagline>
+    </body.end>
+  </body>
+</nitf>

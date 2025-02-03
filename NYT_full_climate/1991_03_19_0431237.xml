@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Mexico Closes Giant Oil Refinery To Ease Pollution in the Capital</title>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Foreign Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="World; Front Page; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="431237"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">SHUTDOWNS (INSTITUTIONAL)</classifier>
+        <classifier class="indexing_service" type="descriptor">REFINERIES</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNATIONAL TRADE AND WORLD MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">GASOLINE</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">MEDICINE AND HEALTH</classifier>
+        <location class="indexing_service">MEXICO CITY (MEXICO)</location>
+        <org class="indexing_service">WORLD HEALTH ORGANIZATION</org>
+        <person class="indexing_service">UHLIG, MARK A</person>
+        <person class="indexing_service">SALINAS DE GORTARI, CARLOS (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Healthcare</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Medicine and Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Mexico/Mexico City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shutdowns (Institutional)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Factories and Industrial Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Trade and World Market</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910319T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CE1DD1331F93AA25750C0A967958260" item-length="992" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Mexico Closes Giant Oil Refinery To Ease Pollution in the Capital</hl1>
+      </hedline>
+      <byline class="print_byline">By MARK A. UHLIG, Special to The New York Times</byline>
+      <byline class="normalized_byline">UHLIG, MARK A</byline>
+      <dateline>MEXICO CITY, March 18</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>In a move to combat this city's air pollution crisis, President Carlos Salinas de Gortari today ordered the immediate closing of the city's largest Government-operated oil refinery.</p>
+        <p>The decision to close the March 18 Refinery, which sprawls over 430 acres in the north of the city, will cost an estimated $500 million, and will reduce the country's crude-oil refining capacity by more than 100,000 barrels a day. In addition, oil-industry officials said, it will force Mexico to import some kinds of gasoline until new refining capacity can be built.</p>
+      </block>
+      <block class="full_text">
+        <p>In a move to combat this city's air pollution crisis, President Carlos Salinas de Gortari today ordered the immediate closing of the city's largest Government-operated oil refinery.</p>
+        <p>The decision to close the March 18 Refinery, which sprawls over 430 acres in the north of the city, will cost an estimated $500 million, and will reduce the country's crude-oil refining capacity by more than 100,000 barrels a day. In addition, oil-industry officials said, it will force Mexico to import some kinds of gasoline until new refining capacity can be built.</p>
+        <p>But the action will abruptly eliminate what environmentalists have long considered one of the worst sources of pollution in the mountain-ringed capital, which is now suffering under one of the most dangerous periods of contaminated air in its history. Mr. Salinas declared that the giant refinery would be replaced by public parks and other green spaces to help head off a still graver environmental crisis.  Trees Instead of Pipelines</p>
+        <p>"The Government is prepared to impose upon itself the most severe measures to protect public health and to respond to social demands," Mr. Salinas said, announcing the decision at a ceremony marking the 53d anniversary of the nationalization of Mexico's oil industry, "Let's plant trees where today there is nothing but pipelines."</p>
+        <p>The announcement came after weeks of growing public concern about the health effects of recent pollution levels, which have reached nearly four times maximum limits established by the World Health Organization for major pollutants. It reflected the intense political pressure that the Government has felt as it has tried to cope with the visibly deteriorating air quality in the city, which is home to roughly 15 million people, without bringing its vital industries to a halt.</p>
+        <p>In comments to reporters recently, a senior medical official of the Mexican Institute of Social Security, which operates most of the country's public health installations, estimated that the number of patients treated for respiratory illnesses at public hospitals had risen by as much as 20 percent in recent months, confirming the concerns of pediatricians and other doctors who have described a sharp increase in such cases.  More Hospital Patients</p>
+        <p>In published interviews, officials of the National Chamber of Hospitals have said the increase in respiratory patients at private hospitals has been even more pronounced, reaching as much as 30 percent over previous levels. And medical authorities from the public and private sector alike described particular problems among children, whose respiratory systems, sinuses and ears are considered more likely to suffer long-term damage from heavy pollution.</p>
+        <p>The federal Government, which has consistently resisted providing any formal statistical analysis of the relationship between the city's high pollution levels and health problems, quickly moved to discount such estimates, arguing that there is no proven correlation between respiratory illness and pollution.</p>
+        <p>But the scale of the ecological crisis, which has left even healthy adults with nosebleeds, sore throats and stinging eyes, has forced the Government to confront difficult political trade-offs between economic development and public health.</p>
+        <p>The director of the state-run energy monopoly, Petroleos Mexicanos, said today that the giant Mexico City refinery, which opened in 1933, had served as the "backbone of production and distribution of fuels" for the capital, and that extensive studies were made in an effort to keep it open at lower levels of emissions. The refinery accounted for roughly 7 percent of overall national refining capacity, oil officials said.</p>
+        <p>But the director, Francisco Rojas, said that Government officials had ultimately concluded that the refinery, which was named in honor of the date on which the oil industry was nationalized in 1938, should be shut down immediately with the exception of minor storage and distribution installations that will be preserved.</p>
+        <p>Officials of the energy monopoly, which is commonly known as Pemex, said the refinery currently employed 5,429 workers, 3,206 of whom were directly involved in the refining process. But they said that no workers would be laid off as a result of today's decision and that the company would speed plans to build a new, 300,000-barrel-a-day refinery outside the capital region.</p>
+        <p>Although the highest pollution levels in Mexico City are usually associated with thermal inversion layers caused by cold, stagnant weather in late January and early February, ecologists warn that still higher concentrations may lie ahead this year as warming air, sunlight and vehicle exhaust combine to produce ozone, one of the city's most intractable pollutants.</p>
+        <p>Government officials have consistently maintained that they are doing all that is possible to reverse the growth of pollution in the capital area. Over the last year, city and federal officials have adopted a broad series of antipollution measures, ranging from tough new restrictions on automobile traffic to replacement of the city's entire bus fleet. They have also promised to bring the city's industrial activity to a halt if pollution levels become intolerably high.</p>
+        <p>But labor and industrial leaders have resisted attempts to impose more drastic antipollution measures. And a combination of adverse weather conditions and high continued emissions has produced high daily concentrations of pollutants that some scientists have warned could threaten the city with a so-called "killing fog."</p>
+        <p>"If drastic measures are not taken immediately to reduce the pollution at the source, with satisfactory results, we will be on the brink of an ecological catastrophe," declared a recent statement by the Group of 100, an organization of prominent Mexican artists and intellectuals that has taken a leading role in pressing the Goverment to protect the environment.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

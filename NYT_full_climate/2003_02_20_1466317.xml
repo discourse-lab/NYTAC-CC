@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Reason No. 11: I've Got Big Plows</title>
+    <meta content="20THU2" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/02/20/opinion/20THU2.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1466317"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Editorials</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <location class="indexing_service">New York City</location>
+        <person class="indexing_service">Bloomberg, Michael R (Mayor)</person>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <location class="online_producer">New York City</location>
+        <person class="online_producer">Bloomberg, Michael R</person>
+        <person class="online_producer">Lindsay, John V</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030220T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9905E1DA143DF933A15751C0A9659C8B63" item-length="325" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Reason No. 11: I've Got Big Plows</hl1>
+        <hl2 class="online_headline">Reason No. 11: I've Got Big Plows</hl2>
+      </hedline>
+      <abstract>
+        <p>Editorial says Mayor Bloomberg has good reason to feel chipper about New York's response to one of worst storms in city's history, noting city Sanitation Dept reports that all 6,300 miles of city's streets were visited at least once by a plow</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The business of cleaning up after a blizzard has been a political barometer since Mayor John Lindsay met his frigid Waterloo on the snow-clogged streets of Queens in February 1969. Now, advances in forecasting storms and removing snow -- backed by a battalion of sanitation workers, plows and salters -- have left Mayor Michael Bloomberg feeling so good about the job being done that he appeared Tuesday on ''Late Night With David Letterman,'' touting the top 10 reasons to love the snow. Strangely, the list did not include the invigorating exercise that comes with digging out a car buried under a mound of plowed snow. Still, the mayor had reason to feel chipper about the city's response to one of the worst storms in New York history.</p>
+        <p>According to the Department of Sanitation, all 6,300 miles of city streets were visited at least once by a plow by late Tuesday, which would make good the mayor's carefully worded promise, a pledge that wisely did not include any guarantee that the streets would all be passable.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Mayor Michael Bloomberg had reason to feel chipper about the city's response to one of the worst storms in New York history.</p>
+      </block>
+      <block class="full_text">
+        <p>The business of cleaning up after a blizzard has been a political barometer since Mayor John Lindsay met his frigid Waterloo on the snow-clogged streets of Queens in February 1969. Now, advances in forecasting storms and removing snow -- backed by a battalion of sanitation workers, plows and salters -- have left Mayor Michael Bloomberg feeling so good about the job being done that he appeared Tuesday on ''Late Night With David Letterman,'' touting the top 10 reasons to love the snow. Strangely, the list did not include the invigorating exercise that comes with digging out a car buried under a mound of plowed snow. Still, the mayor had reason to feel chipper about the city's response to one of the worst storms in New York history.</p>
+        <p>According to the Department of Sanitation, all 6,300 miles of city streets were visited at least once by a plow by late Tuesday, which would make good the mayor's carefully worded promise, a pledge that wisely did not include any guarantee that the streets would all be passable.</p>
+        <p>By poking fun at the city's dilemma, the mayor was taking his own advice -- that residents cope by relaxing and lightening up. That may be easier if the weather also chills, so to speak. Warming temperatures, nice as they sound, would make floods of those snow hills and bring a whole new set of problems, including streets of ice with the inevitable return to freezing temperatures.</p>
+        <p>As he toured the city in the snow, Mr. Bloomberg was spared Mr. Lindsay's reception: boos and shouted predictions -- eerily accurate -- that his political future would have the shelf life of a snowball much farther south. At least for the moment, this mayor seems to be winning a round with Mother Nature, and the Presidents' Day snowstorm is not likely to become a top 10 reason for replacing him.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

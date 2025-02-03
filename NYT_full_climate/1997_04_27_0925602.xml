@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Spain's Green Corner</title>
+    <meta content="GALI.$16" name="slug"/>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="925602"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Travel and Vacations</classifier>
+        <classifier class="indexing_service" type="descriptor">Celts</classifier>
+        <location class="indexing_service">Spain</location>
+        <location class="indexing_service">Galicia (Spain)</location>
+        <person class="indexing_service">Casas, Penelope</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Hospitality, Restaurant and Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Spain/Galicia</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Culture</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970427T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A03EFDB143EF934A15757C0A961958260" item-length="2583" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Spain's Green Corner</hl1>
+      </hedline>
+      <byline class="print_byline">By PENELOPE CASAS</byline>
+      <byline class="normalized_byline">Casas, Penelope</byline>
+      <abstract>
+        <p>Penelope Cass article on Galicia, green region of northwest Spain that is punctuated by fjordlike waterways known as rias, which are often lined with broad sandy beaches and forests; photos; map; name derives from Gallaeci, Roman name for Celts, and that connection is clearly seen in fair-haired light-skinned people, thatched cottages and food (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WEDGED into the northwest corner of Spain, bordered by Portugal and isolated by the surrounding sea, Galicia is a green region with more than a dozen fjordlike waterways known as rias. These inlets, often lined by broad, sand beaches, forests of pine, eucalyptus and chestnut, and small farming plots, bring the Atlantic Ocean inland to create some of the most memorable coastal scenery in Spain. The long splendid shoreline divides into the gentle lower estuaries of the provinces of Pontevedra and southern La Coruna (Rias Bajas), and the more abrupt upper estuaries of northern La Coruna and Lugo provinces (Rias Altas).</p>
+        <p>On my first visit to the Galician coast, nearly three decades ago, my husband and I stayed at the government-operated Parador del Albarino in the seaside town of Cambados and happened upon the colorful July 11 San Benitino de Lerez fiesta. A long procession was progressing at a snail's pace through the narrow streets of the old quarter with the image of San Benitino, as St. Benedict is affectionately called in Galicia, held on high. So much paper currency had been pinned on his robes by the faithful that he looked like a large well-feathered bird.</p>
+      </block>
+      <block class="full_text">
+        <p>WEDGED into the northwest corner of Spain, bordered by Portugal and isolated by the surrounding sea, Galicia is a green region with more than a dozen fjordlike waterways known as rias. These inlets, often lined by broad, sand beaches, forests of pine, eucalyptus and chestnut, and small farming plots, bring the Atlantic Ocean inland to create some of the most memorable coastal scenery in Spain. The long splendid shoreline divides into the gentle lower estuaries of the provinces of Pontevedra and southern La Coruna (Rias Bajas), and the more abrupt upper estuaries of northern La Coruna and Lugo provinces (Rias Altas).</p>
+        <p>On my first visit to the Galician coast, nearly three decades ago, my husband and I stayed at the government-operated Parador del Albarino in the seaside town of Cambados and happened upon the colorful July 11 San Benitino de Lerez fiesta. A long procession was progressing at a snail's pace through the narrow streets of the old quarter with the image of San Benitino, as St. Benedict is affectionately called in Galicia, held on high. So much paper currency had been pinned on his robes by the faithful that he looked like a large well-feathered bird.</p>
+        <p>We saw men festively dressed in white shirts, cherry red vests, fringed sashes, black gaiters and cropped trousers reminiscent of Scottish kilts. Indeed, many were playing folk music on their Galician bagpipes (gaitas), to which the public responded by dancing the muneira -- so akin to Gaelic dance that an Irish-American friend with us joined in with a jig.</p>
+        <p>Each of our 10 visits to Galicia -- our most recent was last summer -- reinforced our initial impression that this region has little in common with the Moorish, Gypsy and Jewish ancestry of southern Spain while exhibiting unmistakable ties to the Celtic people of Ireland and Scotland. The name Galicia derives from Gallaeci, the Roman name for Celts; Gallegos, as Galicians are called, are fair-haired and light complexioned; their pallozas -- primitive thatched cottages, some still inhabited -- are of Celtic origin; and certain local foods are related to Celtic dishes. Empanadas, for example -- large double-crusted savory pies -- bear a resemblance to English pork pies. Queimada, a potent, warming brew made with orujo (a grappa-like liqueur) poured into a footed earthenware bowl and set afire, summons up Celtic images of sorcerers stirring their magic potions.</p>
+        <p>The Rias Bajas begin at Bayona, an important medieval port but today a quiet place of old porticoed streets and a waterfront promenade. The town is crowded and best avoided in August, when it fills with vacationers. Bayona entered history when Columbus's caravel, La Pinta, landed there in 1493 with word of newly discovered lands. A copy of the ship is anchored in the harbor. But undoubtedly, Bayona's star attraction is its exceptional parador, Conde de Gondomar. An imposing 16th-century castle on a wooded waterfront promontory, it is surrounded by concentric defensive walls adorned with Hapsburg coats of arms.</p>
+        <p>On our trips to coastal Galicia, we generally bypass the large industrial city of Vigo on the Ria de Vigo, although many swear by its beaches, restaurants and tapas bars and enjoy the natural beauty of the Cies Islands wildlife sanctuary. But we do like to pause in Hio to admire an extraordinary cruceiro, a type of tall stone cross at road junctions and in town squares. Hio's 19th-century cross is intricately carved from its base, depicting souls in purgatory, to its top, which tells the story of the descent from the Cross.</p>
+        <p>The old quarter of the provincial capital of Pontevedra on the next estuary, Ria de Pontevedra, is among the best preserved in Spain; few squares can match the charm of the diminutive Plaza de la Lena, with a cruceiro at its center and simple centuries-old houses with wooden balconies on three sides. Completing the square are two 18th-century mansions, joined to create a museum of various collections, notably a magnificent display of carved jet crosses, amulets, jewelry and small statues. Jet has been a traditional craft in Galicia since medieval pilgrims to the Galician city of Santiago de Compostela, where the Apostle Santiago (St. James) is thought to be interred, carried home jet objects as souvenirs. Jet carvings are sold mostly in Santiago.</p>
+        <p>Under the golden stone arches of the Plaza de Teucro, a market takes shape each morning. Country women arrive with home-grown produce carried on their heads, everything from sacks of potatoes to wonderful cow's milk cheeses (particularly the breast-shaped tetilla), enormous rounds of moist, dense rye and corn breads, and fresh vegetables like grelos -- a close relative of collard greens used in many local dishes.</p>
+        <p>I have often enjoyed Pontevedra's parador, a cozy 18th-century pazo, as the region's stone manor houses are called, and savored the excellent tapas at O'Merlo, tapas like braised quail, meatballs and an array of vegetable salads. Although scallops are not on the menu, scallop shells -- a symbol of St. James -- are everywhere in Pontevedra. Both the 16th-century church of Santa Maria la Mayor and La Peregrina, a curiously convex Baroque church, rely on the scallop shell for decorative motif. Santa Maria has a superb golden granite facade, done in a uniquely Spanish Renaissance style called Plateresque because the intricate carving resembles the work done by craftsmen in silver (plata). Medieval pilgrims returning from Santiago de Compostela affixed scallop shells to their robes as proof (scallops being rare in other parts of Spain) that they had reached the holy city.</p>
+        <p>GRANITE finds many uses in Galicia, and in Combarro, about four miles west of Pontevedra, we found a most curious application. Along hilly alleylike streets, porticoed houses descend to dozens of horreos -- stone granaries on stilts topped by crosses -- that hug the waterfront. They look somewhat like chapels, but their origin is unclear; some believe they began as primitive Celtic dwellings. We have seen horreos all over the area, but their concentration here has made Combarro a national monument.</p>
+        <p>From Combarro a road twists through dense woodlands to the monastery of Armenteira, where legend tells of the monastery's first abbot, San Ero, who went walking in the woods one day nine centuries ago, paused to listen to a bird's enchanting song and became lost in reverie. The story says he returned to the monastery 300 years later, convinced that only a few minutes had transpired. The church portal, dating, like the building, from the 12th century, is a magnificent example of Galician Romanesque with traces of Moorish influence (the interior was remodeled in the 18th century), and a grand kitchen and refectory vividly reflect the austere monastic life.</p>
+        <p>Just beyond pristine La Lanzada beach on the open Atlantic is El Grove, the first town on the Ria de Arosa, certainly the largest and one of the most beautiful inlets. El Grove has often been called the Paradise of Shellfish, and at Restaurante Crisol treasures from the region's waters are on display, from santiaguinos (small crabs marked on their shells by a cross), and necora crabs to lobster, tiny quisquilla shrimp, centollas (spider crabs) and, of course, vieiras (scallops), typically baked in their shells with cured ham and onion. Tarta de Santiago, a dense almond cake, and filloas -- rolled dessert pancakes -- are rarely missing from this or any other local menu.</p>
+        <p>The isle of La Toja, just over a fanciful turn-of-the-century bridge from El Grove, is a secluded getaway that features a Belle Epoque hotel, a casino and a spa famed for the waters of natural springs. It is said that the waters' restorative quality was discovered when a man left his dying donkey on La Toja, only to return and find him the picture of health. A variety of soaps based on the springs' mineral salts -- I am partial to the delicately scented jet black Magno soap -- can be purchased on the island.</p>
+        <p>We were immediately charmed by the colorful storybook houses of the old quarter of Cambados, in contrast to the impressive Baroque Fefinanes palace, home of the Fefinanes winery. Open to the public, the winery is one of many small establishments of the Rias Baixas appellation, featuring crisp, fruity Albarino white wines. O'Arco restaurant, laden with country antiques, embodies the charm of Cambados. Besides caldo gallego, a hearty soup of greens, beans and beef, we discovered outstanding seafood dishes like hake in Albarino wine sauce and a superior rendition of empanadas of peppers, onions and scallops.</p>
+        <p>The bridge at Catoira leads to the northern bank of the Ria de Arosa, and on clear days, there is a celebrated view from La Curota overlook. As we climb the winding road from Puebla de Caraminal, a panorama of the entire Rias Bajas unfolds. Next to the town of Corrubedo, facing the sea, a magnificent expanse of white sand beach, Playa Ladeira and Playa de la Lagoa, is backed by sweeping dunes and interrupted by a small lagoon -- a marvel of nature that has been granted protected status.</p>
+        <p>Noya and Muros occupy the next estuary, Ria de Muros y Noya, and the streets of Noya are lined with historic churches and palaces from  more illustrious times. San Martin Church overlooks the shallow inlet of Noya, and below its grand rose window, a complex scene of Apostles and musicians, inspired by the sublime Romanesque door of the Santiago Cathedral, adorns the 15th-century portal. In Muros, we enjoy the medieval porticoed streets, but are mystified by floating wooden platforms that crowd the bay. ''They are mejilloneras,'' says the barman at a packed Don Bodegon, who brings us necora crabs, cigalas (''Norwegian'' lobsters) and pimientos de Padron -- tiny green peppers that are usually sweet but can be unexpectedly fiery. The barman explains that mussels, one of Galicia's major industries, cling to dangling ropes beneath the platforms until they are ready to be harvested.</p>
+        <p>The estuaries become smaller as the Rias Bajas give way to the Rias Altas at the barren, forlorn cape of Finisterre, awesome to the original Celt invaders, who believed they had reached the end of the earth. La Coruna, with about 250,000 inhabitants, is the largest city of the Rias Altas, set on a rocky peninsula at the mouth of the boot-shaped Ria de Betanzos. Although the city has oil refineries with smokestacks, once we approached the old quarter the streets enveloped us in the past. Whitewashed houses with the city's trademark, porches enclosed with glass to protect against the damp climate, create a sparkling mirror of the sea along the Avenida de la Marina. On adjoining streets lively tapas bars specializing in pulpo a feira (boiled octopus sprinkled with olive oil and paprika) and seafood restaurants follow in close succession.</p>
+        <p>In contrast, the narrow back streets are a darkly evocative medieval world of crested mansions, stately squares, intimate corners (like the charming Plazuela de las Barbaras), and Romanesque churches. A mile or so away stands the 2,000-year-old Tower of Hercules, the only Roman lighthouse still in use, and a short distance to the east the town of Betanzos. It is  entered through three Gothic gateways that remain from the town walls and is distinguished by churches of the 14th and 15th centuries. In the church of San Francisco is the magisterially carved tomb of a medieval nobleman, Fernan Perez de Andrade, supported by a sculpture of a bear and a boar.</p>
+        <p>Las Rias Altas are less populated as we continue north; cliffs arise abruptly from the open Cantabrian Sea, and the views are formidable. The Ria de Cedeira, enclosed like a lake, is an exception to the harshness of this coast, and we always like to stop in the inviting, immaculately kept town of Cedeira, divided by the river Condominas, crisscrossed by several bridges and faced by houses, set on the river banks, with glass-enclosed balconies. At the bustling El Nautico restaurant along the waterfront promenade, percebes (goose barnacles) are the delicacy. Pried at the risk of life and limb from the rocks that border this ominously named Costa de la Muerte (Coast of Death), these finger-shaped crustaceans, many say, capture the very essence of the sea.</p>
+        <p>Villagers in San Andres de Teixido just north of Cedeira eke a precarious living from percebes and from selling amulets made from colorfully painted dried dough to pilgrims who come to worship San Andres, protector of fishermen. The majesty of the coast can be admired from the windswept Garita de Herbeira overlook just north of the village.</p>
+        <p>Four more estuaries complete the Rias Altas. Along their shores we found Ortigueira, looking somewhat like a Swiss lake town; El Barquero, a fishing village that climbs steeply up a hill from the waterfront, and Vivero, where there's an annual roundup of wild horses. The rias end at the Ria de Ribadeo, where a parador overlooks the large enclosed estuary. As we crossed into neighboring Asturias, the distinctive Galician coast -- and culture -- seemed to vanish into the misty sea air.</p>
+        <p>By the sea, and from the sea</p>
+        <p>Hotels</p>
+        <p>Reservations at these paradors and hotels are available through Marketing Ahead, 433 Fifth Avenue, New York, N. Y. 10016; (800) 223-1356. The nightly rates are those listed by Marketing Ahead for a double room, including breakfast and tax.</p>
+        <p>Parador del Albarino, Paseo de Cervantes, Cambados; (86) 54 22 50 (country code is 34); about $120, April to June, to $137, July to October.</p>
+        <p>Parador Conde de Gondomar, Castillo Monte Real, Bayona; (86) 35 50 00; under renovation, reopening July 3; $138 to $166, depending on season.</p>
+        <p>Parador Casa del Baron, 19 Baron, Pontevedra; (86) 85 58 00; $105 to $120.</p>
+        <p>Gran Hotel de La Toja, Isla de La Toja, El Grove; (86) 73 00 25; $210 to $270.</p>
+        <p>Parador de Ribadeo, 7 Amador Fernandez, Ribadeo; (82) 12 88 25; under renovation, reopening Sept. 19; $120 to $140.</p>
+        <p>Restaurants</p>
+        <p>All prices are an average per person, including a house wine, and calculated at 135 pesetas to the dollar.</p>
+        <p>O'Merlo, 4 Avenida Santa Maria, Pontevedra; (86) 84 43 43; $11 to $15 for dinner.</p>
+        <p>Crisol, 10-12 Hospital, El Grove, (86) 73 00 29; $29.</p>
+        <p>O'Arco, 14 Calle Real, Cambados; (86) 54 23 12; $33.</p>
+        <p>Don Bodegon, 20 Porta Davila, and Paseo Bombe, both in Muros; (81) 82 78 02; $22.</p>
+        <p>El Nautico, 7 Almirante Moreno, Cedeira; (81) 48 00 11; $22.</p>
+        <p>Fornos, 25-27 Olmos, La Coruna; (81) 22 16 75; tapas, $7 to $11; dinner, $22.</p>
+        <p>La Marina, 14 Avenida Marina, La Coruna; (81) 22 39 14; $18.</p>
+        <p>P.C.</p>
+        <p>PENELOPE CASAS is the author of ''Discovering Spain'' (Knopf).</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">PENELOPE CASAS is the author of ''Discovering Spain'' (Knopf).</tagline>
+    </body.end>
+  </body>
+</nitf>

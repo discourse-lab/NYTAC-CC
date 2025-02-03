@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Cruelest Month? Here's Why</title>
+    <meta content="20APRI$06" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/04/20/science/20APRI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1575513"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Rain</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <location class="online_producer">New York State</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040420T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9505E7D7113BF933A15757C0A9629C8B63" item-length="309" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Cruelest Month? Here's Why</hl1>
+        <hl2 class="online_headline">Cruelest Month? Here's Why</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Temporary cooling temperatures that form annual trough in April warming are unexplained by climatologists, but anticipated part of spring weather; photo (S)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Congratulations. If you live in the Northeast, you have probably just survived what some meteorologists are calling the ''April pause.''</p>
+        <p>Romanticized for its showers -- which have provided grist for poets at least since the 1300's, when Chaucer mentioned them in the preamble to ''The Canterbury Tales'' -- April often sees a brief chill before the full vernal warming actually kicks in.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Romanticized for its showers, April often sees a brief chill before the full vernal warming actually kicks in.</p>
+      </block>
+      <block class="full_text">
+        <p>Congratulations. If you live in the Northeast, you have probably just survived what some meteorologists are calling the ''April pause.''</p>
+        <p>Romanticized for its showers -- which have provided grist for poets at least since the 1300's, when Chaucer mentioned them in the preamble to ''The Canterbury Tales'' -- April often sees a brief chill before the full vernal warming actually kicks in.</p>
+        <p>This temporary cooling, which is typically in early to mid-April in the Northeast, regularly shows up as a trough in the graphs that track the daily high temperature trends.</p>
+        <p>You don't hear much about it, though, maybe because even meteorologists are pretty much silent about it.</p>
+        <p>Many say it clearly happens, but they don't know why.</p>
+        <p>Now they're paying more attention in their relentless, increasingly competitive quest to refine forecasts.</p>
+        <p>Weather everywhere has its predictable hitches -- like the June gloom that muddies Los Angeles skies.</p>
+        <p>Some such patterns are quasi-mythical, like Indian summer and the January thaw, and their existence has even been questioned by some statisticians.</p>
+        <p>As for the cause of the pause, experts are still in the theorizing phase.</p>
+        <p>Todd Miner, a meteorologist at Penn State who focuses on the Northeast, sees a combination of shifting local conditions at play.</p>
+        <p>The slow greening of deciduous forests changes the amount of sunlight that is reflected back into space, and the evaporation from leaves that drives the metabolic machinery of the trees has a cooling effect.</p>
+        <p>Around the Northern Hemisphere, he said, these local shifts in heating patterns may disrupt winds enough to ''shake loose pools of cool air that can come down from central Canada,'' causing the brief chill.</p>
+        <p>Was the warm-up last weekend the end of one of those pauses?</p>
+        <p>It sure looks that way.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>California Sees Waters Rise, With More to Come</title>
+    <meta content="07FLOO" name="slug"/>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1998" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="11" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="993563"/>
+      <doc.copyright holder="The New York Times" year="1998"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">El Nino (Pacific Ocean Current)</classifier>
+        <classifier class="indexing_service" type="descriptor">Floods</classifier>
+        <classifier class="indexing_service" type="descriptor">Landslides and Mudslides</classifier>
+        <location class="indexing_service">California</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="general_descriptor">Landslides and Mudslides</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19980207T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9403E3D9103DF934A35751C0A96E958260" item-length="828" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>California Sees Waters Rise, With More to Come</hl1>
+      </hedline>
+      <dateline>SANTA ROSA, Calif., Feb. 6</dateline>
+      <abstract>
+        <p>California is battered by a solid week of storms, which have caused flooding, mudslides, high winds and four deaths so far; more storms are expected; northern part of state is hit most severely; storms are attributed in part to El Nino phenomenon in Pacific; photo; map (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Sonoma County is best known for its expansive vineyards, summer vacation getaways and towering redwoods, but this time of year it is becoming known for its water. The Russian River, which snakes through this coastal area, has flooded for the past several winters, causing extensive property damage and driving many residents of low-lying areas from their homes.</p>
+        <p>With the advent this year of El Nino, a periodic warming of water temperatures in parts of the Pacific Ocean, conditions were expected to worsen, and this week was an indication of that.</p>
+      </block>
+      <block class="full_text">
+        <p>Sonoma County is best known for its expansive vineyards, summer vacation getaways and towering redwoods, but this time of year it is becoming known for its water. The Russian River, which snakes through this coastal area, has flooded for the past several winters, causing extensive property damage and driving many residents of low-lying areas from their homes.</p>
+        <p>With the advent this year of El Nino, a periodic warming of water temperatures in parts of the Pacific Ocean, conditions were expected to worsen, and this week was an indication of that.</p>
+        <p>California was battered by a solid week of storms, attributed in part to El Nino. There have been hard downpours, extensive flooding, mudslides and winds up to 80 miles per hour in some areas of the Sacramento Valley. More storms are expected this weekend and on Tuesday.</p>
+        <p>The northern part of the state has been hardest hit, but Southern California has also had its share of moisture, with more than two inches of rain per hour falling in some areas.</p>
+        <p>In Northern California, the storms began on Monday, abated for a short while on Thursday afternoon and began again early this morning.</p>
+        <p>Late Thursday night, after the National Weather Service predicted that waters would rise to record levels in Sonoma County by this morning, about 100 people were voluntarily evacuated from their homes. Others sandbagged their buildings and hoped for the best.</p>
+        <p>In Monterey County, south of San Francisco, the National Guard ordered 350 people to leave their homes on Thursday in Pajaro, where the main roadway had slid down a hill.  As many as 1,000 people from Pajaro and the Monterey area had taken refuge today at a shelter in nearby Watsonville.</p>
+        <p>So far, four people have died as a result of the downpours, and it is estimated that hundreds have been injured. There is no official statewide estimate of the extent of property damage, but state officials say it is significant.</p>
+        <p>Gov. Pete Wilson, who toured the stricken area around Monterey today, has declared a state of emergency in 22 of California's 58 counties, most of them in the Sacramento Valley and along the coast north of Monterey. In Southern California, Ventura and Santa Barbara counties were hard hit, and several major traffic arteries near downtown Los Angeles were shut down. Gusts of up to 100 m.p.h. are expected in Santa Barbara County this weekend.</p>
+        <p>The turbulent weather is forecast  to continue through mid-week.</p>
+        <p>''No real break in sight yet,'' said Roger G. Pappas, a meteorologist with the National Weather Service.</p>
+        <p>By this morning, rains in Sonoma County had turned many hillsides into waterfalls, and vineyards bordering the Russian River were submerged. The river rose to about two feet above flood stage, but it had not reached expected record levels. Some residents of the area shrugged it off, saying they had seen it all before.</p>
+        <p>Daniel T. Goodwin, 22, the assistant manager of Barry's Market, across the road from the Russian River, removed goods from the bottom three shelves in the store, but he said he was not planning to clear out just yet. ''It comes up pretty close every year, so you can't worry about it,'' he said.</p>
+        <p>Jeff Morford, owner of Prudential California insurance brokers in Guerneville, a few miles down the road, declared the flood warning a ''non-event'' and reopened his office on the city's main street. Those staffing the city's emergency shelter were not so optimistic as they watched the water levels climb the banks of the river, just two blocks from Mr. Morford's office.</p>
+        <p>''The river does things that people don't know about,'' said Len G. Walton, logistics coordinator for the American Red Cross Guerneville Evacuation Team. ''It could come up just like 'boom!' ''</p>
+        <p>Mr. Walton pointed to an 8-foot no-parking sign, submerged to the word ''No.'' Twenty minutes later, only the red line at the top was visible. Sarah Gould-Genesi, a member of the Red Cross disaster action team, said water continues to rise 12 hours after the rains have stopped.</p>
+        <p>''People get complacent,'' she said. ''And each time you have this false alarm more than a few times, they think, ''Well, it didn't happen last time.' ''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

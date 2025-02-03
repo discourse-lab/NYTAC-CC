@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Climate Lessons, Right From the Mountaintop</title>
+    <meta content="LTR235045" name="slug"/>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="1537837"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Glaciers</classifier>
+        <classifier class="indexing_service" type="descriptor">Ice</classifier>
+        <classifier class="indexing_service" type="descriptor">Global Warming</classifier>
+        <location class="indexing_service">Tanzania</location>
+        <location class="indexing_service">Mount Kilimanjaro (Tanzania)</location>
+        <person class="indexing_service">Epstein, Paul R (Dr)</person>
+        <person class="indexing_service">Morton, Oliver</person>
+        <classifier class="online_producer" type="types_of_material">Letter</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Letters</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Africa/Tanzania</classifier>
+        <classifier class="online_producer" type="general_descriptor">Glaciers</classifier>
+        <classifier class="online_producer" type="general_descriptor">Global Warming</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F02E3D8103BF930A15752C1A9659C8B63" item-length="159" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Climate Lessons, Right From the Mountaintop</hl1>
+      </hedline>
+      <abstract>
+        <p>Dr Paul R Epstein letter on Oliver Morton's Nov 17 article questions value of desperate measure to save Mount Kilimanjaro's glaciers, noting warming problem is global; drawing</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>To the Editor:</p>
+        <p>Taking a page from Christo, the artist famous for draping large structures, Oliver Morton (''The Tarps of Kilimanjaro,'' Op-Ed, Nov. 17) proposes capping Mount Kilimanjaro's glaciers with plastic to stanch the melting. But mountain glaciers are disappearing the world over, plants and mosquitoes are migrating upward, and the level of ''permanently'' frozen ground -- the ''freezing isotherm'' -- is 450 feet higher than it was in 1970.</p>
+      </block>
+      <block class="full_text">
+        <p>To the Editor:</p>
+        <p>Taking a page from Christo, the artist famous for draping large structures, Oliver Morton (''The Tarps of Kilimanjaro,'' Op-Ed, Nov. 17) proposes capping Mount Kilimanjaro's glaciers with plastic to stanch the melting. But mountain glaciers are disappearing the world over, plants and mosquitoes are migrating upward, and the level of ''permanently'' frozen ground -- the ''freezing isotherm'' -- is 450 feet higher than it was in 1970.</p>
+        <p>Mountain glaciers have reflected sunlight to help stabilize climate for 10,000 years, and they slowly release water that nourishes nature and human populations.</p>
+        <p>Today, melting ice cover and warming oceans are speeding up Earth's water cycle, leading to wide weather swings. Desperate Band-Aids in the face of such climate instability are, at best, temporary; at worst, pure folly.</p>
+        <p>PAUL R. EPSTEIN, M.D.  Boston, Nov. 18, 2003</p>
+        <p>The writer is associate director, Center for Health and the Global Environment, Harvard Medical School.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

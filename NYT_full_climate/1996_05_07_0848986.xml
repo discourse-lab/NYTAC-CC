@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>School Project Lampooned by G.O.P. Totters but Doesn't Fall</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1996" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="848986"/>
+      <doc.copyright holder="The New York Times" year="1996"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <classifier class="indexing_service" type="descriptor">FINANCES</classifier>
+        <classifier class="indexing_service" type="descriptor">BUDGETS AND BUDGETING</classifier>
+        <classifier class="indexing_service" type="descriptor">COMPUTERS AND INFORMATIONSYSTEMS</classifier>
+        <classifier class="indexing_service" type="descriptor">INTERNET AND WORLD WIDE WEB</classifier>
+        <location class="indexing_service">UNITED STATES</location>
+        <person class="indexing_service">CUSHMAN, JOHN H JR</person>
+        <person class="indexing_service">CLINTON, BILL (PRES)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Budgets and Budgeting</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19960507T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0DEED61439F934A35756C0A960958260" item-length="1268" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>School Project Lampooned by G.O.P. Totters but Doesn't Fall</hl1>
+      </hedline>
+      <byline class="print_byline">By JOHN H. CUSHMAN Jr.</byline>
+      <byline class="normalized_byline">CUSHMAN, JOHN H JR</byline>
+      <dateline>WASHINGTON, May 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Even as the Republicans gave in to most of the Clinton Administration's demands to restore money for environmental programs in the fiscal 1996 budget, they heaped ridicule on one science education program and insisted on eliminating it. But the Administration is vowing to salvage the program by rationing the money previously approved by Congress and seeking private contributions.</p>
+        <p>A favorite of Vice President Al Gore, the program combines his two passions:  the environment and communications. It teaches students at thousands of schools  across the country to collect data on climate, soil, plant life and the like and to share the information with other students, teachers and scientists over the Internet.</p>
+      </block>
+      <block class="full_text">
+        <p>Even as the Republicans gave in to most of the Clinton Administration's demands to restore money for environmental programs in the fiscal 1996 budget, they heaped ridicule on one science education program and insisted on eliminating it. But the Administration is vowing to salvage the program by rationing the money previously approved by Congress and seeking private contributions.</p>
+        <p>A favorite of Vice President Al Gore, the program combines his two passions:  the environment and communications. It teaches students at thousands of schools  across the country to collect data on climate, soil, plant life and the like and to share the information with other students, teachers and scientists over the Internet.</p>
+        <p>Although the Administration proposed to spend $15 million in this fiscal year on the program -- Global Learning and Observation to Benefit the Environment, known as Globe -- Republican leaders said Globe seemed to fritter away money on a somewhat pointless exercise.</p>
+        <p>"We have pried some of the money out of the hands of Washington bureaucrats;  we have eliminated some absolutely absurd programs," said Representative John R. Kasich, the Ohio Republican who is chairman of the Budget Committee.</p>
+        <p>Mr. Kasich scoffed at the Globe program in a speech on the House floor, contending that it "says to children, 'We will give you millions of dollars to measure rainfall by collecting it.' "</p>
+        <p>But the program turns out to be popular in Mr. Kasich's home state, among other places.</p>
+        <p>In Columbus, Ohio, Nancy Small, who teaches science at the Georgian Heights Math, Science and Environmental Studies Alternative Elementary School, wondered  what Mr. Kasich knew about the program.</p>
+        <p>"He obviously has not looked at a Globe manual," Ms. Small said. "If he were  to look at all the learning activities, the kinds of studies they are doing, the soil testing, geology, biometrics, atmosphere and climate -- my goodness, to me, how can he say it is just rainwater?"</p>
+        <p>In the last few weeks, she said, her students have connected to the Internet  for the first time. They are getting ready to transmit the data collected by a new weather station they recently set up at a precise location, aided by global-positioning satellite equipment borrowed for a day from the local power company.</p>
+        <p>The Administration defends the program by saying it gives schoolchildren valuable hands-on training.  Administration officials said that thousands of schools and teachers had spent their own money for equipment and training and that killing the program would waste that investment.</p>
+        <p>It can cost several thousand dollars for a school to equip itself for the program. Although Federal grants are available, much of the expense is typically borne by the school. The Federal Government pays for things like training materials and workshops for teachers and maintaining the data bases.</p>
+        <p>The financing for the program comes from a number of agencies, particularly the National Oceanic and Atmospheric Administration. Although Congress eliminated program money for the rest of this year from the budget of that agency and the Environmental Protection Agency, some previously approved money remains on hand, and financing will be available for a few more months through the National Aeronautics and Space Administration and from other corners of the  budget, Administration officials said.</p>
+        <p>To help pick up the slack, a newly enlisted nonprofit group, the Foundation for Global Environmental Education, is scrambling to attract corporate and other private donors, said the foundation's president, Daniel Bross. Major corporations, especially high-tech companies, are expected to provide cash, equipment and computers, Mr. Bross said.</p>
+        <p>After all, this is a program that lives on the World Wide Web, currently the  hottest spot on the Internet. From the Globe home page (http://www.globe.gov), a net surfer is just a mouse-click away from images of global weather patterns, not to mention an image of Tipper Gore, the Vice President's wife, using a digital camera to photograph Globe students at work. Mrs. Gore, an avid photographer, uploaded her snapshot as part of 24 Hours in Cyberspace (http://www.cyber24.com/home.html), an on-line compilation of Internet activities.</p>
+        <p>All that computerized chic, combined with some traditional, hands-on data collection, using weather stations and other basic tools, makes the program doubly appealing to teachers and students. Some students have even managed to present their work at meetings of real scientists.</p>
+        <p>Among Globe's enthusiasts is John Austin, who heads the science department and teaches biology at the Rutherford B. Hayes High School in Delaware, Ohio.</p>
+        <p>On the Globe program's Web pages, the school's coordinates are listed as latitude 40.2986 north, longitude 83.0681 west and elevation 277 meters, smack in the middle of Mr. Kasich's Congressional district. There are nine other schools in his district participating in the program, the Globe program's office said.</p>
+        <p>Mr. Austin's honor students are calibrating instruments and getting ready to  collect data on soil moisture that will be combined over the Internet with data  collected at thousands of participating schools, he said. Next year, the program will figure prominently in the science curriculum for all levels of students at  Hayes.</p>
+        <p>"This is the first real use of the Internet our school has had," he said, adding that his participation in the program had persuaded the local school board to pay most of the costs. "I am having Spanish teachers coming down and pulling stuff off the Internet. This computer is being used six hours a day now, so I am a pretty popular teacher."</p>
+        <p>As for the criticism that the program is all about collecting rainwater, Mr.  Austin shrugged. "Mr. Kasich might conclude this is pretty simplistic," he said, "but in reality, we are dealing with kids. You have got to start someplace."</p>
+        <p>Mr. Kasich did not respond to a request for an interview.</p>
+        <p>A Congressional aide who reviewed the program as the budget was being drafted criticized it as having lofty but unrealistic objectives and questionable scientific value.</p>
+        <p>"If you look at it in a hardheaded way, the most unkind and critical way," said the aide, speaking on the condition of anonymity, "it is about collecting rain data and playing on the Internet." In comparison with other projects at the cash-strapped oceanographic and atmospheric agency, he said, it appeared to be "a program in search of a scientific objective."</p>
+        <p>But a participating scientist said that such data could be valuable despite its simplicity. That scientist, Dr. Susan E. Postawko, a climate researcher at the University of Oklahoma, has been working for five years with students collecting rainfall data on Pacific islands. Dr. Postawko is now getting information from around the nation and the world through the Globe project, which has participants in dozens of countries overseas, each financed by their governments.</p>
+        <p>"The measurements the students are making within the Globe program," Dr. Postawko wrote in an E-mail message responding to an inquiry about her work, "were specifically chosen to be measurements of interest to scientists, yet straightforward enough to be made by 'lay-people' with a little training."</p>
+        <p>She added, "Student measurements of rainfall on small islands and atolls now  represent nearly 25 percent of all the rainfall measurements being made in that  part of the world."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Vast Polar Ice Sheet Mysteriously Vanishes</title>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="619911"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <location class="indexing_service">ANTARCTIC REGIONS</location>
+        <location class="indexing_service">BELLINGHAUSEN SEA</location>
+        <person class="indexing_service">SULLIVAN, WALTER</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Polar Regions/Antarctic Regions</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930706T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEEDC1131F935A35754C0A965958260" item-length="646" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Vast Polar Ice Sheet Mysteriously Vanishes</hl1>
+      </hedline>
+      <byline class="print_byline">WALTER S. SULLIVAN</byline>
+      <byline class="normalized_byline">SULLIVAN, WALTER</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR three years ending in 1991 the thick sheet of ice covering Antarctica's Bellingshausen Sea almost entirely vanished.</p>
+        <p>The ice, thought to be permanent, had been a notorious impediment to exploration. In 1898, when the ship Belgica sought to penetrate it to reach the South Pole, the drifting ice trapped the ship and carried it hundreds of miles before loosening enough to permit its escape a year later.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR three years ending in 1991 the thick sheet of ice covering Antarctica's Bellingshausen Sea almost entirely vanished.</p>
+        <p>The ice, thought to be permanent, had been a notorious impediment to exploration. In 1898, when the ship Belgica sought to penetrate it to reach the South Pole, the drifting ice trapped the ship and carried it hundreds of miles before loosening enough to permit its escape a year later.</p>
+        <p>The dispersal of so vast a region of polar ice is the second to be identified in recent years. The first was from an area of the Weddell Sea, east of the Antarctic Peninsula, during the winters of 1974 to 1976. The Bellingshausen is west of that peninsula.</p>
+        <p>Whether there may have been similar dispersals in the past will probably never be known. Earth satellites have been carrying a variety of recorders since 1973, some of which can map the ice cover day and night, regardless of clouds. But until recently explorers, whalers and seal hunters who skirted or probed the drifting ice surrounding Antarctica knew little about how it may open and close.  Sensor Detects Emissions</p>
+        <p>It was a microwave sensor aboard a satellite of the Defense Meteorological Satellite Program that recorded the disappearance of the Bellingshausen ice. The sensor detected emissions characteristic of drifting ice as well as of land and open water. The observations were reported in Geophysical Research Letters by Stan S. Jacobs of the Lamont-Doherty Earth Observatory in Palisades, N.Y., and Dr. Josefino C. Comiso, of NASA's Goddard Space Flight Center in Greenbelt, Md.</p>
+        <p>What they found was a radical southward retreat of the ice, rather than the formation of a "polynya," or ice-free oasis surrounded by ice, as had occurred in the Weddell Sea. The ice around it melted each summer, but the oasis recurred as the surrounding ice reformed.</p>
+        <p>Dr. Comiso and Dr. Arnold L. Gordon, an oceanographer at the Lamont-Doherty observatory have noted that this polynya was situated above the Maud Rise, a huge submarine mountain rising 11,500 feet from the sea floor. Perhaps, they suggested, the Rise deflected a warm current upward, causing the melting. The melting has not, however, recurred.</p>
+        <p>As has been pointed out by those seeking to understand how sea ice affects world climate, the extent to which the surface of the globe is covered with ice, snow and clouds helps determine how much solar energy is reflected back into space.</p>
+        <p>"If you think of the sea ice around Antarctica as a large insulating blanket covering the Southern Ocean and then visualize a few holes in that blanket, you have some idea of an important process that affects global climate," Dr. Gordon wrote in Oceanus, a journal published by the Woods Hole Oceanographic Institution on Cape Cod.</p>
+        <p>In June 1989, Mr. Jacobs and Dr. Comiso said, the Bellingshausen ice retreated as far south as Marguerite Bay, near the base of the Antarctic Peninsula. The next winter the ice remained 200 miles south of its average front.</p>
+        <p>In their analysis the two scientists said the ice retreated at a time when surface air temperatures were highest at Rothera and Faraday, British bases bordering the Bellingshausen Sea on the Antarctic Peninsula.</p>
+        <p>The close correspondence between recent warming in the Bellingshausen Sea and dispersal of the sea ice, the authors of the report said, suggested a "regional threshold" beyond which the local ice cover cannot survive. Its dispersal for three consecutive years, said Dr. Comiso in a telephone interview, must have created a major problem for penguins and other animals as well as plants whose food and way of life depend on it.</p>
+        <p>Asked about more recent trends, Mr. Jacobs said the Bellingshausen ice appeared back to normal, but analysis of the satellite data is laborious and slow. Identifying a clear, long-term trend in Antarctica may not be possible for years.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

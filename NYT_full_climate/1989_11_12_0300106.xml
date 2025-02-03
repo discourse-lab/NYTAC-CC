@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>East Is East, and West Is West</title>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Travel Desk" name="dsk"/>
+    <meta content="55" name="print_page_number"/>
+    <meta content="5" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Travel" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="300106"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SKIING</classifier>
+        <classifier class="indexing_service" type="descriptor">NYTRAVEL</classifier>
+        <person class="indexing_service">KENDALL, ELAINE</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Sunday Travel</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Skiing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Travel and Vacations</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19891112T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDA1139F931A25752C1A96F948260" item-length="1317" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>East Is East, and West Is West</hl1>
+      </hedline>
+      <byline class="print_byline">By ELAINE KENDALL; ELAINE KENDALL is a Los Angeles critic, journalist and playwright.</byline>
+      <byline class="normalized_byline">KENDALL, ELAINE</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: BY now the parkas have been ransomed from the cleaners, the spare condominium key found and the snow tires rotated. You've remembered that a sleeping loft and the living room beneath it cannot be used simultaneously. Westerners are ready to exchange the Rockies, Sierras and entire Wasatch front for a glimpse of Berkshires ablaze with dazzling leaves.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: BY now the parkas have been ransomed from the cleaners, the spare condominium key found and the snow tires rotated. You've remembered that a sleeping loft and the living room beneath it cannot be used simultaneously. Westerners are ready to exchange the Rockies, Sierras and entire Wasatch front for a glimpse of Berkshires ablaze with dazzling leaves.</p>
+        <p>BY now the parkas have been ransomed from the cleaners, the spare condominium key found and the snow tires rotated. You've remembered that a sleeping loft and the living room beneath it cannot be used simultaneously. Westerners are ready to exchange the Rockies, Sierras and entire Wasatch front for a glimpse of Berkshires ablaze with dazzling leaves. Northeasterners, remembering a nearly dry 1988 season, have an eye on the high annualsnowfall figures of the West and are making plans accordingly. Though the West has leaves and the East has snow, there are virtually no Westerners who go East to ski or Easterners who drive up our coast to see foliage. Call it tradition; comparisons often cause hurt feelings. Perhaps just say that the East has the edge in autumn, the West in winter.</p>
+        <p>Though the literature on skiing in America is extensive, it tells you virtually nothing about the profound philosophical differences between East and West. If Northeastern skiing is an existential experience, pitting the individual against a hostile environment, Western skiing is hedonistic, dedicated to the idea that pleasure is good and should be the purpose of action.</p>
+        <p>Through no fault of its own, the Northeast is relatively compressed, with its great centers of culture, industry and population sharing the same capricious climate of its loftiest mountains. All too often, the blizzard that enhances the Berkshires or the Adirondacks devastates the cities. Inevitably, Northeasterners are somewhat ambivalent about snow, which can frazzle their tempers, shorten the weekend, strain their muscles and jam the resorts before the fun even begins. Nature, the Western skier's ally, is the Eastern skier's adversary. After all, the majestic New England peaks were set in place by a stern providence that frowned upon idle amusement and encouraged humans to resist temptation.</p>
+        <p>Out here, the mountains are so forbidding all year round that the major cities developed as far away from them as possible, in temperate zones like Los Angeles, San Diego and San Francisco. Even Denver and Salt Lake, tucked into their cozy basins, seldom feel the full fury of a Rocky Mountain winter. The West has smog and earthquakes, but at least the snow tends to fall where it does the least harm and the most good.</p>
+        <p>Unlike the Northeasterner, whose usual environment follows him right to the lift and beyond, the Westerner is in another world as soon as he's out of town. Because civilization has only a tentative foothold this side of the Continental Divide, it's readily left behind. Easy come, easy go. Angelenos can be on a Wasatch summit before the New Yorker can get to the expressway.</p>
+        <p>Their skiing skills honed by a lifetime of contending with ice, granite, slush, and rush-hour conditions on the hills themselves, Northeasterners are pleasantly surprised to discover that our user-friendly snow cushions the difficult slopes and makes them seem easier. Though first-time visitors may be disconcerted to find that the greatest peril comes from the Texan behind them rather than the trees in front or the boulders beneath, they adapt within an hour.</p>
+        <p>FOR a few days, out-of-staters remain fiercely loyal to their own mountains, regaling their lift partners with descriptions of the new high-speed gondolas and tramways that whisk them to the peaks while a Western skier is still fumbling with sun block. They assure us that Eastern lift lines no longer seem to wind all the way down the Connecticut River Valley to Hartford. Instead, the crowds have apparently been relocated to the tops of the trails, where the masses detrain in a solid phalanx to make way for the next carload.</p>
+        <p>To the Western skier, floating smoothly up the slopes in intimate groups of two or three, an aerial tramway is an elevator without a building around it the creaking works exposed to his uneasy gaze. Not only do they remind him of his office tower, but they also impede a view of the landscape and expose him to urban viruses safely diffused by the big sky.</p>
+        <p>As for gondolas, though he tactfully acknowledges their advantages in heavy winds and snow, he doesn't really understand why anyone skis in a blizzard when tomorrow will surely be calm and clear. Furthermore, even a four-person gondola represents a form of public transportation. While Westerners approve of car pools in theory, so far, ride-sharing programs have had only limited acceptance. Here the open chairlift is considered an integral part of the whole experience; in the East it can be an agonizing trial, more challenging than the most heavily moguled runs.</p>
+        <p>Northeastern skiers old enough to remember $10 lift tickets may recall the dour employees stationed at the bases of New England chairs: wizened gnomes hired to throw a sodden cover over the knees of the ascendant riders. On the way up, the already icy blanket would gather weight from falling snow, some of it melted by the passenger's rapidly dissipating body heat. Disembarking, the rider would simultaneously align his skis, grab his poles, lift the safety bar and toss the leaden blanket as far from the platform as possible. If this four-part exercise wasn't perfectly timed and executed, the skier got tangled in the blanket and fell. When that happened, a twin of the gnome at the base would drag the unfortunate away by the armpits. No wonder gondolas and trams are popular. If they've done nothing else, they've cut down on armpit injuries, though perhaps not altogether. (Now the old blanket drill survives mainly in the northernmost reaches of New England, where the temperature can fall to 25 degrees below zero and the chairlift reigns supreme.) Visiting skiers are often astonished at the gaudy, fanciful costumes they see in the Rockies and Sierras. Incredibly, the wearers often are experts, challenging the entrenched notion that only novices wear jazzy clothes. Inside his thermals, under his three shirts, sweater and puffy down parka, the Eastern skier may be moving even more elegantly, but no one can tell because he's as heavily upholstered as a sofa. Once stripped down and dressed in fluorescent space-age outfits and far away from the lingering legacy of Puritan sumptuary laws, Eastern skiers quickly become indistinguishable from the locals.</p>
+        <p>Unfortunately, just when their conversion seems complete, the visitors tend to become wistful. The West, it seems, is short on charming clapboard lodges with roaring fires in the common rooms, bowls of apples on the sideboards and mulled wine sipped as frost-nipped skin turns from white to pink. Instead, we offer soulless condos where the interior decoration veers toward Winnebago Mission, and the only chance to meet fellow guests is at the washing machine. Our lift lines are too short to provide much opportunity for making friends, and no one lingers in the warming huts for long. Instead, they sit in deck chairs with their eyes closed, blending their goggle lines.</p>
+        <p>Apres-ski life isn't a strong point here. With the notable exception of Aspen, which offers an assortment of sophisticated diversions, the options can be severely limited. Reminding Easterners that their inns must have appealing public spaces to make up for tiny bedrooms and minimalist bathrooms is useless. Once they're 1,500 miles from home, they forget that everyone clusters around the lodge fire waiting for the antiquated hot water system to crank up before they can bathe. They've repressed the fact that they are often awakened before dawn by the clanging of early American metal radiators reluctantly coming to life. All such hardships quickly fade, leaving only pleasant memories of stimulating political and literary discussions, exceptional lobster pie and merry evenings around the piano singing ''The Whiffenpoof Song.'' In comparison, cowboy bars, Idaho brook trout and private Jacuzzis haven't a chance - till the next green Eastern winter.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

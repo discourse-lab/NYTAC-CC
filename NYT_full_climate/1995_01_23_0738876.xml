@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Taps Go Dry as Puerto Rico Copes With Drought</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1995" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="738876"/>
+      <doc.copyright holder="The New York Times" year="1995"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SHORTAGES</classifier>
+        <classifier class="indexing_service" type="descriptor">RATIONING AND ALLOCATION OF RESOURCES</classifier>
+        <classifier class="indexing_service" type="descriptor">NINO, EL (WEATHER PHENOMENON)</classifier>
+        <location class="indexing_service">PUERTO RICO</location>
+        <location class="indexing_service">LATIN AMERICA</location>
+        <location class="indexing_service">SAN JUAN (PUERTO RICO)</location>
+        <location class="indexing_service">CARIBBEAN AREA</location>
+        <person class="indexing_service">NAVARRO, MIREYA</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./South</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Caribbean and Bermuda/Puerto Rico/San Juan</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Shortages</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rationing and Allocation of Resources</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19950123T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=990CE4D8163EF930A15752C0A963958260" item-length="1189" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Taps Go Dry as Puerto Rico Copes With Drought</hl1>
+      </hedline>
+      <byline class="print_byline">By MIREYA NAVARRO,</byline>
+      <byline class="normalized_byline">NAVARRO, MIREYA</byline>
+      <dateline>BAYAMON, P.R., Jan. 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Domingo and Ramona Maldonado say they saw it coming.</p>
+        <p>First, the water from their faucets lost pressure. Then, it sputtered to a halt. After weeks of speculation, water rationing began again this week for parts of Puerto Rico because of what officials say is a continuing drought that has depleted some water reserves.</p>
+      </block>
+      <block class="full_text">
+        <p>Domingo and Ramona Maldonado say they saw it coming.</p>
+        <p>First, the water from their faucets lost pressure. Then, it sputtered to a halt. After weeks of speculation, water rationing began again this week for parts of Puerto Rico because of what officials say is a continuing drought that has depleted some water reserves.</p>
+        <p>Last year, the drought led to up to five months of rationing for more than half of the island's 3.6 million residents. Beginning today, water for 700,000 residents, mostly in the San Juan area, is being cut off on alternate days, indefinitely.</p>
+        <p>The Maldonados, residents of the Santa Juanita section of this city southwest of San Juan, now go without water for 12-hour periods every other day and have taken to collecting rain in a 55-gallon container.</p>
+        <p>"One has to be patient, because if you get angry you have a heart attack," the 71-year-old Mrs. Maldonado said.</p>
+        <p>Last summer, when the worst drought in nearly 30 years first hit the northeast part of the island, there was a respite in the calendar: the usually wet months of September and October provided relief and allowed some reservoirs to fill up, even though rainfall was 35 percent below normal for the year, the National Weather Service said. This time, however, the dry season of January through March looms, creating what officials from the Puerto Rico Aqueduct and Sewer Authority call a "very critical situation" for the areas where the reserves have still not been replenished.</p>
+        <p>This week's rationing was imposed on customers served by La Plata Reservoir in Toa Alta, which provides water to 37 percent of the metropolitan area. The water level there has dropped nearly 30 percent, to 34.43 meters from a normal 49 meters.</p>
+        <p>The drought has affected other countries of the Caribbean and Central America, National Weather Service meteorologists said, with those farther from the equator faring the worst. Attributed to El Nino, a Pacific warming pattern, it has caused sporadic water rationing in the Lesser Antilles and major agricultural losses and electricity shortages in Central America.</p>
+        <p>In Puerto Rico, the 1994 water shortage most affected the agricultural sector, with losses estimated at more than $94 million. Production was off by more than 50 percent for vegetables like plantains, a staple in Puerto Rican cuisine whose price has doubled.</p>
+        <p>Tourism did not suffer, government officials say, but hotels, hospitals and other commercial customers spent thousands of dollars a month on water to stay open. And health officials said water stored in open containers everywhere bred mosquitoes and was a factor in the worst outbreak of dengue fever since the 1960's.</p>
+        <p>Cases of the viral infection, characterized by flulike symptoms, reached nearly 19,000 last year, almost four times the 5,000 reported the previous year, the health department said.</p>
+        <p>But the problems have not all been attributed to the drought. There is agreement inside and outside the government that the aqueduct authority, which runs the 220 deep-well and surface-water systems that serve 97 percent of the population, for years neglected construction and maintenance and failed to keep up with the growing demand.</p>
+        <p>Now, the new administration at the agency says the easiest and quickest answer to water supply limitations that turn droughts into water emergencies is a pipeline that would run along the north coast, connecting water systems. The $300 million "superaqueduct," which the officials hope to rush into completion by 1996, is expected to bring 100 million gallons of water a day to the metropolitan area from the Dos Bocas Lake in the central mountain town of Utuado.</p>
+        <p>A $1.2 billion modernization plan also calls for dredging a reservoir that has lost 65 percent of its capacity to sedimentation and building new reservoirs.</p>
+        <p>"Our approach is that in the next five years we'll be solving the water supply problem for close to 70 percent of the population for the next 50 years," said Emilio M. Colon, executive director of the aqueduct authority.</p>
+        <p>But environmentalists and some water experts doubt that the superaqueduct will get the permits necessary for construction to begin this year, and they say a faster and more ecologically sound solution would be an aggressive well-drilling plan. The authority now plans to construct or rehabilitate only 14 wells in the areas under rationing.</p>
+        <p>"The superaqueduct is a mistake," said Neftali Garcia, a private environmental consultant. "It is too expensive, it is is unlikely to give the amount of water they say, and it will affect aquifers and marshland."</p>
+        <p>Mr. Garcia said it would also take its water from a region that will eventually need it because of population growth. He said solutions should include providing the additional wells, controlling deforestation and stopping the loss of water to leaks.</p>
+        <p>The water problems have been costly. The first rationing period, from May to October last year, cost the aqueduct authority $20 million in lost revenue and another $12 million to $15 million in extra expenses. Because of the agency's deteriorating finances and operating problems, its bond rating was lowered below investment grade last year, and the agency is now looking for private financing for its modernization plan, which has been scaled back from $2.4 billion.</p>
+        <p>As rationing threatens to become routine, patience is wearing thin. Mr. Colon blamed consumers for going back to old habits after the first rationing ended last October, saying they still showed very little concern for water conservation. He said water consumption had increased 8 percent from pre-drought levels.</p>
+        <p>"You still see people hosing down their carports and sidewalks," he said.</p>
+        <p>And consumers have begun to cast blame on Mr. Colon.</p>
+        <p>"It's true that there's drought, but I think this is too much," Mrs. Maldonado, from the Santa Juanita area, said. "Sometimes pipes break and they squander water for two or three days and they don't fix it."</p>
+        <p>[ On Thursday, Mr. Colon was asked to resign by the government's ombudsman after his agency was found to be generating the most complaints of any government agency for things unrelated to rationing, like billing errors and lengthy waits for service. ]</p>
+        <p>This time around, however, everyone seems better prepared to deal with the water cutoffs. Many homes already have storage tanks to collect water when it is available and have it during service interruptions, usually from 1 P.M. to 1 A.M. on alternate days. Some have plastic "shower bags" they place in the sun so they can later bathe with warm water.</p>
+        <p>In the town of Naranjito, south of San Juan, Maria T. Morales, 64, heats her bath water in plastic jugs in the microwave oven. She now does her laundry in a smaller washing machine that takes less time to fill up. She said she no longer fretted over the dirt accumulating on windows she cannot in good conscience wash while water is scarce.</p>
+        <p>On a recent evening she sat in her modern, color-coordinated kitchen of white tile and black counter tops. Below the rack of wine glasses overhead, the sink was dry.</p>
+        <p>"We've returned to ancient times," she said, resigned.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

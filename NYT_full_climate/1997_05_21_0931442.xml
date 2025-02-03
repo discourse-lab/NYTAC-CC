@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Hubble Space Telescope Finds Big Shifts in Weather on Mars</title>
+    <meta content="21MARS" name="slug"/>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="5" name="publication_month"/>
+    <meta content="1997" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="18" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="931442"/>
+      <doc.copyright holder="The New York Times" year="1997"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Space</classifier>
+        <classifier class="indexing_service" type="descriptor">Hubble Space Telescope</classifier>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Pathfinder (Spacecraft)</classifier>
+        <classifier class="indexing_service" type="descriptor">Mars Global Surveyor</classifier>
+        <location class="indexing_service">Mars (Planet)</location>
+        <org class="indexing_service">National Aeronautics and Space Administration</org>
+        <org class="indexing_service">National Radio Astronomy Observatory</org>
+        <person class="indexing_service">Leary, Warren E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Space and Cosmos</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hubble Space Telescope</classifier>
+        <classifier class="online_producer" type="general_descriptor">Telescopes and Observatories</classifier>
+        <classifier class="online_producer" type="general_descriptor">Space</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19970521T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07EFDE173BF932A15756C0A961958260" item-length="742" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Hubble Space Telescope Finds Big Shifts in Weather on Mars</hl1>
+      </hedline>
+      <byline class="print_byline">By WARREN E. LEARY</byline>
+      <byline class="normalized_byline">Leary, Warren E</byline>
+      <dateline>WASHINGTON, May 20</dateline>
+      <abstract>
+        <p>Scientists at National Aeronautics and Space Administration briefing say observations by Hubble Space Telescope and National Radio Astronomy Observatory indicate that Mars's climate is much more variable than previously believed; say thin atmosphere, elliptical orbit and strong interaction between dust and ice clouds cause dramatic climate shifts; NASA plans to use data from Hubble to fine-tune entry of Mars Pathfinder spacecraft into Martian atmosphere and to help guide orbital changes of Mars Global Surveyor; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The versatile Hubble Space Telescope has been put to use tracking the weather -- on Mars. And conditions there are much more variable than previously believed, scientists said today.</p>
+        <p>Two American spacecraft now heading for Mars will find very different climatic conditions when they arrive this summer than Viking spacecraft encountered while surveying the planet two decades ago.</p>
+      </block>
+      <block class="full_text">
+        <p>The versatile Hubble Space Telescope has been put to use tracking the weather -- on Mars. And conditions there are much more variable than previously believed, scientists said today.</p>
+        <p>Two American spacecraft now heading for Mars will find very different climatic conditions when they arrive this summer than Viking spacecraft encountered while surveying the planet two decades ago.</p>
+        <p>Instead of a windswept planet of dust storms and pink skies observed by Viking spacecraft from orbit and on the surface in the 1970's, the robot visitors will find an even colder Mars with a dark blue sky full of white clouds of water ice, scientists said.</p>
+        <p>A dynamic Mars with weather that can drastically change in a week or two emerges from observations of the planet over two years by the Earth-orbiting Hubble telescope and the National Radio Astronomy Observatory at Kitt Peak, Ariz.</p>
+        <p>''It's not the dusty Mars of the Project Viking days or the habitable oasis of science fiction stories,'' said Dr. Todd Clancy of the Space Science Institute of Boulder, Colo. ''We're finding a Mars that's colder, clearer, cloudier. Hubble is rapidly changing our view of Mars's environment.''</p>
+        <p>Dr. Clancy and other scientists said at a National Aeronautics and Space Administration briefing that Mars's thin atmosphere, its elliptical orbit, which varies its distance from the Sun by 20 percent every two years, and the strong interactions between dust and ice clouds cause the dramatic shifts in climate.</p>
+        <p>When Mars is closest to the Sun, temperatures can rise as high as 30 degrees Fahrenheit, the scientists said. This comes from warming that causes wind storms that sweep dust miles into the atmosphere, absorbing sunlight and further heating the air. When the planet is farthest from the sun, temperatures are 90 to 100 below zero, surface dust storms are confined to low altitudes and atmospheric dust is swept to the ground by water ice clouds that surround Mars at altitudes of 2 to 6 miles.</p>
+        <p>Dr. Steven Lee of the University of Colorado at Boulder said pictures taken by Hubble in March show the planet surrounded by layers of wispy, cirrus-like white clouds and a surface covered by fine, red dust. Many prominent dark areas, believed to be bedrock or areas of dark sand, remain visible, he said, but some have disappeared.</p>
+        <p>Hubble images show that a dark area called Cerberus that measured 800 by 250 miles, has all but disappeared under a layer of light dust, Dr. Lee said. All that remains of Cerberus, observed by Earth-based telescopes since the beginning of the century and studied in detail by orbiting spacecraft in the 1970's, are three dark splotches, he noted.</p>
+        <p>Dr. Matthew Golombek of NASA's Jet Propulsion Laboratory in Pasadena, Calif., said Hubble observations would play a role in the missions of the United States spacecraft approaching Mars. Dr. Golombek, chief scientist for the Mars Pathfinder Project, said Hubble data will help fine-tune the Pathfinder's entry into the Martian atmosphere for a surface landing on July 4. In addition, information from Hubble will help guide orbital changes of the Mars Global Surveyor, a craft that will enter Martian orbit in September to map the planet from above.</p>
+        <p>In the week before the scheduled landing by Pathfinder, which contains a small, roving robot called Sojourner, NASA will make three sets of observations with Hubble to do a Mars weather forecast, scientists said.</p>
+        <p>Pathfinder will brake its speed by entering the atmosphere with a heat shield, deploying a parachute and hitting the surface surrounded by airbags. Knowing the latest atmospheric conditions will help time the parachute release, scientists said.</p>
+        <p>The Global Surveyor, after entering an elliptical orbit, is to stabilize itself and gradually make its orbit circular by moving its solar power panels to take advantage of resistance from the atmosphere. This maneuvering, scientists said, will be partly guided by weather forecasts generated by Hubble images.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

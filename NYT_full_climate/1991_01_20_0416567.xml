@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Buick Show Car Takes to the Road</title>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1991" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Sports Desk" name="dsk"/>
+    <meta content="12" name="print_page_number"/>
+    <meta content="8" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Sports" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="416567"/>
+      <doc.copyright holder="The New York Times" year="1991"/>
+      <series series.name="ABOUT CARS"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AUTOMOBILES</classifier>
+        <classifier class="indexing_service" type="descriptor">NEW MODELS, DESIGN AND PRODUCTS</classifier>
+        <org class="indexing_service">BUICK DIVISION OF GENERAL MOTORS CORP</org>
+        <person class="indexing_service">SCHUON, MARSHALL</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Sports</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts/Art and Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Road Trips</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Automobiles/Topics/Automobile Design</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Art and Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">Design</classifier>
+        <classifier class="online_producer" type="general_descriptor">New Models, Design and Products</classifier>
+        <classifier class="online_producer" type="general_descriptor">Automobiles</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19910120T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D0CEEDF163CF933A15752C0A967958260" item-length="765" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Buick Show Car Takes to the Road</hl1>
+      </hedline>
+      <byline class="print_byline">By Marshall Schuon</byline>
+      <byline class="normalized_byline">SCHUON, MARSHALL</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Think luxury cars today and you'll probably think imports. Mercedes-Benz. BMW. Lexus. Infiniti. You might even think Lincoln or Cadillac, but you probably wouldn't think Buick.</p>
+        <p>A big part of that, no doubt, is the pinch-penny philosophy that led General Motors to homogenize its cars in the 80's, building Buicks on the same line with Chevys and using parts from the same bins. Certainly, the lack of distinctive design hurt Cadillac, an insult to "The Standard of the World" that has only recently been redressed.</p>
+      </block>
+      <block class="full_text">
+        <p>Think luxury cars today and you'll probably think imports. Mercedes-Benz. BMW. Lexus. Infiniti. You might even think Lincoln or Cadillac, but you probably wouldn't think Buick.</p>
+        <p>A big part of that, no doubt, is the pinch-penny philosophy that led General Motors to homogenize its cars in the 80's, building Buicks on the same line with Chevys and using parts from the same bins. Certainly, the lack of distinctive design hurt Cadillac, an insult to "The Standard of the World" that has only recently been redressed.</p>
+        <p>But G.M.'s thinking has changed up and down the line, and Buick's Park Avenue Ultra is just the latest in a series of good examples. It is also likely to put Buick back where it once was, as Middle America's aspiration.</p>
+        <p>The Park Avenue is that rare bird, a designer's toy that grew full feathers as a production model. Fresh out of the egg, the Buick was called "Essence," and it made the tour of the auto shows back in 1989, a concept car dressed in exquisite blue green paint.</p>
+        <p>In more conservative hue (dark metallic blue, in the case of the tester), it has taken to the road as a front-drive four-door sedan, sleek, polished, full of high-tech and very pleasant indeed.</p>
+        <p>For '91, the Electra nameplate has been dropped, and the Park Avenue Ultra is Buick's flagship. It is moderately big, eight inches longer than its predecessor, and the extra space has been added to the rounded trunk. Roundness is, in fact, everywhere, and the combination of shape and flush glass has produced a thoroughly aerodynamic .31 coefficient of drag.</p>
+        <p>In addition, the body's structure has been redesigned and strengthened, both for safety and a feeling of solidity. To that end, the number of parts required to build the car has been reduced by 25 percent, and the company calls it the quietest and smoothest sedan Buick has ever offered.</p>
+        <p>Inside, our car had blue leather and -- surprisingly for a Buick -- full instrumentation, including a 7,000-r.p.m. tachometer. There was a 200-watt sound system with built-in compact-disk player, and the radio actually was easy to tune. That's because G.M., unlike most other manufacturers, has had the good sense to keep knobs on its radios instead of hard-to-use arrow switches. Compliments to the chef.</p>
+        <p>On the other hand, the Buick has rear windows that go down less than half way, and that is inexcusable in a car this size. And then there is the silly bin in the armrest between the front seats, the one made to hold tape cassettes. In a car that has only a CD player, it sort of makes one wonder.</p>
+        <p>But there are thoughtful touches, too: a cupholder and place for toll change, a good big ashtray, six-way power seats with memory, and dual temperature controls so driver and front-seat passenger can tailor two sorts of climate.</p>
+        <p>In fact, ambient comfort has been given a lot of attention in the Park Avenue, and "solar-control" glass makes its debut all round. The glass reduces solar heat by as much as 30 percent, and it cuts ultraviolet rays by almost half.</p>
+        <p>What that means is a more comfortable interior, increased efficiency for the air-conditioner and longer life for interior materials. And, just to make sure everything stays cozy, twin sun sensors on the dash compensate for interior warming and automatically maintain the temperatures selected by driver and front-seat passenger.</p>
+        <p>For safety, there is an air bag in the hub of the leather-wrapped wheel, and antilock brakes are standard. But there is further technostuff, including an oil-life monitor to help a driver cope in these days of self-service gas stations.</p>
+        <p>The monitor measures engine temperature, average revolutions per minute and vehicle speed, then calculates the projected life of the oil and tells the driver when to change it. Control of the new four-speed automatic transmission also is handled by electronics, with shift points figured out for smoothness by the same computer that manages the 3.8-liter V6.</p>
+        <p>The engine, mounted transversely, puts out 170 horsepower, sufficient to propel the 3,662-pound boulevardier to 60 miles an hour in about 9.5 seconds. That is comfortably quick, and it is enough to get you safely off the ramp and onto the highway, even if it won't win many drag races.</p>
+        <p>But Buick buyers won't care about that. What they will care about is the gas they can save, with economy rated at 18, city, and 27, highway. They will care about the pretty face, about the appointments and about the silky ride.</p>
+        <p>In fact, there is only one thing missing. With a sticker of about $29,000, you don't get to pay the new luxury tax.</p>
+        <p>ABOUT CARS</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

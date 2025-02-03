@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Homeless Plight Protested in 3 Cities</title>
+    <meta content="7" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1988" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="107637"/>
+      <doc.copyright holder="The New York Times" year="1988"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">HOMELESS PERSONS</classifier>
+        <classifier class="indexing_service" type="descriptor">DEMONSTRATIONS AND RIOTS</classifier>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">PUBLIC HOUSING</classifier>
+        <location class="indexing_service">CHICAGO (ILL)</location>
+        <person class="indexing_service">JOHNSON, DIRK</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Illinois</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Midwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois/Chicago</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Illinois</classifier>
+        <classifier class="online_producer" type="general_descriptor">Homeless Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Demonstrations and Riots</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Public Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19880107T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=940DE3D7123DF934A35752C0A96E948260" item-length="833" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Homeless Plight Protested in 3 Cities</hl1>
+      </hedline>
+      <byline class="print_byline">By DIRK JOHNSON, Special to the New York Times</byline>
+      <byline class="normalized_byline">JOHNSON, DIRK</byline>
+      <dateline>CHICAGO, Jan. 6</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Not far from a public housing complex here that has hundreds of vacant units, 50-year-old Joe Thomas wanders the streets in the sub-zero wind. ''This weather could kill a man,'' Mr. Thomas, wearing a dirty, tattered scarf, said as he rummaged through a garbage can. ''But where's a guy gonna go?''</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Not far from a public housing complex here that has hundreds of vacant units, 50-year-old Joe Thomas wanders the streets in the sub-zero wind. ''This weather could kill a man,'' Mr. Thomas, wearing a dirty, tattered scarf, said as he rummaged through a garbage can. ''But where's a guy gonna go?''</p>
+        <p>Not far from a public housing complex here that has hundreds of vacant units, 50-year-old Joe Thomas wanders the streets in the sub-zero wind. ''This weather could kill a man,'' Mr. Thomas, wearing a dirty, tattered scarf, said as he rummaged through a garbage can. ''But where's a guy gonna go?''</p>
+        <p>Angered by the seeming paradox of people without homes and homes without people, a Chicago group representing the homeless seized control of empty units at the Henry Horner public housing project this week.</p>
+        <p>Protests in behalf of the homeless also erupted in Oakland, where the police arrested 17 demonstrators who broke into three boarded-up Victorian homes the city hopes to restore. And in Seattle, an organization that feeds the homeless said it postponed occupation of a vacant hotel Tuesday night after the group was evicted from its headquarters. The group had occupied another motel briefly last weekend, and several activists were arrested. Asking for Jail</p>
+        <p>''Why are people dying on the streets when there are perfectly good apartments available?'' asked Otis Thomas, president of the Chicago-Gary Area Union of the Homeless.</p>
+        <p>Guards chased away about 30 homeless men who had forced entry into vacant units at Horner. Several of the men asked police to arrest them, but no charges were filed. Two weeks ago, members of the group staged a similar demonstration, and today they vowed to return soon.</p>
+        <p>''If we go to jail,'' said Mr. Thomas, an unemployed truck driver's helper who has been homeless for about two years, ''we get three hots a day and a bed to call our own.''</p>
+        <p>Officials of the Chicago Housing Authority conceded that some 5,700 units in public housing remain vacant. The housing authority, which has been under attack from Federal officials for mismanagement, controls about 38,000 units, and pays vouchers for another 15,000.</p>
+        <p>But housing officials say the vacant units are not habitable and that people on long waiting lists have rights to the homes once they are fixed. Those repairs have been delayed by cash problems, officials said.</p>
+        <p>More than 4,000 people have been approved for public housing and are waiting for units to become habitable, officials of the housing authority said. Another 30,000 seeking housing are waiting to be approved. Better Than the Street?  ''It isn't that we're unsympathetic,'' said Jerome Van Gorkom, the housing authority's managing director. ''But these units are not livable. The toilets don't work or the stoves don't work. The windows are broken.'' But advocates of the homeless say the conditions can hardly be worse than living on the streets. In Chicago, five homeless people have died of exposure to the cold this winter. The wind chill factor here last night was about 50 degrees below zero.</p>
+        <p>''People say we're crazy out here on the streets,'' said Mr. Thomas. ''Well, what's crazy is sitting around and not doing anything about it. We're not going to give up. We've had enough.''</p>
+        <p>More than 25,000 people are homeless here, according to Patricia Blackburn, executive director of the Chicago Coalition for the Homeless. About 3,000 of the homeless stay in shelters and city-run warming centers.</p>
+        <p>''Everything is filled to capacity,'' said Ms. Blackburn. ''One shelter is turning away 38 or 39 people every night.'' Keys in Their Pockets</p>
+        <p>In Oakland, about 50 people marched to a neighborhood of unoccupied Victorian homes and broke down the doors of three of them with sledgehammers and crowbars. The protesters occupied one of the houses for more than two hours. The police arrested 17 people.</p>
+        <p>Capt. Larry Rodrigue said most of the demonstrators would be cited for misdemeanor trespass. ''Half of them had car keys and house keys in their pockets,'' he said. ''I don't think these people are exactly homeless.''</p>
+        <p>In Seattle, an advocacy group for the homeless said his group had been evicted because it had helped homeless people occupy an empty hotel.</p>
+        <p>''It was a direct retailiation for taking the building over,'' said Bob Willmott, director of Strand Helpers. Mr. Willmott said Strand Helpers has provided street people with 30,000 meals in the past 40 days. The group plans to move to another building for its kitchen, but needs 30 days to prepare it, he said. Trial Went Bad</p>
+        <p>In Chicago, housing officials recalled that vacant units were opened to the homeless in 1983 during brutal winter weather, but the experiment was deemed unsuccessful.</p>
+        <p>''It took weeks after the cold spell to get them out,'' said Mr. Van Gorkhom, of the housing authority. He said many of the units were vandalized in the meanwhile.</p>
+        <p>Moreover, he said, women with children represent most of the tenants in Henry Horner and other projects, and do not want large numbers of homeless men roaming about the buildings.</p>
+        <p>Nonetheless, many homeless squatters'' already live in the unoccupied units in public housing, Mr. Van Gorkom conceded.</p>
+        <p>''You're dealing with a group of people,'' he said, ''that basically has nothing to lose.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

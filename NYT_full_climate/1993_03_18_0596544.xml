@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Soggy Saga Of Freezes And Thaws</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="1993" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="7" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="596544"/>
+      <doc.copyright holder="The New York Times" year="1993"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">SNOW AND SNOWSTORMS</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <person class="indexing_service">HEVESI, DENNIS</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19930318T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F0CEFD71239F93BA25750C0A965958260" item-length="578" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Soggy Saga Of Freezes And Thaws</hl1>
+      </hedline>
+      <byline class="print_byline">By DENNIS HEVESI</byline>
+      <byline class="normalized_byline">HEVESI, DENNIS</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>With the Blizzard of '93 inching toward meltdown, a rain-soaked slop rose perilously close to galosh-top level at street corners throughout the metropolitan region yesterday. And making conditions even more unpleasant for pedestrians, the slush was turning back to ice last night as temperatures dipped below the freezing point.</p>
+        <p>Snow began falling in New York City last night about 7 P.M., but forecasters were not expecting significant accumulations. "It's just adding a little more snow cover to the lumps of snow we already have," said Thomas Grant, lead forecaster for the National Weather Service.</p>
+      </block>
+      <block class="full_text">
+        <p>With the Blizzard of '93 inching toward meltdown, a rain-soaked slop rose perilously close to galosh-top level at street corners throughout the metropolitan region yesterday. And making conditions even more unpleasant for pedestrians, the slush was turning back to ice last night as temperatures dipped below the freezing point.</p>
+        <p>Snow began falling in New York City last night about 7 P.M., but forecasters were not expecting significant accumulations. "It's just adding a little more snow cover to the lumps of snow we already have," said Thomas Grant, lead forecaster for the National Weather Service.</p>
+        <p>He predicted temperatures for today of between 25 and 34 degrees throughout the metropolitan region.</p>
+        <p>The forecast calls for another frigid day and then a warming trend for the weekend.</p>
+        <p>Like a faucet, the on-and-off chilling effect is expected to reduce the monumental build-up of snow by manageable increments, aiding snow removal during warmer periods but keeping flooding at bay. Easier for Plows</p>
+        <p>"You can just see over the course of the day that the volume of the snowbanks has diminished," New York City's Sanitation Commissioner, Emily Lloyd, said after yesterday's warm temperatures and rain. "And as it softens it gets easier for us to plow."</p>
+        <p>But continued warm temperatures would worry sewer keepers and those who keep an eye on the level of streams and rivers in New York, New Jersey and Connecticut.</p>
+        <p>"The irony is that what's good for Sanitation is bad for us," said the city's Commissioner of Environmental Protection, Albert F. Appleton. "For us, the big issue is catch basins, those grates at the corner. There's about 122,000 of them citywide, and our concern is that the thaw could happen so fast that they back up."</p>
+        <p>So, while another freeze may have pedestrians and drivers slip-sliding again today, it cheers those who have to worry about flood control.</p>
+        <p>"It's good in the sense that it should prevent the levels of streams and rivers from rising too fast," said Christopher Roberts, a spokesman for the Delaware River Basin Commission, which regulates a 13,000-square-mile area from which New York City gets half its water supply.</p>
+        <p>The possibility of an immediate and prolonged thaw is a serious concern. "There is already a small-stream flood watch for southeastern Pennsylvania," Mr. Roberts said. Concern About Flooding</p>
+        <p>Even before the blizzard, the snowpack in the mountains surrounding the east branch of the Delaware River averaged one to three feet.</p>
+        <p>"That's a lot," Mr. Roberts said, "and when you look at the additional snow, there's probably another two feet. That's good for water supplies, but when we get into the warmer temperatures and the spring thaw, or if we got heavy rains over three or four days, it certainly could create some serious flooding."</p>
+        <p>Lieut. Orrie DuBois, the emergency management coordinator for Wayne, N.J., shares those worries. "This is the type of scenario that sets up a major flood," he said. "And this will be a concern all the way to June."</p>
+        <p>To deal with the damage already done by the big storm, Gov. Mario M. Cuomo announced yesterday that he had formally asked President Clinton to declare an emergency in the state. Although no estimate of all the damage had been compiled, Mr. Cuomo said that just the cost of clearing away the snow would be $129 million.</p>
+        <p>"No area of the state was spared the effects of this storm," the Governor said in his letter to the President.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

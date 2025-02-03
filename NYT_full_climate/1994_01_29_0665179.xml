@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>With Winds of Change, a Quick Thaw</title>
+    <meta content="29" name="publication_day_of_month"/>
+    <meta content="1" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="25" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="665179"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOODS</classifier>
+        <classifier class="indexing_service" type="descriptor">ICE</classifier>
+        <location class="indexing_service">NEW YORK CITY METROPOLITAN AREA</location>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Ice</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19940129T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9F04EFD71739F93AA15752C0A962958260" item-length="248" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>With Winds of Change, a Quick Thaw</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>There was spring in the air yesterday but it was still clearly winter on the ground, a combination that meant floods.</p>
+        <p>The air temperature in Central Park was zero at the low point on Thursday and only 31 degrees when Friday began, but with a strong southerly wind, it soared to 55 degrees later in the day. The 55-degree gain in a day made a big difference to the people, but as Joseph C. Venuti, a meteorologist at the Penn State Weather Communcations Group, pointed out, "the ground itself is still frozen like a rock."  Melting Snow and Ice</p>
+        <p>With the warm, moisture-laden air converging here from the Gulf of Mexico and from over the Atlantic, the result was heavy rains falling on soil that would absorb nothing. Rain melting some of the ice and snow on the ground did not help much either.</p>
+      </block>
+      <block class="full_text">
+        <p>There was spring in the air yesterday but it was still clearly winter on the ground, a combination that meant floods.</p>
+        <p>The air temperature in Central Park was zero at the low point on Thursday and only 31 degrees when Friday began, but with a strong southerly wind, it soared to 55 degrees later in the day. The 55-degree gain in a day made a big difference to the people, but as Joseph C. Venuti, a meteorologist at the Penn State Weather Communcations Group, pointed out, "the ground itself is still frozen like a rock."  Melting Snow and Ice</p>
+        <p>With the warm, moisture-laden air converging here from the Gulf of Mexico and from over the Atlantic, the result was heavy rains falling on soil that would absorb nothing. Rain melting some of the ice and snow on the ground did not help much either.</p>
+        <p>Quick temperature swings do not come from air warming in place, but from air moving around, and in winter, there is plenty of cold air to the north and warm air to the south that is ready to reshuffle itself. "It's not totally abnormal, but it's been quite a few winters since we've had such an active pattern," Mr. Venuti said.  Unusual Timing</p>
+        <p>In fact, far faster and larger temperature swings have been recorded, he said, sometimes as much as 30 degrees in a single hour. Swings like yesterday's, however, normally happen early in the winter or near winter's end, he said.</p>
+        <p>But lately, Mr. Venuti said, "The weather's been so wacky, we're expecting everything."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

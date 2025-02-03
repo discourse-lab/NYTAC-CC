@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The Future at Indian Point</title>
+    <meta content="WE--IndianPt" name="slug"/>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Westchester Weekly Desk" name="dsk"/>
+    <meta content="17" name="print_page_number"/>
+    <meta content="14WC" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region; Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/12/03/opinion/WE_IndianPt.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1809102"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="Westchester"/>
+      <identified-content>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/Westchester</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Indian Point Nuclear Power Plant (NY)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Light</classifier>
+        <classifier class="online_producer" type="general_descriptor">Atomic Energy</classifier>
+        <classifier class="online_producer" type="general_descriptor">Accidents and Safety</classifier>
+        <classifier class="online_producer" type="general_descriptor">Electric Light and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <location class="online_producer">New York State</location>
+        <org class="online_producer">Entergy Nuclear</org>
+        <org class="online_producer">Entergy Corp</org>
+        <org class="online_producer">National Research Council</org>
+        <org class="online_producer">Nuclear Regulatory Commission</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20061203T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A07E1DF1E3EF930A35751C1A9609C8B63" item-length="513" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The Future at Indian Point</hl1>
+        <hl2 class="online_headline">The Future at Indian Point</hl2>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Somewhere between heaven and hell lies the Indian Point nuclear plant, whose owners have run numbingly insistent advertising spots for years declaring it a ''safe, secure, vital'' energy panacea for the region. That is one view. Another, persistently offered by the plant's critics, is that the plant is an immediate threat to the safety and health of millions. The old debate took a new turn recently when the Indian Point operator, Entergy Nuclear Northeast, announced that it would seek a 20-year renewal of its operating licenses, which expire at the two reactors in Buchanan in 2013 and 2015.</p>
+        <p>The anti-Indian Point side of the argument has some clear points on its side. The edge of the Hudson River in Westchester County, so close to so many millions of people, is a terrible place to put a nuclear plant. There is serious doubt that residents could be effectively evacuated after an accident, an issue that has taken on new resonance since 9/11. Although Entergy says it has tightened security, critics still argue that the company and federal regulators have not done enough to guard against terrorist attacks and sabotage. The plant is aging, it leaks tritium, strontium and other noxious substances into local groundwater, and its sirens are prone to failure. Its managers have a history of overlooking their responsibility to notify the public promptly about embarrassing mishaps.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As Indian Point comes up for renewal, it’s time to consider what balance of risks, convenience and cost is best for the highly populated area it resides in and serves.</p>
+      </block>
+      <block class="full_text">
+        <p>Somewhere between heaven and hell lies the Indian Point nuclear plant, whose owners have run numbingly insistent advertising spots for years declaring it a ''safe, secure, vital'' energy panacea for the region. That is one view. Another, persistently offered by the plant's critics, is that the plant is an immediate threat to the safety and health of millions. The old debate took a new turn recently when the Indian Point operator, Entergy Nuclear Northeast, announced that it would seek a 20-year renewal of its operating licenses, which expire at the two reactors in Buchanan in 2013 and 2015.</p>
+        <p>The anti-Indian Point side of the argument has some clear points on its side. The edge of the Hudson River in Westchester County, so close to so many millions of people, is a terrible place to put a nuclear plant. There is serious doubt that residents could be effectively evacuated after an accident, an issue that has taken on new resonance since 9/11. Although Entergy says it has tightened security, critics still argue that the company and federal regulators have not done enough to guard against terrorist attacks and sabotage. The plant is aging, it leaks tritium, strontium and other noxious substances into local groundwater, and its sirens are prone to failure. Its managers have a history of overlooking their responsibility to notify the public promptly about embarrassing mishaps.</p>
+        <p>The plant's case is basically one very big point: Indian Point is in place, and producing a large amount of much-needed energy. A recent National Research Council study found that the region's growing need for energy and the many obstacles to building new and relatively clean power sources would make replacing it very difficult.</p>
+        <p>Shutting Indian Point -- which produces about 30 percent of the region's current energy demand -- would make electricity more expensive. It would also put a heavy burden on the Regional Greenhouse Gas Initiative, a groundbreaking agreement among Northeast and mid-Atlantic states to limit carbon emissions. And if Indian Point closed, spent nuclear fuel could sit for many years at the decommissioned plant, for lack of any other place to put it.</p>
+        <p>The most important question facing the Nuclear Regulatory Commission, elected officials and area residents is whether it makes any sense to relicense a nuclear plant in a highly populated area from which swift evacuation is so problematic. The other critical issue is whether the age of the reactors, which date to the mid-1970s, should be a concern. As these reactors begin their fourth decade they may, like an old car, be more prone to breakdown. Faulty parts can be replaced, but it is worth asking whether the plant as a whole will remain safe through the end of its next licensing period.</p>
+        <p>Living in the New York metropolitan region requires a constant balancing of risks, convenience and cost. Individuals, communities and governments come up with different answers as to whether it makes sense to live near a chemical plant, guard a reservoir or ride in a subway. As Indian Point comes up for renewal, it's time to find that balance once again.</p>
+        <p>Westchester</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

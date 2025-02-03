@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New High School Is a Study in Green</title>
+    <meta content="27" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1994" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="The City Weekly Desk" name="dsk"/>
+    <meta content="6" name="print_page_number"/>
+    <meta content="13" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Education; New York and Region" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="727934"/>
+      <doc.copyright holder="The New York Times" year="1994"/>
+      <series series.name="NEIGHBORHOOD REPORT: MIDTOWN"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">ENVIRONMENT</classifier>
+        <location class="indexing_service">NEW YORK CITY</location>
+        <org class="indexing_service">HIGH SCHOOL FOR ENVIRONMENTAL STUDIES (NYC)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region/The City</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19941127T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9506E5D61430F934A15752C1A962958260" item-length="397" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New High School Is a Study in Green</hl1>
+      </hedline>
+      <byline class="print_byline">By BRUCE LAMBERT</byline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>From the composting of cafeteria waste in the basement to the roofing made of recycled tires, the High School for Environmental Studies is living up to its name.</p>
+        <p>The school, which started at the old Stuyvesant High in 1992, moved this fall to its permanent home in a three-building complex at 444 West 56th Street. Practicing what it teaches, the school set an earth-friendly example in designing the $23 million renovation of the buildings, formerly a 20th Century Fox studio and headquarters.</p>
+      </block>
+      <block class="full_text">
+        <p>From the composting of cafeteria waste in the basement to the roofing made of recycled tires, the High School for Environmental Studies is living up to its name.</p>
+        <p>The school, which started at the old Stuyvesant High in 1992, moved this fall to its permanent home in a three-building complex at 444 West 56th Street. Practicing what it teaches, the school set an earth-friendly example in designing the $23 million renovation of the buildings, formerly a 20th Century Fox studio and headquarters.</p>
+        <p>The newly installed environmental features were conceived as a model for school construction and as a case study for its students. It was designed and built by the related MBA Municipal, Meli-Borrelli Associates and John Borrelli companies.</p>
+        <p>The school, which expects to reach full enrollment of 900 next fall, teaches special topics like environmental law, environmental health, marine biology, botany and horticulture, as well as standard courses.</p>
+        <p>Academic and extracurricular activities include testing Hudson River water for pollution, rock climbing, work with the Central Park Conservancy, a community garden in the Bronx and field trips to places like Alaska, Lithuania and Baja, Calif.</p>
+        <p>"People hear about the things we have and are quite amazed," said the principal, Alexander Corbluth. B.L. What Makes a Building Sensitive?</p>
+        <p>The environmentally sensitive features of the new building of the High School for Environmental Studies include the following.  * Indoor wall panels made of recycled newspapers</p>
+        <p>* Ceiling tiles manufactured from processed seaweed * Energy-saving lights * Water-saving plumbing fixtures * Zoned heating and cooling with computerized controls * Insulating double-pane windows * Roofing composed of recycled rubber tires * Skylights for the gymnasium (3d floor of building on 55th Street side of complex) * A greenhouse atrium on the 6th floor (east side of roof) * A rooftop garden in planters made of recycled water-tower redwood with trees and other plants planned for the spring (west side of roof) * Recycling bins ordered for the basement for paper, cans and glass * Composting center planned in the basement * Weather-monitoring instruments on the roof (mid-building) * Room with special climate controls for raising animals (6th floor) * Dishwashers for permanent rather than disposable plates (4th floor)  NEIGHBORHOOD REPORT: MIDTOWN</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

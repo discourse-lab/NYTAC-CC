@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Q&amp;A</title>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1989" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="8" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="223262"/>
+      <doc.copyright holder="The New York Times" year="1989"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terms not available</classifier>
+        <classifier class="online_producer" type="types_of_material">Question</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Columns/Q and A</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19890214T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=950DEEDD163FF937A25751C0A96F948260" item-length="357" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Q&amp;A</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD:  Q. What happens when you crack your knuckles? Does it cause arthritis?  A.The bones and the series of ligaments that form the knuckles and many other joints have a little elasticity, said Dr. Robert L. Swezey, director of the Arthritis and Back Pain Center in Santa Monica, Calif.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD:  Q. What happens when you crack your knuckles? Does it cause arthritis?  A.The bones and the series of ligaments that form the knuckles and many other joints have a little elasticity, said Dr. Robert L. Swezey, director of the Arthritis and Back Pain Center in Santa Monica, Calif.</p>
+        <p>Q. What happens when you crack your knuckles? Does it cause arthritis?  A.The bones and the series of ligaments that form the knuckles and many other joints have a little elasticity, said Dr. Robert L. Swezey, director of the Arthritis and Back Pain Center in Santa Monica, Calif.</p>
+        <p>''What basically happens is that you separate the two bones by pulling or bending,'' he said. ''This abruptly creates a space between the bones, a vacuum. Then the fluids normally present in the surrounding tissues rush into that space with the sound of a tiny explosion.''</p>
+        <p>The fluid is gradually reabsorbed, so there is a time lag before that joint can be cracked again, he said.</p>
+        <p>''Knuckle cracking is apparently innocuous except for being obnoxious,'' he said, and the joint that is usually cracked, the one between the hand and the finger, is typically spared from wear-and-tear arthritis, or ostearthritis.  Q. What is wind? Where does it get its energy?  A. Wind is any motion of the atmosphere relative to the surface of the Earth. Since the volume of the atmosphere remains about the same, any movement of air in one direction must be offset by a return current. All such movements are basically powered by thermal convection because of the heat of the Sun.</p>
+        <p>For example, the Sun warms the spherical Earth more at the Equator than at the poles, explained Edward O'Lenic, a research meteorologist in the prediction branch of the climate analysis center of the National Weather Service. This uneven warming creates a temperature difference, or gradient.</p>
+        <p>''What the atmosphere does is to try to equalize the temperature gradient,'' he said. As the warm tropical air rises, the cold air from the poles moves toward the Equator to replace it.</p>
+        <p>''If there were no Sun heating the Earth, the temperature of the surface of the Earth would be the same every place at all times, and the atmosphere would rotate at exactly same speed as the surface of Earth,'' he said.</p>
+        <p>The global wind picture is immensely complicated by friction with the rotating Earth, placement of continents relative to the ocean and a host of other factors, he said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>A Dirty Little Footnote to the Energy Bill</title>
+    <meta content="15POLL$09" name="slug"/>
+    <meta content="15" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="2005" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2005/04/15/business/15pollute.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1665102"/>
+      <doc.copyright holder="The New York Times" year="2005"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Methyl Tertiary Butyl Ether</classifier>
+        <classifier class="indexing_service" type="descriptor">Law and Legislation</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="indexing_service" type="descriptor">Chemicals</classifier>
+        <location class="indexing_service">United States</location>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <person class="indexing_service">Delay, Tom (Rep)</person>
+        <person class="indexing_service">Barton, Joe L (Rep)</person>
+        <person class="indexing_service">Barrionuevo, Alexei</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Southwest</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Legal</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hazardous and Toxic Substances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Law and Legislation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20050415T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9A0DE6DD113EF936A25757C0A9639C8B63" item-length="1664" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>A Dirty Little Footnote to the Energy Bill</hl1>
+        <hl2 class="online_headline">A Dirty Little Footnote to the Energy Bill</hl2>
+      </hedline>
+      <byline class="print_byline">By ALEXEI BARRIONUEVO</byline>
+      <byline class="normalized_byline">Barrionuevo, Alexei</byline>
+      <dateline>WOODBURY, Conn., April 12</dateline>
+      <abstract>
+        <p>Issue of testing for and finding methyl tertiary butyl ether in groundwater and paying for cleanup is becoming increasingly contentious; if oil and chemical companies have their way, majority of lawsuits will be thrown out by Congress as part of energy bill backed by Bush administration; bill includes waiver that would protect chemical makers, which are some of biggest oil giants in US, from all MTBE liability lawsuits filed since September 2003; House majority leader, Tom DeLay, and Rep Joe L Barton, who heads Energy and Commerce Committee, are staunch supporters of waiver; both are Republicans from Texas, where more than dozen MTBE manufacturers are based; protection is expected to survive House floor vote, but fight looms in Senate, which blocked passage in 2003 largely because of waiver; map; graph (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A freshly painted, six-foot-high steel tank is this rural town's hope for cleaning up a smelly gasoline additive that is fouling its water system. The additive, methyl tertiary butyl ether, has seeped into two of three wells that supply water for 2,000 residents.</p>
+        <p>In a few weeks, the carbon filtration system housed by the tank will begin treating the well water. The water company plans to expand treatment to a reserve well, 1,000 feet away, where the level of the chemical tested last September at more than twice the federal recommended limit. The filtration unit is expected to cost about $1 million the first year and $250,000 to operate each year afterward, said Rich Henning, a spokesman for United Water, a private company that supplies Woodbury and three other communities in Connecticut.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>As hundreds of communities from coast to coast are finding a gasoline additive in their water systems, the issue of paying for cleanup is becoming contentious.</p>
+      </block>
+      <block class="full_text">
+        <p>A freshly painted, six-foot-high steel tank is this rural town's hope for cleaning up a smelly gasoline additive that is fouling its water system. The additive, methyl tertiary butyl ether, has seeped into two of three wells that supply water for 2,000 residents.</p>
+        <p>In a few weeks, the carbon filtration system housed by the tank will begin treating the well water. The water company plans to expand treatment to a reserve well, 1,000 feet away, where the level of the chemical tested last September at more than twice the federal recommended limit. The filtration unit is expected to cost about $1 million the first year and $250,000 to operate each year afterward, said Rich Henning, a spokesman for United Water, a private company that supplies Woodbury and three other communities in Connecticut.</p>
+        <p>The question is who will pay for the cleanup. United Water, a subsidiary of Suez S.A., has sued the manufacturers of MTBE to recover its costs. And as hundreds of communities from coast to coast are finding the additive in their water systems, the issue of paying for the cleanup is becoming increasingly contentious.</p>
+        <p>If oil and chemical companies have their way, a majority of lawsuits like United Water's will be thrown out by Congress as part of the energy bill backed by the Bush administration. The bill, which won easy approval from the House Energy and Commerce Committee late Wednesday, includes a waiver that would protect the chemical makers, which are some of the biggest oil giants in the United States, from all MTBE liability lawsuits filed since September 2003.</p>
+        <p>The House majority leader, Tom DeLay, and Representative Joe L. Barton, who heads the Energy and Commerce Committee, are staunch supporters of the waiver. Both are Republicans from Texas, where more than a dozen MTBE manufacturers are based.</p>
+        <p>While the protection is expected to survive a House floor vote later this month, the big fight looms in the Senate, which blocked passage in 2003 largely because of the waiver.</p>
+        <p>Mr. Barton said an energy bill, even one containing the controversial waiver, has a better chance of passing this time because of Congress's frustration with gasoline prices. But the Senate Energy and Natural Resources Committee seems no more inclined to support MTBE protection now. ''For a lot of senators this is a deal-breaker issue that would prompt them to vote down again an energy bill that they would otherwise support,'' said Marnie Funk, the committee spokeswoman.</p>
+        <p>The oil industry is not backing down, either. ''The MTBE waiver issue is Priority 1, 2 and 3 for the refining industry,'' said Lawrence J. Goldstein, president of the Petroleum Industry Research Foundation in New York. ''Without it they aren't going to get behind the energy bill.''</p>
+        <p>Mr. Henning sees a painful paradox in the situation. Nearly two decades ago, the oil companies were asked to find a gasoline additive that would help cut air pollution. ''They were attempting to do the right thing,'' he said. ''But they left an oil spill, an invisible oil spill under the ground. Now they are trying to hide behind Congress rather than deal with the issue.''</p>
+        <p>MTBE is made by blending methanol and a byproduct of gasoline refining, and has been in use since 1979, originally as a replacement for lead to raise gasoline octane ratings. Since 1990, it has been used in gasoline as an oxygenate, or oxygen enhancer, that reduces carbon monoxide emissions from cars.</p>
+        <p>MTBE dissolves easily in water and does not readily cling to soil, so it moves faster and farther in the ground than other gasoline components. This makes it more likely to seep into water supplies. With its powerful turpentine-like taste and odor, MTBE makes water undrinkable.</p>
+        <p>Contamination usually results from leaks in underground storage tanks at gasoline stations. So far, there is no consensus on the amount of MTBE deemed safe for consumption, with regulators in California advising against water containing more than 5 parts per billion and the Environmental Protection Agency allowing 40 parts per billion. Lyondell Chemical, the largest MTBE manufacturer, said in a 2003 product safety bulletin that even less than one part per billion imparted a ''distasteful odor and taste'' to groundwater that could make it ''unsuitable for consumption.''</p>
+        <p>Based on one study on laboratory rats, the E.P.A. has concluded that MTBE is a ''potential human carcinogen at high doses.'' But there is no conclusive evidence on health risks for low doses. California, New York and 15 other states have banned MTBE, and the E.P.A. has taken preliminary steps to ban it nationally. Corn-based ethanol is replacing MTBE in gasoline in those states that have enacted bans.</p>
+        <p>Opponents of the liability waiver, including environmental groups, public water associations and municipalities, have been gearing up for this year's fight. They hired a powerful Washington law firm, Patton Boggs, to lobby against the waiver and they compiled new data that show that MTBE is showing up in more water systems across the country.</p>
+        <p>According to the survey by the Environmental Working Group, an environmental research firm based in Washington, MTBE has been detected in 1,861 water systems in 29 states, serving more than 45 million Americans. This is up from about 1,500 systems in 19 states in November 2003.</p>
+        <p>The group, which is financed by private foundations and some law firms, including some behind many of the MTBE lawsuits, said the chemical has been found in the water of 113 House districts whose representatives voted for the energy bill and the waiver in 2003.</p>
+        <p>Much of the increased detection comes in New Jersey, where state officials have found that MTBE has seeped into 430 water systems serving 4.8 million people, according to the environmental group.</p>
+        <p>In the House, 21 Republicans and 5 Democrats who voted in 2003 for the energy bill and MTBE liability waiver would be voting to doom 38 new lawsuits filed by community water systems in the districts they represent. The total number of lawsuits is now 75.</p>
+        <p>''If members of Congress vote in the interests of their constituents, the big oil companies will be held responsible for their actions,'' said Representative Henry A. Waxman, a California Democrat on the Energy and Commerce Committee. ''However, for this to happen, rank-and-file Republicans will have to stand up to Tom DeLay. It's not clear that they are willing to do that.''</p>
+        <p>Mr. Barton said he was unconvinced that MTBE was a growing national problem and said it was being unfairly maligned in the suits. ''I will never agree that MTBE is defective,'' he said. ''If there is a compromise position that doesn't open MTBE manufacturers, distributors and users to automatic defective product liability, we will look at it.'' MTBE producers, including Exxon Mobil, based in Irving, Tex., and Lyondell, based in Houston, characterize the MTBE litigation as a tactic by plaintiffs' lawyers seeking deep pockets for the cleanups. Just three firms, including Baron &amp; Budd of Dallas, which wrested hundreds of millions of dollars in asbestos settlements from oil companies, have organized nearly all the MTBE lawsuits.</p>
+        <p>The producers argue that they made MTBE in large quantities because Congress mandated in 1990 that refiners use some form of oxygenate, though not necessarily MTBE. While ethanol was also available, oil companies chose to use MTBE because it was easier to transport and more easily produced in the same refineries where they were making gasoline.</p>
+        <p>Protection from liability, the energy companies argue, would not prevent water districts from suing the people who own or operate the gasoline stations where most of the contamination is occurring through leaking underground storage tanks. ''Oil companies are not trying to escape their responsibility,'' said Peter Sacripanti, the lead outside counsel on MTBE cases for Exxon Mobil.</p>
+        <p>But opponents of the waiver do not view that as realistic. Oil and chemical companies own relatively few gasoline stations. Most stations are run by independent franchisees, who may not be able to pay for large cleanups. Gasoline station owners are likely to plead ignorance about MTBE's propensity to seep, plaintiffs' lawyers say, since they rely on refiners to sell them the gasoline that they then sell to consumers.</p>
+        <p>Courts sided against MTBE producers in two California settlements that put the big producers on edge. In 2002, seven companies, including ChevronTexaco and Lyondell, settled for $69 million to clean up MTBE in South Lake Tahoe, Calif. Then in 2003, 18 companies, including Exxon Mobil and Shell, settled a suit brought by Santa Monica, Calif., agreeing to spend at least $200 million on a filtration system to remove MTBE from the city's water.</p>
+        <p>Support in the House for legal protection unraveled in 2003, when documents used in the Santa Monica case surfaced showing that companies had lobbied for the chemical's adoption as a gasoline additive and knew in the early 1980's that MTBE was a potential water pollutant.</p>
+        <p>The MTBE waiver would be devastating for United Water, which filed lawsuits claiming MTBE was detected in three states -- Connecticut, New York and New Jersey -- where it serves about 300,000 people.</p>
+        <p>''We don't have all the answers for what the future potential for MTBE contamination is,'' Mr. Henning said. ''But it could be a long, expensive road.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

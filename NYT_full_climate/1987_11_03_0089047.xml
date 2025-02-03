@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Sewage Project Could Turn Waste Into Profit</title>
+    <meta content="3" name="publication_day_of_month"/>
+    <meta content="11" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="5" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="89047"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WATER POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">RESEARCH</classifier>
+        <classifier class="indexing_service" type="descriptor">METHANE</classifier>
+        <classifier class="indexing_service" type="descriptor">FLOWERS AND PLANTS</classifier>
+        <classifier class="indexing_service" type="descriptor">BACTERIA</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <org class="indexing_service">CORNELL UNIVERSITY</org>
+        <person class="indexing_service">BRODY, JANE E</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Flowers and Plants</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Bacteria</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19871103T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE5DC1739F930A35752C1A961948260" item-length="1211" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Sewage Project Could Turn Waste Into Profit</hl1>
+      </hedline>
+      <byline class="print_byline">By JANE E. BRODY</byline>
+      <byline class="normalized_byline">BRODY, JANE E</byline>
+      <dateline>ITHACA, N.Y.</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: AGRICULTURAL engineers at Cornell University have devised a new system for treating sewage that can produce reservoir-quality water at little or no cost, according to researchers here.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: AGRICULTURAL engineers at Cornell University have devised a new system for treating sewage that can produce reservoir-quality water at little or no cost, according to researchers here.</p>
+        <p>AGRICULTURAL engineers at Cornell University have devised a new system for treating sewage that can produce reservoir-quality water at little or no cost, according to researchers here.</p>
+        <p>By using an unusual bacterial technique to filter out heavy pollutants and then growing plants on the partially cleansed waste water, the Cornell system produce such commercial products as natural gas and nursery plants and trees while it cleans the water.</p>
+        <p>''The present American concept is 'dilution as a solution to pollution,' '' the head researcher, Dr. William J. Jewell, said in an interview here. ''We don't think we can continue to live with this principle. We want a system that converts unwanted material into something useful, a system that has the potential to pay for itself.''</p>
+        <p>If the initial studies here prove practical on a large scale, communities may even be able to turn a profit from sewage treatment, Dr. Jewell said. In the Cornell system, plants are grown hydroponically, in nutrient-rich solution rather than soil. Unlike other experimental waste water treatments using such hydroponic plants, Dr. Jewell said, the Cornell system produces no sludge or other waste matter.</p>
+        <p>There are about two dozen commercial treatment systems using hydroponic plants now operating in the United States, most of them in the South where the warmer climate is more conducive to the plant growth. All produce a great deal of sludge and none uses an efficient bacterial filter to partially clean the water first, which then allows the growth of far more useful plants. The bacteria in the Cornell system produce large amounts of commercially useful gas, which other systems do not.</p>
+        <p>Jim Basilico, a scientist with the Environmental Protection Agency in Washington said the project had ''the potential for a low-cost, low-energy process'' that could benefit many cities.</p>
+        <p>''If it can be done in a northern climate like New York State, it can be done anywhere,'' said Mr. Basilico, chief of the agency's water and toxic pesticides research division.</p>
+        <p>In a pilot project that began last summer at Ithaca's municipal sewage treatment plant, cattails are now flourishing, nourished only by the nutrients in bacterially filtered waste water. The fast-growing plants can then be digested by the same bacteria to produce methane, the chief component of natural gas. These bacteria also generate humus that can be used for turf or topsoil. Thriving on Solar Energy</p>
+        <p>''In energy value alone, not counting profits from plants grown for plantings or animal feed, we figure that the sewage from a community of 10,000 could generate $400,000 a year,'' said Dr. Jewell, an agricultural engineer at the New York State College of Agriculture and Life Sciences at Cornell. Furthermore, the pilot studies indicate that, even without the profitable products, the cost of sewage treatment with the new experimental system is less than the cost of conventional treatment.</p>
+        <p>The Ithaca studies are sponsored by the Gas Research Institute in Chicago and the New York State Energy Research and Development Authority. The pilot plant, which will operate for two years, handles about 10,000 gallons of sewage a day, about what would be produced by 100 people.</p>
+        <p>Cattails were chosen for the experiment, he said, because they can thrive on solar energy in low-cost plastic greenhouses all year almost anywhere in the country. They could be used as fuel, in construction, as packaging material and as food for animals.</p>
+        <p>Dr. Jewell said that other hydroponic waste water treatment studies elsewhere in the country used ''trash plants'' like water hyacinths that can grow in highly polluted water. Although they can be used to generate energy, they also leave a lot of sludge and will only grow in warm areas.</p>
+        <p>''Almost every kind of plant seems to like the nutrient-rich waste water in our system - trees, roses, shrubs, geraniums, chrysanthemums, grasses and reeds,'' he said. Food crops, like tomatoes and wheat, also can grow in the waste water, but Dr. Jewell said that to prevent the spread of harmful microbes the water would have to be disinfected and the resulting crops monitored. Plants for Pharmaceuticals</p>
+        <p>He said he could foresee a community's sewage plant being a plentiful source of plants and tree seedlings for its parks. Or the sewage facility could grow plants hydroponically for commercial nurseries.</p>
+        <p>''If just one third of the treatment system were devoted to propagating nursery plants, we would definitely have a profitable operation,'' Dr. Jewell said. He added that the waste water could also be used to grow plants that are sources of pharmaceuticals. Or plants grown on the waste water could be bacterially digested to produce alcohol.</p>
+        <p>Dr. Jewell's interest in a hydroponic sewage treatment system was triggered by a General Electric project in the mid-1970's in which tomatoes were grown without soil in an environmentally controlled greenhouse illuminated by the company's plant lights. The tomatoes, which were marketed in mid-winter, ''tasted just like they'd come from a summer garden,'' he said.</p>
+        <p>''What I saw was state-of-the-art hydroponics in which a thin nutrient film flowed over an impermeable surface,'' he recalled. ''The water runs through the roots of the plants, which grow on the water-tight surface. Immediately I thought of using solar power instead of electric lights and replacing the fertilized tap water with nutrient-rich waste water.'' Reducing the Pollutants</p>
+        <p>But first Dr. Jewell needed a way of reducing the amount of dissolved and suspended pollutants in the waste water. Although some hardy plants will grow even in sludge or mud without much oxygen, he explained, the components of sewage are toxic to some plants.</p>
+        <p>He devised a first-stage biological treatment system that removes ''as much sludge, soluble organics and suspended solids as possible'' before using the water to grow plants. In the process, which has been patented by Cornell, anaerobic bacteria are attached to small particles of pulverized corncobs, which are then suspended in the waste water. These bacteria, which grow in the absence of oxygen, are very slow-growing and thus do not accumulate in the system. However, they rapidly convert soluble organic materials in the waste water into methane gas.</p>
+        <p>''Currently,'' Dr. Jewell said, ''most sewage treatment systems use aerobic bacteria and a large amount of energy for first-stage treatment and end up with a lot of sludge.'' He said it costs the nation about half a billion dollars a year just to aerate sewage so that aerobic bacteria, which depend upon oxygen, can remove some of the organic material.</p>
+        <p>In the Cornell system, the initial treatment gets rid of most of the suspended solids and some of the toxic materials in waste water, which is then ready for hydroponic agriculture. The hydroponically grown plants remove nutrients and most of the remaining pollutants in the water. To produce drinking water, a third step would be needed to remove remaining pollutants.</p>
+        <p>''It takes only a few hours to turn grossly polluted sewage into highly purified water,'' Dr. Jewell said. ''The quality of water produced by this system exceeds that achieved by conventional sewage treatment facilities.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

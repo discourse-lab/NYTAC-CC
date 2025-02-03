@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>The World; Jockeying For Pole Position</title>
+    <meta content="10REVK" name="slug"/>
+    <meta content="10" name="publication_day_of_month"/>
+    <meta content="10" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Week in Review Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="4" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Washington; Week in Review" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/10/10/weekinreview/10revk.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1618176"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Arctic Regions</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Oil (Petroleum) And Gasoline</classifier>
+        <classifier class="indexing_service" type="descriptor">Gas (Fuel)</classifier>
+        <classifier class="indexing_service" type="descriptor">Law of the Sea (Un Convention)</classifier>
+        <location class="indexing_service">Denmark</location>
+        <location class="indexing_service">Greenland</location>
+        <location class="indexing_service">Lomonosov Ridge (Arctic Ocean)</location>
+        <location class="indexing_service">Russia</location>
+        <location class="indexing_service">Norway</location>
+        <location class="indexing_service">Canada</location>
+        <person class="indexing_service">Revkin, Andrew C</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Week in Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Denmark</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Norway</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Greenland</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Gas (Fuel)</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Energy and Power</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20041010T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9405E3D6123BF933A25753C1A9629C8B63" item-length="570" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>The World; Jockeying For Pole Position</hl1>
+        <hl2 class="online_headline">Jockeying for Pole Position</hl2>
+      </hedline>
+      <byline class="print_byline">By ANDREW C. REVKIN</byline>
+      <byline class="normalized_byline">Revkin, Andrew C</byline>
+      <abstract>
+        <p>Denmark hopes to prove that Greenland, its northernmost territory, and North Pole are linked by underwater mountain range called Lomonosov Ridge; other claimants to Arctic area include Russia, Norway and Canada; US also may make claim; hundreds of miles of seabed, territory that may contain oil and natural gas reserves, are at stake; battle for control of Arctic has accelerated in part because in 1999, parties to UN Convention on Law of Sea set 10-year deadline for staking claims; map (M)/</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>FOR an imaginary point in the midst of an ice-capped sea, the North Pole is a surprisingly hot piece of real estate.</p>
+        <p>Earlier this month, the Danish government described a $25 million surveying project aimed at expanding the country's territorial waters -- possibly to the very top of the world.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>For an imaginary point in the midst of an ice-capped sea, the North Pole is a surprisingly hot piece of real estate.</p>
+      </block>
+      <block class="full_text">
+        <p>FOR an imaginary point in the midst of an ice-capped sea, the North Pole is a surprisingly hot piece of real estate.</p>
+        <p>Earlier this month, the Danish government described a $25 million surveying project aimed at expanding the country's territorial waters -- possibly to the very top of the world.</p>
+        <p>The Danes hope to show that their northernmost bit of turf, the vast ice heap called Greenland, which is 420 miles from the pole, is geologically linked to an underwater mountain range called the Lomonosov Ridge. The ridge bisects the Arctic Ocean almost directly under the pole.</p>
+        <p>They could then argue that the polar region is a natural extension of Greenland, which, under a murky clause in the United Nations Convention on the Law of the Sea, could mean that the marine resources and the seabed under and around the pole belong to Denmark.</p>
+        <p>But not so fast. Nearly three years ago, Russia submitted a treaty claim to almost half of the Arctic Ocean, including part of the area around the pole, based in part on its contention that the far end of the very same ridge was an extension of Siberia.</p>
+        <p>Norway, Canada and the United States, the other nations with Arctic Ocean coasts, dispute these claims and are getting into the surveying game as well.</p>
+        <p>What is at stake is not tax revenue generated by Santa's workshop or the tourist camps erected on the floating polar ice each spring, but hundreds of miles of seabed two miles down -- territory that may contain oil and natural gas reserves.</p>
+        <p>The other resource is simply open water. The Northwest Passage over Canada is more famous, but the Northeast Passage over the shoulders of Russia is the one that could, if clear of ice, cut shipping distances between Europe and Asia nearly in half, at least in the summer.</p>
+        <p>The battle for control of the Arctic has accelerated in part because, in 1999, parties to the United Nations convention set a 10-year deadline for staking claims -- a time limit that began either in that year or the year in which a country ratifies the pact, whichever comes later.</p>
+        <p>The Danes, for one, say they plan to ratify the treaty this year. And last February the Senate Foreign Relations Committee voted 19 to 0 to send a ratification proposal, supported by industry, the Bush administration and the Pentagon, to the full Senate for consideration, though some conservatives still oppose it.</p>
+        <p>The other reason the issue is intensifying is that the Arctic's ice cloak, eroding in a warming climate, continues to retreat at a pace not seen in decades.</p>
+        <p>Those hypothetical sea routes are already nearly free of summer ice, and open water would allow the seismic testing, thumping and drilling of the seabed to begin.</p>
+        <p>And the polar thaw continues. On Monday, American scientists tracking the changes reported that the ice pulled back last month 13.4 percent beyond the long-term average for September. The newly exposed waters covered an area twice the size of Texas.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

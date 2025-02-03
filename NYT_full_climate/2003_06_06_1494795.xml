@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New I.B.M. Supercomputer To Begin Its Weather Work</title>
+    <meta content="Y06SUPE" name="slug"/>
+    <meta content="6" name="publication_day_of_month"/>
+    <meta content="6" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="4" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/06/06/technology/06SUPE.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1494795"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="TECHNOLOGY"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Supercomputers</classifier>
+        <location class="indexing_service">Japan</location>
+        <org class="indexing_service">International Business Machines Corp</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Japan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology/John Markoff</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Japan</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">International Business Machines Corporation</org>
+        <org class="online_producer">National Weather Service</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030606T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E3D91F30F935A35755C0A9659C8B63" item-length="374" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New I.B.M. Supercomputer To Begin Its Weather Work</hl1>
+        <hl2 class="online_headline">New I.B.M. Supercomputer to Begin Its Weather Work</hl2>
+      </hedline>
+      <byline class="print_byline">By JOHN MARKOFF</byline>
+      <abstract>
+        <p>IBM reports that nation's most powerful supercomputer for weather forecasting is scheduled to go online June 6; machine may eventually rival Japanese Earth Simulator as world's fastest supercomputer (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The nation's most powerful supercomputer for weather forecasting is scheduled to go online today, I.B.M. said yesterday, a machine that may eventually rival the Japanese Earth Simulator as the world's fastest supercomputer.</p>
+        <p>The new computer, with a theoretical peak computing power of 7.3 trillion operations a second, is expected to be enhanced over the next few years, and it may reach speeds up to 100 trillion operations a second by 2009, I.B.M. said.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The nation's most powerful supercomputer for weather forecasting is scheduled to go online.</p>
+      </block>
+      <block class="full_text">
+        <p>The nation's most powerful supercomputer for weather forecasting is scheduled to go online today, I.B.M. said yesterday, a machine that may eventually rival the Japanese Earth Simulator as the world's fastest supercomputer.</p>
+        <p>The new computer, with a theoretical peak computing power of 7.3 trillion operations a second, is expected to be enhanced over the next few years, and it may reach speeds up to 100 trillion operations a second by 2009, I.B.M. said.</p>
+        <p>It ranks third in the United States in speed, behind two Hewlett-Packard machines at Los Alamos National Laboratories in New Mexico.</p>
+        <p>The federal government will use the new computer to improve the accuracy of weather forecasts, particularly to help predict the path of hurricanes three to five days in advance, providing additional time to prepare for the storms.</p>
+        <p>The Earth Simulator, financed by the Japanese government, was installed in Yokohama, west of Tokyo, at a cost of $350 million to $400 million. It is capable of 35.8 trillion operations a second.</p>
+        <p>The National Weather Service plans to spend more than $200 million on the I.B.M. system, which is now composed of 1,408 processors arranged in a cluster of 44 interconnected systems. The system, which is housed in an I.B.M. computing center in Gaithersburg, Md., will be constantly expanding.</p>
+        <p>It will be used to produce weather forecasts for the National Weather Services National Centers for Environmental Prediction. Those forecasts are used as the basis for television and newspaper forecasts.</p>
+        <p>The machine will also perform a smaller amount of climate research. It is capable of roughly the same performance as a machine I.B.M. built for European weather forecasters.</p>
+        <p>Supercomputers have become increasingly crucial for science, technology and military development. Since the completion of the Japanese Earth Simulator, some policy makers have expressed renewed concern about United States technology leadership. The debate is centered on how much money the government should invest in supercomputing, as well as what the design and focus of the new machines should be.</p>
+        <p>TECHNOLOGY</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

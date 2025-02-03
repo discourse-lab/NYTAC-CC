@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Where the Bears and the Wolverines Prey</title>
+    <meta content="16WILD$03" name="slug"/>
+    <meta content="16" name="publication_day_of_month"/>
+    <meta content="7" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="Science Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="F" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="Science; Health" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/07/16/science/life/16WILD.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1408546"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Wilderness Areas</classifier>
+        <location class="indexing_service">Montana</location>
+        <location class="indexing_service">Canada</location>
+        <location class="indexing_service">Glacier National Park (Mont)</location>
+        <location class="indexing_service">Waterton Lakes National Park (Canada)</location>
+        <location class="indexing_service">Flathead River</location>
+        <person class="indexing_service">Robbins, Jim</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Montana</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Rockies</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Wildlife</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/Canada</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Montana/Glacier National Park</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Montana</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Animals</classifier>
+        <classifier class="online_producer" type="descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Biology and Biochemistry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Wilderness Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Leisure</classifier>
+        <classifier class="online_producer" type="general_descriptor">Parks and Other Recreation Areas</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Forests and Forestry</classifier>
+        <classifier class="online_producer" type="general_descriptor">Endangered and Extinct Species</classifier>
+        <classifier class="online_producer" type="general_descriptor">Animals</classifier>
+        <org class="online_producer">Wildlife Conservation Society</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020716T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0CE5DD1739F935A25754C0A9649C8B63" item-length="1719" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Where the Bears and the Wolverines Prey</hl1>
+        <hl2 class="online_headline">Where the Bears and the Wolverines Prey: The Wildest Valley</hl2>
+      </hedline>
+      <byline class="print_byline">By JIM ROBBINS</byline>
+      <byline class="normalized_byline">Robbins, Jim</byline>
+      <dateline>POLEBRIDGE, Mont.</dateline>
+      <abstract>
+        <p>Article on North Fork of Flathead River in Montana, near Glacier National Park and Canadian border, where 11 species of predators, including grizzlies, wolves, wolverines, cougars and lynx roam freely without human influence or intervention; conservationists, with help from US and Canadian governments, hope to designate 100,000-acre portion of Flathead Valley just north of US as part of Waterton Park in effort to keep it wild; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The paved road, such as it is, peters out here at the last outpost of commercial civilization, a log cabin saloon and barely stocked general store. From here a heavily washboarded gravel road slices through thick pine and spruce forest along the North Fork of the Flathead River, a forgotten corner near Glacier National Park and the Canadian border.</p>
+        <p>Grizzlies, wolves, wolverines, pine martens, cougars, lynx and 11 other species of predator roam and prey to their hearts' content here. Biologists say it is America's wildest valley.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Grizzlies, wolves, wolverines, pine martens, cougars, lynx and 11 other species of predator roam and prey to their hearts' content in a forgotten corner near Glacier National Park.</p>
+      </block>
+      <block class="full_text">
+        <p>The paved road, such as it is, peters out here at the last outpost of commercial civilization, a log cabin saloon and barely stocked general store. From here a heavily washboarded gravel road slices through thick pine and spruce forest along the North Fork of the Flathead River, a forgotten corner near Glacier National Park and the Canadian border.</p>
+        <p>Grizzlies, wolves, wolverines, pine martens, cougars, lynx and 11 other species of predator roam and prey to their hearts' content here. Biologists say it is America's wildest valley.</p>
+        <p>While the density of predators is part of what makes this valley wild, it is also the fact that carnivores behave the way they would naturally, across a range of different habitats and elevations, rather than having to bend their ways to accommodate and avoid civilization.</p>
+        <p>''Other places where there are predators get into micromanagement and try to modify behavior,'' said John L. Weaver, a wildlife researcher with the Wildlife Conservation Society, who recently prepared a report on population densities of five of the predators found here. ''But that's a diminishment of wild behavior. Here the animals have a chance to be truly wild.''</p>
+        <p>The snow-tipped mountains and purling, glacier-fed streams and river seem more like Alaska than anything in the Lower 48. The realization that people are not alone at the top of the food chain lends this region a distinct feel, and demands caution for everyday events like a hike in the woods. At night every snapping twig demands attention, while ululating wolf howls, the yip of coyotes and the scream of cougars punctuate the silence. The woods are also thick with predators' meals, moose, deer, elk and rodents.</p>
+        <p>Bears are so abundant here that there are 65 to 80 of them per 385 square miles, an extremely dense number. That is largely because a grizzly bear can walk across the valley, left alone by humans -- a situation almost unheard of in any valleys in the United States outside national parks and Alaska. Four packs of wolves, numbering about two dozen in total, roam the Flathead on each side of the border.</p>
+        <p>Elsewhere in the West, people have gobbled up so much critical habitat, especially in the fertile valley bottoms, that many predators have either disappeared or are forced to carve out a living on the steep, more marginal slopes of the mountains.</p>
+        <p>Most other wild reserves in the Lower 48, meanwhile, have become islands surrounded by humans, roads and other trappings, isolating wildlife from others of their kind. Not here. ''The difference is that the Flathead is still connected to the Canadian mother ship of wildlife,'' said Dr. Diane Boyd, who studied the return of wolves to the North Fork from Canada for 18 years for the University of Montana. Now, she manages a private wildlife refuge near Missoula. She described the link to the larger source of wolves in Canada as critical.</p>
+        <p>Such links have emerged as a premier issue in conservation biology. Island populations have a limited genetic repertoire and may, in the future, face problems adapting to changing environmental conditions without a flow of genes from others of their kind.</p>
+        <p>The problem of ''genetic impoverishment'' in these islands may be exacerbated by climatic warming, scientists say. ''A species may have to move up slope or north in order to adapt in a warmer climate,'' said Dr. Reed Noss, a conservation biologist and the chief scientist for the Wildlands Project in Corvallis, Ore., who has been working on a large study of 10 species of carnivores in the West, including the North Fork.</p>
+        <p>If the gene that aids that adaptation is not present, the population could collapse. ''The smaller the genetic population, the greater the chance they won't succeed,'' Dr. Noss said.</p>
+        <p>In fact, many of the wolves that have returned to the West and helped recover the Western population have come from Canada, through the abundant wildlands of the North Fork, as the population up north rebounded after hunting was ended in the 1970's. The genes the wolves bring with them are crucial to maintaining diversity, Dr. Boyd said.</p>
+        <p>Grizzly bears, an endangered species in the United States, also thrive in this valley. ''For a noncoastal area, it's as good as it gets,'' said Bruce McClellan, a biologist with the British Columbia Forest Service in Revelstoke, who has studied bears here since 1978.</p>
+        <p>Huckleberries, he says, are the biggest reason. They grow in profusion in burned and logged areas. In the fall, bears wallow in the berry patches for days, stripping and gobbling the plump berries. Grizzlies also eat carrion and buffalo berries, and in the spring find succulent vegetation in a broad flood plain.</p>
+        <p>A wider variety of predator behaviors is seen on the sprawling landscape here than among the same species elsewhere because of the vast amounts of wildness. Long distance migration patterns are still intact. Moose leave the North Fork and traveling more than 50 miles north into Canada.</p>
+        <p>Wolves are also peripatetic. In 1989, a lone wolf left the Polebridge area and, with a male from Banff National Park, established a new pack 100 miles north.</p>
+        <p>Grizzly bears sometimes do not hibernate in the winter here, perhaps because of abundant food sources killed by other predators and available all winter, but no one is sure.</p>
+        <p>Researchers have also witnessed clashes between predators -- something known as trespass issues. ''It goes on every day,'' Dr. Boyd said. ''They don't know the territorial boundaries of other species. Wolves kill cougars, cougars kill coyotes, wolves kill grizzly cubs, and wolves kill black bears. Wolves kill wolves. It's just part of life.''</p>
+        <p>The North Fork also gives scientists a rare chance to study how predators regulate an ecosystem. When predators disappear, for example, deer and other browsers can grow wildly in number and damage plant populations, wipe out ground nesting birds and cause erosion from overgrazing. But here things are still intact.</p>
+        <p>The simple formula for assuring the wildness of this valley is wild land. Conservation biologists know that the more human beings in an area, the fewer the carnivores. Some carnivores, for example, will not cross major highways. As people move into a valley, the food source that was once available becomes difficult to get to, and a piece of the survival puzzle is taken away. Take away too many pieces and the carnivores disappear.</p>
+        <p>Wolves and grizzly bears that disperse out of Yellowstone National Park, for example, have an extremely high mortality rate -- there are simply too many sheep, llamas, filled dog-food bowls on porches and other temptations surrounding the park, and when predators get into trouble, they get killed.</p>
+        <p>Biologists and conservationists want to maintain this wild chunk of America, and keep it from becoming an island ecosystem, with help from the Canadians.</p>
+        <p>Sometime this summer, conservationists hope the federal and provincial Canadian governments will move to designate a 100,000-acre chunk of the Flathead Valley just north of the United States and adjacent to it, a part of Waterton Park, and set it aside to keep the region from becoming another fragmented, truncated island ecosystem.</p>
+        <p>''Completing Waterton is a priority,'' said Bob Peart, executive director of the provincial chapter of the Canadian Parks and Wilderness Society. ''It's part of the plan to keep a link between Waterton and Banff-Jasper.''</p>
+        <p>The Glacier/Waterton Park region, in fact, is part of an ambitious proposal by environmentalists to provide a link between a long chain of islands of protected wilderness along the Rockies, from Yellowstone National Park in northern Wyoming to the Yukon, in northern Canada, to head off the continuing isolation of wildlife species.</p>
+        <p>Though the proposed Waterton park expansion is relatively small, it is important for a couple of reasons. It is adjacent to the already protected Glacier and Waterton parks. It has a fairly steep elevation change, which means it has a variety of habitat niches and so a greater variety of foods. Diversity helps assure survival; if a crop of huckleberries fails one year, buffalo-berries may take up the slack.</p>
+        <p>That is not to say this region is pristine. Huge clear-cuts interrupt the vast blanket of trees on both sides of the border. But there are just 50 to 80 year-round residents on the American side and no year-round residents in Canada. Supporters fear that without the expansion, developers may try to exploit coal, oil and gas deposits there.</p>
+        <p>While wildness in this valley is what keeps the carnivores alive, it also makes the study of carnivores difficult. The dirt road that crosses the border used to have a customs station. When a bridge washed out a few years ago, Canadian officials decided not to replace it and the crossing was closed. Now Dr. McClellan has to drive all the way to the other side of the park, ''and it takes another day.''</p>
+        <p>''It's a problem,'' he said. ''We used to be able to track bears in an airplane,'' he said, but since the Sept. 11 attacks, ''we can't even fly over.''</p>
+        <p>The logistical challenges are a small price to pay for carnivore security, most experts agree. Abundant carnivore populations, Mr. Weaver said, show that all is right in their natural world.</p>
+        <p>''They epitomize wilderness,'' he said. ''If you have enough space and security for carnivores, you provide security and space for a lot of other species. Carnivores are canaries in the coal mine in that sense.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

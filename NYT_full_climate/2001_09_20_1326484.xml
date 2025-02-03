@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Equal Time for Hitler?</title>
+    <meta content="20SAFI" name="slug"/>
+    <meta content="20" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Thursday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="31" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/09/20/opinion/20SAFI.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1326484"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <series series.name="Essay"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Terrorism</classifier>
+        <classifier class="indexing_service" type="descriptor">Airlines and Airplanes</classifier>
+        <classifier class="indexing_service" type="descriptor">Hijacking</classifier>
+        <classifier class="indexing_service" type="descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="indexing_service" type="descriptor">United States International Relations</classifier>
+        <classifier class="indexing_service" type="descriptor">Missing Persons</classifier>
+        <classifier class="indexing_service" type="descriptor">Pentagon Building</classifier>
+        <classifier class="indexing_service" type="descriptor">United States Armament and Defense</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Aid</classifier>
+        <classifier class="indexing_service" type="descriptor">Famine</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">Washington (DC)</location>
+        <location class="indexing_service">Afghanistan</location>
+        <org class="indexing_service">United Nations</org>
+        <org class="indexing_service">Voice of America</org>
+        <org class="indexing_service">Radio Free Europe-Radio Liberty</org>
+        <person class="indexing_service">Safire, William</person>
+        <person class="indexing_service">Bin Laden, Osama</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="types_of_material">Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed/Columnists/William Safire</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Op-Ed</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Asia Pacific</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/Washington, D.C.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Asia/Afghanistan</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="descriptor">Fringe Groups and Movements</classifier>
+        <classifier class="online_producer" type="descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Famine</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Aid</classifier>
+        <classifier class="online_producer" type="general_descriptor">Pentagon Building</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">World Trade Center (NYC)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hijacking</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fringe Groups and Movements</classifier>
+        <classifier class="online_producer" type="general_descriptor">Terrorism</classifier>
+        <classifier class="online_producer" type="general_descriptor">International Relations</classifier>
+        <classifier class="online_producer" type="general_descriptor">Missing Persons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Airlines and Airplanes</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Armament and Defense</classifier>
+        <classifier class="online_producer" type="general_descriptor">Office Buildings and Commercial Properties</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Armament, Defense and Military Forces</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Washington</location>
+        <org class="online_producer">Taliban</org>
+        <person class="online_producer">Helms, Jesse</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010920T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9806E6DF103BF933A1575AC0A9679C8B63" item-length="734" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Equal Time for Hitler?</hl1>
+        <hl2 class="online_headline">Equal Time for Hitler?</hl2>
+      </hedline>
+      <byline class="print_byline">By WILLIAM SAFIRE</byline>
+      <byline class="normalized_byline">Safire, William</byline>
+      <dateline>WASHINGTON</dateline>
+      <abstract>
+        <p>Op-Ed column by William Safire says before single bomb is dropped on suspected terrorist training camp in Afghanistan, United States should use psychological warfare to weaken grip of terrorists on local population; notes that primary source of information for average Afghan is radio, and Taliban's Radio Shariat spews out hated of America all the time; says Voice of America has been hopelessly inadequate for variety of reasons; calls for funding for RFE/RL, 'radio free' outfit experienced in acting as surrogate free press in other repressive nations; calls for a Radio Free Afghanistan to broadcast truth about consequences of harboring headquarters of terrorism, and to inform Afghans that their rulers' decision to hide Osama bin Laden is cause of withdrawal of UN relief and starvation they now face (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The primary source of information for the average Afghan is the radio, often a transistor made 30 years ago. The 20 transmitting towers of the Taliban's Radio Shariat (meaning ''Islamic law'') are spewing out hatred of America all the time.</p>
+        <p>Why is there no Radio Free Afghanistan broadcasting the truth about the consequences of harboring the headquarters of terrorism?</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Why is there no Radio Free Afghanistan broadcasting the truth about the consequences of harboring the headquarters of terrorism?</p>
+      </block>
+      <block class="full_text">
+        <p>The primary source of information for the average Afghan is the radio, often a transistor made 30 years ago. The 20 transmitting towers of the Taliban's Radio Shariat (meaning ''Islamic law'') are spewing out hatred of America all the time.</p>
+        <p>Why is there no Radio Free Afghanistan broadcasting the truth about the consequences of harboring the headquarters of terrorism?</p>
+        <p>Why are Afghans not told that their rulers' decision to hide Osama bin Laden is the direct cause of the withdrawal of U.N. relief and the starvation that they now face?</p>
+        <p>Why are the voices of revered, mainstream Muslim clerics not broadcast denouncing the perversion of Islam by the terrorists, and reminding the faithful that murder by suicide will lead not to heaven but to eternal damnation?</p>
+        <p>Before a single bomb is dropped on a suspected training camp, the U.S. should be doing what it knows best how to do: using psychological warfare to weaken the grip of the terrorists on the local population.</p>
+        <p>We are failing to make life more difficult for the terrorists in their caves because the Bush war planners have not thought of it yet. The chairman of the Broadcasting Board of Governors, overseer of our several official overseas broadcasters, is an amiable Gore fund-raiser long awaiting replacement. The Voice of America leadership is even more vacant.</p>
+        <p>Which U.S. government broadcaster should be charged with stirring anger among Afghans at rulers eager to bring further devastation to their country? That mission of countering Radio Shariat's propaganda should go to RFE/RL, the ''radio free'' outfit experienced in acting as a surrogate free press in repressive nations like Iran, Iraq and China.</p>
+        <p>But evenhanded journalists at the V.O.A., backed by political holdovers on the Broadcasting Board, don't want those hard-sell types invading their turf. The V.O.A. broadcasts to Afghanistan with fine impartiality in the Dari, Pashto, Urdu and Arabic languages, and yesterday stepped up its time on the air; RFE/RL broadcasts only in Turkmen and Uzbek, understood in Afghanistan's north, where our problem is not.</p>
+        <p>In the squabble over a measly $15 million in expansion money, here is why the V.O.A. is the wrong voice in this area in wartime:</p>
+        <p>On the day after the twin towers catastrophe, a V.O.A. reporter in London broadcast an account of two interviews. One was with a cleric who ''warns that no accusations against Islamists or Arab groups should be made before knowing the full truth.'' This was ''balanced'' by an interview with Yasir al Serri, identified only as ''a leader of Egypt's largest Islamist group, the Gama'a Islamiyya, which has worked to overthrow the Egyptian government.''</p>
+        <p>Listeners were not informed that this terrorist group killed 58 foreign tourists and 4 Egyptians four years ago. The reporter said that al Serri ''warns that retaliation by Washington will only lead to more violence. He lays the blame for the unprecedented assault on the U.S. financial and military policy in the Middle East.''</p>
+        <p>Stung by criticism of this broadcast, Andre de Nesnera, the V.O.A.'s news director, admitted that the extremist was improperly identified, but argued that for the agency to remain ''a credible news organization,'' such interviews with terrorists ''will be part of our balanced, accurate, objective and comprehensive reporting, providing our listeners with both sides of the story.''</p>
+        <p>After a call from Jesse Helms's office protesting ''equal time for Hitler,'' the bureaucrat warming the vacant V.O.A. director's seat issued a belated guideline that ''we will not give a platform to terrorists or extremist groups.''</p>
+        <p>The nation is on a kind of war footing. Even in peacetime, news credibility does not flow from splitting the moral difference between good and evil. In the climate of today's undeclared war, private media in democracies are free to take either or neither side, but U.S. taxpayer-supported broadcasting is supposed to be on our side.</p>
+        <p>That's why we need an American signal in Afghanistan's five languages with a clear, truthful message: Bin Laden and his gang are the cause of present and future misery, and the suicides who murder innocents are eternally punished by Allah.</p>
+        <p>And for the Pentagon's choosers of ''targets of value'': consider, in the first strike, the score of towers and mobile transmitters of Radio Shariat.</p>
+        <p>Essay</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

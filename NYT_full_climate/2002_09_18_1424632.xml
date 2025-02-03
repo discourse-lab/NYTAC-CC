@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>New Jersey Intends to End Incentive Plan On Pollution</title>
+    <meta content="18POLL" name="slug"/>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="9" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/09/18/nyregion/18POLL.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1424632"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Air Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Smog</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <location class="indexing_service">New Jersey</location>
+        <person class="indexing_service">Mansnerus, Laura</person>
+        <person class="indexing_service">Whitman, Christine Todd (Admr)</person>
+        <person class="indexing_service">Campbell, Bradley (Comr)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New Jersey</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New Jersey</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Smog</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <location class="online_producer">New Jersey</location>
+        <person class="online_producer">Whitman, Christine Todd</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020918T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EEDA1530F93BA2575AC0A9649C8B63" item-length="755" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>New Jersey Intends to End Incentive Plan On Pollution</hl1>
+        <hl2 class="online_headline">New Jersey Intends to End Incentive Plan on Pollution</hl2>
+      </hedline>
+      <byline class="print_byline">By LAURA MANSNERUS</byline>
+      <byline class="normalized_byline">Mansnerus, Laura</byline>
+      <dateline>TRENTON, Sept. 17</dateline>
+      <abstract>
+        <p>New Jersey officials plan to end air quality program introduced by former Gov Christie Whitman that relies on economic incentives for polluters to reduce smog-forming emissions; program allows companies to buy and sell rights to emit regulated pollutants--an idea that Bradley M Campbell has questioned since he was appointed environmental protection commissioner in January (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>New Jersey officials plan to end an air quality program introduced by former Gov. Christie Whitman that relies on economic incentives for polluters to reduce smog-forming emissions.</p>
+        <p>The program allows companies to buy and sell rights to emit regulated pollutants -- an idea that the commissioner of environmental protection, Bradley M. Campbell, has questioned since he was appointed by Gov. James E. McGreevey in January.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Officials plan to end an air quality program that relies on economic incentives for polluters to reduce emissions.</p>
+      </block>
+      <block class="full_text">
+        <p>New Jersey officials plan to end an air quality program introduced by former Gov. Christie Whitman that relies on economic incentives for polluters to reduce smog-forming emissions.</p>
+        <p>The program allows companies to buy and sell rights to emit regulated pollutants -- an idea that the commissioner of environmental protection, Bradley M. Campbell, has questioned since he was appointed by Gov. James E. McGreevey in January.</p>
+        <p>Mr. Campbell called the program ''an experiment that failed'' and said today that the Department of Environmental Protection would issue a public notice of its intent to phase out the plan. The decision was first reported today in The Star-Ledger of Newark.</p>
+        <p>Mrs. Whitman has made market-based incentives a theme in her approach to environmental regulation, as governor of New Jersey and now as head of the federal Environmental Protection Agency. When approved for the post 19 months ago, she promised to ''move beyond the command-and-control model'' of environmental regulation.</p>
+        <p>But critics of the state emissions credit-trading program called on her shortly afterward to reject the program, which had not received final approval from the E.P.A. They complained that the program had not cut emissions in New Jersey but had merely shifted them from one source to another.</p>
+        <p>The state program, introduced in 1996, allows polluters that reduce emissions below federal clean air standards to reserve the unused portion of their allowance as credits. The credits can be used later or sold to other companies that want to exceed the standards. A spokesman for Mrs. Whitman, Joe Martyak, said today that as governor Mrs. Whitman had started ''an innovative program'' and that as recently as January 2001 it was praised by the Clinton administration in an E.P.A. news release.</p>
+        <p>While other states have expressed interest in emissions-trading programs, only Michigan and New Hampshire have adopted similar approaches, Mr. Martyak said.</p>
+        <p>The federal environmental agency never formally approved the New Jersey plan, known as the Open Market Emissions Trading program, although such credits were authorized in a broad revision of the Clean Air Act in 1990.</p>
+        <p>The program has been dormant for months, and when the federal agency asked Mr. Campbell whether the new administration planned to continue it, he responded, in a letter dated Aug. 13, that ''the program has failed'' and should be ended.</p>
+        <p>Mr. Campbell noted that the state's registry of credits had been shut down since last fall, when the private contractor that handled it withdrew. In January, the largest generator of credits, the P.S.E.&amp;G. Power Company, agreed in talks with the state to forfeit them. The settlement ''dried up the market,'' Mr. Campbell said.</p>
+        <p>The state reached a settlement in May with another utility, Conectiv Atlantic Generation, which had planned to meet the clean air standards by using credits but found there were none to buy.</p>
+        <p>Mr. Campbell said that the state would not prosecute any companies that had bought credits in good faith but that environmental officials did not know of any companies still relying on the program.</p>
+        <p>Under the program, reductions in emissions generated credits for 30,000 to 40,000 tons of pollutants, said Amy Cradic, a spokeswoman for the Department of Environmental Protection. Most of those, Ms. Cradic said, were for nitrogen oxides, which produces ground-level ozone, or smog.</p>
+        <p>Most of the credits were generated by Public Service Electric and Gas, the state's largest public utility, which transferred them in a 1999 corporate reorganization to its newly created affiliate, P.S.E.&amp;G. Power.</p>
+        <p>The emissions credit-trading program places no cap on the emissions allowed with purchased credits, which Mr. Campbell said was a serious shortcoming. ''I think there's wide agreement even among environmental groups that market mechanisms can be used effectively,'' he said, but only if there are restrictions limiting total emissions.</p>
+        <p>Jeffrey Tittel, the president of the state chapter of the Sierra Club, said that the trades were never properly monitored and that the state relied on the polluting companies to report their own data. ''It was an environmental con game that didn't work,'' he said.</p>
+        <p>But Mr. Martyak emphasized that the New Jersey program was voluntary and that Mrs. Whitman and President Bush were proposing other, mandatory measures to control airborne pollutants. ''She's all for finding ways to ways to reduce pollution,'' he said. ''She'd welcome their sitting down and working with the agency.''</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

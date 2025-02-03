@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>4-Degree Rise in Pacific Waters Is Evidence of El Niño Revival</title>
+    <meta content="Y12NIN$02" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2002" name="publication_year"/>
+    <meta content="Tuesday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="22" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="3" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <meta content="http://www.nytimes.com/2002/03/12/national/12NINO.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1375137"/>
+      <doc.copyright holder="The New York Times" year="2002"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Rain</classifier>
+        <classifier class="indexing_service" type="descriptor">El Nino (Pacific Ocean Phenomenon)</classifier>
+        <location class="indexing_service">Pacific Ocean</location>
+        <location class="indexing_service">Latin America</location>
+        <org class="indexing_service">National Oceanic and Atmospheric Administration</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Americas</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Central and South America</classifier>
+        <classifier class="online_producer" type="descriptor">Weather</classifier>
+        <classifier class="online_producer" type="descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="descriptor">Hurricanes and Tropical Storms</classifier>
+        <classifier class="online_producer" type="descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Fishing, Commercial</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Rain</classifier>
+        <classifier class="online_producer" type="general_descriptor">Floods</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hurricanes and Tropical Storms</classifier>
+        <org class="online_producer">International Research Institute for Climate Prediction</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20020312T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E02EFDB1439F931A25750C0A9649C8B63" item-length="690" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>4-Degree Rise in Pacific Waters Is Evidence of El Niño Revival</hl1>
+        <hl2 class="online_headline">4-Degree Rise in Pacific Waters Is Evidence of El Niño's Return</hl2>
+      </hedline>
+      <dateline>WASHINGTON, March 11</dateline>
+      <abstract>
+        <p>National Oceanic and Atmospheric Administration meteorologists say rise in Pacific Ocean temperatures near South America and increase in regional precipitation provide strong evidence that El Nino event, disruptive influence on global weather, is developing; chart of rainfall (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>A four-degree rise in water temperature near South America last month provides strong evidence that El Niño, the disruptive influence on global weather, is developing, government weather experts report, but how severe the cycle will become remains uncertain.</p>
+        <p>The update on the periodic shift in ocean conditions was described on Thursday by meteorologists at the Commerce Department's National Oceanic and Atmospheric Administration.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>A rise in water temperature near South America last month provides strong evidence that El Niño, the disruptive influence on global weather, is developing.</p>
+      </block>
+      <block class="full_text">
+        <p>A four-degree rise in water temperature near South America last month provides strong evidence that El Niño, the disruptive influence on global weather, is developing, government weather experts report, but how severe the cycle will become remains uncertain.</p>
+        <p>The update on the periodic shift in ocean conditions was described on Thursday by meteorologists at the Commerce Department's National Oceanic and Atmospheric Administration.</p>
+        <p>The temperature data, corroborated by a rise in regional precipitation and the displacement of cold-water fish by tropical species in the equatorial Pacific, is consistent with similar changes observed in the early stages of previous Niño episodes, the agency said.</p>
+        <p>For several months, the agency has been predicting that a Niño event was likely this spring.</p>
+        <p>El Niño -- a Spanish reference to the Christ child, since it usually appears in the eastern tropical Pacific around Christmas -- is a marked warming of ocean waters along the Equator near the international date line. When water temperatures rise significantly enough to alter cloud cover, increased rainfall occurs, particularly in the tropical Pacific basin.</p>
+        <p>The weather pattern typically arises every four to five years and can last up to 18 months.</p>
+        <p>In 1997-1998, El Niño conditions were blamed for severe floods in Peru and Ecuador and scorching droughts in Australia, Indonesia and the Philippines. The weather event caused thousands of deaths, displaced millions of people and resulted in billions of dollars in damage worldwide.</p>
+        <p>In the United States, agricultural losses during El Niño of 1997-1998 reached an estimated $2 billion, and property losses topped $2.6 billion, according to data compiled by the atmospheric agency.</p>
+        <p>El Niño is notoriously difficult to predict, but meteorologists have been able to improve their forecasts in recent years, using buoys, satellites and other devices to give real-time atmospheric and oceanic data, along with refined computer models.</p>
+        <p>For the United States, El Niño events typically mean more rain and snow in the southern tier in the winter; the developing pattern will spur Western water managers to capture the extra rain. The Great Plains and Pacific Northwest usually experience warmer weather later in the year, and fewer tropical storm systems develop during the Atlantic hurricane season.</p>
+        <p>Enhanced prediction techniques enable farmers to determine the best sites to plant crops and the most effective techniques for applying fertilizers in the face of abnormal weather conditions. Extended forecasting also enables state emergency management agencies to prepare better for potential damage.</p>
+        <p>''It's still too early to determine the potential strength of this El Niño or exactly what weather conditions it will bring to the United States,'' said Conrad C. Lautenbacher Jr., a retired Navy vice admiral and under secretary of commerce for oceans and atmosphere.</p>
+        <p>''But it is likely these warming conditions in the tropical Pacific will continue until early 2003,'' Dr. Lautenbacher said.</p>
+        <p>In Peru, officials have already reported significant effects on their fishing industry, the oceanic and atmospheric agency said, as cold-water anchovies are disappearing near their coast with warm water moving into the region. During 1997-1998, Peru's anchovy industry suffered but eventually rebounded.</p>
+        <p>Some weather experts still doubt that the current warming trend will result outright in an El Niño.</p>
+        <p>The International Research Institute for Climate Prediction, financed in part by the oceanic agency, predicted that while there was an ''enhanced likelihood'' of a localized Niño in the Pacific this spring, ''uncertainty still exists'' as to whether El Niño would develop full-fledged in the next few months.</p>
+        <p>The institute estimates there is a 50 percent chance of El Niño conditions developing by mid-2002.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

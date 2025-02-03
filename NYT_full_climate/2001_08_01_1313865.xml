@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>WHITMAN TO ISSUE ORDER TO DREDGE HUDSON FOR PCB'S</title>
+    <meta content="01DRED$01" name="slug"/>
+    <meta content="1" name="publication_day_of_month"/>
+    <meta content="8" name="publication_month"/>
+    <meta content="2001" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="6" name="print_column"/>
+    <meta content="Front Page; Washington; New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2001/08/01/nyregion/01DRED.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1313865"/>
+      <doc.copyright holder="The New York Times" year="2001"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Water Pollution</classifier>
+        <classifier class="indexing_service" type="descriptor">Pcb (Polychlorinated Biphenyls)</classifier>
+        <location class="indexing_service">Hudson River</location>
+        <location class="indexing_service">New York State</location>
+        <org class="indexing_service">Environmental Protection Agency</org>
+        <org class="indexing_service">General Electric Co</org>
+        <person class="indexing_service">Johnson, Kirk</person>
+        <person class="indexing_service">Whitman, Christie (Admr)</person>
+        <person class="indexing_service">Clinton, Bill</person>
+        <person class="indexing_service">Bush, George W (Pres)</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Science/Environment</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Washington/Campaign 2004/Candidates/George W Bush</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Government, Philanthropy and NGO</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Activities and Interests/Eco-tourism</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="descriptor">Environment</classifier>
+        <classifier class="online_producer" type="descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Chemicals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Hydrocarbons</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">United States Politics and Government</classifier>
+        <classifier class="online_producer" type="general_descriptor">Politics and Government</classifier>
+        <location class="online_producer">Hudson River</location>
+        <org class="online_producer">General Electric Company</org>
+        <person class="online_producer">Bush, George W.</person>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20010801T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C02E7DC163CF932A3575BC0A9679C8B63" item-length="1118" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>WHITMAN TO ISSUE ORDER TO DREDGE HUDSON FOR PCB'S</hl1>
+        <hl2 class="online_headline">Whitman to Issue Order to Dredge Hudson for PCB's</hl2>
+      </hedline>
+      <byline class="print_byline">By KIRK JOHNSON</byline>
+      <byline class="normalized_byline">Johnson, Kirk</byline>
+      <abstract>
+        <p>Environmental Protection Agency administrator, Christie Whitman, approves plan set in last days of Clinton administration to require General Electric Co to spend over $500 million to dredge PCB pollution from 40 miles of Hudson River; order follows 20 years of debate and rising complaints by environmentalists against Pres Bush's policies; is huge defeat for GE, which spent heavily fighting proposal (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>The federal Environmental Protection Agency's administrator, Christie Whitman, has agreed to go ahead with a plan issued in the closing days of the Clinton administration requiring the General Electric Company to spend more than half a billion dollars to dredge PCB pollution from the Hudson River, according to officials at the agency.</p>
+        <p>The draft order, which will become official in 30 days after a government review, will set into motion the biggest environmental dredging plan in United States history, after more than two decades of disputes over the science of dredging and the political, economic and moral issues of corporate responsibility.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>The E.P.A. administrator, Christie Whitman, has agreed to a plan requiring G.E. to spend more than $500 million to clean up the river's bottom</p>
+      </block>
+      <block class="full_text">
+        <p>The federal Environmental Protection Agency's administrator, Christie Whitman, has agreed to go ahead with a plan issued in the closing days of the Clinton administration requiring the General Electric Company to spend more than half a billion dollars to dredge PCB pollution from the Hudson River, according to officials at the agency.</p>
+        <p>The draft order, which will become official in 30 days after a government review, will set into motion the biggest environmental dredging plan in United States history, after more than two decades of disputes over the science of dredging and the political, economic and moral issues of corporate responsibility.</p>
+        <p>The order to dredge a 40-mile stretch of the Hudson north of Albany is a huge defeat for G.E., which had spent tens of millions of dollars fighting the proposal. The question of dredging the Hudson had also become a test for the Bush administration, which has been pilloried in recent months by environmental groups for its policies on energy and the international efforts to control greenhouse gas emissions.</p>
+        <p>''We're staying the course,'' said a senior official with the agency, speaking on the condition of anonymity. ''It's time to move on, and we're committed to cleaning up the river.''</p>
+        <p>The official said that White House officials had been briefed about Mrs. Whitman's decision, and that in the next 30 days, New York State and federal agencies that would have a role in the cleanup, including the Interior Department, would have an opportunity to comment. No changes in the plan are expected, the official said.</p>
+        <p>There was no immediate indication of whether President Bush had been briefed on the agency's decision.</p>
+        <p>The company's vice president for corporate environmental programs, Stephen D. Ramsey, declined to comment on the draft order, saying G.E. did not have adequate information yet.</p>
+        <p>After the Clinton administration approved the preliminary cleanup proposal in December, the plan entered a public comment period that extended through the early months of the Bush administration. Environmental officials said that they had to extend the comment period because of the huge volume of people and organizations that wanted to respond, and that it had taken until this week to analyze all the information.</p>
+        <p>The draft order closely follows the Clinton administration proposal, which would require G.E. to pay for the removal, or remove by itself, about 2.65 million cubic yards of river bottom of the Hudson from the Troy Dam to the Thompson Island Pool, about 35 miles north of Albany.</p>
+        <p>An estimated 1.1 million pounds of PCB's, or polychlorinated biphenyls, which have been linked to cancer in humans and various disorders in wildlife, were spilled or dumped into the river by G.E. from its plants along the upper Hudson from the mid-1940's until 1977, when the chemicals were banned. The draft order, as did the Clinton administration plan, proposes to remove about 100,000 pounds of the oily chemical from the river. Much of the PCB's that entered the river are believed to have dispersed by now.</p>
+        <p>The new draft order will create a few changes in how the cleanup will proceed. E.P.A. officials said that the changes were intended as improvements but that they could delay the cleanup. Officials said that unlike the Clinton plan, the draft order would create a staged cleanup process, and that performance would be reviewed at each phase. Among the issues that will be examined are noise, odor, effect on river traffic, and especially the question of resuspension -- that is, whether the dredging process itself stirs up PCB's from the river bottom mud and recontaminates the water.</p>
+        <p>The possibility that dredging could somehow backfire and repollute a river that by many measures is cleaner than it has been in generations became a nagging fear expressed by many people living near the proposed dredging areas. Officials at the environmental agency said last night that the draft plan took those concerns into account.</p>
+        <p>They said that if the performance reviews found that PCB's were actually being freed from the bottom mud, the dredging process would be re-evaluated. A major change in a cleanup order, once it has been issued, could require the entire plan to be redrafted, and officials said that resuspension, if it occurred, could be a big enough problem to force a redrafting.</p>
+        <p>''Yes, there are some unanswered questions about all of this,'' a senior E.P.A. official said. ''But the agency believes it's time to move forward, and our own scientists have said we won't learn everything until we do some of this stuff. What's different here is that we're trying to respond to the concerns of the impacted communities.''</p>
+        <p>General Electric, which waged an extensive public relations campaign against the dredging, as well as a far-flung scientific effort to investigate how PCB's behave under the changing conditions of a river bottom, had contended that the Hudson was essentially cleaning itself by entombing the chemicals under successive layers of silt. Declining levels of the pollutant had been measured in fish caught in the river, the company said, a sign that a natural process was at work.</p>
+        <p>Company officials, and allies of the company, also argued that the technology of dredging, especially on a scale envisioned by the federal plan, was far from foolproof and that active dredging was therefore both dangerous and unnecessary. E.P.A. scientists, in defending their plan over the last eight months, agreed that PCB levels had declined in the river fish, but said the improvement had leveled off in recent years, indicating that only full removal of the chemical would entirely solve the problem.</p>
+        <p>Under the federal Superfund law that the government has applied on the Hudson, a final order for a cleanup cannot be challenged in court, and E.P.A. officials said last night that they planned to begin preparing the engineering design for the project as early as September, a process that is expected to take up to a year.</p>
+        <p>But there are major questions remaining about who would actually do the work -- G.E. or the government -- and E.P.A. officials said there were several issues within that part of the order that could bring the parties into court and produce delays.</p>
+        <p>Specifically, G.E. could agree to do the work itself. If it declined to do that, then the government could proceed with a cleanup itself, or get a court order requiring G.E. to do the work, and it is that court order that could be challenged, E.P.A. officials said.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

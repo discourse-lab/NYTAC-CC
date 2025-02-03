@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>An Investor and Gadfly in Russia</title>
+    <meta content="14PROF" name="slug"/>
+    <meta content="14" name="publication_day_of_month"/>
+    <meta content="3" name="publication_month"/>
+    <meta content="2004" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Money and Business/Financial Desk" name="dsk"/>
+    <meta content="2" name="print_page_number"/>
+    <meta content="3" name="print_section"/>
+    <meta content="4" name="print_column"/>
+    <meta content="Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2004/03/14/business/14prof.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1566298"/>
+      <doc.copyright holder="The New York Times" year="2004"/>
+      <series series.name="Private Sector"/>
+      <identified-content>
+        <classifier class="indexing_service" type="biographical_categories">Business and Finance</classifier>
+        <classifier class="indexing_service" type="descriptor">Stocks and Bonds</classifier>
+        <classifier class="indexing_service" type="descriptor">Foreign Investments</classifier>
+        <classifier class="indexing_service" type="descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="indexing_service" type="descriptor">Biographical Information</classifier>
+        <classifier class="indexing_service" type="descriptor">Suits and Litigation</classifier>
+        <location class="indexing_service">Russia</location>
+        <classifier class="indexing_service" type="names">William F. Browder</classifier>
+        <org class="indexing_service">Hermitage Fund</org>
+        <person class="indexing_service">Arvedlund, Erin E</person>
+        <person class="indexing_service">Browder, William F</person>
+        <classifier class="online_producer" type="types_of_material">Biography</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/Your Money</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Countries and Territories/Russia and the Former Soviet Union</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/World/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/Europe/Russia</classifier>
+        <classifier class="online_producer" type="descriptor">Economics</classifier>
+        <classifier class="online_producer" type="descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economics</classifier>
+        <classifier class="online_producer" type="general_descriptor">Foreign Investments</classifier>
+        <classifier class="online_producer" type="general_descriptor">Suits and Litigation</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Stocks and Bonds</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <location class="online_producer">Russia</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20040314T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C01E5DD113EF937A25750C0A9629C8B63" item-length="1191" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>An Investor and Gadfly in Russia</hl1>
+        <hl2 class="online_headline">An Investor and Gadfly in Russia</hl2>
+      </hedline>
+      <byline class="print_byline">By ERIN E. ARVEDLUND</byline>
+      <byline class="normalized_byline">Arvedlund, Erin E</byline>
+      <dateline>MOSCOW</dateline>
+      <abstract>
+        <p>Profile of Hermitage Fund founder William F Browder, self-described crusader for shareholders' rights, who sues to force Russian companies to open up their books and cede some control; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>WILLIAM F. BROWDER, an investor who is shaking up Russia's financial world by attacking its economic oligarchs, has come under the influence of a diverse cast of larger-than-life characters over the years.</p>
+        <p>There was his grandfather Earl R. Browder, the Stalinist boss of the American Communist Party from 1932 to 1945, who died in 1974, when William was 9. ''All he was to me was Grandpa, the guy smelling of pipe smoke,'' said Mr. Browder, who was born in the United States and emigrated to Britain. But the elder Mr. Browder also impressed his grandson as a man of principle and an advocate for the little guy.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>William Browder is an investor who is shaking up Russias financial world by attacking its economic oligarchs.</p>
+      </block>
+      <block class="full_text">
+        <p>WILLIAM F. BROWDER, an investor who is shaking up Russia's financial world by attacking its economic oligarchs, has come under the influence of a diverse cast of larger-than-life characters over the years.</p>
+        <p>There was his grandfather Earl R. Browder, the Stalinist boss of the American Communist Party from 1932 to 1945, who died in 1974, when William was 9. ''All he was to me was Grandpa, the guy smelling of pipe smoke,'' said Mr. Browder, who was born in the United States and emigrated to Britain. But the elder Mr. Browder also impressed his grandson as a man of principle and an advocate for the little guy.</p>
+        <p>Decades later, the grandson has become a self-described crusader for shareholders' rights, filing lawsuits that seek to force Russian companies to open up their books and cede some control. He says he honed his confrontational style with the help of another mentor, Edmond J. Safra, the multibillionaire founder of Republic National Bank in New York.</p>
+        <p>In vivid contrast to Mr. Browder's far-left forebear, Mr. Safra was the übercapitalist who befriended him and bankrolled the Hermitage Fund, the hedge fund that Mr. Browder opened in 1996. It is now one of the largest hedge funds dedicated to Russia, with $1.4 billion in assets.</p>
+        <p>Mr. Safra, who died in 1999, gave him more than money, Mr. Browder said; he gave him attitude. ''Why create controversy? Because the people whose interests I'm maximizing are my clients, the investors in my fund,'' Mr. Browder said. ''I learned that from Safra.''</p>
+        <p>Finally, there is Russia's president, Vladimir V. Putin, whom critics accuse of locking down the free press and bringing back de facto one-party rule. Mr. Putin, who is expected to win overwhelmingly in the Russian election today, is increasingly perceived as authoritarian.</p>
+        <p>But ''we want an authoritarian -- one who is exercising authority over mafia and oligarchs,'' Mr. Browder said, adding that Mr. Putin ''has turned out to be my biggest ally in Russia.''</p>
+        <p>''It's an exaggeration that there's no free press here,'' he said. ''The press may not be free to criticize Putin, but anyone else, they can.''</p>
+        <p>It is an advantage to count a national leader in your corner, of course, especially if you have a lot of powerful enemies. And Mr. Browder has plenty. ''I fight Russian companies,'' he boasted, by pushing them to open up their books, to use cash to pay higher dividends and to give equal representation to outside shareholders.</p>
+        <p>In the 1990's, he picked a fight with an oligarch, Vladimir Potanin, over Sidanco, an oil company, concerning a share issue that would have diluted minority holdings. Russian securities officials canceled the disputed share issue, saving the Hermitage Fund alone $63 million.</p>
+        <p>''More or less everybody hates me,'' he said, rattling off a list of people and companies who have been targets of his shareholder battles, including Anatoly B. Chubais, chairman and chief executive of UES, the Russian electricity monopoly; Rem I. Vyakhirev, the former chairman of Gazprom, the Russian natural-gas monopoly; and the American accounting firm PricewaterhouseCoopers. ''But I'm not here to be liked.''</p>
+        <p>Mr. Browder does not wage all his battles alone. His latest effort -- a lawsuit filed this month in a Siberian regional court against Surgutneftegas, Russia's fourth-largest oil company -- was filed jointly with Russia's Investor Protection Association and a large group of Surgutneftegas minority shareholders, including two other hedge funds, Prosperity Capital, based in Moscow, and the Firebird Fund, based in New York.</p>
+        <p>They contend that Surgutneftegas executives have entrenched themselves and unfairly control about 62 percent of voting shares through various murky subsidiaries. They also contend that the oil company pays a miserly dividend compared with those of its larger Russian rivals, Lukoil, Yukos and Sibneft. Surgutneftegas pays out 1 percent of its net income per share in dividends, versus 94 percent for Sibneft, 28 percent for Lukoil and 23 percent for Yukos.</p>
+        <p>A court ruling in the shareholder group's favor could pay off handsomely. But the suit has also set the stage for a protracted legal battle with Surgutneftegas, an oil giant that is loyal to the Kremlin, treats its employees relatively well and pays big taxes.</p>
+        <p>A Surgutneftegas spokeswoman, Raisa Khodchenko, declined to comment on the suit, saying that no one at the company had seen or read it.</p>
+        <p>A few analysts hailed Mr. Browder's suit, saying that some complaints against Surgutneftegas -- including contentions that the company's accounting rules understate net income, and thus, dividends -- were widely shared among investors. But the investors' chances are slim, even after joining forces. Prosperity Capital filed a similar suit against Surgutneftegas three years ago and lost.</p>
+        <p>''There is no precedent in Russia for a similar suit succeeding,'' said Steven Dashevsky of Aton Capital, a brokerage firm based in Moscow.</p>
+        <p>Mr. Dashevsky also said that Surgutneftegas's president and general director, Vladimir L. Bogdanov, is a local hero in the company's remote region of Khanty-Mansiysk, and ''the likelihood of a court there removing him from control of a company that is an excellent corporate citizen is next to nil.'' Moreover, he said, the suit would require Surgutneftegas to unwind a share arrangement like those used by other powerful Russian companies.</p>
+        <p>Nevertheless, under Mr. Putin, the cold climate for lawsuits of this kind may be warming up. A deputy in the Russian Parliament is pushing through a bill that would force Russian companies to calculate dividends based on a standard definition of net income, a change that would address one accusation leveled at Surgutneftegas.</p>
+        <p>''Under Putin, the political winds have shifted in favor of investors, even if only at the margins,'' said Ian Hague, a partner at the Firebird Fund. ''This puts to the test Putin's promise to level the playing field for investors. And that includes Surgut, which should be doing what every other Russian oil company does -- paying dividends and declaring the proper net income.''</p>
+        <p>ALTHOUGH Mr. Browder's conflicts may have made him few friends here, they have paid off in financial terms, by protecting the fund's investments and by driving up prices of shares it holds. The Hermitage Fund had a return of 67 percent in 2003, and has returned 33 percent, annualized, since its inception.</p>
+        <p>Mr. Browder says he is confident that he will prevail in his latest legal challenge. ''We'll take it all the way to the top,'' to the Constitutional Court of Russia, he declared.</p>
+        <p>As for his personal politics, Mr. Browder says he is ''not a Communist'' like his grandfather. He's a longtime supporter of the Democratic Party in the United States. When he does argue politics with American relatives, he said, ''the one thing we all agree on is that we have to get rid of George Bush.''</p>
+        <p>Private Sector</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

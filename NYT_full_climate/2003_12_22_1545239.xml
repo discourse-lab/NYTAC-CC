@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>It's a Tiny New World</title>
+    <meta content="22NANO$01" name="slug"/>
+    <meta content="22" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="Business/Financial Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="C" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Technology; Business" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/12/22/technology/22nano.html" name="alternate_url"/>
+    <meta content="Correction Appended" name="banner"/>
+    <meta content="20031225T000000" name="correction_date"/>
+    <docdata>
+      <doc-id id-string="1545239"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Nanotechnology</classifier>
+        <classifier class="indexing_service" type="descriptor">Industry Profiles</classifier>
+        <classifier class="indexing_service" type="descriptor">Research</classifier>
+        <classifier class="indexing_service" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="indexing_service" type="descriptor">Computer Software</classifier>
+        <person class="indexing_service">Feder, Barnaby J</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Technology</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Business/World Business</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Technology, Telecommunications and Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="descriptor">Computers and the Internet</classifier>
+        <classifier class="online_producer" type="descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Industry Profiles</classifier>
+        <classifier class="online_producer" type="general_descriptor">Nanotechnology</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Software</classifier>
+        <classifier class="online_producer" type="general_descriptor">Research</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computer Chips</classifier>
+        <classifier class="online_producer" type="general_descriptor">Computers and the Internet</classifier>
+        <org class="online_producer">Nanogen Incorporated</org>
+        <org class="online_producer">National Science Foundation</org>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20031222T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9D05E5DE103FF931A15751C1A9659C8B63" item-length="1554" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>It's a Tiny New World</hl1>
+        <hl2 class="online_headline">As Nanotechnology Gains Visibility, Venture Capital Begins Coming In</hl2>
+      </hedline>
+      <byline class="print_byline">By BARNABY J. FEDER</byline>
+      <byline class="normalized_byline">Feder, Barnaby J</byline>
+      <abstract>
+        <p>Entrepreneurs say money is pouring into nanotechnology just in time to meet their growing capacity to put investors' money to work expanding research and bringing products to market; nanotechnology caught investors' fancy until 1990's, when new software and computer-controlled tools expanded possibilities for manipulating minute-scale processes, designing new materials and accurately measuring their performance; new generation of nanomaterials is already taking commercial root; graphs of venture capital for industry and comparing number of small and large companies in industry; photo (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>It may take sophisticated microscopes to see nanotechnology's products, but the money pouring into the field is hard to miss.</p>
+        <p>The industry gained new visibility on Dec. 3 when President Bush signed a law authorizing federal research and development subsidies of $3.7 billion over the four years, beginning next October. The Oval Office photo opportunity for nanotechnology, coincidentally, came the same day that Nanogen, one of a handful of publicly traded start-ups, disclosed that it had received a patent for a nanoscale manufacturing method that it said could be used to make advanced microchips and flat-panel displays. Nanogen's stock more than doubled that day, leading the sector higher.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>It may take sophisticated microscopes to see nanotechnologys products, but the money pouring into the field is hard to miss.</p>
+      </block>
+      <block class="full_text">
+        <p>It may take sophisticated microscopes to see nanotechnology's products, but the money pouring into the field is hard to miss.</p>
+        <p>The industry gained new visibility on Dec. 3 when President Bush signed a law authorizing federal research and development subsidies of $3.7 billion over the four years, beginning next October. The Oval Office photo opportunity for nanotechnology, coincidentally, came the same day that Nanogen, one of a handful of publicly traded start-ups, disclosed that it had received a patent for a nanoscale manufacturing method that it said could be used to make advanced microchips and flat-panel displays. Nanogen's stock more than doubled that day, leading the sector higher.</p>
+        <p>Entrepreneurs say that the nanotechnology investment climate is warming up just in time to meet their growing capacity to put investors' money to work expanding research and bringing innovations to market.</p>
+        <p>''We are really close to the takeoff point where the industry could absorb a lot of money,'' said David Ludvigson, chief financial officer of Nanogen, a 10-year-old developer of tools for genetic testing that is one of the few nanotech start-ups to go public before the bursting Internet bubble soured investors on technology stocks.</p>
+        <p>Nanotechnology draws its name from the nanometer, which is a billionth of a meter, or 100,000 times as thin as a human hair. Individual molecules, tiny organisms like viruses and the smallest features of products like microchips operate in a nanoscale landscape.</p>
+        <p>Many industries used nanoscale products and processes decades before the term nanotechnolgy became a recognized concept on Wall Street. In the 1930's, for example, Kodak figured out how to insert a layer of nanoscale silver particles in its film to filter light. But nanotechnology did not catch the fancy of investors until the 1990's, when ingenious new software and computer-controlled tools expanded the possibilities for manipulating small-scale processes, designing new materials and accurately measuring their performance.</p>
+        <p>The new generation of nanomaterials is already taking commercial root. Nanoscale clay particles strengthen car bodies. Coatings made with aluminum-titanium nanoparticles add to the durability of boiler components and submarine periscopes for the Navy. Carbon nanotubes add stiffness to Babolat tennis rackets. And pants are being made with techniques that alter the structure of cotton to create nanoscale whiskers that make the fabric more stain resistant.</p>
+        <p>Analysts say that such developments are simply a hint of what is to come in nanotechnology, which the National Science Foundation predicts will contribute $1 trillion a year to the United States economy by 2015.</p>
+        <p>Such forecasts matter to policymakers, but pioneers with products to sell are focusing on the immediate challenges of building their businesses.</p>
+        <p>''The timing is good for taking our company to the next level,'' said Dr. David Reisner, chief executive of Inframat, a privately held company in Farmington, Conn., that uses nanomaterials in producing specialty coatings. After six years of existing primarily on research grants from the Defense Department, Inframat expects to raise $6 million to $8 million next year from venture capitalists or large private-sector customers to expand operations.</p>
+        <p>Dr. Reisner was one of numerous executives at NanoCommerce, a trade show in Chicago earlier this month, who said they planned to seek new investments in the coming months, in some cases tens of millions of dollars.</p>
+        <p>Integrated Nano-Technologies, based in Henrietta, N.Y., might pursue as much as $30 million from venture capitalists next year, said Stephen S. Nazarian, the company's spokesman. Integrated has developed prototypes of a portable system that quickly identifies biological agents like anthrax when they bind to fragments of DNA it mounts on a microchip. But Mr. Nazarian said that the company, which has relied so far on individual investors, thinks that potential business partners might be a better bet than venture capitalists to finance the next stage of its expansion.</p>
+        <p>''We have had a lot of unsolicited interest from Asian governments and potential distributors of products using the technology,'' Mr. Nazarian said.</p>
+        <p>Others at the Chicago show, like Lewis Gruber, president and chief executive of Arryx, which has developed a tool for manipulating individual cells and even smaller particles with light beams, said they were barred by securities regulations from commenting on their plans -- generally a sign that they have started to raise money.</p>
+        <p>Kleiner Perkins Caufield &amp; Byers, the influential Silicon Valley investment firm that has generally steered clear of nanotechnology, is also reticent. According to some reports, Kleiner has joined a round of financing that ZettaCore, a four-year-old start-up based in Denver, is expected to announce in January. ZettaCore is developing a nanoscale computer memory, which is based on switching the electrical charge on a molecule the company has designed.</p>
+        <p>Kleiner and ZettaCore declined to comment on the reports. Vinod Khosla, a general partner at Kleiner, said that the sector was ''overheated'' and attracting too much venture capital. But, he added, Kleiner expects to play a part in it.</p>
+        <p>Analysts say it is impossible to sort out how much of the improving climate reflects the general upturn in the economy and the brightening picture for nearly all technology stocks. But at least some of the optimism is based on developments within the nanotechnology sector itself, like the bill signed by President Bush. ''No screaming headlines greeted this event, but astute investors will recognize a buy signal,'' Josh Wolfe, a co-founder of Lux Capital, a venture capital and technology consulting firm in New York, wrote in an e-mail message to subscribers of his nanotechnology newsletter.</p>
+        <p>Mr. Wolfe said last week that investors should remember that most nanotechnology companies would not be chosen to receive federal financing. He also predicted that the nanotechnology boom would lead to the creation of many companies that will be unable to attract investors. But, he added, the pool of players will not approach the proportions of the Internet boom, because an entrepreneur needs more expertise and money to get started in nanotechnology. ''This time around,'' he said, ''we're not talking about something that could be done by two guys and a dog in a garage.''</p>
+        <p>It might be just as hard, though, for investors to strike it rich in nanotechnology as it was in the dot-com gold rush. Some of nanotechnology's most promising concepts, like computers that replace silicon transistors with single molecules, are at least a generation away from market. And for all the spectacular properties of new materials like carbon nanotubes, which are many times stronger than steel, no one has yet demonstrated how to make money from them. Many experts predict large multinationals will come to dominate markets for most nanoproducts long before investors in startups can get rich in a public offering.</p>
+        <p>Fear that the technology is being oversold has also slowed investment, some analysts say. So has uncertainty about potential environmental hazards -- fears that have been stoked by many of the same critics who have battled the spread of agricultural biotechnology.</p>
+        <p>One sign that the sector is still mainly in the developmental stage is that one of the most anticipated public offerings next year is expected to come from Nanosys, which despite raising $39 million last June from a group of major venture capital firms does not expect to have its first commercial product before 2006. Based in Palo Alto, Calif., Nanosys is building a broad patent portfolio of related to nanoscale wires, rods and dots that could be used in products as diverse as solar cells, biosensors, and computers. Like many dot-coms, much of its credibility derives from its executive team, a group of longtime entrepreneurs who have taken other technology companies public or sold them to larger companies.</p>
+        <p>''The I.P.O. window will be opening, but there may not be a raft of nanocompanies ready to go,'' said Steve Jurvetson, a partner in Draper Fisher Jurvetson, a Silicon Valley venture fund that has been the leading investor in early-stage venture capital nanotechnology companies. ''There are still more entrepreneurs who want to raise money than investors.''</p>
+        <p>Still, Mr. Jurvetson said, valuations are clearly rising for many private nanotechnology companies. One start-up his firm has decided to back recently received five competing financing proposals, he said.</p>
+        <p>Other signs of the times include follow-on offerings, like the one filed with the Securities and Exchange Commission by Harris &amp; Harris, an investment firm with holdings in several nanotechnology companies, which is seeking to sell two million new shares. The company's shares, which trade on the Nasdaq, have more than tripled this year, closing 4.1 percent higher at $8.65 on Friday. The stock trades under the ticker symbol TINY.</p>
+        <p>Correction:  December 25, 2003, Thursday  An article in Business Day on Monday about increasing investment in nanotechnology referred incorrectly to Lux Capital, whose co-founder commented on the trend. It is a venture capital firm that advises investors; it does not also offer technology consulting services.</p>
+      </block>
+      <block class="correction_text">
+        <p>Correction: December 25, 2003, Thursday</p>
+        <p>An article in Business Day on Monday about increasing investment in nanotechnology referred incorrectly to Lux Capital, whose co-founder commented on the trend. It is a venture capital firm that advises investors; it does not also offer technology consulting services.</p>
+        <p>&lt;br&gt;</p>
+        <p>&lt;br&gt;</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

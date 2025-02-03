@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Economic Pulse: California; California, Struggling in Slump, Faces High Hurdles to Recovery</title>
+    <meta content="21" name="publication_day_of_month"/>
+    <meta content="12" name="publication_month"/>
+    <meta content="1992" name="publication_year"/>
+    <meta content="Monday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Front Page; Health; Education; U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="578051"/>
+      <doc.copyright holder="The New York Times" year="1992"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">SURVEYS AND SERIES</classifier>
+        <classifier class="indexing_service" type="descriptor">ECONOMIC CONDITIONS AND TRENDS</classifier>
+        <classifier class="indexing_service" type="descriptor">RELOCATION OF BUSINESS</classifier>
+        <classifier class="indexing_service" type="descriptor">UNEMPLOYMENT AND JOB MARKET</classifier>
+        <classifier class="indexing_service" type="descriptor">WATER</classifier>
+        <classifier class="indexing_service" type="descriptor">ROADS AND TRAFFIC</classifier>
+        <classifier class="indexing_service" type="descriptor">CRIME AND CRIMINALS</classifier>
+        <classifier class="indexing_service" type="descriptor">EDUCATION AND SCHOOLS</classifier>
+        <classifier class="indexing_service" type="descriptor">HEALTH INSURANCE</classifier>
+        <classifier class="indexing_service" type="descriptor">WASTE MATERIALS AND DISPOSAL</classifier>
+        <classifier class="indexing_service" type="descriptor">HOUSING</classifier>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <location class="indexing_service">CALIFORNIA</location>
+        <person class="indexing_service">REINHOLD, ROBERT</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./West</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Real Estate/Locations/Regions/Western States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Education</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Health/Diseases, Conditions, and Health Topics/Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Banking, Finance and Insurance</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/California</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/Front Page</classifier>
+        <classifier class="online_producer" type="general_descriptor">Surveys and Series</classifier>
+        <classifier class="online_producer" type="general_descriptor">Relocation of Business</classifier>
+        <classifier class="online_producer" type="general_descriptor">Water</classifier>
+        <classifier class="online_producer" type="general_descriptor">Health Insurance and Managed Care</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Economic Conditions and Trends</classifier>
+        <classifier class="online_producer" type="general_descriptor">Unemployment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Roads and Traffic</classifier>
+        <classifier class="online_producer" type="general_descriptor">Crime and Criminals</classifier>
+        <classifier class="online_producer" type="general_descriptor">Insurance</classifier>
+        <classifier class="online_producer" type="general_descriptor">Waste Materials and Disposal</classifier>
+        <classifier class="online_producer" type="general_descriptor">Housing</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+        <classifier class="online_producer" type="general_descriptor">Education and Schools</classifier>
+        <classifier class="online_producer" type="general_descriptor">Labor</classifier>
+        <classifier class="online_producer" type="general_descriptor">Finances</classifier>
+        <classifier class="online_producer" type="general_descriptor">Medicine and Health</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19921221T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9E0CE7D7163FF932A15751C1A964958260" item-length="3059" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Economic Pulse: California; California, Struggling in Slump, Faces High Hurdles to Recovery</hl1>
+      </hedline>
+      <byline class="print_byline">By ROBERT REINHOLD,</byline>
+      <byline class="normalized_byline">REINHOLD, ROBERT</byline>
+      <dateline>SAN DIEGO</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Economists say salvation for California's staggering economy lies in small entrepreneurial companies like the Invitrogen Corporation here. A maker of gene-isolation kits and other products for biomedical research, it has shrugged off recession, expanding from 20 employees in 1989 to 105 today in a 30,000 square-foot plant amid tall pines in the La Jolla area.</p>
+        <p>But now that Invitrogen stands ready to expand even further, its brash young leaders may move all or part of the company to Oregon or Washington State. And therein lies the major question facing once-booming California -- home for one in eight Americans -- as it struggles through its longest economic slump since World War II: Is it too late to recapture the spirit that made California golden and prevent even the few bright spots like San Diego's thriving biotechnology industry from going dim too?</p>
+      </block>
+      <block class="full_text">
+        <p>Economists say salvation for California's staggering economy lies in small entrepreneurial companies like the Invitrogen Corporation here. A maker of gene-isolation kits and other products for biomedical research, it has shrugged off recession, expanding from 20 employees in 1989 to 105 today in a 30,000 square-foot plant amid tall pines in the La Jolla area.</p>
+        <p>But now that Invitrogen stands ready to expand even further, its brash young leaders may move all or part of the company to Oregon or Washington State. And therein lies the major question facing once-booming California -- home for one in eight Americans -- as it struggles through its longest economic slump since World War II: Is it too late to recapture the spirit that made California golden and prevent even the few bright spots like San Diego's thriving biotechnology industry from going dim too?</p>
+        <p>Much as they love San Diego, with its splendid climate and proximity to top medical research units like the Salk Institute and the Scripps Research Institute, Invitrogen's owners say manufacturing has become almost prohibitive in California. They cite uncertain water supplies, strict car-pooling rules, growing crime, poor schools and the high costs of workers compensation and health insurance, waste disposal, taxes, housing and legal fees.</p>
+        <p>It is so expensive to dispose of radioactive waste here that the company has a scientist with a Ph.D. sort the garbage daily. A Costly Life Style</p>
+        <p>"The problem with Southern California as we move from the research phase to manufacturing is that the cost of the life style here is prohibitive to the people we need to hire," said Lyle C. Turner of Invitrogen, who, with shoulder-length blond hair over a tennis shirt, hardly looks like the president of a company with $8 million in annual sales.</p>
+        <p>As national economic signs, holiday retail sales and new jobs point to recovery in most of the rest of the country, California finds itself in the odd company of New York and New England -- excluded from recovery, with little hope of improvement for at least a year. Indeed, even as the national unemployment rate dropped to 7.2 percent in November, California's rose, from 9.8 to 10.1 percent, for the highest rate of any industrial state.</p>
+        <p>In all, California has lost 808,000 jobs in the last 29 months, many of them high-paying aerospace and military-related ones, according to the California Department of Finance -- and this when it would take a quarter of a million new jobs a year just to keep employment even. The state has lost about 25 percent of its aerospace-manufacturing and construction jobs, with the heaviest losses in Southern California. Forecasts are that employment in the aerospace and electronics industries will drop by an additional 8 percent or 10 percent during 1993.</p>
+        <p>California smugness has turned into alarm, prompting a rare degree of cooperation between business and government to try to create new industries, like electric vehicles, to replace the declining military industry.</p>
+        <p>The Speaker of the State Assembly, Willie L. Brown Jr. of San Francisco, recently called for an economic conference of the state's business, political and academic leaders. Aides to Gov. Pete Wilson say the economy has become his chief priority, not least because he faces another $7.5 billion budget shortfall over the next 18 months.</p>
+        <p>"This is clearly one of the pivotal times in California's economic history," said Lee A. Grissom, senior economic adviser to Governor Wilson, a Republican. "I have traveled all around the state in the last few weeks. There are economic summits all over. They all ask the same thing: What can we do locally to keep things from getting worse?" Problems  Flaws Masked By Prosperity</p>
+        <p>There are no ready answers. For California is struggling to overcome deep-seated problems that were masked by years of healthy economic growth, problems of deteriorating schools and roads and, at least in the opinion of many businessmen, environmental and other regulations that are oppressive. A kind of economic vertigo has set in whereby the forces that drove the California boom in the last decade, like its sizzling real estate market and immigration, have turned into negative factors.</p>
+        <p>"The California economy was like a beautiful house being undermined by termites," said Raymond Brady, research director at the Association of Bay Area Governments in San Francisco, "When an earthquake came, it began to collapse around us, and we couldn't figure out why."</p>
+        <p>Efforts to improve the economic climate have begun. For example, the San Diego City Council, in rare unanimity, recently approved an economic development package cutting the time needed to acquire permits for new and expanding businesses. In the troubled Los Angeles area, a venture called Calstart has been mounted to achieve the "conversion" from military to peacetime industry, so far an elusive notion. With the help of public agencies and major private companies, it is trying to create an electric-vehicle industry in Southern California to replace bomber manufacturing.</p>
+        <p>To the north, in the fiercely competitive cauldron of computer innovation known as Silicon Valley south of San Francisco, many companies have put aside their rivalries and antipathy to government to take part in "Joint Venture: Silicon Valley," a project to rescue the area from a decline in its international competitiveness.</p>
+        <p>The picture is complicated because it is uneven. Never having boomed during the 1980's like Los Angeles, the San Francisco Bay Area has weathered the recession better than more populous Southern California and appears better poised for recovery. Also, the agricultural Central Valley has fared comparatively well, except for the state capital of Sacramento, hit by salary reductions for state employees.</p>
+        <p>Hardest hit is the Los Angeles area, stunned by the combined forces of military cutbacks, a decline in Japanese investments, a downtown office vacancy rate of nearly 30 percent, the recent civil disorders and last June's earthquake in the desert. Bad times have washed over into the outer reaches of Los Angeles's economic orbit, into Orange County, the "inland empire" areas of Riverside and San Bernardino counties, and down to San Diego. Southern California has suffered 80 percent of the state's job losses. All of this has caused falling real estate values and therefore grave troubles for California banks. Prospects  Some Envision National Recovery</p>
+        <p>The election of Bill Clinton, who won California overwhelmingly, has stirred a measure of hope. His focus on promoting American technological prowess and emphasis on environmental technology plays to California's strengths, though his promise to cut military spending even further is ominous.</p>
+        <p>Some economists, particularly Stephen Levy and Robert K. Arnold of the Center for Continuing Study of the California Economy in Palo Alto, maintain that California's troubles are mainly tied to the national recession and military cuts rather than underlying flaws in California. They argue that a "vigorous" national recovery of 5 percent growth stimulated by the new President would bring full employment to California by the end of 1994.</p>
+        <p>But few other economists or executives are so optimistic. David Hensley, director of the Business Forecasting Project at the University of California at Los Angeles, sees continuing decline in California at least until next fall, and only "small growth" after that.</p>
+        <p>The president of the California Business Roundtable, Robert E. Wycoff, expects only a "modestly improved" state economy after two years. "And that's on the optimistic side," said Mr. Wycoff, who is president and chief operating officer of Los Angeles-based Arco. "Most see a long period of flatness of several years."</p>
+        <p>The San Francisco-based Roundtable, a nonpartisan group of top officers of major companies, recently issued a survey that found that executives and voters favored substantial reforms in the state's health insurance and workers' compensation rules.</p>
+        <p>The signs of troubles are obvious, in the acres of vacant office space in downtown Los Angeles, in the collapse of famed Los Angeles restaurants like L'Ermitage and Trumps, in the long rows of vacant storefronts in Hollywood and even Beverly Hills, in the ill fortune of people like Keta and Tom Nelson of Los Angeles. Ms. Nelson was recently laid off from her job as a bank clerk, her husband from his job as a service-station cashier, and they are preparing to leave for sunnier economic climes. "I don't think it's going to get any better," Ms. Nelson said. "Look around here and see how many people are out of work."</p>
+        <p>At the landmark Yamashiro Restaurant overlooking Hollywood, the owner, Thomas Y. Glover, says that business in November was down 30 percent from last November and that he was "doing very well" compared with other restaurants.</p>
+        <p>Even worse is construction. "You hear that employment is picking up, but our out-of-work lists are so long that you've got to lie down to read them," said Bill Perry of the United Brotherhood of Carpenters and Joiners of America, which represents about 45,000 carpenters in Southern California.</p>
+        <p>At a restaurant under construction on Melrose Avenue in West Hollywood, two men building a wooden floor said that they had resorted to buying old blue jeans and cowboy boots at garage sales and thrift stores and selling them to Japanese buyers in swap meets for five times the price. "Without my family's help, I'd be homeless," said one of them, Csaba Buzy, 25, laid off from his job as a Mercedes-Benz mechanic four months ago. Bright Spots  Some Industries Are Growing</p>
+        <p>But some light is emerging from all this darkness. Certain industries, like apparel design and manufacture, environmental services, foreign trade, motion picture and television production and health care have seen growth this year, much of it fueled by ambitious immigrants like Li-San Hwang, a Chinese civil engineer who is president of Tetra Tech of Pasadena. The company, which employs nearly 600 people and specializes in environmental cleanup of nuclear-weapons testing and production sites for the Government, grew by 30 percent this year and expects similar growth next year.</p>
+        <p>But economists say none of this will soon replace the hundreds of thousands of highly skilled engineering and technical jobs lost in the aerospace collapse.</p>
+        <p>To that end, though, an unusual effort has been mounted in an old plant where the Lockheed Corporation once assembled airplanes near Burbank Airport. Symbolically, the hangar has been converted into a laboratory for the emerging electric-vehicle industry led by Calstart, a nonprofit consortium of more than 40 companies and government agencies that hopes to gain $19.8 million in Federal and state grants over the next two years.</p>
+        <p>Calstart is premised on the notion that worldwide environmental demands for cleaner vehicles makes the Los Angeles area ideal to supply the parts and technology for such vehicles, using the idled expertise of aircraft and missile engineers. "We are taking what have been perceived as problems -- air pollution and the area's downturn -- and turning them into a competitive advantage," said Calstart's president, Michael J. Gage, a former deputy mayor of Los Angeles.</p>
+        <p>Calstart recently rolled out a prototype electric vehicle and is working on creating the framework for cleaner transportation, including building a network of charging stations, training mechanics and testing electric buses. The participants include all of California's major electric utilities and such companies as General Motors, Intel, I.B.M. and numerous small outfits making batteries, sensors and other components.</p>
+        <p>Nearly 400 miles to the north, another engine of California prosperity, the computer and semiconductor industry, remains relatively healthy compared to the slumping military production areas in Southern California. But even as demand for semiconductors and other products increases, high tech employment in the area has fallen by 42,000 jobs since 1987, partly because of higher productivity, partly because major companies like the Advanced Micro Devices Corporation of Sunnyvale, have placed their new chip-making plants in less expensive areas like Austin, Tex.</p>
+        <p>"We are creating manufacturing jobs for other regions," said Thomas C. Hayes, manager of corporate relations for Applied Materials of Santa Clara who is chairman of Joint Venture: Silicon Valley. It has taken advantage of hard times to bring together the valley's go-it-alone entrepreneurs who previously would have little to do with each other but who are now worried about what Mr. Hayes calls "this weird phenomenon of jobless economic growth."</p>
+        <p>With $1 million in seed money from the valley's corporate giants, Joint Venture has enlisted about 1,000 business executives and local government officials to hammer out solutions to the region's problems. "We are using a downturn like this to get things together that we could not have done in a go-go period," Mr. Hayes said. "These are maverick entrepreneurs, Somali warlords. Half did not know where City Hall was; now they do." The group is working on problems like traffic gridlock, housing and education problems.</p>
+        <p>Silicon Valley suffers not only from recession but also from dramatic changes in technological industries, said Douglas C. Henton, assistant director of the Center for Economic Competitiveness at SRI International, a Menlo Park research company engaged by Joint Venture. Companies are turning to machinery to raise productivity and buying components and business services elsewhere, often from distant locations in other states and foreign countries. Hence the seeming contradiction of higher sales and fewer jobs.</p>
+        <p>Mr. Henton said Silicon Valley was well poised to take advantage of the high-tech growth industries of the future, expected to be software development, bioscience, environmental technology and the application of digital technology to products like flat tubeless televisions.</p>
+        <p>"But we need to create a 21st-century infrastructure for that," he said, "the technical base, the work force, the regulatory environment." Joint Venture is exploring the possibility of wiring the entire valley with optic communications to ease connections between companies. "People are worrying now about the competitiveness of the region, not just their own firms," he said. San Diego  Trying to Keep What It Has</p>
+        <p>1</p>
+        <p>Similar issues have begun to grip San Diego, with the fourth-largest concentration of biotechnology companies in the country. The 120 or so companies, mostly clustered in the Torrey Pines area near the University of California at San Diego, are one of the few sources of growth in an otherwise sagging local economy. Many are on the cutting edge of biomedical research, said Bryna W. Kranzler, associate director of Connect, a program set up by the university to ease contacts among the companies, government and research institutions.</p>
+        <p>But as they prepare to expand, to make money instead of burning it, she said these companies were looking elsewhere. "The C.E.O.'s enjoy the quality of life in San Diego, and the intellectual life," Ms. Kranzler said, but not the high housing costs and rents, water shortages, waste-disposal problems and insurance.</p>
+        <p>Consequently, other states have tried to lure away San Diego companies. One target is the Alliance Pharmaceutical Corporation, which is awaiting Federal approval to start production on its blood substitute for surgery, expecting to add 75 to 100 employees and 80,000 square feet of space. Company officials have been looking at sites in North Carolina, Texas, South Dakota and New York State. The company's executive vice president, Theodore D. Roth, said that he had not ruled out keeping production in San Diego but that he was dubious, considering the drought and other impediments.</p>
+        <p>"We are very dependent on water; our product is half water," he said, adding that insurance costs were 10 percent to 15 percent higher here than in other states and that the "general business climate" was often hostile. "There was always a perception in San Diego that people would come because it was California, that the weather and the Golden State were enough, that they did not have to try to attract business."</p>
+        <p>Responding to such complaints, the Mayor-elect of San Diego, Susan Golding, recently signaled her intention of keeping biotechnology companies by saying she favored financing manufacturing plants with the city's ability to issue bonds and giving guarantees of water to those companies in case of prolonged drought. Entrepreneurs  Hoping to Nurture Creative Spirits</p>
+        <p>Invitrogen, the research-kit maker, is the kind of company that has long flourished in the California entrepreneurial hothouse. It was started just five years ago by three friends, who furnished the first office in San Diego with carpet fished out of a disposal bin. Now they are doing $8 million annually in sales, projecting $60 million by 2000 -- and worrying about numbing matters like workers' compensation premiums and housing costs for new employees.</p>
+        <p>"Scientists take a significant hit in standard of living when they move here from the Midwest," said one of the founders, Joseph M. Fernandez. He added that the company was also having difficulty complying with car-pooling rules, in that scientists often worked odd hours and that the company had no regular shifts.</p>
+        <p>Still, Invitrogen is divided internally on whether to leave California. The production people want to move to Oregon or Washington State, while the researchers prefer to stay close to San Diego's biomedical nucleus. "From the research point of view, one of my major concerns is whether we can sustain the intellectual energy," said Invitrogen's research director, Malcolm J. P. Finlayson.</p>
+        <p>Some economists, like Mr. Arnold, argue that California can prosper even if manufacturing goes elsewhere, as long as companies like Invitrogen keep their research and administrative functions in the state. That view is not shared by Governor Wilson and his advisers, who have proposed a long list of reforms to change what Mr. Grissom, his economic adviser, calls "the whole arrogance California had manifested toward business."</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

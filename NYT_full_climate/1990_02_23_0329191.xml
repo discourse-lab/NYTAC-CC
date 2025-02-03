@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Topics of The Times;   Mock Spring, Gentle Winter</title>
+    <meta content="23" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="1990" name="publication_year"/>
+    <meta content="Friday" name="publication_day_of_week"/>
+    <meta content="Editorial Desk" name="dsk"/>
+    <meta content="30" name="print_page_number"/>
+    <meta content="A" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="Opinion" name="online_sections"/>
+    <docdata>
+      <doc-id id-string="329191"/>
+      <doc.copyright holder="The New York Times" year="1990"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">WEATHER</classifier>
+        <classifier class="indexing_service" type="descriptor">EDITORIALS</classifier>
+        <classifier class="online_producer" type="types_of_material">Editorial</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Opinion/Opinion/Editorials</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19900223T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CE1DF1E3CF930A15751C0A966958260" item-length="201" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Topics of The Times;   Mock Spring, Gentle Winter</hl1>
+      </hedline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Spring of a sort has burst into the Bronx. Under the glass roofs of the Enid Haupt Conservatory at the Botanical Gardens, clumps of crimson tulips sway in the indoor breezes, stiff hyacinths give off their soft perfumes and golden narcissus hang over a little pond looking down - as the first Narcissus did - at their own reflections in the water.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Spring of a sort has burst into the Bronx. Under the glass roofs of the Enid Haupt Conservatory at the Botanical Gardens, clumps of crimson tulips sway in the indoor breezes, stiff hyacinths give off their soft perfumes and golden narcissus hang over a little pond looking down - as the first Narcissus did - at their own reflections in the water.</p>
+        <p>Spring of a sort has burst into the Bronx. Under the glass roofs of the Enid Haupt Conservatory at the Botanical Gardens, clumps of crimson tulips sway in the indoor breezes, stiff hyacinths give off their soft perfumes and golden narcissus hang over a little pond looking down - as the first Narcissus did - at their own reflections in the water.</p>
+        <p>All this, of course, is just the illusion of spring, conjured up by the conservatory's gardeners. Still, make-believe has been the name of the game among the seasons lately, what with fall masquerading either as midsummer or midwinter and midwinter masking itself as April.</p>
+        <p>But just outside the greenhouse, real winter is waiting - in a surprisingly gentle aspect. There, on a chilly afternoon, a shrub called wintersweet stands in full blossom, its purplish flowers giving off the scent of old-fashioned gardens. Down a path, a faint sharp fragrance falls from yellow flowers that run along the branches of witchhazel and benzoin.</p>
+        <p>These are not bits of misplaced spring but winter's own flowers. They operate strictly by the calendar. Come mid-February they open their buds and, whatever the weather, carry winter on its last run into the new season.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

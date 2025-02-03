@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>After a Day of Powdery Play, The City Faces Slushy Reality</title>
+    <meta content="19SNOW$05" name="slug"/>
+    <meta content="19" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2003" name="publication_year"/>
+    <meta content="Wednesday" name="publication_day_of_week"/>
+    <meta content="Metropolitan Desk" name="dsk"/>
+    <meta content="1" name="print_page_number"/>
+    <meta content="B" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="New York and Region" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2003/02/19/nyregion/19SNOW.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1466113"/>
+      <doc.copyright holder="The New York Times" year="2003"/>
+      <series series.name="STORM IN THE NORTHEAST: THE OVERVIEW"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Weather</classifier>
+        <classifier class="indexing_service" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="indexing_service" type="descriptor">Railroads</classifier>
+        <classifier class="indexing_service" type="descriptor">Delays (Transportation)</classifier>
+        <location class="indexing_service">New York City</location>
+        <location class="indexing_service">New York City Metropolitan Area</location>
+        <person class="indexing_service">Barron, James</person>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./U.S. States, Territories and Possessions/New York</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S./Mid-Atlantic</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/New York and Region</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Classifieds/Job Market/Job Categories/Manufacturing, Operations and Logistics</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Travel/Guides/Destinations/North America/United States/New York/New York City</classifier>
+        <classifier class="online_producer" type="descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Delays (Transportation)</classifier>
+        <classifier class="online_producer" type="general_descriptor">Snow and Snowstorms</classifier>
+        <classifier class="online_producer" type="general_descriptor">Railroads</classifier>
+        <classifier class="online_producer" type="general_descriptor">Weather</classifier>
+        <classifier class="online_producer" type="general_descriptor">Transportation</classifier>
+        <location class="online_producer">New York City</location>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20030219T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C07E6DD173DF93AA25751C0A9659C8B63" item-length="1348" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>After a Day of Powdery Play, The City Faces Slushy Reality</hl1>
+        <hl2 class="online_headline">After a Day of Powdery Play, the City Faces Slushy Reality</hl2>
+      </hedline>
+      <byline class="print_byline">By JAMES BARRON</byline>
+      <byline class="normalized_byline">Barron, James</byline>
+      <abstract>
+        <p>New York region struggles through first regular workday after blizzard; thousands of rail commuters are delayed because fewer trains than ususual are run in order to keep engines from straining and breaking down; snowplows build ever-taller walls of snow, blocking driveways that had already been shoveled; photos (M)</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>Monday was like a dress rehearsal, a holiday when millions of people could spend hours conquering snowdrifts or trying out shovels and snowblowers or humming the Sammy Cahn lyric (music by Jule Styne), Let it snow, let it snow, let it snow. On a no-pressure day, no problem.</p>
+        <p>But that was Monday. Yesterday was when the biggest blizzard in seven years came face to face with a regular workday and got, at best, mixed reviews.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>On Tuesday, the biggest blizzard in seven years came face to face with a regular workday and got, at best, mixed reviews.</p>
+      </block>
+      <block class="full_text">
+        <p>Monday was like a dress rehearsal, a holiday when millions of people could spend hours conquering snowdrifts or trying out shovels and snowblowers or humming the Sammy Cahn lyric (music by Jule Styne), Let it snow, let it snow, let it snow. On a no-pressure day, no problem.</p>
+        <p>But that was Monday. Yesterday was when the biggest blizzard in seven years came face to face with a regular workday and got, at best, mixed reviews.</p>
+        <p>The snowdrifts that looked so appealing on Monday became obstacles on the way to subway stations that were crowded because the trains were late. And despite efforts to clear the tracks, the commuter railroads in the New York region ran fewer trains than usual as officials tried to keep engines from straining and breaking down. Thousands of commuters were delayed.</p>
+        <p>The snowplows were building ever-taller walls of snow, blocking driveways that had already been shoveled. Pedestrians do-si-do'ed to get past one another in the shovel-width walkways that had been carved out. The temperature was just warm enough to create lakes of slush at street corners. And thousands of cars buried in snow remained untouched by owners hoping for a good warm rain.</p>
+        <p>They may not get it. Jeff Warner, a meteorologist with Pennsylvania State University, said that a prediction for rain on Friday was ''not so clear-cut as it once was.'' He said that the storm that is on the way could bring ice or more snow.</p>
+        <p>The one that buried Central Park in 19.8 inches of snow on Monday was nasty, brutish and long; snow was still falling yesterday as Mayor Michael R. Bloomberg stood in front of a snowplow in Brooklyn, and the National Weather Service said there could be flurries in eastern Long Island today.</p>
+        <p>Mr. Bloomberg said that all of the city's primary streets and 92 percent of the secondary streets had been plowed at least once, and the goal was to plow every street by 6 p.m. last night -- all 6,300 miles' worth. ''Most of the streets are very passable,'' he said.</p>
+        <p>Most, but not all. In Queens, many side streets were better suited to sleds than cars, as Robert Smalls, a telephone technician from Jackson Heights, discovered when he headed up an unplowed stretch of 65th Street near the Brooklyn-Queens Expressway.</p>
+        <p>''We learn to live with it, but it's not right,'' he said. ''We pay taxes too.''</p>
+        <p>Monday (and the trace of snow the weather service recorded yesterday) made this the fourth snowiest winter in the last 35 years, and the 26th snowiest in the 133 winters that weather records have been kept for Central Park.</p>
+        <p>And with a total of 26.1 inches, February 2003 has become the fourth-snowiest February on record, only two-tenths of an inch behind No. 3 (February 1926) and three-tenths of an inch behind No. 2 (February 1994). But the Monday storm did not pack the punch of the blizzard of 1978, the winter storm by which all other winter storms have been judged for 25 years.</p>
+        <p>And by midday yesterday, Gov. James E. McGreevey of New Jersey had lifted the state of emergency that had given the police the authority to close roads. Mr. McGreevey said he would ask the Federal Emergency Management Agency for funds to help cover the $13 million spent on clearing roads and cleaning up. The state had budgeted $14 million for snow removal for the winter, and has already spent more than $30 million.</p>
+        <p>The three airports in the New York area -- La Guardia, Kennedy and Newark Liberty -- reopened yesterday. The Port Authority of New York and New Jersey reported delays through the day and said the airlines would need a couple of days to return to normal service.</p>
+        <p>The storm's effects reached far. In Boston, the storm left 27.5 inches of snow, the largest amount in 110 years, and Baltimore-Washington International Airport went 2.5 days without a single arriving flight. On Tuesday, 13 poultry houses in several West Virginia counties collapsed under the snow's weight, killing 325,000 chickens and turkeys.</p>
+        <p>At Philadelphia International Airport, hundreds of passengers have been stranded since Sunday, unable to get hotel rooms and sleeping with blankets and pillows supplied by the airport and dining on 200 boxes of doughnuts donated by Krispy Kreme.</p>
+        <p>Three deaths in New York City were attributed to the storm. The police said that Henry Robinson, 67, of the Bronx died on Monday, apparently of carbon monoxide poisoning, while he was warming up his car on Webster Avenue in the Fordham section. Snow was blocking the tailpipe. A spokeswoman for the medical examiner's office said that an autopsy had been inconclusive and that tests were being done to check the carbon monoxide level in his bloodstream.</p>
+        <p>A woman was found unconscious in a snowdrift in Tynan Street in Staten Island. The woman, identified as Cynthia Durapau, 52, was taken to Staten Island University Hospital, where she died, the police said. An autopsy was inconclusive, and the police said they were waiting for toxicology tests.</p>
+        <p>And a 23-year-old man was found dead yesterday in his car on Claflin Avenue in the Kingsbridge Heights section of the Bronx, the police said. There were no signs of trauma to the body. The police said the man's keys were in his lap and that the car was not running when he was found. The authorities said the death appeared to be as a result of carbon monoxide poisoning. An autopsy is to be performed today.</p>
+        <p>It was the city's sidewalks, not its streets, that were trouble spots yesterday. Some sidewalks were cleared by landlords or business owners who buried fire hydrants and parking meters in castoff snow. And people discovered that a habit they had picked up since the 1996 blizzard -- stopping in the middle of the sidewalk to talk on their cellphones -- blocked the shovel-width pathways that had been carved out.</p>
+        <p>Those doing the carving (or the plowing) said the storm had been a test of endurance -- theirs, or their equipment's.</p>
+        <p>''This storm was easy to plow, just long,'' said Larry Labriola of White Plains, whose 15-plow fleet had been busy since 11 p.m. on Sunday. By yesterday, though, seven of his plows had broken down.</p>
+        <p>Many people took the day off yesterday, and that had those who went to work complaining. ''New Jersey got a holiday,'' said David Seaman, who works for an insurance company in Manhattan. ''They just said the heck with it and went home.'' He said that only about a third of his colleagues made it it to their desks yesterday.</p>
+        <p>STORM IN THE NORTHEAST: THE OVERVIEW</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>

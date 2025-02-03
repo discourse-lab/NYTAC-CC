@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>Enigma Machines</title>
+    <meta content="12marcus" name="slug"/>
+    <meta content="12" name="publication_day_of_month"/>
+    <meta content="2" name="publication_month"/>
+    <meta content="2006" name="publication_year"/>
+    <meta content="Sunday" name="publication_day_of_week"/>
+    <meta content="Book Review Desk" name="dsk"/>
+    <meta content="10" name="print_page_number"/>
+    <meta content="7" name="print_section"/>
+    <meta content="2" name="print_column"/>
+    <meta content="Arts; Books" name="online_sections"/>
+    <meta content="http://www.nytimes.com/2006/02/12/books/review/12marcus.html" name="alternate_url"/>
+    <docdata>
+      <doc-id id-string="1738891"/>
+      <doc.copyright holder="The New York Times" year="2006"/>
+      <series series.name="'Twilight of the Superheroes,' by Deborah Eisenberg"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">Books and Literature</classifier>
+        <classifier class="indexing_service" type="descriptor">Reviews</classifier>
+        <person class="indexing_service">Marcus, Ben</person>
+        <person class="indexing_service">Eisenberg, Deborah</person>
+        <object.title class="indexing_service">Twilight of the Superheroes (Book)</object.title>
+        <classifier class="online_producer" type="types_of_material">Review</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books/Book Reviews</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Arts</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/Features/Books</classifier>
+        <classifier class="online_producer" type="descriptor">Books and Literature</classifier>
+        <classifier class="online_producer" type="general_descriptor">Books and Literature</classifier>
+        <person class="online_producer">Eisenberg, Deborah</person>
+        <object.title class="online_producer">Twilight of the Superheroes (Book)</object.title>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="20060212T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9C0CEFD71F3FF931A25751C0A9609C8B63" item-length="1347" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>Enigma Machines</hl1>
+        <hl2 class="online_headline">Enigma Machines</hl2>
+      </hedline>
+      <byline class="print_byline">By BEN MARCUS</byline>
+      <byline class="normalized_byline">Marcus, Ben</byline>
+      <abstract>
+        <p>Ben Marcus reviews book Twilight of the Superheroes by Deborah Eisenberg; drawing (M)8</p>
+      </abstract>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>TWILIGHT OF THE SUPERHEROES</p>
+        <p>By Deborah Eisenberg.</p>
+        <p>225 pp. Farrar, Straus &amp; Giroux. $23.</p>
+      </block>
+      <block class="online_lead_paragraph">
+        <p>Deborah Eisenberg's short stories leave out just enough information to keep you guessing.</p>
+      </block>
+      <block class="full_text">
+        <p>TWILIGHT OF THE SUPERHEROES</p>
+        <p>By Deborah Eisenberg.</p>
+        <p>225 pp. Farrar, Straus &amp; Giroux. $23.</p>
+        <p>DEBORAH EISENBERG offers commanding proof that in the right hands, the short story can be a legitimate art form, not just a test run for writers warming up to write a novel. Long ago, Eisenberg leaped the hurdles assigned to the short story by turning out fiction novelistic in all but its length. Simply put, there aren't many contemporary novels as shudderingly intimate and mordantly funny as Eisenberg's best stories, and her latest collection, her fifth in 20 years, should finally establish her as one of the most important fiction writers now at work.</p>
+        <p>When summarized, Eisenberg's stories don't seem much different from the wealth of contemporary realist American short fiction that peers into the lives of well-meaning people and turns their secrets into dramatic currency. Anxious siblings trade bitter insults while their grandmother, crippled by a stroke and entrusted to their care, stares at violent images on television. An impulsive young woman marries a man she has just met, only to fall under the increasingly menacing climate of his mood. A sheltered American in Italy, fleeing her ex-husband's bleak medical diagnosis, becomes the charity case of a worldly art dealer who has demons of his own. These are, in other words, sensitive, intelligent people who fail to know themselves in some crucial way and soon become smothered in misery.</p>
+        <p>In terms of sheer rubbernecking spectacle, Eisenberg's stories rival any family train wreck Ingmar Bergman could imagine. But while she homes in on familial dissolution, heartbreak and Olympic-class sorrow, her domestic explosions more closely resemble those of John Cassavetes, since they're also desperately, queasily funny, even if you're not sure if it's O.K. to laugh.</p>
+        <p>What distinguishes Eisenberg from peers like Grace Paley, Joy Williams and William Trevor is an approach to storytelling that can be dizzyingly prismatic, as if refracted through cracked glass. Eisenberg has little faith in the typical expository armatures that prop up dramatic scenes: who is talking and to whom and about what, even though close reading will answer these questions in time. By stripping away quotation marks and the informational fat that might provide obvious explanations, by thrusting readers into the middle of a conversation with characters we have yet to meet properly or playing hot potato with point of view, Eisenberg tests just how much can be left out before a story drowns in enigma.</p>
+        <p>In ''Window,'' for example, Kristina and Alma drink coffee while a toddler plays at their feet. We won't know for several pages that they're estranged sisters, that the child belongs to neither of them, that Kristina has abducted the boy from his father, who is violent and possibly hunting her down. What we see instead is a tense display of two women engaging in small talk. Although we sense how fraught the scene is, it's only when we surge deeper into the story that its real force erupts. This could seem like the studied omission of a minimalist trying to build a three-legged table, but in seemingly rejecting the stage directions and baby-sitting that a more traditional narrative would offer, Eisenberg shores up her scenes with mystery. They are captivating precisely because of what they don't say; injecting them with facts would also bleed them of suspense.</p>
+        <p>It's rare to find a writer as beguilingly abstract as Eisenberg working in the literary tradition of familial angst that the stories of John Cheever defined so vividly. Aloof to the journalistic side of fiction, she's still deeply enjoyable to read -- indeed, ruthlessly acerbic and insightful. Few writers could, for instance, imagine the well-pressed customers at a restaurant in clinical terms that are also oddly lyrical, as Eisenberg does in ''Like It or Not'': ''This aggregation of hairy vertebrates, scrubbed, scented, prancing about on hind legs, was ruthlessly bent on physical gratifications -- tactile, visual, gustatory, genital. . . . The candles! The flowers! A trough providing mass feedings for naked guests would be less pornographic.''</p>
+        <p>And few writers could convey so adroitly the detached self-effacement of a wife like Lulu in ''Revenge of the Dinosaurs'': ''Jeff always used to be (his word) charmed that I wasn't a (his word) sucker for received (his phrase) structures of logic.''</p>
+        <p>If at times Eisenberg seems to examine behavior through a telescope, it's not only a way to avoid the corrosion of rueful sentimentality -- triggering self-pity in a character before a reader's sympathy can ignite -- but a way to reveal the basic vulnerability of being alive. In Eisenberg's hands, civility -- dressing up, going out, masking our feelings -- isn't an advancement upon our animal nature but simply a demonstration of its inevitability. She calibrates her stories so her characters appear to us just when this performance has begun to exhaust them and their bestial origins are harder to mask.</p>
+        <p>Such is the case in the title story, about free-floating Nathaniel, who has the grim misfortune to sublet a penthouse apartment overlooking the site where the 9/11 attacks will soon take place. Nathaniel imagines trying to impress upon his future grandchildren (he isn't even married yet) the keen anxiety he experienced over the Y2K issue, an anxiety that abruptly seemed foolish in retrospect. He's both embarrassed by the strength of his feelings and desperate to communicate them. Later, he mentally ages himself in order to experience his mortality more vividly: ''He was 24 years old! Soon he'd be 28. In a few more minutes he'd be 35, then 50. Five zero. How had that happened? He was 80! He could feel his vascular system and brain clogging with paste, he was drooling.'' If Nathan can start digging his own grave so casually, it's no wonder he can't bear to continue work on his soon-to-be extinct comic strip, ''Passivityman,'' which features a superhero who is barely super at all. One day, Passivityman might get around to doing something important, but when told of Captain Corporation's increasingly malicious hold on the world, he realizes that it won't be today: '' 'Sounds like it's totally too late already,' says Passivityman, reaching for a cigarette.''</p>
+        <p>''Twilight of the Superheroes'' is a curious choice for a title, since Eisenberg seems as likely to write about superheroes as Lorrie Moore would be to script a computer virus. Yet the force-depleted superhero in his drowsy last days is an apt metaphor in Eisenberg's world, where her characters are just coming to realize that no one can save them. (''It always turns out,'' Nathaniel observes, ''that no one is in charge of the things that really matter.'') The dream of the superhero has turned too dreamlike. Even the creator of the superhero no longer believes in his powers.</p>
+        <p>If it's our foolish instinct to long for a world where we're kept safe, where someone might swoop in to protect us, it's the role of a writer as shrewd as Eisenberg to reveal how perilous that desire can be. She suffuses her work with enough disappointment and loss to overwhelm readers looking for sunnier stories. But for those who like to leap past the defenses and see a character's fragile, fearful side -- for those who enjoy their fiction grimly existential, however slippery it might be to pin down -- Eisenberg is as brave a guide as there is.</p>
+        <p>It's sobering, after reading her stories, to return to a life where secrets can be kept and feelings hidden. In some futuristic world, perhaps people will be fitted with devices that can penetrate their defenses, divining and broadcasting their deepest thoughts and fears. Until then, Eisenberg has given us these remarkable stories, machines of perfect revelation deftly constructed by a contemporary master.</p>
+        <p>'Twilight of the Superheroes,' by Deborah Eisenberg Ben Marcus's most recent novel is ''Notable American Women.''</p>
+      </block>
+    </body.content>
+    <body.end>
+      <tagline class="author_info">Ben Marcus's most recent novel is ''Notable American Women.''</tagline>
+    </body.end>
+  </body>
+</nitf>

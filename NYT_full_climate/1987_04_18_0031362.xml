@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nitf SYSTEM "http://www.nitf.org/IPTC/NITF/3.3/specification/dtd/nitf-3-3.dtd">
+<nitf change.date="June 10, 2005" change.time="19:30" version="-//IPTC//DTD NITF 3.3//EN">
+  <head>
+    <title>LEAD POLLUTION DECLINED IN '85</title>
+    <meta content="18" name="publication_day_of_month"/>
+    <meta content="4" name="publication_month"/>
+    <meta content="1987" name="publication_year"/>
+    <meta content="Saturday" name="publication_day_of_week"/>
+    <meta content="National Desk" name="dsk"/>
+    <meta content="13" name="print_page_number"/>
+    <meta content="1" name="print_section"/>
+    <meta content="1" name="print_column"/>
+    <meta content="U.S." name="online_sections"/>
+    <docdata>
+      <doc-id id-string="31362"/>
+      <doc.copyright holder="The New York Times" year="1987"/>
+      <identified-content>
+        <classifier class="indexing_service" type="descriptor">AIR POLLUTION</classifier>
+        <classifier class="indexing_service" type="descriptor">LEAD</classifier>
+        <classifier class="indexing_service" type="descriptor">OIL (PETROLEUM) AND GASOLINE</classifier>
+        <org class="indexing_service">ENVIRONMENTAL PROTECTION AGENCY (EPA)</org>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News/U.S.</classifier>
+        <classifier class="online_producer" type="taxonomic_classifier">Top/News</classifier>
+        <classifier class="online_producer" type="general_descriptor">Environment</classifier>
+        <classifier class="online_producer" type="general_descriptor">Lead</classifier>
+        <classifier class="online_producer" type="general_descriptor">Oil (Petroleum) and Gasoline</classifier>
+        <classifier class="online_producer" type="general_descriptor">Air Pollution</classifier>
+      </identified-content>
+    </docdata>
+    <pubdata date.publication="19870418T000000" ex-ref="http://query.nytimes.com/gst/fullpage.html?res=9B0DE1DA153CF93BA25757C0A961948260" item-length="367" name="The New York Times" unit-of-measure="word"/>
+  </head>
+  <body>
+    <body.head>
+      <hedline>
+        <hl1>LEAD POLLUTION DECLINED IN '85</hl1>
+      </hedline>
+      <byline class="print_byline">AP</byline>
+      <dateline>WASHINGTON, April 17</dateline>
+    </body.head>
+    <body.content>
+      <block class="lead_paragraph">
+        <p>LEAD: Emissions of lead into the atmosphere showed a dramatic reduction in 1985, the Environmental Protection Agency says, while emissions of other principal air pollutants declined modestly.</p>
+      </block>
+      <block class="full_text">
+        <p>LEAD: Emissions of lead into the atmosphere showed a dramatic reduction in 1985, the Environmental Protection Agency says, while emissions of other principal air pollutants declined modestly.</p>
+        <p>Emissions of lead into the atmosphere showed a dramatic reduction in 1985, the Environmental Protection Agency says, while emissions of other principal air pollutants declined modestly.</p>
+        <p>The agency's annual report Tuesday on air pollution showed a 48 percent reduction in lead emissions and a 32 percent drop in airborne concentrations.</p>
+        <p>The drop followed the agency's 91 percent cut in the allowable lead concentration of leaded gasoline from 1.1 gram per gallon to a tenth of a gram per gallon in 1985. By the end of this year all leaded gasoline must meet that standard.</p>
+        <p>Lead emissions into the atmosphere, primarily through motor vehicle exhausts, totaled 162 million tons in 1975, according to estimates derived from the E.P.A.'s computer models. Those emissions fell to 44.2 million tons in 1984 and to 23.2 million tons in 1985. Largest Percentage Decline</p>
+        <p>There were larger tonnage declines for lead in the 1970's but none so large in percentage terms as the 48 percent decline.</p>
+        <p>Nevertheless, nine urban areas still failed to meet the Federal standard for airborne lead concentrations in 1985, a maximum quarterly average of 1.5 micrograms per cubic meter (about 1.5 billionths of an ounce per cubic foot).</p>
+        <p>The reading for the New York City area, which includes parts of New Jersey and Connecticut, was .60 micrograms in 1985, down from .91 in 1984 and .90 in 1983.</p>
+        <p>The highest maximum quarterly averages for 1985 were as follows:</p>
+        <p>Gary, Ind., 12.5 micrograms per cubic meter; St. Louis, 4.61; El Paso, 3.25; Philadelphia, 2.07; Dallas, 2.01; Indianapolis, 1.64; Birmingham, Ala., 1.59; Seattle, 1.55; Allentown, Pa., 1.52.</p>
+        <p>Lead, an octane enhancer in gasoline, is a poison that damages various organs and can cause mental disorders in children. There is some evidence it increases blood pressure in adults.</p>
+        <p>In 1975, cars began using catalytic converters to remove other exhaust pollution. Those cars are prohibited from using leaded gasoline because it disables the converters.</p>
+        <p>The agency said emissions of carbon monoxide declined by 3 percent and the concentrations by 10 percent, and that sulfur dioxide emissions declined by 2.8 percent and concentrations by 5 percent.</p>
+      </block>
+    </body.content>
+  </body>
+</nitf>
