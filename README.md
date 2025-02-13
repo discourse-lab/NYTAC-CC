@@ -2,7 +2,7 @@
 
 ## Overview
 
-NYTAC-CC is a climate change-specific subcorpus extracted from the **New York Times Annotated Corpus (NYTAC)**. It consists of **3,630 XML files**, each representing a full-length news article related to climate change, published between **1987 and 2007**. The corpus was created to facilitate research on climate discourse in traditional news media and supports both **quantitative and qualitative** NLP analyses.
+NYTAC-CC is a climate change-specific subcorpus extracted from the **New York Times Annotated Corpus (NYTAC)**. It consists of **3,630 XML files**, each representing a full-length news article related to climate change, published between **1987 and 2007**. The corpus was created to facilitate research on climate discourse in traditional news media and supports both **quantitative and qualitative** NLP analyses. Due to licensing restrictions, the corpus itself is **not** included in this repository. However, we provide a list of filenames corresponding to the extracted articles.
 
 ## Corpus Description
 
@@ -20,12 +20,11 @@ The NYTAC-CC subcorpus was created using a **hybrid retrieval approach** that co
 2. **Supervised classification**: Using an **XGBoost classifier** trained on manually annotated samples to refine the selection and remove false positives.
 3. **Validation with ClimateBERT**: Assessing corpus relevance with a climate-specific BERT model to ensure high precision and recall.
 
-## Data Structure
+## Data Access
 
-Each XML file contains:
-
-- **Article text**: The full content of a climate change-related news article.
-- **Metadata**: Including publication date, author (if available), section, and topic labels.
+The full corpus is not publicly available due to licensing constraints. However, you can:
+- Find the list of extracted article filenames in file_list.txt.
+- Use the list to retrieve the corresponding articles if you have access to the NYT Annotated Corpus via the Linguistic Data Consortium (LDC).
 
 ## Applications
 
